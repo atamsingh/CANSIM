@@ -1,0 +1,17 @@
+{
+  "name": "@singh/CANSIMVisualizer",
+  "version": "1.0.0",
+  "description": "This is an auto updating ",
+  "author": "Atamjeet Singh, Sahibmeet Singh",
+  "dependencies": {
+    "express": "x",
+    "cheerio": "x",
+    "request": "x",
+    "mongodb" : "x",
+    "http": "x",
+    "sync" : "x",
+    "async" : "x",
+    "unzip" : "x",
+    "hashtable" : "x"
+  }
+}
