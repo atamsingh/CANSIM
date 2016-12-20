@@ -3,5 +3,5 @@ Cansim Data Visualizer
 
 
 #Authors
-Atamjeet Singh
-Sahibmeet Singh
+- Atamjeet Singh
+- Sahibmeet Singh
