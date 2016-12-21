@@ -1,0 +1,91 @@
+Ref_Date,GEO,NAICS,CLIENT,Vector,Coordinate,Value
+2007,Canada,Software publishers,Total sales to all clients,v52013845,1.1.1,100.0
+2008,Canada,Software publishers,Total sales to all clients,v52013845,1.1.1,100.0
+2009,Canada,Software publishers,Total sales to all clients,v52013845,1.1.1,100.0
+2010,Canada,Software publishers,Total sales to all clients,v52013845,1.1.1,100.0
+2011,Canada,Software publishers,Total sales to all clients,v52013845,1.1.1,100.0
+2012,Canada,Software publishers,Total sales to all clients,v52013845,1.1.1,100.0
+2007,Canada,Software publishers,Sales to businesses,v52013846,1.1.2,34.8
+2008,Canada,Software publishers,Sales to businesses,v52013846,1.1.2,42.1
+2009,Canada,Software publishers,Sales to businesses,v52013846,1.1.2,48.3
+2010,Canada,Software publishers,Sales to businesses,v52013846,1.1.2,48.6
+2011,Canada,Software publishers,Sales to businesses,v52013846,1.1.2,51.0
+2012,Canada,Software publishers,Sales to businesses,v52013846,1.1.2,52.2
+2007,Canada,Software publishers,Sales to individuals and households,v52013847,1.1.3,x
+2008,Canada,Software publishers,Sales to individuals and households,v52013847,1.1.3,x
+2009,Canada,Software publishers,Sales to individuals and households,v52013847,1.1.3,x
+2010,Canada,Software publishers,Sales to individuals and households,v52013847,1.1.3,x
+2011,Canada,Software publishers,Sales to individuals and households,v52013847,1.1.3,x
+2012,Canada,Software publishers,Sales to individuals and households,v52013847,1.1.3,x
+2007,Canada,Software publishers,"Sales to governments, not-for-profit organizations and public institutions",v52013848,1.1.4,x
+2008,Canada,Software publishers,"Sales to governments, not-for-profit organizations and public institutions",v52013848,1.1.4,x
+2009,Canada,Software publishers,"Sales to governments, not-for-profit organizations and public institutions",v52013848,1.1.4,x
+2010,Canada,Software publishers,"Sales to governments, not-for-profit organizations and public institutions",v52013848,1.1.4,x
+2011,Canada,Software publishers,"Sales to governments, not-for-profit organizations and public institutions",v52013848,1.1.4,x
+2012,Canada,Software publishers,"Sales to governments, not-for-profit organizations and public institutions",v52013848,1.1.4,x
+2007,Canada,Software publishers,Sales outside Canada (exports),v52013849,1.1.5,59.4
+2008,Canada,Software publishers,Sales outside Canada (exports),v52013849,1.1.5,50.0
+2009,Canada,Software publishers,Sales outside Canada (exports),v52013849,1.1.5,44.1
+2010,Canada,Software publishers,Sales outside Canada (exports),v52013849,1.1.5,43.8
+2011,Canada,Software publishers,Sales outside Canada (exports),v52013849,1.1.5,42.9
+2012,Canada,Software publishers,Sales outside Canada (exports),v52013849,1.1.5,41.0
+2007,Canada,"Data processing, hosting, and related services",Total sales to all clients,v52013850,1.2.1,100.0
+2008,Canada,"Data processing, hosting, and related services",Total sales to all clients,v52013850,1.2.1,100.0
+2009,Canada,"Data processing, hosting, and related services",Total sales to all clients,v52013850,1.2.1,100.0
+2010,Canada,"Data processing, hosting, and related services",Total sales to all clients,v52013850,1.2.1,100.0
+2011,Canada,"Data processing, hosting, and related services",Total sales to all clients,v52013850,1.2.1,100.0
+2012,Canada,"Data processing, hosting, and related services",Total sales to all clients,v52013850,1.2.1,100.0
+2007,Canada,"Data processing, hosting, and related services",Sales to businesses,v52013851,1.2.2,70.2
+2008,Canada,"Data processing, hosting, and related services",Sales to businesses,v52013851,1.2.2,66.9
+2009,Canada,"Data processing, hosting, and related services",Sales to businesses,v52013851,1.2.2,72.1
+2010,Canada,"Data processing, hosting, and related services",Sales to businesses,v52013851,1.2.2,73.5
+2011,Canada,"Data processing, hosting, and related services",Sales to businesses,v52013851,1.2.2,71.9
+2012,Canada,"Data processing, hosting, and related services",Sales to businesses,v52013851,1.2.2,70.0
+2007,Canada,"Data processing, hosting, and related services",Sales to individuals and households,v52013852,1.2.3,F
+2008,Canada,"Data processing, hosting, and related services",Sales to individuals and households,v52013852,1.2.3,F
+2009,Canada,"Data processing, hosting, and related services",Sales to individuals and households,v52013852,1.2.3,F
+2010,Canada,"Data processing, hosting, and related services",Sales to individuals and households,v52013852,1.2.3,F
+2011,Canada,"Data processing, hosting, and related services",Sales to individuals and households,v52013852,1.2.3,F
+2012,Canada,"Data processing, hosting, and related services",Sales to individuals and households,v52013852,1.2.3,F
+2007,Canada,"Data processing, hosting, and related services","Sales to governments, not-for-profit organizations and public institutions",v52013853,1.2.4,F
+2008,Canada,"Data processing, hosting, and related services","Sales to governments, not-for-profit organizations and public institutions",v52013853,1.2.4,F
+2009,Canada,"Data processing, hosting, and related services","Sales to governments, not-for-profit organizations and public institutions",v52013853,1.2.4,F
+2010,Canada,"Data processing, hosting, and related services","Sales to governments, not-for-profit organizations and public institutions",v52013853,1.2.4,F
+2011,Canada,"Data processing, hosting, and related services","Sales to governments, not-for-profit organizations and public institutions",v52013853,1.2.4,F
+2012,Canada,"Data processing, hosting, and related services","Sales to governments, not-for-profit organizations and public institutions",v52013853,1.2.4,F
+2007,Canada,"Data processing, hosting, and related services",Sales outside Canada (exports),v52013854,1.2.5,15.1
+2008,Canada,"Data processing, hosting, and related services",Sales outside Canada (exports),v52013854,1.2.5,17.0
+2009,Canada,"Data processing, hosting, and related services",Sales outside Canada (exports),v52013854,1.2.5,15.9
+2010,Canada,"Data processing, hosting, and related services",Sales outside Canada (exports),v52013854,1.2.5,16.5
+2011,Canada,"Data processing, hosting, and related services",Sales outside Canada (exports),v52013854,1.2.5,18.2
+2012,Canada,"Data processing, hosting, and related services",Sales outside Canada (exports),v52013854,1.2.5,19.8
+2007,Canada,Computer systems design and related services,Total sales to all clients,v52013855,1.3.1,100.0
+2008,Canada,Computer systems design and related services,Total sales to all clients,v52013855,1.3.1,100.0
+2009,Canada,Computer systems design and related services,Total sales to all clients,v52013855,1.3.1,100.0
+2010,Canada,Computer systems design and related services,Total sales to all clients,v52013855,1.3.1,100.0
+2011,Canada,Computer systems design and related services,Total sales to all clients,v52013855,1.3.1,100.0
+2012,Canada,Computer systems design and related services,Total sales to all clients,v52013855,1.3.1,100.0
+2007,Canada,Computer systems design and related services,Sales to businesses,v52013856,1.3.2,61.3
+2008,Canada,Computer systems design and related services,Sales to businesses,v52013856,1.3.2,58.6
+2009,Canada,Computer systems design and related services,Sales to businesses,v52013856,1.3.2,60.1
+2010,Canada,Computer systems design and related services,Sales to businesses,v52013856,1.3.2,60.6
+2011,Canada,Computer systems design and related services,Sales to businesses,v52013856,1.3.2,58.5
+2012,Canada,Computer systems design and related services,Sales to businesses,v52013856,1.3.2,59.3
+2007,Canada,Computer systems design and related services,Sales to individuals and households,v52013857,1.3.3,F
+2008,Canada,Computer systems design and related services,Sales to individuals and households,v52013857,1.3.3,F
+2009,Canada,Computer systems design and related services,Sales to individuals and households,v52013857,1.3.3,F
+2010,Canada,Computer systems design and related services,Sales to individuals and households,v52013857,1.3.3,F
+2011,Canada,Computer systems design and related services,Sales to individuals and households,v52013857,1.3.3,F
+2012,Canada,Computer systems design and related services,Sales to individuals and households,v52013857,1.3.3,F
+2007,Canada,Computer systems design and related services,"Sales to governments, not-for-profit organizations and public institutions",v52013858,1.3.4,F
+2008,Canada,Computer systems design and related services,"Sales to governments, not-for-profit organizations and public institutions",v52013858,1.3.4,F
+2009,Canada,Computer systems design and related services,"Sales to governments, not-for-profit organizations and public institutions",v52013858,1.3.4,F
+2010,Canada,Computer systems design and related services,"Sales to governments, not-for-profit organizations and public institutions",v52013858,1.3.4,F
+2011,Canada,Computer systems design and related services,"Sales to governments, not-for-profit organizations and public institutions",v52013858,1.3.4,F
+2012,Canada,Computer systems design and related services,"Sales to governments, not-for-profit organizations and public institutions",v52013858,1.3.4,F
+2007,Canada,Computer systems design and related services,Sales outside Canada (exports),v52013859,1.3.5,20.2
+2008,Canada,Computer systems design and related services,Sales outside Canada (exports),v52013859,1.3.5,19.5
+2009,Canada,Computer systems design and related services,Sales outside Canada (exports),v52013859,1.3.5,18.0
+2010,Canada,Computer systems design and related services,Sales outside Canada (exports),v52013859,1.3.5,20.3
+2011,Canada,Computer systems design and related services,Sales outside Canada (exports),v52013859,1.3.5,21.0
+2012,Canada,Computer systems design and related services,Sales outside Canada (exports),v52013859,1.3.5,20.7

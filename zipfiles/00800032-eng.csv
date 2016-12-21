@@ -1,0 +1,169 @@
+Ref_Date,GEO,NAICS,MOS,Vector,Coordinate,Value
+2012,Canada,Retail trade,"Total sales (x 1,000)",v101269582,1.1.1,508663115.00000000
+2013,Canada,Retail trade,"Total sales (x 1,000)",v101269582,1.1.1,531659524.00000000
+2014,Canada,Retail trade,"Total sales (x 1,000)",v101269582,1.1.1,557298653.00000000
+2012,Canada,Retail trade,"E-commerce sales (x 1,000)",v101269583,1.1.2,8262855.00000000
+2013,Canada,Retail trade,"E-commerce sales (x 1,000)",v101269583,1.1.2,9766326.00000000
+2014,Canada,Retail trade,"E-commerce sales (x 1,000)",v101269583,1.1.2,12061822.00000000
+2012,Canada,Retail trade,E-commerce as percentage of total sales,v101269584,1.1.3,1.6
+2013,Canada,Retail trade,E-commerce as percentage of total sales,v101269584,1.1.3,1.8
+2014,Canada,Retail trade,E-commerce as percentage of total sales,v101269584,1.1.3,2.2
+2012,Canada,Retail trade,Distribution of E-commerce (percent),v101269585,1.1.4,100.0
+2013,Canada,Retail trade,Distribution of E-commerce (percent),v101269585,1.1.4,100.0
+2014,Canada,Retail trade,Distribution of E-commerce (percent),v101269585,1.1.4,100.0
+2012,Canada,Motor vehicle and parts dealers,"Total sales (x 1,000)",v101269586,1.2.1,111624744.0
+2013,Canada,Motor vehicle and parts dealers,"Total sales (x 1,000)",v101269586,1.2.1,119663141.0
+2014,Canada,Motor vehicle and parts dealers,"Total sales (x 1,000)",v101269586,1.2.1,127627578.0
+2012,Canada,Motor vehicle and parts dealers,"E-commerce sales (x 1,000)",v101269587,1.2.2,2758082.0
+2013,Canada,Motor vehicle and parts dealers,"E-commerce sales (x 1,000)",v101269587,1.2.2,2167230.0
+2014,Canada,Motor vehicle and parts dealers,"E-commerce sales (x 1,000)",v101269587,1.2.2,2250305.0
+2012,Canada,Motor vehicle and parts dealers,E-commerce as percentage of total sales,v101269588,1.2.3,2.5
+2013,Canada,Motor vehicle and parts dealers,E-commerce as percentage of total sales,v101269588,1.2.3,1.8
+2014,Canada,Motor vehicle and parts dealers,E-commerce as percentage of total sales,v101269588,1.2.3,1.8
+2012,Canada,Motor vehicle and parts dealers,Distribution of E-commerce (percent),v101269589,1.2.4,33.4
+2013,Canada,Motor vehicle and parts dealers,Distribution of E-commerce (percent),v101269589,1.2.4,22.2
+2014,Canada,Motor vehicle and parts dealers,Distribution of E-commerce (percent),v101269589,1.2.4,18.7
+2012,Canada,Furniture and home furnishings stores,"Total sales (x 1,000)",v101269590,1.3.1,15673093.0
+2013,Canada,Furniture and home furnishings stores,"Total sales (x 1,000)",v101269590,1.3.1,16172955.0
+2014,Canada,Furniture and home furnishings stores,"Total sales (x 1,000)",v101269590,1.3.1,16805775.0
+2012,Canada,Furniture and home furnishings stores,"E-commerce sales (x 1,000)",v101269591,1.3.2,98276.0
+2013,Canada,Furniture and home furnishings stores,"E-commerce sales (x 1,000)",v101269591,1.3.2,247696.0
+2014,Canada,Furniture and home furnishings stores,"E-commerce sales (x 1,000)",v101269591,1.3.2,295885.0
+2012,Canada,Furniture and home furnishings stores,E-commerce as percentage of total sales,v101269592,1.3.3,0.6
+2013,Canada,Furniture and home furnishings stores,E-commerce as percentage of total sales,v101269592,1.3.3,1.5
+2014,Canada,Furniture and home furnishings stores,E-commerce as percentage of total sales,v101269592,1.3.3,1.8
+2012,Canada,Furniture and home furnishings stores,Distribution of E-commerce (percent),v101269593,1.3.4,1.2
+2013,Canada,Furniture and home furnishings stores,Distribution of E-commerce (percent),v101269593,1.3.4,2.5
+2014,Canada,Furniture and home furnishings stores,Distribution of E-commerce (percent),v101269593,1.3.4,2.5
+2012,Canada,Electronics and appliance stores,"Total sales (x 1,000)",v101269594,1.4.1,15938525.0
+2013,Canada,Electronics and appliance stores,"Total sales (x 1,000)",v101269594,1.4.1,16258149.0
+2014,Canada,Electronics and appliance stores,"Total sales (x 1,000)",v101269594,1.4.1,16466037.0
+2012,Canada,Electronics and appliance stores,"E-commerce sales (x 1,000)",v101269595,1.4.2,535505.0
+2013,Canada,Electronics and appliance stores,"E-commerce sales (x 1,000)",v101269595,1.4.2,743917.0
+2014,Canada,Electronics and appliance stores,"E-commerce sales (x 1,000)",v101269595,1.4.2,779906.0
+2012,Canada,Electronics and appliance stores,E-commerce as percentage of total sales,v101269596,1.4.3,3.4
+2013,Canada,Electronics and appliance stores,E-commerce as percentage of total sales,v101269596,1.4.3,4.6
+2014,Canada,Electronics and appliance stores,E-commerce as percentage of total sales,v101269596,1.4.3,4.7
+2012,Canada,Electronics and appliance stores,Distribution of E-commerce (percent),v101269597,1.4.4,6.5
+2013,Canada,Electronics and appliance stores,Distribution of E-commerce (percent),v101269597,1.4.4,7.6
+2014,Canada,Electronics and appliance stores,Distribution of E-commerce (percent),v101269597,1.4.4,6.5
+2012,Canada,Building material and garden equipment and supplies dealers,"Total sales (x 1,000)",v101269598,1.5.1,29369765.0
+2013,Canada,Building material and garden equipment and supplies dealers,"Total sales (x 1,000)",v101269598,1.5.1,30353379.0
+2014,Canada,Building material and garden equipment and supplies dealers,"Total sales (x 1,000)",v101269598,1.5.1,31687289.0
+2012,Canada,Building material and garden equipment and supplies dealers,"E-commerce sales (x 1,000)",v101269599,1.5.2,75709.0
+2013,Canada,Building material and garden equipment and supplies dealers,"E-commerce sales (x 1,000)",v101269599,1.5.2,246802.0
+2014,Canada,Building material and garden equipment and supplies dealers,"E-commerce sales (x 1,000)",v101269599,1.5.2,282328.0
+2012,Canada,Building material and garden equipment and supplies dealers,E-commerce as percentage of total sales,v101269600,1.5.3,0.3
+2013,Canada,Building material and garden equipment and supplies dealers,E-commerce as percentage of total sales,v101269600,1.5.3,0.8
+2014,Canada,Building material and garden equipment and supplies dealers,E-commerce as percentage of total sales,v101269600,1.5.3,0.9
+2012,Canada,Building material and garden equipment and supplies dealers,Distribution of E-commerce (percent),v101269601,1.5.4,0.9
+2013,Canada,Building material and garden equipment and supplies dealers,Distribution of E-commerce (percent),v101269601,1.5.4,2.5
+2014,Canada,Building material and garden equipment and supplies dealers,Distribution of E-commerce (percent),v101269601,1.5.4,2.3
+2012,Canada,Food and beverage stores,"Total sales (x 1,000)",v101269602,1.6.1,108327279.0
+2013,Canada,Food and beverage stores,"Total sales (x 1,000)",v101269602,1.6.1,112627409.0
+2014,Canada,Food and beverage stores,"Total sales (x 1,000)",v101269602,1.6.1,115532456.0
+2012,Canada,Food and beverage stores,"E-commerce sales (x 1,000)",v101269603,1.6.2,125419.0
+2013,Canada,Food and beverage stores,"E-commerce sales (x 1,000)",v101269603,1.6.2,114006.0
+2014,Canada,Food and beverage stores,"E-commerce sales (x 1,000)",v101269603,1.6.2,x
+2012,Canada,Food and beverage stores,E-commerce as percentage of total sales,v101269604,1.6.3,0.1
+2013,Canada,Food and beverage stores,E-commerce as percentage of total sales,v101269604,1.6.3,0.1
+2014,Canada,Food and beverage stores,E-commerce as percentage of total sales,v101269604,1.6.3,x
+2012,Canada,Food and beverage stores,Distribution of E-commerce (percent),v101269605,1.6.4,1.5
+2013,Canada,Food and beverage stores,Distribution of E-commerce (percent),v101269605,1.6.4,1.2
+2014,Canada,Food and beverage stores,Distribution of E-commerce (percent),v101269605,1.6.4,x
+2012,Canada,Health and personal care stores,"Total sales (x 1,000)",v101269606,1.7.1,39045918.0
+2013,Canada,Health and personal care stores,"Total sales (x 1,000)",v101269606,1.7.1,40685247.0
+2014,Canada,Health and personal care stores,"Total sales (x 1,000)",v101269606,1.7.1,42029141.0
+2012,Canada,Health and personal care stores,"E-commerce sales (x 1,000)",v101269607,1.7.2,68871.0
+2013,Canada,Health and personal care stores,"E-commerce sales (x 1,000)",v101269607,1.7.2,46749.0
+2014,Canada,Health and personal care stores,"E-commerce sales (x 1,000)",v101269607,1.7.2,x
+2012,Canada,Health and personal care stores,E-commerce as percentage of total sales,v101269608,1.7.3,0.2
+2013,Canada,Health and personal care stores,E-commerce as percentage of total sales,v101269608,1.7.3,0.1
+2014,Canada,Health and personal care stores,E-commerce as percentage of total sales,v101269608,1.7.3,x
+2012,Canada,Health and personal care stores,Distribution of E-commerce (percent),v101269609,1.7.4,0.8
+2013,Canada,Health and personal care stores,Distribution of E-commerce (percent),v101269609,1.7.4,0.5
+2014,Canada,Health and personal care stores,Distribution of E-commerce (percent),v101269609,1.7.4,x
+2012,Canada,Gasoline stations,"Total sales (x 1,000)",v101269610,1.8.1,61936530.0
+2013,Canada,Gasoline stations,"Total sales (x 1,000)",v101269610,1.8.1,63431094.0
+2014,Canada,Gasoline stations,"Total sales (x 1,000)",v101269610,1.8.1,66336798.0
+2012,Canada,Gasoline stations,"E-commerce sales (x 1,000)",v101269611,1.8.2,x
+2013,Canada,Gasoline stations,"E-commerce sales (x 1,000)",v101269611,1.8.2,x
+2014,Canada,Gasoline stations,"E-commerce sales (x 1,000)",v101269611,1.8.2,x
+2012,Canada,Gasoline stations,E-commerce as percentage of total sales,v101269612,1.8.3,x
+2013,Canada,Gasoline stations,E-commerce as percentage of total sales,v101269612,1.8.3,x
+2014,Canada,Gasoline stations,E-commerce as percentage of total sales,v101269612,1.8.3,x
+2012,Canada,Gasoline stations,Distribution of E-commerce (percent),v101269613,1.8.4,x
+2013,Canada,Gasoline stations,Distribution of E-commerce (percent),v101269613,1.8.4,x
+2014,Canada,Gasoline stations,Distribution of E-commerce (percent),v101269613,1.8.4,x
+2012,Canada,Clothing and clothing accessories stores,"Total sales (x 1,000)",v101269614,1.9.1,27949090.0
+2013,Canada,Clothing and clothing accessories stores,"Total sales (x 1,000)",v101269614,1.9.1,28629784.0
+2014,Canada,Clothing and clothing accessories stores,"Total sales (x 1,000)",v101269614,1.9.1,29488413.0
+2012,Canada,Clothing and clothing accessories stores,"E-commerce sales (x 1,000)",v101269615,1.9.2,343260.0
+2013,Canada,Clothing and clothing accessories stores,"E-commerce sales (x 1,000)",v101269615,1.9.2,431325.0
+2014,Canada,Clothing and clothing accessories stores,"E-commerce sales (x 1,000)",v101269615,1.9.2,519216.0
+2012,Canada,Clothing and clothing accessories stores,E-commerce as percentage of total sales,v101269616,1.9.3,1.2
+2013,Canada,Clothing and clothing accessories stores,E-commerce as percentage of total sales,v101269616,1.9.3,1.5
+2014,Canada,Clothing and clothing accessories stores,E-commerce as percentage of total sales,v101269616,1.9.3,1.8
+2012,Canada,Clothing and clothing accessories stores,Distribution of E-commerce (percent),v101269617,1.9.4,4.2
+2013,Canada,Clothing and clothing accessories stores,Distribution of E-commerce (percent),v101269617,1.9.4,4.4
+2014,Canada,Clothing and clothing accessories stores,Distribution of E-commerce (percent),v101269617,1.9.4,4.3
+2012,Canada,"Sporting goods, hobby, book and music stores","Total sales (x 1,000)",v101269618,1.10.1,11065028.0
+2013,Canada,"Sporting goods, hobby, book and music stores","Total sales (x 1,000)",v101269618,1.10.1,11455937.0
+2014,Canada,"Sporting goods, hobby, book and music stores","Total sales (x 1,000)",v101269618,1.10.1,12010549.0
+2012,Canada,"Sporting goods, hobby, book and music stores","E-commerce sales (x 1,000)",v101269619,1.10.2,199633.0
+2013,Canada,"Sporting goods, hobby, book and music stores","E-commerce sales (x 1,000)",v101269619,1.10.2,354701.0
+2014,Canada,"Sporting goods, hobby, book and music stores","E-commerce sales (x 1,000)",v101269619,1.10.2,423769.0
+2012,Canada,"Sporting goods, hobby, book and music stores",E-commerce as percentage of total sales,v101269620,1.10.3,1.8
+2013,Canada,"Sporting goods, hobby, book and music stores",E-commerce as percentage of total sales,v101269620,1.10.3,3.1
+2014,Canada,"Sporting goods, hobby, book and music stores",E-commerce as percentage of total sales,v101269620,1.10.3,3.5
+2012,Canada,"Sporting goods, hobby, book and music stores",Distribution of E-commerce (percent),v101269621,1.10.4,2.4
+2013,Canada,"Sporting goods, hobby, book and music stores",Distribution of E-commerce (percent),v101269621,1.10.4,3.6
+2014,Canada,"Sporting goods, hobby, book and music stores",Distribution of E-commerce (percent),v101269621,1.10.4,3.5
+2012,Canada,General merchandise stores,"Total sales (x 1,000)",v101269622,1.11.1,57992886.0
+2013,Canada,General merchandise stores,"Total sales (x 1,000)",v101269622,1.11.1,59739443.0
+2014,Canada,General merchandise stores,"Total sales (x 1,000)",v101269622,1.11.1,62733146.0
+2012,Canada,General merchandise stores,"E-commerce sales (x 1,000)",v101269623,1.11.2,x
+2013,Canada,General merchandise stores,"E-commerce sales (x 1,000)",v101269623,1.11.2,x
+2014,Canada,General merchandise stores,"E-commerce sales (x 1,000)",v101269623,1.11.2,356295.0
+2012,Canada,General merchandise stores,E-commerce as percentage of total sales,v101269624,1.11.3,x
+2013,Canada,General merchandise stores,E-commerce as percentage of total sales,v101269624,1.11.3,x
+2014,Canada,General merchandise stores,E-commerce as percentage of total sales,v101269624,1.11.3,0.6
+2012,Canada,General merchandise stores,Distribution of E-commerce (percent),v101269625,1.11.4,x
+2013,Canada,General merchandise stores,Distribution of E-commerce (percent),v101269625,1.11.4,x
+2014,Canada,General merchandise stores,Distribution of E-commerce (percent),v101269625,1.11.4,3.0
+2012,Canada,Miscellaneous store retailers,"Total sales (x 1,000)",v101269626,1.12.1,12393438.0
+2013,Canada,Miscellaneous store retailers,"Total sales (x 1,000)",v101269626,1.12.1,12878322.0
+2014,Canada,Miscellaneous store retailers,"Total sales (x 1,000)",v101269626,1.12.1,13127696.0
+2012,Canada,Miscellaneous store retailers,"E-commerce sales (x 1,000)",v101269627,1.12.2,279795.0
+2013,Canada,Miscellaneous store retailers,"E-commerce sales (x 1,000)",v101269627,1.12.2,282588.0
+2014,Canada,Miscellaneous store retailers,"E-commerce sales (x 1,000)",v101269627,1.12.2,306359.0
+2012,Canada,Miscellaneous store retailers,E-commerce as percentage of total sales,v101269628,1.12.3,2.3
+2013,Canada,Miscellaneous store retailers,E-commerce as percentage of total sales,v101269628,1.12.3,2.2
+2014,Canada,Miscellaneous store retailers,E-commerce as percentage of total sales,v101269628,1.12.3,2.3
+2012,Canada,Miscellaneous store retailers,Distribution of E-commerce (percent),v101269629,1.12.4,3.4
+2013,Canada,Miscellaneous store retailers,Distribution of E-commerce (percent),v101269629,1.12.4,2.9
+2014,Canada,Miscellaneous store retailers,Distribution of E-commerce (percent),v101269629,1.12.4,2.5
+2012,Canada,Non-store retailers,"Total sales (x 1,000)",v101269630,1.13.1,17346818.0
+2013,Canada,Non-store retailers,"Total sales (x 1,000)",v101269630,1.13.1,19764666.0
+2014,Canada,Non-store retailers,"Total sales (x 1,000)",v101269630,1.13.1,23453775.0
+2012,Canada,Non-store retailers,"E-commerce sales (x 1,000)",v101269631,1.13.2,3676375.0
+2013,Canada,Non-store retailers,"E-commerce sales (x 1,000)",v101269631,1.13.2,4928443.0
+2014,Canada,Non-store retailers,"E-commerce sales (x 1,000)",v101269631,1.13.2,6670311.0
+2012,Canada,Non-store retailers,E-commerce as percentage of total sales,v101269632,1.13.3,21.2
+2013,Canada,Non-store retailers,E-commerce as percentage of total sales,v101269632,1.13.3,24.9
+2014,Canada,Non-store retailers,E-commerce as percentage of total sales,v101269632,1.13.3,28.4
+2012,Canada,Non-store retailers,Distribution of E-commerce (percent),v101269633,1.13.4,44.5
+2013,Canada,Non-store retailers,Distribution of E-commerce (percent),v101269633,1.13.4,50.5
+2014,Canada,Non-store retailers,Distribution of E-commerce (percent),v101269633,1.13.4,55.3
+2012,Canada,Electronic shopping and mail-order houses,"Total sales (x 1,000)",v101269634,1.14.1,5426318.0
+2013,Canada,Electronic shopping and mail-order houses,"Total sales (x 1,000)",v101269634,1.14.1,6763230.0
+2014,Canada,Electronic shopping and mail-order houses,"Total sales (x 1,000)",v101269634,1.14.1,8506667.0
+2012,Canada,Electronic shopping and mail-order houses,"E-commerce sales (x 1,000)",v101269635,1.14.2,x
+2013,Canada,Electronic shopping and mail-order houses,"E-commerce sales (x 1,000)",v101269635,1.14.2,x
+2014,Canada,Electronic shopping and mail-order houses,"E-commerce sales (x 1,000)",v101269635,1.14.2,x
+2012,Canada,Electronic shopping and mail-order houses,E-commerce as percentage of total sales,v101269636,1.14.3,x
+2013,Canada,Electronic shopping and mail-order houses,E-commerce as percentage of total sales,v101269636,1.14.3,x
+2014,Canada,Electronic shopping and mail-order houses,E-commerce as percentage of total sales,v101269636,1.14.3,x
+2012,Canada,Electronic shopping and mail-order houses,Distribution of E-commerce (percent),v101269637,1.14.4,x
+2013,Canada,Electronic shopping and mail-order houses,Distribution of E-commerce (percent),v101269637,1.14.4,x
+2014,Canada,Electronic shopping and mail-order houses,Distribution of E-commerce (percent),v101269637,1.14.4,x

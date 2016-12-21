@@ -1,0 +1,1045 @@
+Ref_Date,GEO,HARVEST,TYPOFCRP,Vector,Coordinate,Value
+2015,Canada,Harvested area (acres),Barley,v98437491,1.1.1,5684800.00000000
+2016,Canada,Harvested area (acres),Barley,v98437491,1.1.1,5651100.00000000
+2015,Canada,Harvested area (acres),Canary seed,v98437492,1.1.2,315000.00000000
+2016,Canada,Harvested area (acres),Canary seed,v98437492,1.1.2,250000.00000000
+2015,Canada,Harvested area (acres),Canola,v98437493,1.1.3,20473900.00000000
+2016,Canada,Harvested area (acres),Canola,v98437493,1.1.3,19649700.00000000
+2015,Canada,Harvested area (acres),Corn for grain,v98437494,1.1.4,3184500.00000000
+2016,Canada,Harvested area (acres),Corn for grain,v98437494,1.1.4,3217200.00000000
+2015,Canada,Harvested area (acres),Flaxseed,v98437495,1.1.5,1595000.00000000
+2016,Canada,Harvested area (acres),Flaxseed,v98437495,1.1.5,908000.00000000
+2015,Canada,Harvested area (acres),Lentils,v98437496,1.1.6,3745000.00000000
+2016,Canada,Harvested area (acres),Lentils,v98437496,1.1.6,4815000.00000000
+2015,Canada,Harvested area (acres),Mixed grains,v98437497,1.1.7,113400.00000000
+2016,Canada,Harvested area (acres),Mixed grains,v98437497,1.1.7,105800.00000000
+2015,Canada,Harvested area (acres),Mustard seed,v98437498,1.1.8,240000.00000000
+2016,Canada,Harvested area (acres),Mustard seed,v98437498,1.1.8,380000.00000000
+2015,Canada,Harvested area (acres),Oats,v98437499,1.1.9,2512300.00000000
+2016,Canada,Harvested area (acres),Oats,v98437499,1.1.9,2197900.00000000
+2015,Canada,Harvested area (acres),"Peas, dry",v98437500,1.1.10,3602000.00000000
+2016,Canada,Harvested area (acres),"Peas, dry",v98437500,1.1.10,4145000.00000000
+2015,Canada,Harvested area (acres),"Rye, Fall",v98437501,1.1.11,220000.00000000
+2016,Canada,Harvested area (acres),"Rye, Fall",v98437501,1.1.11,310000.00000000
+2015,Canada,Harvested area (acres),Soybeans,v98437502,1.1.12,5057100.00000000
+2016,Canada,Harvested area (acres),Soybeans,v98437502,1.1.12,5100600.00000000
+2015,Canada,Harvested area (acres),"Wheat, durum",v98437503,1.1.13,5750000.00000000
+2016,Canada,Harvested area (acres),"Wheat, durum",v98437503,1.1.13,6005000.00000000
+2015,Canada,Harvested area (acres),"Wheat, spring",v98437504,1.1.14,16511700.00000000
+2016,Canada,Harvested area (acres),"Wheat, spring",v98437504,1.1.14,15135300.00000000
+2015,Canada,Harvested area (acres),"Wheat, winter",v98437505,1.1.15,1258500.00000000
+2016,Canada,Harvested area (acres),"Wheat, winter",v98437505,1.1.15,1597100.00000000
+2015,Canada,Harvested area (hectares),Barley,v98437506,1.2.1,2300600.00000000
+2016,Canada,Harvested area (hectares),Barley,v98437506,1.2.1,2286900.00000000
+2015,Canada,Harvested area (hectares),Canary seed,v98437507,1.2.2,127500.00000000
+2016,Canada,Harvested area (hectares),Canary seed,v98437507,1.2.2,101200.00000000
+2015,Canada,Harvested area (hectares),Canola,v98437508,1.2.3,8285500.00000000
+2016,Canada,Harvested area (hectares),Canola,v98437508,1.2.3,7952000.00000000
+2015,Canada,Harvested area (hectares),Corn for grain,v98437509,1.2.4,1288700.00000000
+2016,Canada,Harvested area (hectares),Corn for grain,v98437509,1.2.4,1302000.00000000
+2015,Canada,Harvested area (hectares),Flaxseed,v98437510,1.2.5,645500.00000000
+2016,Canada,Harvested area (hectares),Flaxseed,v98437510,1.2.5,367500.00000000
+2015,Canada,Harvested area (hectares),Lentils,v98437511,1.2.6,1515500.00000000
+2016,Canada,Harvested area (hectares),Lentils,v98437511,1.2.6,1948600.00000000
+2015,Canada,Harvested area (hectares),Mixed grains,v98437512,1.2.7,45900.00000000
+2016,Canada,Harvested area (hectares),Mixed grains,v98437512,1.2.7,42800.00000000
+2015,Canada,Harvested area (hectares),Mustard seed,v98437513,1.2.8,97100.00000000
+2016,Canada,Harvested area (hectares),Mustard seed,v98437513,1.2.8,153800.00000000
+2015,Canada,Harvested area (hectares),Oats,v98437514,1.2.9,1016700.00000000
+2016,Canada,Harvested area (hectares),Oats,v98437514,1.2.9,889500.00000000
+2015,Canada,Harvested area (hectares),"Peas, dry",v98437515,1.2.10,1457700.00000000
+2016,Canada,Harvested area (hectares),"Peas, dry",v98437515,1.2.10,1677400.00000000
+2015,Canada,Harvested area (hectares),"Rye, Fall",v98437516,1.2.11,89000.00000000
+2016,Canada,Harvested area (hectares),"Rye, Fall",v98437516,1.2.11,125500.00000000
+2015,Canada,Harvested area (hectares),Soybeans,v98437517,1.2.12,2046500.00000000
+2016,Canada,Harvested area (hectares),Soybeans,v98437517,1.2.12,2064100.00000000
+2015,Canada,Harvested area (hectares),"Wheat, durum",v98437518,1.2.13,2326900.00000000
+2016,Canada,Harvested area (hectares),"Wheat, durum",v98437518,1.2.13,2430100.00000000
+2015,Canada,Harvested area (hectares),"Wheat, spring",v98437519,1.2.14,6682100.00000000
+2016,Canada,Harvested area (hectares),"Wheat, spring",v98437519,1.2.14,6125000.00000000
+2015,Canada,Harvested area (hectares),"Wheat, winter",v98437520,1.2.15,509300.00000000
+2016,Canada,Harvested area (hectares),"Wheat, winter",v98437520,1.2.15,646300.00000000
+2015,Canada,Yield (bushels per acre),Barley,v98437521,1.3.1,57.8
+2016,Canada,Yield (bushels per acre),Barley,v98437521,1.3.1,68.3
+2015,Canada,Yield (bushels per acre),Canola,v98437522,1.3.3,32.6
+2016,Canada,Yield (bushels per acre),Canola,v98437522,1.3.3,41.1
+2015,Canada,Yield (bushels per acre),Corn for grain,v98437523,1.3.4,158.9
+2016,Canada,Yield (bushels per acre),Corn for grain,v98437523,1.3.4,159.0
+2015,Canada,Yield (bushels per acre),Flaxseed,v98437524,1.3.5,20.5
+2016,Canada,Yield (bushels per acre),Flaxseed,v98437524,1.3.5,25.0
+2015,Canada,Yield (bushels per acre),Mixed grains,v98437525,1.3.7,65.6
+2016,Canada,Yield (bushels per acre),Mixed grains,v98437525,1.3.7,57.6
+2015,Canada,Yield (bushels per acre),Oats,v98437526,1.3.9,79.6
+2016,Canada,Yield (bushels per acre),Oats,v98437526,1.3.9,84.8
+2015,Canada,Yield (bushels per acre),"Peas, dry",v98437527,1.3.10,29.1
+2016,Canada,Yield (bushels per acre),"Peas, dry",v98437527,1.3.10,40.8
+2015,Canada,Yield (bushels per acre),"Rye, Fall",v98437528,1.3.11,38.2
+2016,Canada,Yield (bushels per acre),"Rye, Fall",v98437528,1.3.11,47.2
+2015,Canada,Yield (bushels per acre),Soybeans,v98437529,1.3.12,43.4
+2016,Canada,Yield (bushels per acre),Soybeans,v98437529,1.3.12,43.0
+2015,Canada,Yield (bushels per acre),"Wheat, durum",v98437530,1.3.13,30.9
+2016,Canada,Yield (bushels per acre),"Wheat, durum",v98437530,1.3.13,44.7
+2015,Canada,Yield (bushels per acre),"Wheat, spring",v98437531,1.3.14,40.5
+2016,Canada,Yield (bushels per acre),"Wheat, spring",v98437531,1.3.14,49.9
+2015,Canada,Yield (bushels per acre),"Wheat, winter",v98437532,1.3.15,62.8
+2016,Canada,Yield (bushels per acre),"Wheat, winter",v98437532,1.3.15,79.5
+2015,Canada,Yield (pounds per acre),Canary seed,v98437533,1.4.2,865.0
+2016,Canada,Yield (pounds per acre),Canary seed,v98437533,1.4.2,1143.0
+2015,Canada,Yield (pounds per acre),Lentils,v98437534,1.4.6,1151.0
+2016,Canada,Yield (pounds per acre),Lentils,v98437534,1.4.6,1296.0
+2015,Canada,Yield (pounds per acre),Mustard seed,v98437535,1.4.8,711.0
+2016,Canada,Yield (pounds per acre),Mustard seed,v98437535,1.4.8,965.0
+2015,Canada,Yield (kilograms per hectare),Barley,v98437536,1.5.1,3100.0
+2016,Canada,Yield (kilograms per hectare),Barley,v98437536,1.5.1,3700.0
+2015,Canada,Yield (kilograms per hectare),Canary seed,v98437537,1.5.2,1000.0
+2016,Canada,Yield (kilograms per hectare),Canary seed,v98437537,1.5.2,1300.0
+2015,Canada,Yield (kilograms per hectare),Canola,v98437538,1.5.3,1800.0
+2016,Canada,Yield (kilograms per hectare),Canola,v98437538,1.5.3,2300.0
+2015,Canada,Yield (kilograms per hectare),Corn for grain,v98437539,1.5.4,10000.0
+2016,Canada,Yield (kilograms per hectare),Corn for grain,v98437539,1.5.4,10000.0
+2015,Canada,Yield (kilograms per hectare),Flaxseed,v98437540,1.5.5,1300.0
+2016,Canada,Yield (kilograms per hectare),Flaxseed,v98437540,1.5.5,1600.0
+2015,Canada,Yield (kilograms per hectare),Lentils,v98437541,1.5.6,1300.0
+2016,Canada,Yield (kilograms per hectare),Lentils,v98437541,1.5.6,1500.0
+2015,Canada,Yield (kilograms per hectare),Mixed grains,v98437542,1.5.7,3000.0
+2016,Canada,Yield (kilograms per hectare),Mixed grains,v98437542,1.5.7,2700.0
+2015,Canada,Yield (kilograms per hectare),Mustard seed,v98437543,1.5.8,800.0
+2016,Canada,Yield (kilograms per hectare),Mustard seed,v98437543,1.5.8,1100.0
+2015,Canada,Yield (kilograms per hectare),Oats,v98437544,1.5.9,3000.0
+2016,Canada,Yield (kilograms per hectare),Oats,v98437544,1.5.9,3200.0
+2015,Canada,Yield (kilograms per hectare),"Peas, dry",v98437545,1.5.10,2000.0
+2016,Canada,Yield (kilograms per hectare),"Peas, dry",v98437545,1.5.10,2700.0
+2015,Canada,Yield (kilograms per hectare),"Rye, Fall",v98437546,1.5.11,2400.0
+2016,Canada,Yield (kilograms per hectare),"Rye, Fall",v98437546,1.5.11,3000.0
+2015,Canada,Yield (kilograms per hectare),Soybeans,v98437547,1.5.12,2900.0
+2016,Canada,Yield (kilograms per hectare),Soybeans,v98437547,1.5.12,2900.0
+2015,Canada,Yield (kilograms per hectare),"Wheat, durum",v98437548,1.5.13,2100.0
+2016,Canada,Yield (kilograms per hectare),"Wheat, durum",v98437548,1.5.13,3000.0
+2015,Canada,Yield (kilograms per hectare),"Wheat, spring",v98437549,1.5.14,2700.0
+2016,Canada,Yield (kilograms per hectare),"Wheat, spring",v98437549,1.5.14,3400.0
+2015,Canada,Yield (kilograms per hectare),"Wheat, winter",v98437550,1.5.15,4200.0
+2016,Canada,Yield (kilograms per hectare),"Wheat, winter",v98437550,1.5.15,5300.0
+2015,Canada,"Production (bushels x 1,000)",Barley,v98437551,1.6.1,328997.0
+2016,Canada,"Production (bushels x 1,000)",Barley,v98437551,1.6.1,385894.0
+2015,Canada,"Production (bushels x 1,000)",Canola,v98437552,1.6.3,666491.0
+2016,Canada,"Production (bushels x 1,000)",Canola,v98437552,1.6.3,807301.0
+2015,Canada,"Production (bushels x 1,000)",Corn for grain,v98437553,1.6.4,505137.0
+2016,Canada,"Production (bushels x 1,000)",Corn for grain,v98437553,1.6.4,511600.0
+2015,Canada,"Production (bushels x 1,000)",Flaxseed,v98437554,1.6.5,32720.0
+2016,Canada,"Production (bushels x 1,000)",Flaxseed,v98437554,1.6.5,22694.0
+2015,Canada,"Production (bushels x 1,000)",Mixed grains,v98437555,1.6.7,7397.0
+2016,Canada,"Production (bushels x 1,000)",Mixed grains,v98437555,1.6.7,6097.0
+2015,Canada,"Production (bushels x 1,000)",Oats,v98437556,1.6.9,199725.0
+2016,Canada,"Production (bushels x 1,000)",Oats,v98437556,1.6.9,186348.0
+2015,Canada,"Production (bushels x 1,000)","Peas, dry",v98437557,1.6.10,104727.0
+2016,Canada,"Production (bushels x 1,000)","Peas, dry",v98437557,1.6.10,169309.0
+2015,Canada,"Production (bushels x 1,000)","Rye, Fall",v98437558,1.6.11,8402.0
+2016,Canada,"Production (bushels x 1,000)","Rye, Fall",v98437558,1.6.11,14645.0
+2015,Canada,"Production (bushels x 1,000)",Soybeans,v98437559,1.6.12,218938.0
+2016,Canada,"Production (bushels x 1,000)",Soybeans,v98437559,1.6.12,219476.0
+2015,Canada,"Production (bushels x 1,000)","Wheat, durum",v98437560,1.6.13,177491.0
+2016,Canada,"Production (bushels x 1,000)","Wheat, durum",v98437560,1.6.13,268653.0
+2015,Canada,"Production (bushels x 1,000)","Wheat, spring",v98437561,1.6.14,667424.0
+2016,Canada,"Production (bushels x 1,000)","Wheat, spring",v98437561,1.6.14,755187.0
+2015,Canada,"Production (bushels x 1,000)","Wheat, winter",v98437562,1.6.15,78991.0
+2016,Canada,"Production (bushels x 1,000)","Wheat, winter",v98437562,1.6.15,127025.0
+2015,Canada,"Production (pounds x 1,000)",Canary seed,v98437563,1.7.2,272410.0
+2016,Canada,"Production (pounds x 1,000)",Canary seed,v98437563,1.7.2,285780.0
+2015,Canada,"Production (pounds x 1,000)",Lentils,v98437564,1.7.6,4311240.0
+2016,Canada,"Production (pounds x 1,000)",Lentils,v98437564,1.7.6,6240240.0
+2015,Canada,"Production (pounds x 1,000)",Mustard seed,v98437565,1.7.8,170690.0
+2016,Canada,"Production (pounds x 1,000)",Mustard seed,v98437565,1.7.8,366700.0
+2015,Canada,Production (metric tonnes),Barley,v98437566,1.8.1,7163100.0
+2016,Canada,Production (metric tonnes),Barley,v98437566,1.8.1,8401800.0
+2015,Canada,Production (metric tonnes),Canary seed,v98437567,1.8.2,123600.0
+2016,Canada,Production (metric tonnes),Canary seed,v98437567,1.8.2,129600.0
+2015,Canada,Production (metric tonnes),Canola,v98437568,1.8.3,15115800.0
+2016,Canada,Production (metric tonnes),Canola,v98437568,1.8.3,18309300.0
+2015,Canada,Production (metric tonnes),Corn for grain,v98437569,1.8.4,12831100.0
+2016,Canada,Production (metric tonnes),Corn for grain,v98437569,1.8.4,12995200.0
+2015,Canada,Production (metric tonnes),Flaxseed,v98437570,1.8.5,831100.0
+2016,Canada,Production (metric tonnes),Flaxseed,v98437570,1.8.5,576400.0
+2015,Canada,Production (metric tonnes),Lentils,v98437571,1.8.6,1955500.0
+2016,Canada,Production (metric tonnes),Lentils,v98437571,1.8.6,2830500.0
+2015,Canada,Production (metric tonnes),Mixed grains,v98437572,1.8.7,138000.0
+2016,Canada,Production (metric tonnes),Mixed grains,v98437572,1.8.7,114900.0
+2015,Canada,Production (metric tonnes),Mustard seed,v98437573,1.8.8,77400.0
+2016,Canada,Production (metric tonnes),Mustard seed,v98437573,1.8.8,166300.0
+2015,Canada,Production (metric tonnes),Oats,v98437574,1.8.9,3080200.0
+2016,Canada,Production (metric tonnes),Oats,v98437574,1.8.9,2873900.0
+2015,Canada,Production (metric tonnes),"Peas, dry",v98437575,1.8.10,2850200.0
+2016,Canada,Production (metric tonnes),"Peas, dry",v98437575,1.8.10,4607800.0
+2015,Canada,Production (metric tonnes),"Rye, Fall",v98437576,1.8.11,213400.0
+2016,Canada,Production (metric tonnes),"Rye, Fall",v98437576,1.8.11,372000.0
+2015,Canada,Production (metric tonnes),Soybeans,v98437577,1.8.12,5958500.0
+2016,Canada,Production (metric tonnes),Soybeans,v98437577,1.8.12,5973100.0
+2015,Canada,Production (metric tonnes),"Wheat, durum",v98437578,1.8.13,4830500.0
+2016,Canada,Production (metric tonnes),"Wheat, durum",v98437578,1.8.13,7311500.0
+2015,Canada,Production (metric tonnes),"Wheat, spring",v98437579,1.8.14,18164300.0
+2016,Canada,Production (metric tonnes),"Wheat, spring",v98437579,1.8.14,20552800.0
+2015,Canada,Production (metric tonnes),"Wheat, winter",v98437580,1.8.15,2149800.0
+2016,Canada,Production (metric tonnes),"Wheat, winter",v98437580,1.8.15,3457000.0
+2015,Quebec,Harvested area (acres),Barley,v98437581,2.1.1,119800.0
+2016,Quebec,Harvested area (acres),Barley,v98437581,2.1.1,116100.0
+2015,Quebec,Harvested area (acres),Canola,v98437582,2.1.3,28900.0
+2016,Quebec,Harvested area (acres),Canola,v98437582,2.1.3,29700.0
+2015,Quebec,Harvested area (acres),Corn for grain,v98437583,2.1.4,899500.0
+2016,Quebec,Harvested area (acres),Corn for grain,v98437583,2.1.4,882200.0
+2015,Quebec,Harvested area (acres),Mixed grains,v98437584,2.1.7,33400.0
+2016,Quebec,Harvested area (acres),Mixed grains,v98437584,2.1.7,35800.0
+2015,Quebec,Harvested area (acres),Oats,v98437585,2.1.9,227300.0
+2016,Quebec,Harvested area (acres),Oats,v98437585,2.1.9,182900.0
+2015,Quebec,Harvested area (acres),"Rye, Fall",v98437586,2.1.11,..
+2016,Quebec,Harvested area (acres),"Rye, Fall",v98437586,2.1.11,..
+2015,Quebec,Harvested area (acres),Soybeans,v98437587,2.1.12,777100.0
+2016,Quebec,Harvested area (acres),Soybeans,v98437587,2.1.12,800600.0
+2015,Quebec,Harvested area (acres),"Wheat, spring",v98437588,2.1.14,176700.0
+2016,Quebec,Harvested area (acres),"Wheat, spring",v98437588,2.1.14,185300.0
+2015,Quebec,Harvested area (acres),"Wheat, winter",v98437589,2.1.15,23500.0
+2016,Quebec,Harvested area (acres),"Wheat, winter",v98437589,2.1.15,32100.0
+2015,Quebec,Harvested area (hectares),Barley,v98437590,2.2.1,48500.0
+2016,Quebec,Harvested area (hectares),Barley,v98437590,2.2.1,47000.0
+2015,Quebec,Harvested area (hectares),Canola,v98437591,2.2.3,11700.0
+2016,Quebec,Harvested area (hectares),Canola,v98437591,2.2.3,12000.0
+2015,Quebec,Harvested area (hectares),Corn for grain,v98437592,2.2.4,364000.0
+2016,Quebec,Harvested area (hectares),Corn for grain,v98437592,2.2.4,357000.0
+2015,Quebec,Harvested area (hectares),Mixed grains,v98437593,2.2.7,13500.0
+2016,Quebec,Harvested area (hectares),Mixed grains,v98437593,2.2.7,14500.0
+2015,Quebec,Harvested area (hectares),Oats,v98437594,2.2.9,92000.0
+2016,Quebec,Harvested area (hectares),Oats,v98437594,2.2.9,74000.0
+2015,Quebec,Harvested area (hectares),"Rye, Fall",v98437595,2.2.11,..
+2016,Quebec,Harvested area (hectares),"Rye, Fall",v98437595,2.2.11,..
+2015,Quebec,Harvested area (hectares),Soybeans,v98437596,2.2.12,314500.0
+2016,Quebec,Harvested area (hectares),Soybeans,v98437596,2.2.12,324000.0
+2015,Quebec,Harvested area (hectares),"Wheat, spring",v98437597,2.2.14,71500.0
+2016,Quebec,Harvested area (hectares),"Wheat, spring",v98437597,2.2.14,75000.0
+2015,Quebec,Harvested area (hectares),"Wheat, winter",v98437598,2.2.15,9500.0
+2016,Quebec,Harvested area (hectares),"Wheat, winter",v98437598,2.2.15,13000.0
+2015,Quebec,Yield (bushels per acre),Barley,v98437599,2.3.1,59.7
+2016,Quebec,Yield (bushels per acre),Barley,v98437599,2.3.1,61.7
+2015,Quebec,Yield (bushels per acre),Canola,v98437600,2.3.3,37.2
+2016,Quebec,Yield (bushels per acre),Canola,v98437600,2.3.3,38.0
+2015,Quebec,Yield (bushels per acre),Corn for grain,v98437601,2.3.4,150.5
+2016,Quebec,Yield (bushels per acre),Corn for grain,v98437601,2.3.4,158.5
+2015,Quebec,Yield (bushels per acre),Mixed grains,v98437602,2.3.7,50.2
+2016,Quebec,Yield (bushels per acre),Mixed grains,v98437602,2.3.7,52.6
+2015,Quebec,Yield (bushels per acre),Oats,v98437603,2.3.9,70.6
+2016,Quebec,Yield (bushels per acre),Oats,v98437603,2.3.9,71.8
+2015,Quebec,Yield (bushels per acre),"Rye, Fall",v98437604,2.3.11,..
+2016,Quebec,Yield (bushels per acre),"Rye, Fall",v98437604,2.3.11,..
+2015,Quebec,Yield (bushels per acre),Soybeans,v98437605,2.3.12,42.2
+2016,Quebec,Yield (bushels per acre),Soybeans,v98437605,2.3.12,46.1
+2015,Quebec,Yield (bushels per acre),"Wheat, spring",v98437606,2.3.14,48.0
+2016,Quebec,Yield (bushels per acre),"Wheat, spring",v98437606,2.3.14,47.9
+2015,Quebec,Yield (bushels per acre),"Wheat, winter",v98437607,2.3.15,52.5
+2016,Quebec,Yield (bushels per acre),"Wheat, winter",v98437607,2.3.15,57.4
+2015,Quebec,Yield (kilograms per hectare),Barley,v98437608,2.5.1,3200.0
+2016,Quebec,Yield (kilograms per hectare),Barley,v98437608,2.5.1,3300.0
+2015,Quebec,Yield (kilograms per hectare),Canola,v98437609,2.5.3,2100.0
+2016,Quebec,Yield (kilograms per hectare),Canola,v98437609,2.5.3,2100.0
+2015,Quebec,Yield (kilograms per hectare),Corn for grain,v98437610,2.5.4,9400.0
+2016,Quebec,Yield (kilograms per hectare),Corn for grain,v98437610,2.5.4,9900.0
+2015,Quebec,Yield (kilograms per hectare),Mixed grains,v98437611,2.5.7,2500.0
+2016,Quebec,Yield (kilograms per hectare),Mixed grains,v98437611,2.5.7,2700.0
+2015,Quebec,Yield (kilograms per hectare),Oats,v98437612,2.5.9,2700.0
+2016,Quebec,Yield (kilograms per hectare),Oats,v98437612,2.5.9,2700.0
+2015,Quebec,Yield (kilograms per hectare),"Rye, Fall",v98437613,2.5.11,..
+2016,Quebec,Yield (kilograms per hectare),"Rye, Fall",v98437613,2.5.11,..
+2015,Quebec,Yield (kilograms per hectare),Soybeans,v98437614,2.5.12,2800.0
+2016,Quebec,Yield (kilograms per hectare),Soybeans,v98437614,2.5.12,3100.0
+2015,Quebec,Yield (kilograms per hectare),"Wheat, spring",v98437615,2.5.14,3200.0
+2016,Quebec,Yield (kilograms per hectare),"Wheat, spring",v98437615,2.5.14,3200.0
+2015,Quebec,Yield (kilograms per hectare),"Wheat, winter",v98437616,2.5.15,3500.0
+2016,Quebec,Yield (kilograms per hectare),"Wheat, winter",v98437616,2.5.15,3900.0
+2015,Quebec,"Production (bushels x 1,000)",Barley,v98437617,2.6.1,7152.0
+2016,Quebec,"Production (bushels x 1,000)",Barley,v98437617,2.6.1,7163.0
+2015,Quebec,"Production (bushels x 1,000)",Canola,v98437618,2.6.3,1075.0
+2016,Quebec,"Production (bushels x 1,000)",Canola,v98437618,2.6.3,1129.0
+2015,Quebec,"Production (bushels x 1,000)",Corn for grain,v98437619,2.6.4,135375.0
+2016,Quebec,"Production (bushels x 1,000)",Corn for grain,v98437619,2.6.4,139829.0
+2015,Quebec,"Production (bushels x 1,000)",Mixed grains,v98437620,2.6.7,1677.0
+2016,Quebec,"Production (bushels x 1,000)",Mixed grains,v98437620,2.6.7,1883.0
+2015,Quebec,"Production (bushels x 1,000)",Oats,v98437621,2.6.9,16047.0
+2016,Quebec,"Production (bushels x 1,000)",Oats,v98437621,2.6.9,13132.0
+2015,Quebec,"Production (bushels x 1,000)","Rye, Fall",v98437622,2.6.11,..
+2016,Quebec,"Production (bushels x 1,000)","Rye, Fall",v98437622,2.6.11,..
+2015,Quebec,"Production (bushels x 1,000)",Soybeans,v98437623,2.6.12,32794.0
+2016,Quebec,"Production (bushels x 1,000)",Soybeans,v98437623,2.6.12,36908.0
+2015,Quebec,"Production (bushels x 1,000)","Wheat, spring",v98437624,2.6.14,8482.0
+2016,Quebec,"Production (bushels x 1,000)","Wheat, spring",v98437624,2.6.14,8876.0
+2015,Quebec,"Production (bushels x 1,000)","Wheat, winter",v98437625,2.6.15,1234.0
+2016,Quebec,"Production (bushels x 1,000)","Wheat, winter",v98437625,2.6.15,1843.0
+2015,Quebec,Production (metric tonnes),Barley,v98437626,2.8.1,155700.0
+2016,Quebec,Production (metric tonnes),Barley,v98437626,2.8.1,156000.0
+2015,Quebec,Production (metric tonnes),Canola,v98437627,2.8.3,24400.0
+2016,Quebec,Production (metric tonnes),Canola,v98437627,2.8.3,25600.0
+2015,Quebec,Production (metric tonnes),Corn for grain,v98437628,2.8.4,3438700.0
+2016,Quebec,Production (metric tonnes),Corn for grain,v98437628,2.8.4,3551800.0
+2015,Quebec,Production (metric tonnes),Mixed grains,v98437629,2.8.7,34200.0
+2016,Quebec,Production (metric tonnes),Mixed grains,v98437629,2.8.7,38400.0
+2015,Quebec,Production (metric tonnes),Oats,v98437630,2.8.9,247500.0
+2016,Quebec,Production (metric tonnes),Oats,v98437630,2.8.9,202500.0
+2015,Quebec,Production (metric tonnes),"Rye, Fall",v98437631,2.8.11,..
+2016,Quebec,Production (metric tonnes),"Rye, Fall",v98437631,2.8.11,..
+2015,Quebec,Production (metric tonnes),Soybeans,v98437632,2.8.12,892500.0
+2016,Quebec,Production (metric tonnes),Soybeans,v98437632,2.8.12,1004500.0
+2015,Quebec,Production (metric tonnes),"Wheat, spring",v98437633,2.8.14,230800.0
+2016,Quebec,Production (metric tonnes),"Wheat, spring",v98437633,2.8.14,241600.0
+2015,Quebec,Production (metric tonnes),"Wheat, winter",v98437634,2.8.15,33600.0
+2016,Quebec,Production (metric tonnes),"Wheat, winter",v98437634,2.8.15,50100.0
+2015,Ontario,Harvested area (acres),Barley,v98437635,3.1.1,110000.0
+2016,Ontario,Harvested area (acres),Barley,v98437635,3.1.1,95000.0
+2015,Ontario,Harvested area (acres),Canola,v98437636,3.1.3,35000.0
+2016,Ontario,Harvested area (acres),Canola,v98437636,3.1.3,35000.0
+2015,Ontario,Harvested area (acres),Corn for grain,v98437637,3.1.4,2040000.0
+2016,Ontario,Harvested area (acres),Corn for grain,v98437637,3.1.4,2015000.0
+2015,Ontario,Harvested area (acres),Mixed grains,v98437638,3.1.7,80000.0
+2016,Ontario,Harvested area (acres),Mixed grains,v98437638,3.1.7,70000.0
+2015,Ontario,Harvested area (acres),Oats,v98437639,3.1.9,115000.0
+2016,Ontario,Harvested area (acres),Oats,v98437639,3.1.9,50000.0
+2015,Ontario,Harvested area (acres),"Rye, Fall",v98437640,3.1.11,45000.0
+2016,Ontario,Harvested area (acres),"Rye, Fall",v98437640,3.1.11,55000.0
+2015,Ontario,Harvested area (acres),Soybeans,v98437641,3.1.12,2900000.0
+2016,Ontario,Harvested area (acres),Soybeans,v98437641,3.1.12,2695000.0
+2015,Ontario,Harvested area (acres),"Wheat, spring",v98437642,3.1.14,125000.0
+2016,Ontario,Harvested area (acres),"Wheat, spring",v98437642,3.1.14,90000.0
+2015,Ontario,Harvested area (acres),"Wheat, winter",v98437643,3.1.15,625000.0
+2016,Ontario,Harvested area (acres),"Wheat, winter",v98437643,3.1.15,975000.0
+2015,Ontario,Harvested area (hectares),Barley,v98437644,3.2.1,44500.0
+2016,Ontario,Harvested area (hectares),Barley,v98437644,3.2.1,38400.0
+2015,Ontario,Harvested area (hectares),Canola,v98437645,3.2.3,14200.0
+2016,Ontario,Harvested area (hectares),Canola,v98437645,3.2.3,14200.0
+2015,Ontario,Harvested area (hectares),Corn for grain,v98437646,3.2.4,825600.0
+2016,Ontario,Harvested area (hectares),Corn for grain,v98437646,3.2.4,815400.0
+2015,Ontario,Harvested area (hectares),Mixed grains,v98437647,3.2.7,32400.0
+2016,Ontario,Harvested area (hectares),Mixed grains,v98437647,3.2.7,28300.0
+2015,Ontario,Harvested area (hectares),Oats,v98437648,3.2.9,46500.0
+2016,Ontario,Harvested area (hectares),Oats,v98437648,3.2.9,20200.0
+2015,Ontario,Harvested area (hectares),"Rye, Fall",v98437649,3.2.11,18200.0
+2016,Ontario,Harvested area (hectares),"Rye, Fall",v98437649,3.2.11,22300.0
+2015,Ontario,Harvested area (hectares),Soybeans,v98437650,3.2.12,1173600.0
+2016,Ontario,Harvested area (hectares),Soybeans,v98437650,3.2.12,1090600.0
+2015,Ontario,Harvested area (hectares),"Wheat, spring",v98437651,3.2.14,50600.0
+2016,Ontario,Harvested area (hectares),"Wheat, spring",v98437651,3.2.14,36400.0
+2015,Ontario,Harvested area (hectares),"Wheat, winter",v98437652,3.2.15,252900.0
+2016,Ontario,Harvested area (hectares),"Wheat, winter",v98437652,3.2.15,394600.0
+2015,Ontario,Yield (bushels per acre),Barley,v98437653,3.3.1,65.5
+2016,Ontario,Yield (bushels per acre),Barley,v98437653,3.3.1,61.9
+2015,Ontario,Yield (bushels per acre),Canola,v98437654,3.3.3,37.7
+2016,Ontario,Yield (bushels per acre),Canola,v98437654,3.3.3,37.5
+2015,Ontario,Yield (bushels per acre),Corn for grain,v98437655,3.3.4,166.7
+2016,Ontario,Yield (bushels per acre),Corn for grain,v98437655,3.3.4,165.0
+2015,Ontario,Yield (bushels per acre),Mixed grains,v98437656,3.3.7,71.5
+2016,Ontario,Yield (bushels per acre),Mixed grains,v98437656,3.3.7,60.2
+2015,Ontario,Yield (bushels per acre),Oats,v98437657,3.3.9,79.8
+2016,Ontario,Yield (bushels per acre),Oats,v98437657,3.3.9,73.8
+2015,Ontario,Yield (bushels per acre),"Rye, Fall",v98437658,3.3.11,40.1
+2016,Ontario,Yield (bushels per acre),"Rye, Fall",v98437658,3.3.11,43.2
+2015,Ontario,Yield (bushels per acre),Soybeans,v98437659,3.3.12,46.2
+2016,Ontario,Yield (bushels per acre),Soybeans,v98437659,3.3.12,44.1
+2015,Ontario,Yield (bushels per acre),"Wheat, spring",v98437660,3.3.14,56.6
+2016,Ontario,Yield (bushels per acre),"Wheat, spring",v98437660,3.3.14,58.0
+2015,Ontario,Yield (bushels per acre),"Wheat, winter",v98437661,3.3.15,72.4
+2016,Ontario,Yield (bushels per acre),"Wheat, winter",v98437661,3.3.15,91.6
+2015,Ontario,Yield (kilograms per hectare),Barley,v98437662,3.5.1,3500.0
+2016,Ontario,Yield (kilograms per hectare),Barley,v98437662,3.5.1,3300.0
+2015,Ontario,Yield (kilograms per hectare),Canola,v98437663,3.5.3,2100.0
+2016,Ontario,Yield (kilograms per hectare),Canola,v98437663,3.5.3,2100.0
+2015,Ontario,Yield (kilograms per hectare),Corn for grain,v98437664,3.5.4,10500.0
+2016,Ontario,Yield (kilograms per hectare),Corn for grain,v98437664,3.5.4,10400.0
+2015,Ontario,Yield (kilograms per hectare),Mixed grains,v98437665,3.5.7,3200.0
+2016,Ontario,Yield (kilograms per hectare),Mixed grains,v98437665,3.5.7,2700.0
+2015,Ontario,Yield (kilograms per hectare),Oats,v98437666,3.5.9,3000.0
+2016,Ontario,Yield (kilograms per hectare),Oats,v98437666,3.5.9,2800.0
+2015,Ontario,Yield (kilograms per hectare),"Rye, Fall",v98437667,3.5.11,2500.0
+2016,Ontario,Yield (kilograms per hectare),"Rye, Fall",v98437667,3.5.11,2700.0
+2015,Ontario,Yield (kilograms per hectare),Soybeans,v98437668,3.5.12,3100.0
+2016,Ontario,Yield (kilograms per hectare),Soybeans,v98437668,3.5.12,3000.0
+2015,Ontario,Yield (kilograms per hectare),"Wheat, spring",v98437669,3.5.14,3800.0
+2016,Ontario,Yield (kilograms per hectare),"Wheat, spring",v98437669,3.5.14,3900.0
+2015,Ontario,Yield (kilograms per hectare),"Wheat, winter",v98437670,3.5.15,4900.0
+2016,Ontario,Yield (kilograms per hectare),"Wheat, winter",v98437670,3.5.15,6200.0
+2015,Ontario,"Production (bushels x 1,000)",Barley,v98437671,3.6.1,7205.0
+2016,Ontario,"Production (bushels x 1,000)",Barley,v98437671,3.6.1,5881.0
+2015,Ontario,"Production (bushels x 1,000)",Canola,v98437672,3.6.3,1320.0
+2016,Ontario,"Production (bushels x 1,000)",Canola,v98437672,3.6.3,1313.0
+2015,Ontario,"Production (bushels x 1,000)",Corn for grain,v98437673,3.6.4,340068.0
+2016,Ontario,"Production (bushels x 1,000)",Corn for grain,v98437673,3.6.4,332475.0
+2015,Ontario,"Production (bushels x 1,000)",Mixed grains,v98437674,3.6.7,5720.0
+2016,Ontario,"Production (bushels x 1,000)",Mixed grains,v98437674,3.6.7,4214.0
+2015,Ontario,"Production (bushels x 1,000)",Oats,v98437675,3.6.9,9177.0
+2016,Ontario,"Production (bushels x 1,000)",Oats,v98437675,3.6.9,3690.0
+2015,Ontario,"Production (bushels x 1,000)","Rye, Fall",v98437676,3.6.11,1805.0
+2016,Ontario,"Production (bushels x 1,000)","Rye, Fall",v98437676,3.6.11,2376.0
+2015,Ontario,"Production (bushels x 1,000)",Soybeans,v98437677,3.6.12,133980.0
+2016,Ontario,"Production (bushels x 1,000)",Soybeans,v98437677,3.6.12,118850.0
+2015,Ontario,"Production (bushels x 1,000)","Wheat, spring",v98437678,3.6.14,7075.0
+2016,Ontario,"Production (bushels x 1,000)","Wheat, spring",v98437678,3.6.14,5220.0
+2015,Ontario,"Production (bushels x 1,000)","Wheat, winter",v98437679,3.6.15,45250.0
+2016,Ontario,"Production (bushels x 1,000)","Wheat, winter",v98437679,3.6.15,89310.0
+2015,Ontario,Production (metric tonnes),Barley,v98437680,3.8.1,156900.0
+2016,Ontario,Production (metric tonnes),Barley,v98437680,3.8.1,128000.0
+2015,Ontario,Production (metric tonnes),Canola,v98437681,3.8.3,29900.0
+2016,Ontario,Production (metric tonnes),Canola,v98437681,3.8.3,29800.0
+2015,Ontario,Production (metric tonnes),Corn for grain,v98437682,3.8.4,8638100.0
+2016,Ontario,Production (metric tonnes),Corn for grain,v98437682,3.8.4,8445300.0
+2015,Ontario,Production (metric tonnes),Mixed grains,v98437683,3.8.7,103800.0
+2016,Ontario,Production (metric tonnes),Mixed grains,v98437683,3.8.7,76500.0
+2015,Ontario,Production (metric tonnes),Oats,v98437684,3.8.9,141500.0
+2016,Ontario,Production (metric tonnes),Oats,v98437684,3.8.9,56900.0
+2015,Ontario,Production (metric tonnes),"Rye, Fall",v98437685,3.8.11,45800.0
+2016,Ontario,Production (metric tonnes),"Rye, Fall",v98437685,3.8.11,60400.0
+2015,Ontario,Production (metric tonnes),Soybeans,v98437686,3.8.12,3646300.0
+2016,Ontario,Production (metric tonnes),Soybeans,v98437686,3.8.12,3234600.0
+2015,Ontario,Production (metric tonnes),"Wheat, spring",v98437687,3.8.14,192500.0
+2016,Ontario,Production (metric tonnes),"Wheat, spring",v98437687,3.8.14,142100.0
+2015,Ontario,Production (metric tonnes),"Wheat, winter",v98437688,3.8.15,1231500.0
+2016,Ontario,Production (metric tonnes),"Wheat, winter",v98437688,3.8.15,2430600.0
+2015,Prairie provinces,Harvested area (acres),Barley,v98437689,4.1.1,5455000.0
+2016,Prairie provinces,Harvested area (acres),Barley,v98437689,4.1.1,5440000.0
+2015,Prairie provinces,Harvested area (acres),Canary seed,v98437690,4.1.2,315000.0
+2016,Prairie provinces,Harvested area (acres),Canary seed,v98437690,4.1.2,250000.0
+2015,Prairie provinces,Harvested area (acres),Canola,v98437691,4.1.3,20410000.0
+2016,Prairie provinces,Harvested area (acres),Canola,v98437691,4.1.3,19585000.0
+2015,Prairie provinces,Harvested area (acres),Corn for grain,v98437692,4.1.4,245000.0
+2016,Prairie provinces,Harvested area (acres),Corn for grain,v98437692,4.1.4,320000.0
+2015,Prairie provinces,Harvested area (acres),Flaxseed,v98437693,4.1.5,1595000.0
+2016,Prairie provinces,Harvested area (acres),Flaxseed,v98437693,4.1.5,908000.0
+2015,Prairie provinces,Harvested area (acres),Lentils,v98437694,4.1.6,3745000.0
+2016,Prairie provinces,Harvested area (acres),Lentils,v98437694,4.1.6,4815000.0
+2015,Prairie provinces,Harvested area (acres),Mixed grains,v98437695,4.1.7,..
+2016,Prairie provinces,Harvested area (acres),Mixed grains,v98437695,4.1.7,..
+2015,Prairie provinces,Harvested area (acres),Mustard seed,v98437696,4.1.8,240000.0
+2016,Prairie provinces,Harvested area (acres),Mustard seed,v98437696,4.1.8,380000.0
+2015,Prairie provinces,Harvested area (acres),Oats,v98437697,4.1.9,2170000.0
+2016,Prairie provinces,Harvested area (acres),Oats,v98437697,4.1.9,1965000.0
+2015,Prairie provinces,Harvested area (acres),"Peas, dry",v98437698,4.1.10,3602000.0
+2016,Prairie provinces,Harvested area (acres),"Peas, dry",v98437698,4.1.10,4145000.0
+2015,Prairie provinces,Harvested area (acres),"Rye, Fall",v98437699,4.1.11,175000.0
+2016,Prairie provinces,Harvested area (acres),"Rye, Fall",v98437699,4.1.11,255000.0
+2015,Prairie provinces,Harvested area (acres),Soybeans,v98437700,4.1.12,1380000.0
+2016,Prairie provinces,Harvested area (acres),Soybeans,v98437700,4.1.12,1605000.0
+2015,Prairie provinces,Harvested area (acres),"Wheat, durum",v98437701,4.1.13,5750000.0
+2016,Prairie provinces,Harvested area (acres),"Wheat, durum",v98437701,4.1.13,6005000.0
+2015,Prairie provinces,Harvested area (acres),"Wheat, spring",v98437702,4.1.14,16210000.0
+2016,Prairie provinces,Harvested area (acres),"Wheat, spring",v98437702,4.1.14,14860000.0
+2015,Prairie provinces,Harvested area (acres),"Wheat, winter",v98437703,4.1.15,610000.0
+2016,Prairie provinces,Harvested area (acres),"Wheat, winter",v98437703,4.1.15,590000.0
+2015,Prairie provinces,Harvested area (hectares),Barley,v98437704,4.2.1,2207500.0
+2016,Prairie provinces,Harvested area (hectares),Barley,v98437704,4.2.1,2201400.0
+2015,Prairie provinces,Harvested area (hectares),Canary seed,v98437705,4.2.2,127500.0
+2016,Prairie provinces,Harvested area (hectares),Canary seed,v98437705,4.2.2,101200.0
+2015,Prairie provinces,Harvested area (hectares),Canola,v98437706,4.2.3,8259700.0
+2016,Prairie provinces,Harvested area (hectares),Canola,v98437706,4.2.3,7925700.0
+2015,Prairie provinces,Harvested area (hectares),Corn for grain,v98437707,4.2.4,99100.0
+2016,Prairie provinces,Harvested area (hectares),Corn for grain,v98437707,4.2.4,129500.0
+2015,Prairie provinces,Harvested area (hectares),Flaxseed,v98437708,4.2.5,645500.0
+2016,Prairie provinces,Harvested area (hectares),Flaxseed,v98437708,4.2.5,367500.0
+2015,Prairie provinces,Harvested area (hectares),Lentils,v98437709,4.2.6,1515500.0
+2016,Prairie provinces,Harvested area (hectares),Lentils,v98437709,4.2.6,1948600.0
+2015,Prairie provinces,Harvested area (hectares),Mixed grains,v98437710,4.2.7,..
+2016,Prairie provinces,Harvested area (hectares),Mixed grains,v98437710,4.2.7,..
+2015,Prairie provinces,Harvested area (hectares),Mustard seed,v98437711,4.2.8,97100.0
+2016,Prairie provinces,Harvested area (hectares),Mustard seed,v98437711,4.2.8,153800.0
+2015,Prairie provinces,Harvested area (hectares),Oats,v98437712,4.2.9,878200.0
+2016,Prairie provinces,Harvested area (hectares),Oats,v98437712,4.2.9,795300.0
+2015,Prairie provinces,Harvested area (hectares),"Peas, dry",v98437713,4.2.10,1457700.0
+2016,Prairie provinces,Harvested area (hectares),"Peas, dry",v98437713,4.2.10,1677400.0
+2015,Prairie provinces,Harvested area (hectares),"Rye, Fall",v98437714,4.2.11,70800.0
+2016,Prairie provinces,Harvested area (hectares),"Rye, Fall",v98437714,4.2.11,103200.0
+2015,Prairie provinces,Harvested area (hectares),Soybeans,v98437715,4.2.12,558500.0
+2016,Prairie provinces,Harvested area (hectares),Soybeans,v98437715,4.2.12,649500.0
+2015,Prairie provinces,Harvested area (hectares),"Wheat, durum",v98437716,4.2.13,2327000.0
+2016,Prairie provinces,Harvested area (hectares),"Wheat, durum",v98437716,4.2.13,2430100.0
+2015,Prairie provinces,Harvested area (hectares),"Wheat, spring",v98437717,4.2.14,6559900.0
+2016,Prairie provinces,Harvested area (hectares),"Wheat, spring",v98437717,4.2.14,6013700.0
+2015,Prairie provinces,Harvested area (hectares),"Wheat, winter",v98437718,4.2.15,246800.0
+2016,Prairie provinces,Harvested area (hectares),"Wheat, winter",v98437718,4.2.15,238700.0
+2015,Prairie provinces,Yield (bushels per acre),Barley,v98437719,4.3.1,57.6
+2016,Prairie provinces,Yield (bushels per acre),Barley,v98437719,4.3.1,68.5
+2015,Prairie provinces,Yield (bushels per acre),Canola,v98437720,4.3.3,32.6
+2016,Prairie provinces,Yield (bushels per acre),Canola,v98437720,4.3.3,41.1
+2015,Prairie provinces,Yield (bushels per acre),Corn for grain,v98437721,4.3.4,121.2
+2016,Prairie provinces,Yield (bushels per acre),Corn for grain,v98437721,4.3.4,122.8
+2015,Prairie provinces,Yield (bushels per acre),Flaxseed,v98437722,4.3.5,20.5
+2016,Prairie provinces,Yield (bushels per acre),Flaxseed,v98437722,4.3.5,25.0
+2015,Prairie provinces,Yield (bushels per acre),Mixed grains,v98437723,4.3.7,..
+2016,Prairie provinces,Yield (bushels per acre),Mixed grains,v98437723,4.3.7,..
+2015,Prairie provinces,Yield (bushels per acre),Oats,v98437724,4.3.9,80.5
+2016,Prairie provinces,Yield (bushels per acre),Oats,v98437724,4.3.9,86.3
+2015,Prairie provinces,Yield (bushels per acre),"Peas, dry",v98437725,4.3.10,29.1
+2016,Prairie provinces,Yield (bushels per acre),"Peas, dry",v98437725,4.3.10,40.8
+2015,Prairie provinces,Yield (bushels per acre),"Rye, Fall",v98437726,4.3.11,37.7
+2016,Prairie provinces,Yield (bushels per acre),"Rye, Fall",v98437726,4.3.11,48.1
+2015,Prairie provinces,Yield (bushels per acre),Soybeans,v98437727,4.3.12,37.8
+2016,Prairie provinces,Yield (bushels per acre),Soybeans,v98437727,4.3.12,39.7
+2015,Prairie provinces,Yield (bushels per acre),"Wheat, durum",v98437728,4.3.13,30.9
+2016,Prairie provinces,Yield (bushels per acre),"Wheat, durum",v98437728,4.3.13,44.7
+2015,Prairie provinces,Yield (bushels per acre),"Wheat, spring",v98437729,4.3.14,40.3
+2016,Prairie provinces,Yield (bushels per acre),"Wheat, spring",v98437729,4.3.14,49.9
+2015,Prairie provinces,Yield (bushels per acre),"Wheat, winter",v98437730,4.3.15,53.3
+2016,Prairie provinces,Yield (bushels per acre),"Wheat, winter",v98437730,4.3.15,60.8
+2015,Prairie provinces,Yield (pounds per acre),Canary seed,v98437731,4.4.2,865.0
+2016,Prairie provinces,Yield (pounds per acre),Canary seed,v98437731,4.4.2,1143.0
+2015,Prairie provinces,Yield (pounds per acre),Lentils,v98437732,4.4.6,1151.0
+2016,Prairie provinces,Yield (pounds per acre),Lentils,v98437732,4.4.6,1296.0
+2015,Prairie provinces,Yield (pounds per acre),Mustard seed,v98437733,4.4.8,711.0
+2016,Prairie provinces,Yield (pounds per acre),Mustard seed,v98437733,4.4.8,965.0
+2015,Prairie provinces,Yield (kilograms per hectare),Barley,v98437734,4.5.1,3100.0
+2016,Prairie provinces,Yield (kilograms per hectare),Barley,v98437734,4.5.1,3700.0
+2015,Prairie provinces,Yield (kilograms per hectare),Canary seed,v98437735,4.5.2,1000.0
+2016,Prairie provinces,Yield (kilograms per hectare),Canary seed,v98437735,4.5.2,1300.0
+2015,Prairie provinces,Yield (kilograms per hectare),Canola,v98437736,4.5.3,1800.0
+2016,Prairie provinces,Yield (kilograms per hectare),Canola,v98437736,4.5.3,2300.0
+2015,Prairie provinces,Yield (kilograms per hectare),Corn for grain,v98437737,4.5.4,7600.0
+2016,Prairie provinces,Yield (kilograms per hectare),Corn for grain,v98437737,4.5.4,7700.0
+2015,Prairie provinces,Yield (kilograms per hectare),Flaxseed,v98437738,4.5.5,1300.0
+2016,Prairie provinces,Yield (kilograms per hectare),Flaxseed,v98437738,4.5.5,1600.0
+2015,Prairie provinces,Yield (kilograms per hectare),Lentils,v98437739,4.5.6,1300.0
+2016,Prairie provinces,Yield (kilograms per hectare),Lentils,v98437739,4.5.6,1500.0
+2015,Prairie provinces,Yield (kilograms per hectare),Mixed grains,v98437740,4.5.7,..
+2016,Prairie provinces,Yield (kilograms per hectare),Mixed grains,v98437740,4.5.7,..
+2015,Prairie provinces,Yield (kilograms per hectare),Mustard seed,v98437741,4.5.8,800.0
+2016,Prairie provinces,Yield (kilograms per hectare),Mustard seed,v98437741,4.5.8,1100.0
+2015,Prairie provinces,Yield (kilograms per hectare),Oats,v98437742,4.5.9,3100.0
+2016,Prairie provinces,Yield (kilograms per hectare),Oats,v98437742,4.5.9,3300.0
+2015,Prairie provinces,Yield (kilograms per hectare),"Peas, dry",v98437743,4.5.10,2000.0
+2016,Prairie provinces,Yield (kilograms per hectare),"Peas, dry",v98437743,4.5.10,2700.0
+2015,Prairie provinces,Yield (kilograms per hectare),"Rye, Fall",v98437744,4.5.11,2400.0
+2016,Prairie provinces,Yield (kilograms per hectare),"Rye, Fall",v98437744,4.5.11,3000.0
+2015,Prairie provinces,Yield (kilograms per hectare),Soybeans,v98437745,4.5.12,2500.0
+2016,Prairie provinces,Yield (kilograms per hectare),Soybeans,v98437745,4.5.12,2700.0
+2015,Prairie provinces,Yield (kilograms per hectare),"Wheat, durum",v98437746,4.5.13,2100.0
+2016,Prairie provinces,Yield (kilograms per hectare),"Wheat, durum",v98437746,4.5.13,3000.0
+2015,Prairie provinces,Yield (kilograms per hectare),"Wheat, spring",v98437747,4.5.14,2700.0
+2016,Prairie provinces,Yield (kilograms per hectare),"Wheat, spring",v98437747,4.5.14,3400.0
+2015,Prairie provinces,Yield (kilograms per hectare),"Wheat, winter",v98437748,4.5.15,3600.0
+2016,Prairie provinces,Yield (kilograms per hectare),"Wheat, winter",v98437748,4.5.15,4100.0
+2015,Prairie provinces,"Production (bushels x 1,000)",Barley,v98437749,4.6.1,314640.0
+2016,Prairie provinces,"Production (bushels x 1,000)",Barley,v98437749,4.6.1,372850.0
+2015,Prairie provinces,"Production (bushels x 1,000)",Canola,v98437750,4.6.3,664096.0
+2016,Prairie provinces,"Production (bushels x 1,000)",Canola,v98437750,4.6.3,804860.0
+2015,Prairie provinces,"Production (bushels x 1,000)",Corn for grain,v98437751,4.6.4,29694.0
+2016,Prairie provinces,"Production (bushels x 1,000)",Corn for grain,v98437751,4.6.4,39296.0
+2015,Prairie provinces,"Production (bushels x 1,000)",Flaxseed,v98437752,4.6.5,32720.0
+2016,Prairie provinces,"Production (bushels x 1,000)",Flaxseed,v98437752,4.6.5,22694.0
+2015,Prairie provinces,"Production (bushels x 1,000)",Mixed grains,v98437753,4.6.7,..
+2016,Prairie provinces,"Production (bushels x 1,000)",Mixed grains,v98437753,4.6.7,..
+2015,Prairie provinces,"Production (bushels x 1,000)",Oats,v98437754,4.6.9,174501.0
+2016,Prairie provinces,"Production (bushels x 1,000)",Oats,v98437754,4.6.9,169526.0
+2015,Prairie provinces,"Production (bushels x 1,000)","Peas, dry",v98437755,4.6.10,104727.0
+2016,Prairie provinces,"Production (bushels x 1,000)","Peas, dry",v98437755,4.6.10,169309.0
+2015,Prairie provinces,"Production (bushels x 1,000)","Rye, Fall",v98437756,4.6.11,6597.0
+2016,Prairie provinces,"Production (bushels x 1,000)","Rye, Fall",v98437756,4.6.11,12269.0
+2015,Prairie provinces,"Production (bushels x 1,000)",Soybeans,v98437757,4.6.12,52164.0
+2016,Prairie provinces,"Production (bushels x 1,000)",Soybeans,v98437757,4.6.12,63719.0
+2015,Prairie provinces,"Production (bushels x 1,000)","Wheat, durum",v98437758,4.6.13,177491.0
+2016,Prairie provinces,"Production (bushels x 1,000)","Wheat, durum",v98437758,4.6.13,268653.0
+2015,Prairie provinces,"Production (bushels x 1,000)","Wheat, spring",v98437759,4.6.14,651867.0
+2016,Prairie provinces,"Production (bushels x 1,000)","Wheat, spring",v98437759,4.6.14,741092.0
+2015,Prairie provinces,"Production (bushels x 1,000)","Wheat, winter",v98437760,4.6.15,32507.0
+2016,Prairie provinces,"Production (bushels x 1,000)","Wheat, winter",v98437760,4.6.15,35872.0
+2015,Prairie provinces,"Production (pounds x 1,000)",Canary seed,v98437761,4.7.2,272410.0
+2016,Prairie provinces,"Production (pounds x 1,000)",Canary seed,v98437761,4.7.2,285780.0
+2015,Prairie provinces,"Production (pounds x 1,000)",Lentils,v98437762,4.7.6,4311240.0
+2016,Prairie provinces,"Production (pounds x 1,000)",Lentils,v98437762,4.7.6,6240240.0
+2015,Prairie provinces,"Production (pounds x 1,000)",Mustard seed,v98437763,4.7.8,170690.0
+2016,Prairie provinces,"Production (pounds x 1,000)",Mustard seed,v98437763,4.7.8,366700.0
+2015,Prairie provinces,Production (metric tonnes),Barley,v98437764,4.8.1,6850500.0
+2016,Prairie provinces,Production (metric tonnes),Barley,v98437764,4.8.1,8117900.0
+2015,Prairie provinces,Production (metric tonnes),Canary seed,v98437765,4.8.2,123600.0
+2016,Prairie provinces,Production (metric tonnes),Canary seed,v98437765,4.8.2,129600.0
+2015,Prairie provinces,Production (metric tonnes),Canola,v98437766,4.8.3,15061400.0
+2016,Prairie provinces,Production (metric tonnes),Canola,v98437766,4.8.3,18253900.0
+2015,Prairie provinces,Production (metric tonnes),Corn for grain,v98437767,4.8.4,754300.0
+2016,Prairie provinces,Production (metric tonnes),Corn for grain,v98437767,4.8.4,998200.0
+2015,Prairie provinces,Production (metric tonnes),Flaxseed,v98437768,4.8.5,831100.0
+2016,Prairie provinces,Production (metric tonnes),Flaxseed,v98437768,4.8.5,576400.0
+2015,Prairie provinces,Production (metric tonnes),Lentils,v98437769,4.8.6,1955500.0
+2016,Prairie provinces,Production (metric tonnes),Lentils,v98437769,4.8.6,2830500.0
+2015,Prairie provinces,Production (metric tonnes),Mixed grains,v98437770,4.8.7,..
+2016,Prairie provinces,Production (metric tonnes),Mixed grains,v98437770,4.8.7,..
+2015,Prairie provinces,Production (metric tonnes),Mustard seed,v98437771,4.8.8,77400.0
+2016,Prairie provinces,Production (metric tonnes),Mustard seed,v98437771,4.8.8,166300.0
+2015,Prairie provinces,Production (metric tonnes),Oats,v98437772,4.8.9,2691200.0
+2016,Prairie provinces,Production (metric tonnes),Oats,v98437772,4.8.9,2614400.0
+2015,Prairie provinces,Production (metric tonnes),"Peas, dry",v98437773,4.8.10,2850200.0
+2016,Prairie provinces,Production (metric tonnes),"Peas, dry",v98437773,4.8.10,4607800.0
+2015,Prairie provinces,Production (metric tonnes),"Rye, Fall",v98437774,4.8.11,167600.0
+2016,Prairie provinces,Production (metric tonnes),"Rye, Fall",v98437774,4.8.11,311600.0
+2015,Prairie provinces,Production (metric tonnes),Soybeans,v98437775,4.8.12,1419700.0
+2016,Prairie provinces,Production (metric tonnes),Soybeans,v98437775,4.8.12,1734100.0
+2015,Prairie provinces,Production (metric tonnes),"Wheat, durum",v98437776,4.8.13,4830500.0
+2016,Prairie provinces,Production (metric tonnes),"Wheat, durum",v98437776,4.8.13,7311500.0
+2015,Prairie provinces,Production (metric tonnes),"Wheat, spring",v98437777,4.8.14,17740900.0
+2016,Prairie provinces,Production (metric tonnes),"Wheat, spring",v98437777,4.8.14,20169200.0
+2015,Prairie provinces,Production (metric tonnes),"Wheat, winter",v98437778,4.8.15,884700.0
+2016,Prairie provinces,Production (metric tonnes),"Wheat, winter",v98437778,4.8.15,976300.0
+2015,Manitoba,Harvested area (acres),Barley,v98437779,5.1.1,365000.0
+2016,Manitoba,Harvested area (acres),Barley,v98437779,5.1.1,330000.0
+2015,Manitoba,Harvested area (acres),Canary seed,v98437780,5.1.2,..
+2016,Manitoba,Harvested area (acres),Canary seed,v98437780,5.1.2,..
+2015,Manitoba,Harvested area (acres),Canola,v98437781,5.1.3,3130000.0
+2016,Manitoba,Harvested area (acres),Canola,v98437781,5.1.3,3050000.0
+2015,Manitoba,Harvested area (acres),Corn for grain,v98437782,5.1.4,245000.0
+2016,Manitoba,Harvested area (acres),Corn for grain,v98437782,5.1.4,320000.0
+2015,Manitoba,Harvested area (acres),Flaxseed,v98437783,5.1.5,120000.0
+2016,Manitoba,Harvested area (acres),Flaxseed,v98437783,5.1.5,83000.0
+2015,Manitoba,Harvested area (acres),Mixed grains,v98437784,5.1.7,..
+2016,Manitoba,Harvested area (acres),Mixed grains,v98437784,5.1.7,..
+2015,Manitoba,Harvested area (acres),Oats,v98437785,5.1.9,400000.0
+2016,Manitoba,Harvested area (acres),Oats,v98437785,5.1.9,360000.0
+2015,Manitoba,Harvested area (acres),"Peas, dry",v98437786,5.1.10,67000.0
+2016,Manitoba,Harvested area (acres),"Peas, dry",v98437786,5.1.10,160000.0
+2015,Manitoba,Harvested area (acres),"Rye, Fall",v98437787,5.1.11,65000.0
+2016,Manitoba,Harvested area (acres),"Rye, Fall",v98437787,5.1.11,90000.0
+2015,Manitoba,Harvested area (acres),Soybeans,v98437788,5.1.12,1380000.0
+2016,Manitoba,Harvested area (acres),Soybeans,v98437788,5.1.12,1605000.0
+2015,Manitoba,Harvested area (acres),"Wheat, spring",v98437789,5.1.14,2860000.0
+2016,Manitoba,Harvested area (acres),"Wheat, spring",v98437789,5.1.14,2775000.0
+2015,Manitoba,Harvested area (acres),"Wheat, winter",v98437790,5.1.15,220000.0
+2016,Manitoba,Harvested area (acres),"Wheat, winter",v98437790,5.1.15,170000.0
+2015,Manitoba,Harvested area (hectares),Barley,v98437791,5.2.1,147700.0
+2016,Manitoba,Harvested area (hectares),Barley,v98437791,5.2.1,133500.0
+2015,Manitoba,Harvested area (hectares),Canary seed,v98437792,5.2.2,..
+2016,Manitoba,Harvested area (hectares),Canary seed,v98437792,5.2.2,..
+2015,Manitoba,Harvested area (hectares),Canola,v98437793,5.2.3,1266700.0
+2016,Manitoba,Harvested area (hectares),Canola,v98437793,5.2.3,1234300.0
+2015,Manitoba,Harvested area (hectares),Corn for grain,v98437794,5.2.4,99100.0
+2016,Manitoba,Harvested area (hectares),Corn for grain,v98437794,5.2.4,129500.0
+2015,Manitoba,Harvested area (hectares),Flaxseed,v98437795,5.2.5,48600.0
+2016,Manitoba,Harvested area (hectares),Flaxseed,v98437795,5.2.5,33600.0
+2015,Manitoba,Harvested area (hectares),Mixed grains,v98437796,5.2.7,..
+2016,Manitoba,Harvested area (hectares),Mixed grains,v98437796,5.2.7,..
+2015,Manitoba,Harvested area (hectares),Oats,v98437797,5.2.9,161900.0
+2016,Manitoba,Harvested area (hectares),Oats,v98437797,5.2.9,145700.0
+2015,Manitoba,Harvested area (hectares),"Peas, dry",v98437798,5.2.10,27100.0
+2016,Manitoba,Harvested area (hectares),"Peas, dry",v98437798,5.2.10,64700.0
+2015,Manitoba,Harvested area (hectares),"Rye, Fall",v98437799,5.2.11,26300.0
+2016,Manitoba,Harvested area (hectares),"Rye, Fall",v98437799,5.2.11,36400.0
+2015,Manitoba,Harvested area (hectares),Soybeans,v98437800,5.2.12,558500.0
+2016,Manitoba,Harvested area (hectares),Soybeans,v98437800,5.2.12,649500.0
+2015,Manitoba,Harvested area (hectares),"Wheat, spring",v98437801,5.2.14,1157400.0
+2016,Manitoba,Harvested area (hectares),"Wheat, spring",v98437801,5.2.14,1123000.0
+2015,Manitoba,Harvested area (hectares),"Wheat, winter",v98437802,5.2.15,89000.0
+2016,Manitoba,Harvested area (hectares),"Wheat, winter",v98437802,5.2.15,68800.0
+2015,Manitoba,Yield (bushels per acre),Barley,v98437803,5.3.1,72.0
+2016,Manitoba,Yield (bushels per acre),Barley,v98437803,5.3.1,69.2
+2015,Manitoba,Yield (bushels per acre),Canola,v98437804,5.3.3,39.4
+2016,Manitoba,Yield (bushels per acre),Canola,v98437804,5.3.3,41.9
+2015,Manitoba,Yield (bushels per acre),Corn for grain,v98437805,5.3.4,121.2
+2016,Manitoba,Yield (bushels per acre),Corn for grain,v98437805,5.3.4,122.8
+2015,Manitoba,Yield (bushels per acre),Flaxseed,v98437806,5.3.5,23.7
+2016,Manitoba,Yield (bushels per acre),Flaxseed,v98437806,5.3.5,25.7
+2015,Manitoba,Yield (bushels per acre),Mixed grains,v98437807,5.3.7,..
+2016,Manitoba,Yield (bushels per acre),Mixed grains,v98437807,5.3.7,..
+2015,Manitoba,Yield (bushels per acre),Oats,v98437808,5.3.9,88.5
+2016,Manitoba,Yield (bushels per acre),Oats,v98437808,5.3.9,90.4
+2015,Manitoba,Yield (bushels per acre),"Peas, dry",v98437809,5.3.10,37.8
+2016,Manitoba,Yield (bushels per acre),"Peas, dry",v98437809,5.3.10,41.1
+2015,Manitoba,Yield (bushels per acre),"Rye, Fall",v98437810,5.3.11,45.6
+2016,Manitoba,Yield (bushels per acre),"Rye, Fall",v98437810,5.3.11,55.3
+2015,Manitoba,Yield (bushels per acre),Soybeans,v98437811,5.3.12,37.8
+2016,Manitoba,Yield (bushels per acre),Soybeans,v98437811,5.3.12,39.7
+2015,Manitoba,Yield (bushels per acre),"Wheat, spring",v98437812,5.3.14,52.2
+2016,Manitoba,Yield (bushels per acre),"Wheat, spring",v98437812,5.3.14,52.3
+2015,Manitoba,Yield (bushels per acre),"Wheat, winter",v98437813,5.3.15,66.5
+2016,Manitoba,Yield (bushels per acre),"Wheat, winter",v98437813,5.3.15,67.4
+2015,Manitoba,Yield (pounds per acre),Canary seed,v98437814,5.4.2,..
+2016,Manitoba,Yield (pounds per acre),Canary seed,v98437814,5.4.2,..
+2015,Manitoba,Yield (kilograms per hectare),Barley,v98437815,5.5.1,3900.0
+2016,Manitoba,Yield (kilograms per hectare),Barley,v98437815,5.5.1,3700.0
+2015,Manitoba,Yield (kilograms per hectare),Canary seed,v98437816,5.5.2,..
+2016,Manitoba,Yield (kilograms per hectare),Canary seed,v98437816,5.5.2,..
+2015,Manitoba,Yield (kilograms per hectare),Canola,v98437817,5.5.3,2200.0
+2016,Manitoba,Yield (kilograms per hectare),Canola,v98437817,5.5.3,2300.0
+2015,Manitoba,Yield (kilograms per hectare),Corn for grain,v98437818,5.5.4,7600.0
+2016,Manitoba,Yield (kilograms per hectare),Corn for grain,v98437818,5.5.4,7700.0
+2015,Manitoba,Yield (kilograms per hectare),Flaxseed,v98437819,5.5.5,1500.0
+2016,Manitoba,Yield (kilograms per hectare),Flaxseed,v98437819,5.5.5,1600.0
+2015,Manitoba,Yield (kilograms per hectare),Mixed grains,v98437820,5.5.7,..
+2016,Manitoba,Yield (kilograms per hectare),Mixed grains,v98437820,5.5.7,..
+2015,Manitoba,Yield (kilograms per hectare),Oats,v98437821,5.5.9,3400.0
+2016,Manitoba,Yield (kilograms per hectare),Oats,v98437821,5.5.9,3400.0
+2015,Manitoba,Yield (kilograms per hectare),"Peas, dry",v98437822,5.5.10,2500.0
+2016,Manitoba,Yield (kilograms per hectare),"Peas, dry",v98437822,5.5.10,2800.0
+2015,Manitoba,Yield (kilograms per hectare),"Rye, Fall",v98437823,5.5.11,2900.0
+2016,Manitoba,Yield (kilograms per hectare),"Rye, Fall",v98437823,5.5.11,3500.0
+2015,Manitoba,Yield (kilograms per hectare),Soybeans,v98437824,5.5.12,2500.0
+2016,Manitoba,Yield (kilograms per hectare),Soybeans,v98437824,5.5.12,2700.0
+2015,Manitoba,Yield (kilograms per hectare),"Wheat, spring",v98437825,5.5.14,3500.0
+2016,Manitoba,Yield (kilograms per hectare),"Wheat, spring",v98437825,5.5.14,3500.0
+2015,Manitoba,Yield (kilograms per hectare),"Wheat, winter",v98437826,5.5.15,4500.0
+2016,Manitoba,Yield (kilograms per hectare),"Wheat, winter",v98437826,5.5.15,4500.0
+2015,Manitoba,"Production (bushels x 1,000)",Barley,v98437827,5.6.1,26280.0
+2016,Manitoba,"Production (bushels x 1,000)",Barley,v98437827,5.6.1,22836.0
+2015,Manitoba,"Production (bushels x 1,000)",Canola,v98437828,5.6.3,123322.0
+2016,Manitoba,"Production (bushels x 1,000)",Canola,v98437828,5.6.3,127795.0
+2015,Manitoba,"Production (bushels x 1,000)",Corn for grain,v98437829,5.6.4,29694.0
+2016,Manitoba,"Production (bushels x 1,000)",Corn for grain,v98437829,5.6.4,39296.0
+2015,Manitoba,"Production (bushels x 1,000)",Flaxseed,v98437830,5.6.5,2844.0
+2016,Manitoba,"Production (bushels x 1,000)",Flaxseed,v98437830,5.6.5,2133.0
+2015,Manitoba,"Production (bushels x 1,000)",Mixed grains,v98437831,5.6.7,..
+2016,Manitoba,"Production (bushels x 1,000)",Mixed grains,v98437831,5.6.7,..
+2015,Manitoba,"Production (bushels x 1,000)",Oats,v98437832,5.6.9,35400.0
+2016,Manitoba,"Production (bushels x 1,000)",Oats,v98437832,5.6.9,32544.0
+2015,Manitoba,"Production (bushels x 1,000)","Peas, dry",v98437833,5.6.10,2533.0
+2016,Manitoba,"Production (bushels x 1,000)","Peas, dry",v98437833,5.6.10,6576.0
+2015,Manitoba,"Production (bushels x 1,000)","Rye, Fall",v98437834,5.6.11,2964.0
+2016,Manitoba,"Production (bushels x 1,000)","Rye, Fall",v98437834,5.6.11,4977.0
+2015,Manitoba,"Production (bushels x 1,000)",Soybeans,v98437835,5.6.12,52164.0
+2016,Manitoba,"Production (bushels x 1,000)",Soybeans,v98437835,5.6.12,63719.0
+2015,Manitoba,"Production (bushels x 1,000)","Wheat, spring",v98437836,5.6.14,149292.0
+2016,Manitoba,"Production (bushels x 1,000)","Wheat, spring",v98437836,5.6.14,145133.0
+2015,Manitoba,"Production (bushels x 1,000)","Wheat, winter",v98437837,5.6.15,14630.0
+2016,Manitoba,"Production (bushels x 1,000)","Wheat, winter",v98437837,5.6.15,11458.0
+2015,Manitoba,"Production (pounds x 1,000)",Canary seed,v98437838,5.7.2,..
+2016,Manitoba,"Production (pounds x 1,000)",Canary seed,v98437838,5.7.2,..
+2015,Manitoba,Production (metric tonnes),Barley,v98437839,5.8.1,572200.0
+2016,Manitoba,Production (metric tonnes),Barley,v98437839,5.8.1,497200.0
+2015,Manitoba,Production (metric tonnes),Canary seed,v98437840,5.8.2,..
+2016,Manitoba,Production (metric tonnes),Canary seed,v98437840,5.8.2,..
+2015,Manitoba,Production (metric tonnes),Canola,v98437841,5.8.3,2796900.0
+2016,Manitoba,Production (metric tonnes),Canola,v98437841,5.8.3,2898300.0
+2015,Manitoba,Production (metric tonnes),Corn for grain,v98437842,5.8.4,754300.0
+2016,Manitoba,Production (metric tonnes),Corn for grain,v98437842,5.8.4,998200.0
+2015,Manitoba,Production (metric tonnes),Flaxseed,v98437843,5.8.5,72200.0
+2016,Manitoba,Production (metric tonnes),Flaxseed,v98437843,5.8.5,54200.0
+2015,Manitoba,Production (metric tonnes),Mixed grains,v98437844,5.8.7,..
+2016,Manitoba,Production (metric tonnes),Mixed grains,v98437844,5.8.7,..
+2015,Manitoba,Production (metric tonnes),Oats,v98437845,5.8.9,545900.0
+2016,Manitoba,Production (metric tonnes),Oats,v98437845,5.8.9,501900.0
+2015,Manitoba,Production (metric tonnes),"Peas, dry",v98437846,5.8.10,68900.0
+2016,Manitoba,Production (metric tonnes),"Peas, dry",v98437846,5.8.10,179000.0
+2015,Manitoba,Production (metric tonnes),"Rye, Fall",v98437847,5.8.11,75300.0
+2016,Manitoba,Production (metric tonnes),"Rye, Fall",v98437847,5.8.11,126400.0
+2015,Manitoba,Production (metric tonnes),Soybeans,v98437848,5.8.12,1419700.0
+2016,Manitoba,Production (metric tonnes),Soybeans,v98437848,5.8.12,1734100.0
+2015,Manitoba,Production (metric tonnes),"Wheat, spring",v98437849,5.8.14,4063100.0
+2016,Manitoba,Production (metric tonnes),"Wheat, spring",v98437849,5.8.14,3949900.0
+2015,Manitoba,Production (metric tonnes),"Wheat, winter",v98437850,5.8.15,398200.0
+2016,Manitoba,Production (metric tonnes),"Wheat, winter",v98437850,5.8.15,311800.0
+2015,Saskatchewan,Harvested area (acres),Barley,v98437851,6.1.1,2222000.0
+2016,Saskatchewan,Harvested area (acres),Barley,v98437851,6.1.1,2310000.0
+2015,Saskatchewan,Harvested area (acres),Canary seed,v98437852,6.1.2,315000.0
+2016,Saskatchewan,Harvested area (acres),Canary seed,v98437852,6.1.2,250000.0
+2015,Saskatchewan,Harvested area (acres),Canola,v98437853,6.1.3,11100000.0
+2016,Saskatchewan,Harvested area (acres),Canola,v98437853,6.1.3,10765000.0
+2015,Saskatchewan,Harvested area (acres),Flaxseed,v98437854,6.1.5,1360000.0
+2016,Saskatchewan,Harvested area (acres),Flaxseed,v98437854,6.1.5,765000.0
+2015,Saskatchewan,Harvested area (acres),Lentils,v98437855,6.1.6,3745000.0
+2016,Saskatchewan,Harvested area (acres),Lentils,v98437855,6.1.6,4815000.0
+2015,Saskatchewan,Harvested area (acres),Mixed grains,v98437856,6.1.7,..
+2016,Saskatchewan,Harvested area (acres),Mixed grains,v98437856,6.1.7,..
+2015,Saskatchewan,Harvested area (acres),Mustard seed,v98437857,6.1.8,240000.0
+2016,Saskatchewan,Harvested area (acres),Mustard seed,v98437857,6.1.8,380000.0
+2015,Saskatchewan,Harvested area (acres),Oats,v98437858,6.1.9,1430000.0
+2016,Saskatchewan,Harvested area (acres),Oats,v98437858,6.1.9,1165000.0
+2015,Saskatchewan,Harvested area (acres),"Peas, dry",v98437859,6.1.10,2115000.0
+2016,Saskatchewan,Harvested area (acres),"Peas, dry",v98437859,6.1.10,2150000.0
+2015,Saskatchewan,Harvested area (acres),"Rye, Fall",v98437860,6.1.11,80000.0
+2016,Saskatchewan,Harvested area (acres),"Rye, Fall",v98437860,6.1.11,120000.0
+2015,Saskatchewan,Harvested area (acres),"Wheat, durum",v98437861,6.1.13,4945000.0
+2016,Saskatchewan,Harvested area (acres),"Wheat, durum",v98437861,6.1.13,4910000.0
+2015,Saskatchewan,Harvested area (acres),"Wheat, spring",v98437862,6.1.14,7710000.0
+2016,Saskatchewan,Harvested area (acres),"Wheat, spring",v98437862,6.1.14,6780000.0
+2015,Saskatchewan,Harvested area (acres),"Wheat, winter",v98437863,6.1.15,240000.0
+2016,Saskatchewan,Harvested area (acres),"Wheat, winter",v98437863,6.1.15,240000.0
+2015,Saskatchewan,Harvested area (hectares),Barley,v98437864,6.2.1,898400.0
+2016,Saskatchewan,Harvested area (hectares),Barley,v98437864,6.2.1,934800.0
+2015,Saskatchewan,Harvested area (hectares),Canary seed,v98437865,6.2.2,127500.0
+2016,Saskatchewan,Harvested area (hectares),Canary seed,v98437865,6.2.2,101200.0
+2015,Saskatchewan,Harvested area (hectares),Canola,v98437866,6.2.3,4492000.0
+2016,Saskatchewan,Harvested area (hectares),Canola,v98437866,6.2.3,4356400.0
+2015,Saskatchewan,Harvested area (hectares),Flaxseed,v98437867,6.2.5,550400.0
+2016,Saskatchewan,Harvested area (hectares),Flaxseed,v98437867,6.2.5,309600.0
+2015,Saskatchewan,Harvested area (hectares),Lentils,v98437868,6.2.6,1515500.0
+2016,Saskatchewan,Harvested area (hectares),Lentils,v98437868,6.2.6,1948600.0
+2015,Saskatchewan,Harvested area (hectares),Mixed grains,v98437869,6.2.7,..
+2016,Saskatchewan,Harvested area (hectares),Mixed grains,v98437869,6.2.7,..
+2015,Saskatchewan,Harvested area (hectares),Mustard seed,v98437870,6.2.8,97100.0
+2016,Saskatchewan,Harvested area (hectares),Mustard seed,v98437870,6.2.8,153800.0
+2015,Saskatchewan,Harvested area (hectares),Oats,v98437871,6.2.9,578700.0
+2016,Saskatchewan,Harvested area (hectares),Oats,v98437871,6.2.9,471500.0
+2015,Saskatchewan,Harvested area (hectares),"Peas, dry",v98437872,6.2.10,855900.0
+2016,Saskatchewan,Harvested area (hectares),"Peas, dry",v98437872,6.2.10,870100.0
+2015,Saskatchewan,Harvested area (hectares),"Rye, Fall",v98437873,6.2.11,32400.0
+2016,Saskatchewan,Harvested area (hectares),"Rye, Fall",v98437873,6.2.11,48600.0
+2015,Saskatchewan,Harvested area (hectares),"Wheat, durum",v98437874,6.2.13,2001200.0
+2016,Saskatchewan,Harvested area (hectares),"Wheat, durum",v98437874,6.2.13,1987000.0
+2015,Saskatchewan,Harvested area (hectares),"Wheat, spring",v98437875,6.2.14,3120100.0
+2016,Saskatchewan,Harvested area (hectares),"Wheat, spring",v98437875,6.2.14,2743800.0
+2015,Saskatchewan,Harvested area (hectares),"Wheat, winter",v98437876,6.2.15,97100.0
+2016,Saskatchewan,Harvested area (hectares),"Wheat, winter",v98437876,6.2.15,97100.0
+2015,Saskatchewan,Yield (bushels per acre),Barley,v98437877,6.3.1,53.1
+2016,Saskatchewan,Yield (bushels per acre),Barley,v98437877,6.3.1,63.4
+2015,Saskatchewan,Yield (bushels per acre),Canola,v98437878,6.3.3,29.9
+2016,Saskatchewan,Yield (bushels per acre),Canola,v98437878,6.3.3,38.4
+2015,Saskatchewan,Yield (bushels per acre),Flaxseed,v98437879,6.3.5,19.6
+2016,Saskatchewan,Yield (bushels per acre),Flaxseed,v98437879,6.3.5,24.5
+2015,Saskatchewan,Yield (bushels per acre),Mixed grains,v98437880,6.3.7,..
+2016,Saskatchewan,Yield (bushels per acre),Mixed grains,v98437880,6.3.7,..
+2015,Saskatchewan,Yield (bushels per acre),Oats,v98437881,6.3.9,81.7
+2016,Saskatchewan,Yield (bushels per acre),Oats,v98437881,6.3.9,85.1
+2015,Saskatchewan,Yield (bushels per acre),"Peas, dry",v98437882,6.3.10,26.7
+2016,Saskatchewan,Yield (bushels per acre),"Peas, dry",v98437882,6.3.10,36.6
+2015,Saskatchewan,Yield (bushels per acre),"Rye, Fall",v98437883,6.3.11,31.5
+2016,Saskatchewan,Yield (bushels per acre),"Rye, Fall",v98437883,6.3.11,42.2
+2015,Saskatchewan,Yield (bushels per acre),"Wheat, durum",v98437884,6.3.13,30.0
+2016,Saskatchewan,Yield (bushels per acre),"Wheat, durum",v98437884,6.3.13,44.1
+2015,Saskatchewan,Yield (bushels per acre),"Wheat, spring",v98437885,6.3.14,34.9
+2016,Saskatchewan,Yield (bushels per acre),"Wheat, spring",v98437885,6.3.14,43.3
+2015,Saskatchewan,Yield (bushels per acre),"Wheat, winter",v98437886,6.3.15,45.3
+2016,Saskatchewan,Yield (bushels per acre),"Wheat, winter",v98437886,6.3.15,52.3
+2015,Saskatchewan,Yield (pounds per acre),Canary seed,v98437887,6.4.2,865.0
+2016,Saskatchewan,Yield (pounds per acre),Canary seed,v98437887,6.4.2,1143.0
+2015,Saskatchewan,Yield (pounds per acre),Lentils,v98437888,6.4.6,1151.0
+2016,Saskatchewan,Yield (pounds per acre),Lentils,v98437888,6.4.6,1296.0
+2015,Saskatchewan,Yield (pounds per acre),Mustard seed,v98437889,6.4.8,711.0
+2016,Saskatchewan,Yield (pounds per acre),Mustard seed,v98437889,6.4.8,965.0
+2015,Saskatchewan,Yield (kilograms per hectare),Barley,v98437890,6.5.1,2900.0
+2016,Saskatchewan,Yield (kilograms per hectare),Barley,v98437890,6.5.1,3400.0
+2015,Saskatchewan,Yield (kilograms per hectare),Canary seed,v98437891,6.5.2,1000.0
+2016,Saskatchewan,Yield (kilograms per hectare),Canary seed,v98437891,6.5.2,1300.0
+2015,Saskatchewan,Yield (kilograms per hectare),Canola,v98437892,6.5.3,1700.0
+2016,Saskatchewan,Yield (kilograms per hectare),Canola,v98437892,6.5.3,2200.0
+2015,Saskatchewan,Yield (kilograms per hectare),Flaxseed,v98437893,6.5.5,1200.0
+2016,Saskatchewan,Yield (kilograms per hectare),Flaxseed,v98437893,6.5.5,1500.0
+2015,Saskatchewan,Yield (kilograms per hectare),Lentils,v98437894,6.5.6,1300.0
+2016,Saskatchewan,Yield (kilograms per hectare),Lentils,v98437894,6.5.6,1500.0
+2015,Saskatchewan,Yield (kilograms per hectare),Mixed grains,v98437895,6.5.7,..
+2016,Saskatchewan,Yield (kilograms per hectare),Mixed grains,v98437895,6.5.7,..
+2015,Saskatchewan,Yield (kilograms per hectare),Mustard seed,v98437896,6.5.8,800.0
+2016,Saskatchewan,Yield (kilograms per hectare),Mustard seed,v98437896,6.5.8,1100.0
+2015,Saskatchewan,Yield (kilograms per hectare),Oats,v98437897,6.5.9,3100.0
+2016,Saskatchewan,Yield (kilograms per hectare),Oats,v98437897,6.5.9,3200.0
+2015,Saskatchewan,Yield (kilograms per hectare),"Peas, dry",v98437898,6.5.10,1800.0
+2016,Saskatchewan,Yield (kilograms per hectare),"Peas, dry",v98437898,6.5.10,2500.0
+2015,Saskatchewan,Yield (kilograms per hectare),"Rye, Fall",v98437899,6.5.11,2000.0
+2016,Saskatchewan,Yield (kilograms per hectare),"Rye, Fall",v98437899,6.5.11,2600.0
+2015,Saskatchewan,Yield (kilograms per hectare),"Wheat, durum",v98437900,6.5.13,2000.0
+2016,Saskatchewan,Yield (kilograms per hectare),"Wheat, durum",v98437900,6.5.13,3000.0
+2015,Saskatchewan,Yield (kilograms per hectare),"Wheat, spring",v98437901,6.5.14,2300.0
+2016,Saskatchewan,Yield (kilograms per hectare),"Wheat, spring",v98437901,6.5.14,2900.0
+2015,Saskatchewan,Yield (kilograms per hectare),"Wheat, winter",v98437902,6.5.15,3000.0
+2016,Saskatchewan,Yield (kilograms per hectare),"Wheat, winter",v98437902,6.5.15,3500.0
+2015,Saskatchewan,"Production (bushels x 1,000)",Barley,v98437903,6.6.1,117882.0
+2016,Saskatchewan,"Production (bushels x 1,000)",Barley,v98437903,6.6.1,146454.0
+2015,Saskatchewan,"Production (bushels x 1,000)",Canola,v98437904,6.6.3,331890.0
+2016,Saskatchewan,"Production (bushels x 1,000)",Canola,v98437904,6.6.3,413376.0
+2015,Saskatchewan,"Production (bushels x 1,000)",Flaxseed,v98437905,6.6.5,26656.0
+2016,Saskatchewan,"Production (bushels x 1,000)",Flaxseed,v98437905,6.6.5,18743.0
+2015,Saskatchewan,"Production (bushels x 1,000)",Mixed grains,v98437906,6.6.7,..
+2016,Saskatchewan,"Production (bushels x 1,000)",Mixed grains,v98437906,6.6.7,..
+2015,Saskatchewan,"Production (bushels x 1,000)",Oats,v98437907,6.6.9,116831.0
+2016,Saskatchewan,"Production (bushels x 1,000)",Oats,v98437907,6.6.9,99142.0
+2015,Saskatchewan,"Production (bushels x 1,000)","Peas, dry",v98437908,6.6.10,56471.0
+2016,Saskatchewan,"Production (bushels x 1,000)","Peas, dry",v98437908,6.6.10,78690.0
+2015,Saskatchewan,"Production (bushels x 1,000)","Rye, Fall",v98437909,6.6.11,2520.0
+2016,Saskatchewan,"Production (bushels x 1,000)","Rye, Fall",v98437909,6.6.11,5064.0
+2015,Saskatchewan,"Production (bushels x 1,000)","Wheat, durum",v98437910,6.6.13,148350.0
+2016,Saskatchewan,"Production (bushels x 1,000)","Wheat, durum",v98437910,6.6.13,216531.0
+2015,Saskatchewan,"Production (bushels x 1,000)","Wheat, spring",v98437911,6.6.14,269079.0
+2016,Saskatchewan,"Production (bushels x 1,000)","Wheat, spring",v98437911,6.6.14,293574.0
+2015,Saskatchewan,"Production (bushels x 1,000)","Wheat, winter",v98437912,6.6.15,10872.0
+2016,Saskatchewan,"Production (bushels x 1,000)","Wheat, winter",v98437912,6.6.15,12552.0
+2015,Saskatchewan,"Production (pounds x 1,000)",Canary seed,v98437913,6.7.2,272410.0
+2016,Saskatchewan,"Production (pounds x 1,000)",Canary seed,v98437913,6.7.2,285780.0
+2015,Saskatchewan,"Production (pounds x 1,000)",Lentils,v98437914,6.7.6,4311240.0
+2016,Saskatchewan,"Production (pounds x 1,000)",Lentils,v98437914,6.7.6,6240240.0
+2015,Saskatchewan,"Production (pounds x 1,000)",Mustard seed,v98437915,6.7.8,170690.0
+2016,Saskatchewan,"Production (pounds x 1,000)",Mustard seed,v98437915,6.7.8,366700.0
+2015,Saskatchewan,Production (metric tonnes),Barley,v98437916,6.8.1,2566600.0
+2016,Saskatchewan,Production (metric tonnes),Barley,v98437916,6.8.1,3188700.0
+2015,Saskatchewan,Production (metric tonnes),Canary seed,v98437917,6.8.2,123600.0
+2016,Saskatchewan,Production (metric tonnes),Canary seed,v98437917,6.8.2,129600.0
+2015,Saskatchewan,Production (metric tonnes),Canola,v98437918,6.8.3,7527100.0
+2016,Saskatchewan,Production (metric tonnes),Canola,v98437918,6.8.3,9375200.0
+2015,Saskatchewan,Production (metric tonnes),Flaxseed,v98437919,6.8.5,677100.0
+2016,Saskatchewan,Production (metric tonnes),Flaxseed,v98437919,6.8.5,476100.0
+2015,Saskatchewan,Production (metric tonnes),Lentils,v98437920,6.8.6,1955500.0
+2016,Saskatchewan,Production (metric tonnes),Lentils,v98437920,6.8.6,2830500.0
+2015,Saskatchewan,Production (metric tonnes),Mixed grains,v98437921,6.8.7,..
+2016,Saskatchewan,Production (metric tonnes),Mixed grains,v98437921,6.8.7,..
+2015,Saskatchewan,Production (metric tonnes),Mustard seed,v98437922,6.8.8,77400.0
+2016,Saskatchewan,Production (metric tonnes),Mustard seed,v98437922,6.8.8,166300.0
+2015,Saskatchewan,Production (metric tonnes),Oats,v98437923,6.8.9,1801800.0
+2016,Saskatchewan,Production (metric tonnes),Oats,v98437923,6.8.9,1529000.0
+2015,Saskatchewan,Production (metric tonnes),"Peas, dry",v98437924,6.8.10,1536900.0
+2016,Saskatchewan,Production (metric tonnes),"Peas, dry",v98437924,6.8.10,2141600.0
+2015,Saskatchewan,Production (metric tonnes),"Rye, Fall",v98437925,6.8.11,64000.0
+2016,Saskatchewan,Production (metric tonnes),"Rye, Fall",v98437925,6.8.11,128600.0
+2015,Saskatchewan,Production (metric tonnes),"Wheat, durum",v98437926,6.8.13,4037400.0
+2016,Saskatchewan,Production (metric tonnes),"Wheat, durum",v98437926,6.8.13,5893000.0
+2015,Saskatchewan,Production (metric tonnes),"Wheat, spring",v98437927,6.8.14,7323100.0
+2016,Saskatchewan,Production (metric tonnes),"Wheat, spring",v98437927,6.8.14,7989800.0
+2015,Saskatchewan,Production (metric tonnes),"Wheat, winter",v98437928,6.8.15,295900.0
+2016,Saskatchewan,Production (metric tonnes),"Wheat, winter",v98437928,6.8.15,341600.0
+2015,Alberta,Harvested area (acres),Barley,v98437929,7.1.1,2870000.0
+2016,Alberta,Harvested area (acres),Barley,v98437929,7.1.1,2800000.0
+2015,Alberta,Harvested area (acres),Canary seed,v98437930,7.1.2,..
+2016,Alberta,Harvested area (acres),Canary seed,v98437930,7.1.2,..
+2015,Alberta,Harvested area (acres),Canola,v98437931,7.1.3,6180000.0
+2016,Alberta,Harvested area (acres),Canola,v98437931,7.1.3,5770000.0
+2015,Alberta,Harvested area (acres),Corn for grain,v98437932,7.1.4,..
+2016,Alberta,Harvested area (acres),Corn for grain,v98437932,7.1.4,..
+2015,Alberta,Harvested area (acres),Flaxseed,v98437933,7.1.5,115000.0
+2016,Alberta,Harvested area (acres),Flaxseed,v98437933,7.1.5,60000.0
+2015,Alberta,Harvested area (acres),Lentils,v98437934,7.1.6,..
+2016,Alberta,Harvested area (acres),Lentils,v98437934,7.1.6,..
+2015,Alberta,Harvested area (acres),Mixed grains,v98437935,7.1.7,..
+2016,Alberta,Harvested area (acres),Mixed grains,v98437935,7.1.7,..
+2015,Alberta,Harvested area (acres),Mustard seed,v98437936,7.1.8,..
+2016,Alberta,Harvested area (acres),Mustard seed,v98437936,7.1.8,..
+2015,Alberta,Harvested area (acres),Oats,v98437937,7.1.9,340000.0
+2016,Alberta,Harvested area (acres),Oats,v98437937,7.1.9,440000.0
+2015,Alberta,Harvested area (acres),"Peas, dry",v98437938,7.1.10,1420000.0
+2016,Alberta,Harvested area (acres),"Peas, dry",v98437938,7.1.10,1835000.0
+2015,Alberta,Harvested area (acres),"Rye, Fall",v98437939,7.1.11,30000.0
+2016,Alberta,Harvested area (acres),"Rye, Fall",v98437939,7.1.11,45000.0
+2015,Alberta,Harvested area (acres),"Wheat, durum",v98437940,7.1.13,805000.0
+2016,Alberta,Harvested area (acres),"Wheat, durum",v98437940,7.1.13,1095000.0
+2015,Alberta,Harvested area (acres),"Wheat, spring",v98437941,7.1.14,5640000.0
+2016,Alberta,Harvested area (acres),"Wheat, spring",v98437941,7.1.14,5305000.0
+2015,Alberta,Harvested area (acres),"Wheat, winter",v98437942,7.1.15,150000.0
+2016,Alberta,Harvested area (acres),"Wheat, winter",v98437942,7.1.15,180000.0
+2015,Alberta,Harvested area (hectares),Barley,v98437943,7.2.1,1161400.0
+2016,Alberta,Harvested area (hectares),Barley,v98437943,7.2.1,1133100.0
+2015,Alberta,Harvested area (hectares),Canary seed,v98437944,7.2.2,..
+2016,Alberta,Harvested area (hectares),Canary seed,v98437944,7.2.2,..
+2015,Alberta,Harvested area (hectares),Canola,v98437945,7.2.3,2501000.0
+2016,Alberta,Harvested area (hectares),Canola,v98437945,7.2.3,2335000.0
+2015,Alberta,Harvested area (hectares),Corn for grain,v98437946,7.2.4,..
+2016,Alberta,Harvested area (hectares),Corn for grain,v98437946,7.2.4,..
+2015,Alberta,Harvested area (hectares),Flaxseed,v98437947,7.2.5,46500.0
+2016,Alberta,Harvested area (hectares),Flaxseed,v98437947,7.2.5,24300.0
+2015,Alberta,Harvested area (hectares),Lentils,v98437948,7.2.6,..
+2016,Alberta,Harvested area (hectares),Lentils,v98437948,7.2.6,..
+2015,Alberta,Harvested area (hectares),Mixed grains,v98437949,7.2.7,..
+2016,Alberta,Harvested area (hectares),Mixed grains,v98437949,7.2.7,..
+2015,Alberta,Harvested area (hectares),Mustard seed,v98437950,7.2.8,..
+2016,Alberta,Harvested area (hectares),Mustard seed,v98437950,7.2.8,..
+2015,Alberta,Harvested area (hectares),Oats,v98437951,7.2.9,137600.0
+2016,Alberta,Harvested area (hectares),Oats,v98437951,7.2.9,178100.0
+2015,Alberta,Harvested area (hectares),"Peas, dry",v98437952,7.2.10,574700.0
+2016,Alberta,Harvested area (hectares),"Peas, dry",v98437952,7.2.10,742600.0
+2015,Alberta,Harvested area (hectares),"Rye, Fall",v98437953,7.2.11,12100.0
+2016,Alberta,Harvested area (hectares),"Rye, Fall",v98437953,7.2.11,18200.0
+2015,Alberta,Harvested area (hectares),"Wheat, durum",v98437954,7.2.13,325800.0
+2016,Alberta,Harvested area (hectares),"Wheat, durum",v98437954,7.2.13,443100.0
+2015,Alberta,Harvested area (hectares),"Wheat, spring",v98437955,7.2.14,2282400.0
+2016,Alberta,Harvested area (hectares),"Wheat, spring",v98437955,7.2.14,2146900.0
+2015,Alberta,Harvested area (hectares),"Wheat, winter",v98437956,7.2.15,60700.0
+2016,Alberta,Harvested area (hectares),"Wheat, winter",v98437956,7.2.15,72800.0
+2015,Alberta,Yield (bushels per acre),Barley,v98437957,7.3.1,59.4
+2016,Alberta,Yield (bushels per acre),Barley,v98437957,7.3.1,72.7
+2015,Alberta,Yield (bushels per acre),Canola,v98437958,7.3.3,33.8
+2016,Alberta,Yield (bushels per acre),Canola,v98437958,7.3.3,45.7
+2015,Alberta,Yield (bushels per acre),Corn for grain,v98437959,7.3.4,..
+2016,Alberta,Yield (bushels per acre),Corn for grain,v98437959,7.3.4,..
+2015,Alberta,Yield (bushels per acre),Flaxseed,v98437960,7.3.5,28.0
+2016,Alberta,Yield (bushels per acre),Flaxseed,v98437960,7.3.5,30.3
+2015,Alberta,Yield (bushels per acre),Mixed grains,v98437961,7.3.7,..
+2016,Alberta,Yield (bushels per acre),Mixed grains,v98437961,7.3.7,..
+2015,Alberta,Yield (bushels per acre),Oats,v98437962,7.3.9,65.5
+2016,Alberta,Yield (bushels per acre),Oats,v98437962,7.3.9,86.0
+2015,Alberta,Yield (bushels per acre),"Peas, dry",v98437963,7.3.10,32.2
+2016,Alberta,Yield (bushels per acre),"Peas, dry",v98437963,7.3.10,45.8
+2015,Alberta,Yield (bushels per acre),"Rye, Fall",v98437964,7.3.11,37.1
+2016,Alberta,Yield (bushels per acre),"Rye, Fall",v98437964,7.3.11,49.5
+2015,Alberta,Yield (bushels per acre),"Wheat, durum",v98437965,7.3.13,36.2
+2016,Alberta,Yield (bushels per acre),"Wheat, durum",v98437965,7.3.13,47.6
+2015,Alberta,Yield (bushels per acre),"Wheat, spring",v98437966,7.3.14,41.4
+2016,Alberta,Yield (bushels per acre),"Wheat, spring",v98437966,7.3.14,57.0
+2015,Alberta,Yield (bushels per acre),"Wheat, winter",v98437967,7.3.15,46.7
+2016,Alberta,Yield (bushels per acre),"Wheat, winter",v98437967,7.3.15,65.9
+2015,Alberta,Yield (pounds per acre),Canary seed,v98437968,7.4.2,..
+2016,Alberta,Yield (pounds per acre),Canary seed,v98437968,7.4.2,..
+2015,Alberta,Yield (pounds per acre),Lentils,v98437969,7.4.6,..
+2016,Alberta,Yield (pounds per acre),Lentils,v98437969,7.4.6,..
+2015,Alberta,Yield (pounds per acre),Mustard seed,v98437970,7.4.8,..
+2016,Alberta,Yield (pounds per acre),Mustard seed,v98437970,7.4.8,..
+2015,Alberta,Yield (kilograms per hectare),Barley,v98437971,7.5.1,3200.0
+2016,Alberta,Yield (kilograms per hectare),Barley,v98437971,7.5.1,3900.0
+2015,Alberta,Yield (kilograms per hectare),Canary seed,v98437972,7.5.2,..
+2016,Alberta,Yield (kilograms per hectare),Canary seed,v98437972,7.5.2,..
+2015,Alberta,Yield (kilograms per hectare),Canola,v98437973,7.5.3,1900.0
+2016,Alberta,Yield (kilograms per hectare),Canola,v98437973,7.5.3,2600.0
+2015,Alberta,Yield (kilograms per hectare),Corn for grain,v98437974,7.5.4,..
+2016,Alberta,Yield (kilograms per hectare),Corn for grain,v98437974,7.5.4,..
+2015,Alberta,Yield (kilograms per hectare),Flaxseed,v98437975,7.5.5,1800.0
+2016,Alberta,Yield (kilograms per hectare),Flaxseed,v98437975,7.5.5,1900.0
+2015,Alberta,Yield (kilograms per hectare),Lentils,v98437976,7.5.6,..
+2016,Alberta,Yield (kilograms per hectare),Lentils,v98437976,7.5.6,..
+2015,Alberta,Yield (kilograms per hectare),Mixed grains,v98437977,7.5.7,..
+2016,Alberta,Yield (kilograms per hectare),Mixed grains,v98437977,7.5.7,..
+2015,Alberta,Yield (kilograms per hectare),Mustard seed,v98437978,7.5.8,..
+2016,Alberta,Yield (kilograms per hectare),Mustard seed,v98437978,7.5.8,..
+2015,Alberta,Yield (kilograms per hectare),Oats,v98437979,7.5.9,2500.0
+2016,Alberta,Yield (kilograms per hectare),Oats,v98437979,7.5.9,3300.0
+2015,Alberta,Yield (kilograms per hectare),"Peas, dry",v98437980,7.5.10,2200.0
+2016,Alberta,Yield (kilograms per hectare),"Peas, dry",v98437980,7.5.10,3100.0
+2015,Alberta,Yield (kilograms per hectare),"Rye, Fall",v98437981,7.5.11,2300.0
+2016,Alberta,Yield (kilograms per hectare),"Rye, Fall",v98437981,7.5.11,3100.0
+2015,Alberta,Yield (kilograms per hectare),"Wheat, durum",v98437982,7.5.13,2400.0
+2016,Alberta,Yield (kilograms per hectare),"Wheat, durum",v98437982,7.5.13,3200.0
+2015,Alberta,Yield (kilograms per hectare),"Wheat, spring",v98437983,7.5.14,2800.0
+2016,Alberta,Yield (kilograms per hectare),"Wheat, spring",v98437983,7.5.14,3800.0
+2015,Alberta,Yield (kilograms per hectare),"Wheat, winter",v98437984,7.5.15,3100.0
+2016,Alberta,Yield (kilograms per hectare),"Wheat, winter",v98437984,7.5.15,4400.0
+2015,Alberta,"Production (bushels x 1,000)",Barley,v98437985,7.6.1,170478.0
+2016,Alberta,"Production (bushels x 1,000)",Barley,v98437985,7.6.1,203560.0
+2015,Alberta,"Production (bushels x 1,000)",Canola,v98437986,7.6.3,208884.0
+2016,Alberta,"Production (bushels x 1,000)",Canola,v98437986,7.6.3,263689.0
+2015,Alberta,"Production (bushels x 1,000)",Corn for grain,v98437987,7.6.4,..
+2016,Alberta,"Production (bushels x 1,000)",Corn for grain,v98437987,7.6.4,..
+2015,Alberta,"Production (bushels x 1,000)",Flaxseed,v98437988,7.6.5,3220.0
+2016,Alberta,"Production (bushels x 1,000)",Flaxseed,v98437988,7.6.5,1818.0
+2015,Alberta,"Production (bushels x 1,000)",Mixed grains,v98437989,7.6.7,..
+2016,Alberta,"Production (bushels x 1,000)",Mixed grains,v98437989,7.6.7,..
+2015,Alberta,"Production (bushels x 1,000)",Oats,v98437990,7.6.9,22270.0
+2016,Alberta,"Production (bushels x 1,000)",Oats,v98437990,7.6.9,37840.0
+2015,Alberta,"Production (bushels x 1,000)","Peas, dry",v98437991,7.6.10,45724.0
+2016,Alberta,"Production (bushels x 1,000)","Peas, dry",v98437991,7.6.10,84043.0
+2015,Alberta,"Production (bushels x 1,000)","Rye, Fall",v98437992,7.6.11,1113.0
+2016,Alberta,"Production (bushels x 1,000)","Rye, Fall",v98437992,7.6.11,2228.0
+2015,Alberta,"Production (bushels x 1,000)","Wheat, durum",v98437993,7.6.13,29141.0
+2016,Alberta,"Production (bushels x 1,000)","Wheat, durum",v98437993,7.6.13,52122.0
+2015,Alberta,"Production (bushels x 1,000)","Wheat, spring",v98437994,7.6.14,233496.0
+2016,Alberta,"Production (bushels x 1,000)","Wheat, spring",v98437994,7.6.14,302385.0
+2015,Alberta,"Production (bushels x 1,000)","Wheat, winter",v98437995,7.6.15,7005.0
+2016,Alberta,"Production (bushels x 1,000)","Wheat, winter",v98437995,7.6.15,11862.0
+2015,Alberta,"Production (pounds x 1,000)",Canary seed,v98437996,7.7.2,..
+2016,Alberta,"Production (pounds x 1,000)",Canary seed,v98437996,7.7.2,..
+2015,Alberta,"Production (pounds x 1,000)",Lentils,v98437997,7.7.6,..
+2016,Alberta,"Production (pounds x 1,000)",Lentils,v98437997,7.7.6,..
+2015,Alberta,"Production (pounds x 1,000)",Mustard seed,v98437998,7.7.8,..
+2016,Alberta,"Production (pounds x 1,000)",Mustard seed,v98437998,7.7.8,..
+2015,Alberta,Production (metric tonnes),Barley,v98437999,7.8.1,3711700.0
+2016,Alberta,Production (metric tonnes),Barley,v98437999,7.8.1,4432000.0
+2015,Alberta,Production (metric tonnes),Canary seed,v98438000,7.8.2,..
+2016,Alberta,Production (metric tonnes),Canary seed,v98438000,7.8.2,..
+2015,Alberta,Production (metric tonnes),Canola,v98438001,7.8.3,4737400.0
+2016,Alberta,Production (metric tonnes),Canola,v98438001,7.8.3,5980400.0
+2015,Alberta,Production (metric tonnes),Corn for grain,v98438002,7.8.4,..
+2016,Alberta,Production (metric tonnes),Corn for grain,v98438002,7.8.4,..
+2015,Alberta,Production (metric tonnes),Flaxseed,v98438003,7.8.5,81800.0
+2016,Alberta,Production (metric tonnes),Flaxseed,v98438003,7.8.5,46200.0
+2015,Alberta,Production (metric tonnes),Lentils,v98438004,7.8.6,..
+2016,Alberta,Production (metric tonnes),Lentils,v98438004,7.8.6,..
+2015,Alberta,Production (metric tonnes),Mixed grains,v98438005,7.8.7,..
+2016,Alberta,Production (metric tonnes),Mixed grains,v98438005,7.8.7,..
+2015,Alberta,Production (metric tonnes),Mustard seed,v98438006,7.8.8,..
+2016,Alberta,Production (metric tonnes),Mustard seed,v98438006,7.8.8,..
+2015,Alberta,Production (metric tonnes),Oats,v98438007,7.8.9,343500.0
+2016,Alberta,Production (metric tonnes),Oats,v98438007,7.8.9,583600.0
+2015,Alberta,Production (metric tonnes),"Peas, dry",v98438008,7.8.10,1244400.0
+2016,Alberta,Production (metric tonnes),"Peas, dry",v98438008,7.8.10,2287300.0
+2015,Alberta,Production (metric tonnes),"Rye, Fall",v98438009,7.8.11,28300.0
+2016,Alberta,Production (metric tonnes),"Rye, Fall",v98438009,7.8.11,56600.0
+2015,Alberta,Production (metric tonnes),"Wheat, durum",v98438010,7.8.13,793100.0
+2016,Alberta,Production (metric tonnes),"Wheat, durum",v98438010,7.8.13,1418500.0
+2015,Alberta,Production (metric tonnes),"Wheat, spring",v98438011,7.8.14,6354700.0
+2016,Alberta,Production (metric tonnes),"Wheat, spring",v98438011,7.8.14,8229600.0
+2015,Alberta,Production (metric tonnes),"Wheat, winter",v98438012,7.8.15,190600.0
+2016,Alberta,Production (metric tonnes),"Wheat, winter",v98438012,7.8.15,322800.0

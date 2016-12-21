@@ -1,0 +1,541 @@
+Ref_Date,GEO,SALES,Vector,Coordinate,Value
+2007,Canada,Total sales,v52222434,1.1,644808072.00000000
+2008,Canada,Total sales,v52222434,1.1,701405365.00000000
+2009,Canada,Total sales,v52222434,1.1,704801563.00000000
+2010,Canada,Total sales,v52222434,1.1,718273171.00000000
+2011,Canada,Total sales,v52222434,1.1,707652125.00000000
+2012,Canada,Total sales,v52222434,1.1,692413079.00000000
+2013,Canada,Total sales,v52222434,1.1,680417284.00000000
+2014,Canada,Total sales,v52222434,1.1,688336377.00000000
+2015,Canada,Total sales,v52222434,1.1,712641262.00000000
+2007,Canada,Direct sales to the public,v52222380,1.2,94972352.00000000
+2008,Canada,Direct sales to the public,v52222380,1.2,78966045.00000000
+2009,Canada,Direct sales to the public,v52222380,1.2,82098806.00000000
+2010,Canada,Direct sales to the public,v52222380,1.2,79948687.00000000
+2011,Canada,Direct sales to the public,v52222380,1.2,85403905.00000000
+2012,Canada,Direct sales to the public,v52222380,1.2,95490577.00000000
+2013,Canada,Direct sales to the public,v52222380,1.2,85172695.00000000
+2014,Canada,Direct sales to the public,v52222380,1.2,74812817.00000000
+2015,Canada,Direct sales to the public,v52222380,1.2,74288492.00000000
+2007,Canada,Fruit growers,v52222386,1.3,19797995.00000000
+2008,Canada,Fruit growers,v52222386,1.3,24536823.00000000
+2009,Canada,Fruit growers,v52222386,1.3,21444515.00000000
+2010,Canada,Fruit growers,v52222386,1.3,25426913.00000000
+2011,Canada,Fruit growers,v52222386,1.3,27871620.00000000
+2012,Canada,Fruit growers,v52222386,1.3,F
+2013,Canada,Fruit growers,v52222386,1.3,29413782.00000000
+2014,Canada,Fruit growers,v52222386,1.3,31344390.00000000
+2015,Canada,Fruit growers,v52222386,1.3,32423624.00000000
+2007,Canada,Landscape contractors,v52222392,1.4,162350747.00000000
+2008,Canada,Landscape contractors,v52222392,1.4,182223575.00000000
+2009,Canada,Landscape contractors,v52222392,1.4,167871799.00000000
+2010,Canada,Landscape contractors,v52222392,1.4,175682638.00000000
+2011,Canada,Landscape contractors,v52222392,1.4,172275595.00000000
+2012,Canada,Landscape contractors,v52222392,1.4,168865455.00000000
+2013,Canada,Landscape contractors,v52222392,1.4,154146667.00000000
+2014,Canada,Landscape contractors,v52222392,1.4,158982365.00000000
+2015,Canada,Landscape contractors,v52222392,1.4,160011080.00000000
+2007,Canada,Garden centres,v52222398,1.5,135527466.00000000
+2008,Canada,Garden centres,v52222398,1.5,154725192.00000000
+2009,Canada,Garden centres,v52222398,1.5,163807307.00000000
+2010,Canada,Garden centres,v52222398,1.5,157977430.00000000
+2011,Canada,Garden centres,v52222398,1.5,155635535.00000000
+2012,Canada,Garden centres,v52222398,1.5,131409135.00000000
+2013,Canada,Garden centres,v52222398,1.5,123465463.00000000
+2014,Canada,Garden centres,v52222398,1.5,130807058.00000000
+2015,Canada,Garden centres,v52222398,1.5,133632369.00000000
+2007,Canada,Mass market chain stores,v52222404,1.6,77054677.00000000
+2008,Canada,Mass market chain stores,v52222404,1.6,98090048.00000000
+2009,Canada,Mass market chain stores,v52222404,1.6,90770974.00000000
+2010,Canada,Mass market chain stores,v52222404,1.6,90371311.00000000
+2011,Canada,Mass market chain stores,v52222404,1.6,105321895.00000000
+2012,Canada,Mass market chain stores,v52222404,1.6,93654347.00000000
+2013,Canada,Mass market chain stores,v52222404,1.6,95680016.00000000
+2014,Canada,Mass market chain stores,v52222404,1.6,103597472.00000000
+2015,Canada,Mass market chain stores,v52222404,1.6,117506092.00000000
+2007,Canada,Other growers,v52222410,1.7,55287716.00000000
+2008,Canada,Other growers,v52222410,1.7,58746638.00000000
+2009,Canada,Other growers,v52222410,1.7,47465840.00000000
+2010,Canada,Other growers,v52222410,1.7,54323540.00000000
+2011,Canada,Other growers,v52222410,1.7,48697500.00000000
+2012,Canada,Other growers,v52222410,1.7,50924555.00000000
+2013,Canada,Other growers,v52222410,1.7,54569899.00000000
+2014,Canada,Other growers,v52222410,1.7,60880636.00000000
+2015,Canada,Other growers,v52222410,1.7,61785588.00000000
+2007,Canada,Exported,v52222416,1.8,28791363.00000000
+2008,Canada,Exported,v52222416,1.8,26737277.00000000
+2009,Canada,Exported,v52222416,1.8,27280296.00000000
+2010,Canada,Exported,v52222416,1.8,26065930.00000000
+2011,Canada,Exported,v52222416,1.8,11529025.00000000
+2012,Canada,Exported,v52222416,1.8,13460942.00000000
+2013,Canada,Exported,v52222416,1.8,14932947.00000000
+2014,Canada,Exported,v52222416,1.8,16509231.00000000
+2015,Canada,Exported,v52222416,1.8,28060045.00000000
+2007,Canada,Government and public agencies,v52222422,1.9,29945642.00000000
+2008,Canada,Government and public agencies,v52222422,1.9,44383169.00000000
+2009,Canada,Government and public agencies,v52222422,1.9,53158330.00000000
+2010,Canada,Government and public agencies,v52222422,1.9,48341731.00000000
+2011,Canada,Government and public agencies,v52222422,1.9,40387850.00000000
+2012,Canada,Government and public agencies,v52222422,1.9,51861725.00000000
+2013,Canada,Government and public agencies,v52222422,1.9,56324810.00000000
+2014,Canada,Government and public agencies,v52222422,1.9,49480726.00000000
+2015,Canada,Government and public agencies,v52222422,1.9,52162806.00000000
+2007,Canada,Other channels,v52222428,1.10,41080114.00000000
+2008,Canada,Other channels,v52222428,1.10,32996598.00000000
+2009,Canada,Other channels,v52222428,1.10,50903696.00000000
+2010,Canada,Other channels,v52222428,1.10,60134991.00000000
+2011,Canada,Other channels,v52222428,1.10,60529215.00000000
+2012,Canada,Other channels,v52222428,1.10,56277968.00000000
+2013,Canada,Other channels,v52222428,1.10,66711005.00000000
+2014,Canada,Other channels,v52222428,1.10,61921682.00000000
+2015,Canada,Other channels,v52222428,1.10,52771165.00000000
+2007,Atlantic provinces,Total sales,v52222429,2.1,14559568.00000000
+2008,Atlantic provinces,Total sales,v52222429,2.1,15152839.00000000
+2009,Atlantic provinces,Total sales,v52222429,2.1,17588537.00000000
+2010,Atlantic provinces,Total sales,v52222429,2.1,19059243.00000000
+2011,Atlantic provinces,Total sales,v52222429,2.1,18872590.00000000
+2012,Atlantic provinces,Total sales,v52222429,2.1,18990555.00000000
+2013,Atlantic provinces,Total sales,v52222429,2.1,18016072.00000000
+2014,Atlantic provinces,Total sales,v52222429,2.1,15885975.00000000
+2015,Atlantic provinces,Total sales,v52222429,2.1,14504647.00000000
+2007,Atlantic provinces,Direct sales to the public,v52222375,2.2,3254254.00000000
+2008,Atlantic provinces,Direct sales to the public,v52222375,2.2,F
+2009,Atlantic provinces,Direct sales to the public,v52222375,2.2,8440635.00000000
+2010,Atlantic provinces,Direct sales to the public,v52222375,2.2,8279179.00000000
+2011,Atlantic provinces,Direct sales to the public,v52222375,2.2,7432135.00000000
+2012,Atlantic provinces,Direct sales to the public,v52222375,2.2,8799570.00000000
+2013,Atlantic provinces,Direct sales to the public,v52222375,2.2,7354011.00000000
+2014,Atlantic provinces,Direct sales to the public,v52222375,2.2,4802101.00000000
+2015,Atlantic provinces,Direct sales to the public,v52222375,2.2,3874122.00000000
+2007,Atlantic provinces,Fruit growers,v52222381,2.3,1622000.00000000
+2008,Atlantic provinces,Fruit growers,v52222381,2.3,F
+2009,Atlantic provinces,Fruit growers,v52222381,2.3,F
+2010,Atlantic provinces,Fruit growers,v52222381,2.3,x
+2011,Atlantic provinces,Fruit growers,v52222381,2.3,x
+2012,Atlantic provinces,Fruit growers,v52222381,2.3,3102295.00000000
+2013,Atlantic provinces,Fruit growers,v52222381,2.3,4331331.00000000
+2014,Atlantic provinces,Fruit growers,v52222381,2.3,3717638.00000000
+2015,Atlantic provinces,Fruit growers,v52222381,2.3,4146376.00000000
+2007,Atlantic provinces,Landscape contractors,v52222387,2.4,2586685.00000000
+2008,Atlantic provinces,Landscape contractors,v52222387,2.4,F
+2009,Atlantic provinces,Landscape contractors,v52222387,2.4,F
+2010,Atlantic provinces,Landscape contractors,v52222387,2.4,2622638.00000000
+2011,Atlantic provinces,Landscape contractors,v52222387,2.4,2348245.00000000
+2012,Atlantic provinces,Landscape contractors,v52222387,2.4,2261405.00000000
+2013,Atlantic provinces,Landscape contractors,v52222387,2.4,1203930.00000000
+2014,Atlantic provinces,Landscape contractors,v52222387,2.4,1218291.00000000
+2015,Atlantic provinces,Landscape contractors,v52222387,2.4,1000355.00000000
+2007,Atlantic provinces,Garden centres,v52222393,2.5,949414.00000000
+2008,Atlantic provinces,Garden centres,v52222393,2.5,1032350.00000000
+2009,Atlantic provinces,Garden centres,v52222393,2.5,F
+2010,Atlantic provinces,Garden centres,v52222393,2.5,932706.00000000
+2011,Atlantic provinces,Garden centres,v52222393,2.5,891010.00000000
+2012,Atlantic provinces,Garden centres,v52222393,2.5,457445.00000000
+2013,Atlantic provinces,Garden centres,v52222393,2.5,625744.00000000
+2014,Atlantic provinces,Garden centres,v52222393,2.5,434472.00000000
+2015,Atlantic provinces,Garden centres,v52222393,2.5,366255.00000000
+2007,Atlantic provinces,Mass market chain stores,v52222399,2.6,9284.00000000
+2008,Atlantic provinces,Mass market chain stores,v52222399,2.6,x
+2009,Atlantic provinces,Mass market chain stores,v52222399,2.6,0.00000000
+2010,Atlantic provinces,Mass market chain stores,v52222399,2.6,x
+2011,Atlantic provinces,Mass market chain stores,v52222399,2.6,0.00000000
+2012,Atlantic provinces,Mass market chain stores,v52222399,2.6,x
+2013,Atlantic provinces,Mass market chain stores,v52222399,2.6,x
+2014,Atlantic provinces,Mass market chain stores,v52222399,2.6,x
+2015,Atlantic provinces,Mass market chain stores,v52222399,2.6,x
+2007,Atlantic provinces,Other growers,v52222405,2.7,144417.00000000
+2008,Atlantic provinces,Other growers,v52222405,2.7,x
+2009,Atlantic provinces,Other growers,v52222405,2.7,F
+2010,Atlantic provinces,Other growers,v52222405,2.7,128933.00000000
+2011,Atlantic provinces,Other growers,v52222405,2.7,129020.00000000
+2012,Atlantic provinces,Other growers,v52222405,2.7,92860.00000000
+2013,Atlantic provinces,Other growers,v52222405,2.7,x
+2014,Atlantic provinces,Other growers,v52222405,2.7,x
+2015,Atlantic provinces,Other growers,v52222405,2.7,x
+2007,Atlantic provinces,Exported,v52222411,2.8,1255664.00000000
+2008,Atlantic provinces,Exported,v52222411,2.8,430160.00000000
+2009,Atlantic provinces,Exported,v52222411,2.8,0.00000000
+2010,Atlantic provinces,Exported,v52222411,2.8,x
+2011,Atlantic provinces,Exported,v52222411,2.8,x
+2012,Atlantic provinces,Exported,v52222411,2.8,x
+2013,Atlantic provinces,Exported,v52222411,2.8,1378553.00000000
+2014,Atlantic provinces,Exported,v52222411,2.8,x
+2015,Atlantic provinces,Exported,v52222411,2.8,1818771.00000000
+2007,Atlantic provinces,Government and public agencies,v52222417,2.9,866963.00000000
+2008,Atlantic provinces,Government and public agencies,v52222417,2.9,908498.00000000
+2009,Atlantic provinces,Government and public agencies,v52222417,2.9,F
+2010,Atlantic provinces,Government and public agencies,v52222417,2.9,F
+2011,Atlantic provinces,Government and public agencies,v52222417,2.9,F
+2012,Atlantic provinces,Government and public agencies,v52222417,2.9,719125.00000000
+2013,Atlantic provinces,Government and public agencies,v52222417,2.9,273715.00000000
+2014,Atlantic provinces,Government and public agencies,v52222417,2.9,712948.00000000
+2015,Atlantic provinces,Government and public agencies,v52222417,2.9,310896.00000000
+2007,Atlantic provinces,Other channels,v52222423,2.10,3870887.00000000
+2008,Atlantic provinces,Other channels,v52222423,2.10,4183350.00000000
+2009,Atlantic provinces,Other channels,v52222423,2.10,F
+2010,Atlantic provinces,Other channels,v52222423,2.10,x
+2011,Atlantic provinces,Other channels,v52222423,2.10,3120520.00000000
+2012,Atlantic provinces,Other channels,v52222423,2.10,2143710.00000000
+2013,Atlantic provinces,Other channels,v52222423,2.10,2449603.00000000
+2014,Atlantic provinces,Other channels,v52222423,2.10,x
+2015,Atlantic provinces,Other channels,v52222423,2.10,2663393.00000000
+2007,Quebec,Total sales,v52222430,3.1,92428617.00000000
+2008,Quebec,Total sales,v52222430,3.1,117424943.00000000
+2009,Quebec,Total sales,v52222430,3.1,109329674.00000000
+2010,Quebec,Total sales,v52222430,3.1,102510293.00000000
+2011,Quebec,Total sales,v52222430,3.1,97297995.00000000
+2012,Quebec,Total sales,v52222430,3.1,94823305.00000000
+2013,Quebec,Total sales,v52222430,3.1,96527142.00000000
+2014,Quebec,Total sales,v52222430,3.1,97803986.00000000
+2015,Quebec,Total sales,v52222430,3.1,100904755.00000000
+2007,Quebec,Direct sales to the public,v52222376,3.2,22087466.00000000
+2008,Quebec,Direct sales to the public,v52222376,3.2,F
+2009,Quebec,Direct sales to the public,v52222376,3.2,19819780.00000000
+2010,Quebec,Direct sales to the public,v52222376,3.2,19947955.00000000
+2011,Quebec,Direct sales to the public,v52222376,3.2,16650040.00000000
+2012,Quebec,Direct sales to the public,v52222376,3.2,15716895.00000000
+2013,Quebec,Direct sales to the public,v52222376,3.2,18875864.00000000
+2014,Quebec,Direct sales to the public,v52222376,3.2,15155330.00000000
+2015,Quebec,Direct sales to the public,v52222376,3.2,13623379.00000000
+2007,Quebec,Fruit growers,v52222382,3.3,1750995.00000000
+2008,Quebec,Fruit growers,v52222382,3.3,F
+2009,Quebec,Fruit growers,v52222382,3.3,3051168.00000000
+2010,Quebec,Fruit growers,v52222382,3.3,x
+2011,Quebec,Fruit growers,v52222382,3.3,x
+2012,Quebec,Fruit growers,v52222382,3.3,4457635.00000000
+2013,Quebec,Fruit growers,v52222382,3.3,3981439.00000000
+2014,Quebec,Fruit growers,v52222382,3.3,6524323.00000000
+2015,Quebec,Fruit growers,v52222382,3.3,6256378.00000000
+2007,Quebec,Landscape contractors,v52222388,3.4,15433885.00000000
+2008,Quebec,Landscape contractors,v52222388,3.4,22966975.00000000
+2009,Quebec,Landscape contractors,v52222388,3.4,21718024.00000000
+2010,Quebec,Landscape contractors,v52222388,3.4,27193508.00000000
+2011,Quebec,Landscape contractors,v52222388,3.4,24049620.00000000
+2012,Quebec,Landscape contractors,v52222388,3.4,19425115.00000000
+2013,Quebec,Landscape contractors,v52222388,3.4,17744192.00000000
+2014,Quebec,Landscape contractors,v52222388,3.4,17147126.00000000
+2015,Quebec,Landscape contractors,v52222388,3.4,16994574.00000000
+2007,Quebec,Garden centres,v52222394,3.5,20765458.00000000
+2008,Quebec,Garden centres,v52222394,3.5,25937863.00000000
+2009,Quebec,Garden centres,v52222394,3.5,29815336.00000000
+2010,Quebec,Garden centres,v52222394,3.5,18850683.00000000
+2011,Quebec,Garden centres,v52222394,3.5,21898350.00000000
+2012,Quebec,Garden centres,v52222394,3.5,20236020.00000000
+2013,Quebec,Garden centres,v52222394,3.5,20952504.00000000
+2014,Quebec,Garden centres,v52222394,3.5,22102089.00000000
+2015,Quebec,Garden centres,v52222394,3.5,21046666.00000000
+2007,Quebec,Mass market chain stores,v52222400,3.6,8895367.00000000
+2008,Quebec,Mass market chain stores,v52222400,3.6,11875400.00000000
+2009,Quebec,Mass market chain stores,v52222400,3.6,F
+2010,Quebec,Mass market chain stores,v52222400,3.6,4596310.00000000
+2011,Quebec,Mass market chain stores,v52222400,3.6,8287315.00000000
+2012,Quebec,Mass market chain stores,v52222400,3.6,7581430.00000000
+2013,Quebec,Mass market chain stores,v52222400,3.6,7521050.00000000
+2014,Quebec,Mass market chain stores,v52222400,3.6,8832261.00000000
+2015,Quebec,Mass market chain stores,v52222400,3.6,F
+2007,Quebec,Other growers,v52222406,3.7,4973451.00000000
+2008,Quebec,Other growers,v52222406,3.7,5783500.00000000
+2009,Quebec,Other growers,v52222406,3.7,6526455.00000000
+2010,Quebec,Other growers,v52222406,3.7,4522715.00000000
+2011,Quebec,Other growers,v52222406,3.7,3498160.00000000
+2012,Quebec,Other growers,v52222406,3.7,3874585.00000000
+2013,Quebec,Other growers,v52222406,3.7,3023657.00000000
+2014,Quebec,Other growers,v52222406,3.7,3884133.00000000
+2015,Quebec,Other growers,v52222406,3.7,3847332.00000000
+2007,Quebec,Exported,v52222412,3.8,2325566.00000000
+2008,Quebec,Exported,v52222412,3.8,F
+2009,Quebec,Exported,v52222412,3.8,F
+2010,Quebec,Exported,v52222412,3.8,x
+2011,Quebec,Exported,v52222412,3.8,x
+2012,Quebec,Exported,v52222412,3.8,2065255.00000000
+2013,Quebec,Exported,v52222412,3.8,x
+2014,Quebec,Exported,v52222412,3.8,F
+2015,Quebec,Exported,v52222412,3.8,F
+2007,Quebec,Government and public agencies,v52222418,3.9,F
+2008,Quebec,Government and public agencies,v52222418,3.9,16998300.00000000
+2009,Quebec,Government and public agencies,v52222418,3.9,11733204.00000000
+2010,Quebec,Government and public agencies,v52222418,3.9,19544241.00000000
+2011,Quebec,Government and public agencies,v52222418,3.9,13748515.00000000
+2012,Quebec,Government and public agencies,v52222418,3.9,17529510.00000000
+2013,Quebec,Government and public agencies,v52222418,3.9,19893088.00000000
+2014,Quebec,Government and public agencies,v52222418,3.9,21773454.00000000
+2015,Quebec,Government and public agencies,v52222418,3.9,17087524.00000000
+2007,Quebec,Other channels,v52222424,3.10,6946000.00000000
+2008,Quebec,Other channels,v52222424,3.10,F
+2009,Quebec,Other channels,v52222424,3.10,1061486.00000000
+2010,Quebec,Other channels,v52222424,3.10,1700000.00000000
+2011,Quebec,Other channels,v52222424,3.10,1596855.00000000
+2012,Quebec,Other channels,v52222424,3.10,3936860.00000000
+2013,Quebec,Other channels,v52222424,3.10,x
+2014,Quebec,Other channels,v52222424,3.10,1652873.00000000
+2015,Quebec,Other channels,v52222424,3.10,3003668.00000000
+2007,Ontario,Total sales,v52222431,4.1,271326026.00000000
+2008,Ontario,Total sales,v52222431,4.1,288776267.00000000
+2009,Ontario,Total sales,v52222431,4.1,284932287.00000000
+2010,Ontario,Total sales,v52222431,4.1,289176394.00000000
+2011,Ontario,Total sales,v52222431,4.1,297042965.00000000
+2012,Ontario,Total sales,v52222431,4.1,284266215.00000000
+2013,Ontario,Total sales,v52222431,4.1,281281614.00000000
+2014,Ontario,Total sales,v52222431,4.1,290949293.00000000
+2015,Ontario,Total sales,v52222431,4.1,294412234.00000000
+2007,Ontario,Direct sales to the public,v52222377,4.2,25425000.00000000
+2008,Ontario,Direct sales to the public,v52222377,4.2,20990000.00000000
+2009,Ontario,Direct sales to the public,v52222377,4.2,19841710.00000000
+2010,Ontario,Direct sales to the public,v52222377,4.2,23234545.00000000
+2011,Ontario,Direct sales to the public,v52222377,4.2,28319635.00000000
+2012,Ontario,Direct sales to the public,v52222377,4.2,37757850.00000000
+2013,Ontario,Direct sales to the public,v52222377,4.2,32326799.00000000
+2014,Ontario,Direct sales to the public,v52222377,4.2,29096604.00000000
+2015,Ontario,Direct sales to the public,v52222377,4.2,30286815.00000000
+2007,Ontario,Fruit growers,v52222383,4.3,8300000.00000000
+2008,Ontario,Fruit growers,v52222383,4.3,11244930.00000000
+2009,Ontario,Fruit growers,v52222383,4.3,8361585.00000000
+2010,Ontario,Fruit growers,v52222383,4.3,7953760.00000000
+2011,Ontario,Fruit growers,v52222383,4.3,7255945.00000000
+2012,Ontario,Fruit growers,v52222383,4.3,F
+2013,Ontario,Fruit growers,v52222383,4.3,F
+2014,Ontario,Fruit growers,v52222383,4.3,15474546.00000000
+2015,Ontario,Fruit growers,v52222383,4.3,F
+2007,Ontario,Landscape contractors,v52222389,4.4,76100000.00000000
+2008,Ontario,Landscape contractors,v52222389,4.4,81955070.00000000
+2009,Ontario,Landscape contractors,v52222389,4.4,74978825.00000000
+2010,Ontario,Landscape contractors,v52222389,4.4,79170085.00000000
+2011,Ontario,Landscape contractors,v52222389,4.4,78091140.00000000
+2012,Ontario,Landscape contractors,v52222389,4.4,77942550.00000000
+2013,Ontario,Landscape contractors,v52222389,4.4,73320482.00000000
+2014,Ontario,Landscape contractors,v52222389,4.4,77277177.00000000
+2015,Ontario,Landscape contractors,v52222389,4.4,74912833.00000000
+2007,Ontario,Garden centres,v52222395,4.5,73200000.00000000
+2008,Ontario,Garden centres,v52222395,4.5,73276267.00000000
+2009,Ontario,Garden centres,v52222395,4.5,78838690.00000000
+2010,Ontario,Garden centres,v52222395,4.5,65996480.00000000
+2011,Ontario,Garden centres,v52222395,4.5,75134220.00000000
+2012,Ontario,Garden centres,v52222395,4.5,62927375.00000000
+2013,Ontario,Garden centres,v52222395,4.5,60978790.00000000
+2014,Ontario,Garden centres,v52222395,4.5,67673320.00000000
+2015,Ontario,Garden centres,v52222395,4.5,70497907.00000000
+2007,Ontario,Mass market chain stores,v52222401,4.6,35876026.00000000
+2008,Ontario,Mass market chain stores,v52222401,4.6,54000000.00000000
+2009,Ontario,Mass market chain stores,v52222401,4.6,51856500.00000000
+2010,Ontario,Mass market chain stores,v52222401,4.6,55597110.00000000
+2011,Ontario,Mass market chain stores,v52222401,4.6,57367970.00000000
+2012,Ontario,Mass market chain stores,v52222401,4.6,43817815.00000000
+2013,Ontario,Mass market chain stores,v52222401,4.6,46565804.00000000
+2014,Ontario,Mass market chain stores,v52222401,4.6,45569512.00000000
+2015,Ontario,Mass market chain stores,v52222401,4.6,45188168.00000000
+2007,Ontario,Other growers,v52222407,4.7,25600000.00000000
+2008,Ontario,Other growers,v52222407,4.7,23400000.00000000
+2009,Ontario,Other growers,v52222407,4.7,20309777.00000000
+2010,Ontario,Other growers,v52222407,4.7,23139370.00000000
+2011,Ontario,Other growers,v52222407,4.7,22965765.00000000
+2012,Ontario,Other growers,v52222407,4.7,22291335.00000000
+2013,Ontario,Other growers,v52222407,4.7,25134230.00000000
+2014,Ontario,Other growers,v52222407,4.7,27968512.00000000
+2015,Ontario,Other growers,v52222407,4.7,23726222.00000000
+2007,Ontario,Exported,v52222413,4.8,11700000.00000000
+2008,Ontario,Exported,v52222413,4.8,8600000.00000000
+2009,Ontario,Exported,v52222413,4.8,12249695.00000000
+2010,Ontario,Exported,v52222413,4.8,9674280.00000000
+2011,Ontario,Exported,v52222413,4.8,5820540.00000000
+2012,Ontario,Exported,v52222413,4.8,4186295.00000000
+2013,Ontario,Exported,v52222413,4.8,4831419.00000000
+2014,Ontario,Exported,v52222413,4.8,8318829.00000000
+2015,Ontario,Exported,v52222413,4.8,11802878.00000000
+2007,Ontario,Government and public agencies,v52222419,4.9,7625000.00000000
+2008,Ontario,Government and public agencies,v52222419,4.9,6400000.00000000
+2009,Ontario,Government and public agencies,v52222419,4.9,8016890.00000000
+2010,Ontario,Government and public agencies,v52222419,4.9,12434175.00000000
+2011,Ontario,Government and public agencies,v52222419,4.9,10181935.00000000
+2012,Ontario,Government and public agencies,v52222419,4.9,14707305.00000000
+2013,Ontario,Government and public agencies,v52222419,4.9,14725804.00000000
+2014,Ontario,Government and public agencies,v52222419,4.9,12345130.00000000
+2015,Ontario,Government and public agencies,v52222419,4.9,14712249.00000000
+2007,Ontario,Other channels,v52222425,4.10,7500000.00000000
+2008,Ontario,Other channels,v52222425,4.10,8910000.00000000
+2009,Ontario,Other channels,v52222425,4.10,10478615.00000000
+2010,Ontario,Other channels,v52222425,4.10,11976589.00000000
+2011,Ontario,Other channels,v52222425,4.10,11905815.00000000
+2012,Ontario,Other channels,v52222425,4.10,3473190.00000000
+2013,Ontario,Other channels,v52222425,4.10,8422808.00000000
+2014,Ontario,Other channels,v52222425,4.10,7225663.00000000
+2015,Ontario,Other channels,v52222425,4.10,9803063.00000000
+2007,Prairie provinces,Total sales,v52222432,5.1,71352546.00000000
+2008,Prairie provinces,Total sales,v52222432,5.1,74565880.00000000
+2009,Prairie provinces,Total sales,v52222432,5.1,72085505.00000000
+2010,Prairie provinces,Total sales,v52222432,5.1,82096225.00000000
+2011,Prairie provinces,Total sales,v52222432,5.1,85041140.00000000
+2012,Prairie provinces,Total sales,v52222432,5.1,76052477.00000000
+2013,Prairie provinces,Total sales,v52222432,5.1,66691929.00000000
+2014,Prairie provinces,Total sales,v52222432,5.1,68646288.00000000
+2015,Prairie provinces,Total sales,v52222432,5.1,74283147.00000000
+2007,Prairie provinces,Direct sales to the public,v52222378,5.2,18874632.00000000
+2008,Prairie provinces,Direct sales to the public,v52222378,5.2,15987740.00000000
+2009,Prairie provinces,Direct sales to the public,v52222378,5.2,19023191.00000000
+2010,Prairie provinces,Direct sales to the public,v52222378,5.2,20479748.00000000
+2011,Prairie provinces,Direct sales to the public,v52222378,5.2,20656810.00000000
+2012,Prairie provinces,Direct sales to the public,v52222378,5.2,21353002.00000000
+2013,Prairie provinces,Direct sales to the public,v52222378,5.2,16467452.00000000
+2014,Prairie provinces,Direct sales to the public,v52222378,5.2,16167339.00000000
+2015,Prairie provinces,Direct sales to the public,v52222378,5.2,17390531.00000000
+2007,Prairie provinces,Fruit growers,v52222384,5.3,1255000.00000000
+2008,Prairie provinces,Fruit growers,v52222384,5.3,287474.00000000
+2009,Prairie provinces,Fruit growers,v52222384,5.3,1126622.00000000
+2010,Prairie provinces,Fruit growers,v52222384,5.3,2921300.00000000
+2011,Prairie provinces,Fruit growers,v52222384,5.3,2870015.00000000
+2012,Prairie provinces,Fruit growers,v52222384,5.3,F
+2013,Prairie provinces,Fruit growers,v52222384,5.3,1890428.00000000
+2014,Prairie provinces,Fruit growers,v52222384,5.3,990667.00000000
+2015,Prairie provinces,Fruit growers,v52222384,5.3,F
+2007,Prairie provinces,Landscape contractors,v52222390,5.4,32764862.00000000
+2008,Prairie provinces,Landscape contractors,v52222390,5.4,33813953.00000000
+2009,Prairie provinces,Landscape contractors,v52222390,5.4,28846970.00000000
+2010,Prairie provinces,Landscape contractors,v52222390,5.4,27435454.00000000
+2011,Prairie provinces,Landscape contractors,v52222390,5.4,30766640.00000000
+2012,Prairie provinces,Landscape contractors,v52222390,5.4,26937990.00000000
+2013,Prairie provinces,Landscape contractors,v52222390,5.4,25008572.00000000
+2014,Prairie provinces,Landscape contractors,v52222390,5.4,27671406.00000000
+2015,Prairie provinces,Landscape contractors,v52222390,5.4,28074050.00000000
+2007,Prairie provinces,Garden centres,v52222396,5.5,7612594.00000000
+2008,Prairie provinces,Garden centres,v52222396,5.5,11563295.00000000
+2009,Prairie provinces,Garden centres,v52222396,5.5,10331218.00000000
+2010,Prairie provinces,Garden centres,v52222396,5.5,12055011.00000000
+2011,Prairie provinces,Garden centres,v52222396,5.5,9303835.00000000
+2012,Prairie provinces,Garden centres,v52222396,5.5,5998490.00000000
+2013,Prairie provinces,Garden centres,v52222396,5.5,5910461.00000000
+2014,Prairie provinces,Garden centres,v52222396,5.5,5652211.00000000
+2015,Prairie provinces,Garden centres,v52222396,5.5,5682805.00000000
+2007,Prairie provinces,Mass market chain stores,v52222402,5.6,1274000.00000000
+2008,Prairie provinces,Mass market chain stores,v52222402,5.6,x
+2009,Prairie provinces,Mass market chain stores,v52222402,5.6,680683.00000000
+2010,Prairie provinces,Mass market chain stores,v52222402,5.6,x
+2011,Prairie provinces,Mass market chain stores,v52222402,5.6,1447365.00000000
+2012,Prairie provinces,Mass market chain stores,v52222402,5.6,x
+2013,Prairie provinces,Mass market chain stores,v52222402,5.6,x
+2014,Prairie provinces,Mass market chain stores,v52222402,5.6,x
+2015,Prairie provinces,Mass market chain stores,v52222402,5.6,x
+2007,Prairie provinces,Other growers,v52222408,5.7,3508848.00000000
+2008,Prairie provinces,Other growers,v52222408,5.7,x
+2009,Prairie provinces,Other growers,v52222408,5.7,3561088.00000000
+2010,Prairie provinces,Other growers,v52222408,5.7,4309882.00000000
+2011,Prairie provinces,Other growers,v52222408,5.7,2462225.00000000
+2012,Prairie provinces,Other growers,v52222408,5.7,2824580.00000000
+2013,Prairie provinces,Other growers,v52222408,5.7,x
+2014,Prairie provinces,Other growers,v52222408,5.7,x
+2015,Prairie provinces,Other growers,v52222408,5.7,x
+2007,Prairie provinces,Exported,v52222414,5.8,1476133.00000000
+2008,Prairie provinces,Exported,v52222414,5.8,F
+2009,Prairie provinces,Exported,v52222414,5.8,1719846.00000000
+2010,Prairie provinces,Exported,v52222414,5.8,x
+2011,Prairie provinces,Exported,v52222414,5.8,278180.00000000
+2012,Prairie provinces,Exported,v52222414,5.8,x
+2013,Prairie provinces,Exported,v52222414,5.8,555595.00000000
+2014,Prairie provinces,Exported,v52222414,5.8,x
+2015,Prairie provinces,Exported,v52222414,5.8,827959.00000000
+2007,Prairie provinces,Government and public agencies,v52222420,5.9,2663250.00000000
+2008,Prairie provinces,Government and public agencies,v52222420,5.9,6035861.00000000
+2009,Prairie provinces,Government and public agencies,v52222420,5.9,3118096.00000000
+2010,Prairie provinces,Government and public agencies,v52222420,5.9,x
+2011,Prairie provinces,Government and public agencies,v52222420,5.9,4557180.00000000
+2012,Prairie provinces,Government and public agencies,v52222420,5.9,2877350.00000000
+2013,Prairie provinces,Government and public agencies,v52222420,5.9,2637075.00000000
+2014,Prairie provinces,Government and public agencies,v52222420,5.9,3179271.00000000
+2015,Prairie provinces,Government and public agencies,v52222420,5.9,3341666.00000000
+2007,Prairie provinces,Other channels,v52222426,5.10,1923227.00000000
+2008,Prairie provinces,Other channels,v52222426,5.10,651598.00000000
+2009,Prairie provinces,Other channels,v52222426,5.10,3677791.00000000
+2010,Prairie provinces,Other channels,v52222426,5.10,9769359.00000000
+2011,Prairie provinces,Other channels,v52222426,5.10,12698895.00000000
+2012,Prairie provinces,Other channels,v52222426,5.10,12643378.00000000
+2013,Prairie provinces,Other channels,v52222426,5.10,11074141.00000000
+2014,Prairie provinces,Other channels,v52222426,5.10,x
+2015,Prairie provinces,Other channels,v52222426,5.10,12193324.00000000
+2007,British Columbia,Total sales,v52222433,6.1,195141315.00000000
+2008,British Columbia,Total sales,v52222433,6.1,205485436.00000000
+2009,British Columbia,Total sales,v52222433,6.1,220865560.00000000
+2010,British Columbia,Total sales,v52222433,6.1,225431016.00000000
+2011,British Columbia,Total sales,v52222433,6.1,209397435.00000000
+2012,British Columbia,Total sales,v52222433,6.1,218280527.00000000
+2013,British Columbia,Total sales,v52222433,6.1,217900527.00000000
+2014,British Columbia,Total sales,v52222433,6.1,215050835.00000000
+2015,British Columbia,Total sales,v52222433,6.1,228536479.00000000
+2007,British Columbia,Direct sales to the public,v52222379,6.2,25331000.00000000
+2008,British Columbia,Direct sales to the public,v52222379,6.2,12891593.00000000
+2009,British Columbia,Direct sales to the public,v52222379,6.2,F
+2010,British Columbia,Direct sales to the public,v52222379,6.2,8007260.00000000
+2011,British Columbia,Direct sales to the public,v52222379,6.2,12345285.00000000
+2012,British Columbia,Direct sales to the public,v52222379,6.2,11863260.00000000
+2013,British Columbia,Direct sales to the public,v52222379,6.2,10148569.00000000
+2014,British Columbia,Direct sales to the public,v52222379,6.2,9591443.00000000
+2015,British Columbia,Direct sales to the public,v52222379,6.2,9113645.00000000
+2007,British Columbia,Fruit growers,v52222385,6.3,6870000.00000000
+2008,British Columbia,Fruit growers,v52222385,6.3,6657529.00000000
+2009,British Columbia,Fruit growers,v52222385,6.3,6996500.00000000
+2010,British Columbia,Fruit growers,v52222385,6.3,7042291.00000000
+2011,British Columbia,Fruit growers,v52222385,6.3,8573460.00000000
+2012,British Columbia,Fruit growers,v52222385,6.3,3191635.00000000
+2013,British Columbia,Fruit growers,v52222385,6.3,4235106.00000000
+2014,British Columbia,Fruit growers,v52222385,6.3,4637216.00000000
+2015,British Columbia,Fruit growers,v52222385,6.3,7520820.00000000
+2007,British Columbia,Landscape contractors,v52222391,6.4,35465315.00000000
+2008,British Columbia,Landscape contractors,v52222391,6.4,41147237.00000000
+2009,British Columbia,Landscape contractors,v52222391,6.4,39986145.00000000
+2010,British Columbia,Landscape contractors,v52222391,6.4,39260953.00000000
+2011,British Columbia,Landscape contractors,v52222391,6.4,37019950.00000000
+2012,British Columbia,Landscape contractors,v52222391,6.4,42298395.00000000
+2013,British Columbia,Landscape contractors,v52222391,6.4,36869491.00000000
+2014,British Columbia,Landscape contractors,v52222391,6.4,35668365.00000000
+2015,British Columbia,Landscape contractors,v52222391,6.4,39029268.00000000
+2007,British Columbia,Garden centres,v52222397,6.5,33000000.00000000
+2008,British Columbia,Garden centres,v52222397,6.5,42915417.00000000
+2009,British Columbia,Garden centres,v52222397,6.5,44069340.00000000
+2010,British Columbia,Garden centres,v52222397,6.5,60142550.00000000
+2011,British Columbia,Garden centres,v52222397,6.5,48408120.00000000
+2012,British Columbia,Garden centres,v52222397,6.5,41789805.00000000
+2013,British Columbia,Garden centres,v52222397,6.5,34997964.00000000
+2014,British Columbia,Garden centres,v52222397,6.5,34944966.00000000
+2015,British Columbia,Garden centres,v52222397,6.5,36038736.00000000
+2007,British Columbia,Mass market chain stores,v52222403,6.6,31000000.00000000
+2008,British Columbia,Mass market chain stores,v52222403,6.6,31042816.00000000
+2009,British Columbia,Mass market chain stores,v52222403,6.6,26900160.00000000
+2010,British Columbia,Mass market chain stores,v52222403,6.6,29031205.00000000
+2011,British Columbia,Mass market chain stores,v52222403,6.6,38219245.00000000
+2012,British Columbia,Mass market chain stores,v52222403,6.6,41522967.00000000
+2013,British Columbia,Mass market chain stores,v52222403,6.6,40853548.00000000
+2014,British Columbia,Mass market chain stores,v52222403,6.6,48687807.00000000
+2015,British Columbia,Mass market chain stores,v52222403,6.6,53669224.00000000
+2007,British Columbia,Other growers,v52222409,6.7,21061000.00000000
+2008,British Columbia,Other growers,v52222409,6.7,26104133.00000000
+2009,British Columbia,Other growers,v52222409,6.7,17016950.00000000
+2010,British Columbia,Other growers,v52222409,6.7,22222640.00000000
+2011,British Columbia,Other growers,v52222409,6.7,19642330.00000000
+2012,British Columbia,Other growers,v52222409,6.7,21841195.00000000
+2013,British Columbia,Other growers,v52222409,6.7,23604236.00000000
+2014,British Columbia,Other growers,v52222409,6.7,26837136.00000000
+2015,British Columbia,Other growers,v52222409,6.7,28689783.00000000
+2007,British Columbia,Exported,v52222415,6.8,12034000.00000000
+2008,British Columbia,Exported,v52222415,6.8,12134551.00000000
+2009,British Columbia,Exported,v52222415,6.8,9040165.00000000
+2010,British Columbia,Exported,v52222415,6.8,x
+2011,British Columbia,Exported,v52222415,6.8,3900495.00000000
+2012,British Columbia,Exported,v52222415,6.8,5664005.00000000
+2013,British Columbia,Exported,v52222415,6.8,x
+2014,British Columbia,Exported,v52222415,6.8,5278578.00000000
+2015,British Columbia,Exported,v52222415,6.8,12656814.00000000
+2007,British Columbia,Government and public agencies,v52222421,6.9,9540000.00000000
+2008,British Columbia,Government and public agencies,v52222421,6.9,14040510.00000000
+2009,British Columbia,Government and public agencies,v52222421,6.9,F
+2010,British Columbia,Government and public agencies,v52222421,6.9,x
+2011,British Columbia,Government and public agencies,v52222421,6.9,10081420.00000000
+2012,British Columbia,Government and public agencies,v52222421,6.9,16028435.00000000
+2013,British Columbia,Government and public agencies,v52222421,6.9,18795128.00000000
+2014,British Columbia,Government and public agencies,v52222421,6.9,11469923.00000000
+2015,British Columbia,Government and public agencies,v52222421,6.9,16710471.00000000
+2007,British Columbia,Other channels,v52222427,6.10,F
+2008,British Columbia,Other channels,v52222427,6.10,18551650.00000000
+2009,British Columbia,Other channels,v52222427,6.10,F
+2010,British Columbia,Other channels,v52222427,6.10,x
+2011,British Columbia,Other channels,v52222427,6.10,31207130.00000000
+2012,British Columbia,Other channels,v52222427,6.10,34080830.00000000
+2013,British Columbia,Other channels,v52222427,6.10,x
+2014,British Columbia,Other channels,v52222427,6.10,37935401.00000000
+2015,British Columbia,Other channels,v52222427,6.10,25107717.00000000

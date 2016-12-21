@@ -1,0 +1,169 @@
+Ref_Date,GEO,NAICS,EXPENDITURE,Vector,Coordinate,Value
+2013,Canada,Spectator sports,Total operating expense,v99850269,1.1.1,100.0
+2014,Canada,Spectator sports,Total operating expense,v99850269,1.1.1,100.0
+2013,Canada,Spectator sports,Cost of goods sold,v99850270,1.1.2,3.6
+2014,Canada,Spectator sports,Cost of goods sold,v99850270,1.1.2,3.3
+2013,Canada,Spectator sports,"Salaries, wages, commissions and benefits",v99850271,1.1.3,45.1
+2014,Canada,Spectator sports,"Salaries, wages, commissions and benefits",v99850271,1.1.3,45.4
+2013,Canada,Spectator sports,Subcontracts,v99850272,1.1.4,1.6
+2014,Canada,Spectator sports,Subcontracts,v99850272,1.1.4,1.6
+2013,Canada,Spectator sports,Research and development fees,v99850273,1.1.5,x
+2014,Canada,Spectator sports,Research and development fees,v99850273,1.1.5,x
+2013,Canada,Spectator sports,Professional and business fees,v99850274,1.1.6,1.4
+2014,Canada,Spectator sports,Professional and business fees,v99850274,1.1.6,1.6
+2013,Canada,Spectator sports,Utilities,v99850275,1.1.7,0.7
+2014,Canada,Spectator sports,Utilities,v99850275,1.1.7,0.8
+2013,Canada,Spectator sports,Office and computer related expenses,v99850276,1.1.8,1.5
+2014,Canada,Spectator sports,Office and computer related expenses,v99850276,1.1.8,1.2
+2013,Canada,Spectator sports,"Telephone, Internet and other telecommunication",v99850277,1.1.9,0.3
+2014,Canada,Spectator sports,"Telephone, Internet and other telecommunication",v99850277,1.1.9,0.2
+2013,Canada,Spectator sports,"Business taxes, licenses and permits",v99850278,1.1.10,0.7
+2014,Canada,Spectator sports,"Business taxes, licenses and permits",v99850278,1.1.10,0.7
+2013,Canada,Spectator sports,"Royalties, franchise fees and memberships",v99850279,1.1.11,2.1
+2014,Canada,Spectator sports,"Royalties, franchise fees and memberships",v99850279,1.1.11,1.6
+2013,Canada,Spectator sports,Crown charges,v99850280,1.1.12,0.0
+2014,Canada,Spectator sports,Crown charges,v99850280,1.1.12,0.0
+2013,Canada,Spectator sports,Rental and leasing,v99850281,1.1.13,4.1
+2014,Canada,Spectator sports,Rental and leasing,v99850281,1.1.13,3.9
+2013,Canada,Spectator sports,Repair and maintenance,v99850282,1.1.14,1.2
+2014,Canada,Spectator sports,Repair and maintenance,v99850282,1.1.14,1.0
+2013,Canada,Spectator sports,Amortization and depreciation,v99850283,1.1.15,3.3
+2014,Canada,Spectator sports,Amortization and depreciation,v99850283,1.1.15,3.9
+2013,Canada,Spectator sports,Insurance,v99850284,1.1.16,0.8
+2014,Canada,Spectator sports,Insurance,v99850284,1.1.16,0.8
+2013,Canada,Spectator sports,"Advertising, marketing, promotions, meals and entertainment",v99850285,1.1.17,4.3
+2014,Canada,Spectator sports,"Advertising, marketing, promotions, meals and entertainment",v99850285,1.1.17,4.5
+2013,Canada,Spectator sports,"Travel, meetings and conventions",v99850286,1.1.18,3.3
+2014,Canada,Spectator sports,"Travel, meetings and conventions",v99850286,1.1.18,3.7
+2013,Canada,Spectator sports,Financial services,v99850287,1.1.19,0.3
+2014,Canada,Spectator sports,Financial services,v99850287,1.1.19,0.3
+2013,Canada,Spectator sports,Other non-production-related costs and expenses,v99850288,1.1.20,x
+2014,Canada,Spectator sports,Other non-production-related costs and expenses,v99850288,1.1.20,x
+2013,Canada,Spectator sports,All other cost and expenses,v99850289,1.1.21,25.3
+2014,Canada,Spectator sports,All other cost and expenses,v99850289,1.1.21,25.3
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Total operating expense,v99850290,1.2.1,100.0
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Total operating expense,v99850290,1.2.1,100.0
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Cost of goods sold,v99850291,1.2.2,9.0
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Cost of goods sold,v99850291,1.2.2,9.2
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events","Salaries, wages, commissions and benefits",v99850292,1.2.3,20.7
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events","Salaries, wages, commissions and benefits",v99850292,1.2.3,20.5
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Subcontracts,v99850293,1.2.4,4.3
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Subcontracts,v99850293,1.2.4,4.3
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Research and development fees,v99850294,1.2.5,x
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Research and development fees,v99850294,1.2.5,x
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Professional and business fees,v99850295,1.2.6,2.6
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Professional and business fees,v99850295,1.2.6,2.9
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Utilities,v99850296,1.2.7,1.5
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Utilities,v99850296,1.2.7,1.6
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Office and computer related expenses,v99850297,1.2.8,1.5
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Office and computer related expenses,v99850297,1.2.8,2.1
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events","Telephone, Internet and other telecommunication",v99850298,1.2.9,x
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events","Telephone, Internet and other telecommunication",v99850298,1.2.9,0.2
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events","Business taxes, licenses and permits",v99850299,1.2.10,0.6
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events","Business taxes, licenses and permits",v99850299,1.2.10,0.7
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events","Royalties, franchise fees and memberships",v99850300,1.2.11,1.3
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events","Royalties, franchise fees and memberships",v99850300,1.2.11,1.3
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Crown charges,v99850301,1.2.12,x
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Crown charges,v99850301,1.2.12,x
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Rental and leasing,v99850302,1.2.13,3.2
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Rental and leasing,v99850302,1.2.13,3.2
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Repair and maintenance,v99850303,1.2.14,2.3
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Repair and maintenance,v99850303,1.2.14,2.0
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Amortization and depreciation,v99850304,1.2.15,5.2
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Amortization and depreciation,v99850304,1.2.15,5.6
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Insurance,v99850305,1.2.16,0.6
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Insurance,v99850305,1.2.16,0.5
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events","Advertising, marketing, promotions, meals and entertainment",v99850306,1.2.17,5.9
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events","Advertising, marketing, promotions, meals and entertainment",v99850306,1.2.17,5.9
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events","Travel, meetings and conventions",v99850307,1.2.18,1.0
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events","Travel, meetings and conventions",v99850307,1.2.18,0.9
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Financial services,v99850308,1.2.19,0.5
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Financial services,v99850308,1.2.19,0.4
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",Other non-production-related costs and expenses,v99850309,1.2.20,0.4
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",Other non-production-related costs and expenses,v99850309,1.2.20,0.3
+2013,Canada,"Promoters (presenters) of performing arts, sports and similar events",All other cost and expenses,v99850310,1.2.21,39.1
+2014,Canada,"Promoters (presenters) of performing arts, sports and similar events",All other cost and expenses,v99850310,1.2.21,38.4
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Total operating expense,v99850311,1.3.1,100.0
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Total operating expense,v99850311,1.3.1,100.0
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Cost of goods sold,v99850312,1.3.2,4.8
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Cost of goods sold,v99850312,1.3.2,8.1
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Salaries, wages, commissions and benefits",v99850313,1.3.3,33.7
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Salaries, wages, commissions and benefits",v99850313,1.3.3,32.2
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Subcontracts,v99850314,1.3.4,11.3
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Subcontracts,v99850314,1.3.4,10.2
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Research and development fees,v99850315,1.3.5,x
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Research and development fees,v99850315,1.3.5,0.0
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Professional and business fees,v99850316,1.3.6,6.6
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Professional and business fees,v99850316,1.3.6,5.9
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Utilities,v99850317,1.3.7,0.8
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Utilities,v99850317,1.3.7,0.8
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Office and computer related expenses,v99850318,1.3.8,3.0
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Office and computer related expenses,v99850318,1.3.8,3.2
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Telephone, Internet and other telecommunication",v99850319,1.3.9,1.4
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Telephone, Internet and other telecommunication",v99850319,1.3.9,1.4
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Business taxes, licenses and permits",v99850320,1.3.10,0.4
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Business taxes, licenses and permits",v99850320,1.3.10,0.4
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Royalties, franchise fees and memberships",v99850321,1.3.11,x
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Royalties, franchise fees and memberships",v99850321,1.3.11,0.6
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Crown charges,v99850322,1.3.12,0.0
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Crown charges,v99850322,1.3.12,0.0
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Rental and leasing,v99850323,1.3.13,4.6
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Rental and leasing,v99850323,1.3.13,4.8
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Repair and maintenance,v99850324,1.3.14,0.6
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Repair and maintenance,v99850324,1.3.14,0.7
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Amortization and depreciation,v99850325,1.3.15,1.6
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Amortization and depreciation,v99850325,1.3.15,1.5
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Insurance,v99850326,1.3.16,0.8
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Insurance,v99850326,1.3.16,0.7
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Advertising, marketing, promotions, meals and entertainment",v99850327,1.3.17,3.4
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Advertising, marketing, promotions, meals and entertainment",v99850327,1.3.17,3.5
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Travel, meetings and conventions",v99850328,1.3.18,4.7
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures","Travel, meetings and conventions",v99850328,1.3.18,5.0
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Financial services,v99850329,1.3.19,0.7
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Financial services,v99850329,1.3.19,0.6
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Other non-production-related costs and expenses,v99850330,1.3.20,0.4
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",Other non-production-related costs and expenses,v99850330,1.3.20,0.3
+2013,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",All other cost and expenses,v99850331,1.3.21,20.7
+2014,Canada,"Agents and managers for artists, athletes, entertainers and other public figures",All other cost and expenses,v99850331,1.3.21,20.3
+2013,Canada,"Independent artists, writers and performers",Total operating expense,v99850332,1.4.1,100.0
+2014,Canada,"Independent artists, writers and performers",Total operating expense,v99850332,1.4.1,100.0
+2013,Canada,"Independent artists, writers and performers",Cost of goods sold,v99850333,1.4.2,6.7
+2014,Canada,"Independent artists, writers and performers",Cost of goods sold,v99850333,1.4.2,6.2
+2013,Canada,"Independent artists, writers and performers","Salaries, wages, commissions and benefits",v99850334,1.4.3,19.9
+2014,Canada,"Independent artists, writers and performers","Salaries, wages, commissions and benefits",v99850334,1.4.3,19.2
+2013,Canada,"Independent artists, writers and performers",Subcontracts,v99850335,1.4.4,4.2
+2014,Canada,"Independent artists, writers and performers",Subcontracts,v99850335,1.4.4,3.6
+2013,Canada,"Independent artists, writers and performers",Research and development fees,v99850336,1.4.5,x
+2014,Canada,"Independent artists, writers and performers",Research and development fees,v99850336,1.4.5,x
+2013,Canada,"Independent artists, writers and performers",Professional and business fees,v99850337,1.4.6,6.8
+2014,Canada,"Independent artists, writers and performers",Professional and business fees,v99850337,1.4.6,7.6
+2013,Canada,"Independent artists, writers and performers",Utilities,v99850338,1.4.7,3.2
+2014,Canada,"Independent artists, writers and performers",Utilities,v99850338,1.4.7,3.4
+2013,Canada,"Independent artists, writers and performers",Office and computer related expenses,v99850339,1.4.8,7.6
+2014,Canada,"Independent artists, writers and performers",Office and computer related expenses,v99850339,1.4.8,7.6
+2013,Canada,"Independent artists, writers and performers","Telephone, Internet and other telecommunication",v99850340,1.4.9,0.9
+2014,Canada,"Independent artists, writers and performers","Telephone, Internet and other telecommunication",v99850340,1.4.9,0.8
+2013,Canada,"Independent artists, writers and performers","Business taxes, licenses and permits",v99850341,1.4.10,1.5
+2014,Canada,"Independent artists, writers and performers","Business taxes, licenses and permits",v99850341,1.4.10,1.5
+2013,Canada,"Independent artists, writers and performers","Royalties, franchise fees and memberships",v99850342,1.4.11,0.7
+2014,Canada,"Independent artists, writers and performers","Royalties, franchise fees and memberships",v99850342,1.4.11,0.6
+2013,Canada,"Independent artists, writers and performers",Crown charges,v99850343,1.4.12,x
+2014,Canada,"Independent artists, writers and performers",Crown charges,v99850343,1.4.12,x
+2013,Canada,"Independent artists, writers and performers",Rental and leasing,v99850344,1.4.13,5.1
+2014,Canada,"Independent artists, writers and performers",Rental and leasing,v99850344,1.4.13,4.9
+2013,Canada,"Independent artists, writers and performers",Repair and maintenance,v99850345,1.4.14,0.9
+2014,Canada,"Independent artists, writers and performers",Repair and maintenance,v99850345,1.4.14,1.0
+2013,Canada,"Independent artists, writers and performers",Amortization and depreciation,v99850346,1.4.15,4.4
+2014,Canada,"Independent artists, writers and performers",Amortization and depreciation,v99850346,1.4.15,4.3
+2013,Canada,"Independent artists, writers and performers",Insurance,v99850347,1.4.16,1.0
+2014,Canada,"Independent artists, writers and performers",Insurance,v99850347,1.4.16,1.0
+2013,Canada,"Independent artists, writers and performers","Advertising, marketing, promotions, meals and entertainment",v99850348,1.4.17,4.5
+2014,Canada,"Independent artists, writers and performers","Advertising, marketing, promotions, meals and entertainment",v99850348,1.4.17,4.6
+2013,Canada,"Independent artists, writers and performers","Travel, meetings and conventions",v99850349,1.4.18,6.3
+2014,Canada,"Independent artists, writers and performers","Travel, meetings and conventions",v99850349,1.4.18,6.3
+2013,Canada,"Independent artists, writers and performers",Financial services,v99850350,1.4.19,0.6
+2014,Canada,"Independent artists, writers and performers",Financial services,v99850350,1.4.19,0.6
+2013,Canada,"Independent artists, writers and performers",Other non-production-related costs and expenses,v99850351,1.4.20,0.6
+2014,Canada,"Independent artists, writers and performers",Other non-production-related costs and expenses,v99850351,1.4.20,0.4
+2013,Canada,"Independent artists, writers and performers",All other cost and expenses,v99850352,1.4.21,25.1
+2014,Canada,"Independent artists, writers and performers",All other cost and expenses,v99850352,1.4.21,26.4

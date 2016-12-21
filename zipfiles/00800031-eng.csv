@@ -1,0 +1,1045 @@
+Ref_Date,GEO,NAICS,MOS,STORETYPE,Vector,Coordinate,Value
+2012,Canada,Retail trade,In-store sales,"Total all stores (x 1,000)",v101269234,1.1.1.1,470474816.0
+2013,Canada,Retail trade,In-store sales,"Total all stores (x 1,000)",v101269234,1.1.1.1,492068958.0
+2014,Canada,Retail trade,In-store sales,"Total all stores (x 1,000)",v101269234,1.1.1.1,513747820.0
+2012,Canada,Retail trade,In-store sales,"Chain stores (x 1,000)",v101269235,1.1.1.2,227165498.0
+2013,Canada,Retail trade,In-store sales,"Chain stores (x 1,000)",v101269235,1.1.1.2,231388556.0
+2014,Canada,Retail trade,In-store sales,"Chain stores (x 1,000)",v101269235,1.1.1.2,239947673.0
+2012,Canada,Retail trade,In-store sales,"Non-chain stores (x 1,000)",v101269236,1.1.1.3,243309318.0
+2013,Canada,Retail trade,In-store sales,"Non-chain stores (x 1,000)",v101269236,1.1.1.3,260680401.0
+2014,Canada,Retail trade,In-store sales,"Non-chain stores (x 1,000)",v101269236,1.1.1.3,273800147.0
+2012,Canada,Retail trade,E-commerce,"Total all stores (x 1,000)",v101269237,1.1.2.1,4586480.0
+2013,Canada,Retail trade,E-commerce,"Total all stores (x 1,000)",v101269237,1.1.2.1,4837883.0
+2014,Canada,Retail trade,E-commerce,"Total all stores (x 1,000)",v101269237,1.1.2.1,5391512.0
+2012,Canada,Retail trade,E-commerce,"Chain stores (x 1,000)",v101269238,1.1.2.2,1227416.0
+2013,Canada,Retail trade,E-commerce,"Chain stores (x 1,000)",v101269238,1.1.2.2,1702468.0
+2014,Canada,Retail trade,E-commerce,"Chain stores (x 1,000)",v101269238,1.1.2.2,2076885.0
+2012,Canada,Retail trade,E-commerce,"Non-chain stores (x 1,000)",v101269239,1.1.2.3,3359064.0
+2013,Canada,Retail trade,E-commerce,"Non-chain stores (x 1,000)",v101269239,1.1.2.3,3135416.0
+2014,Canada,Retail trade,E-commerce,"Non-chain stores (x 1,000)",v101269239,1.1.2.3,3314627.0
+2012,Canada,Retail trade,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269240,1.1.3.1,5111004.0
+2013,Canada,Retail trade,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269240,1.1.3.1,4769345.0
+2014,Canada,Retail trade,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269240,1.1.3.1,4823173.0
+2012,Canada,Retail trade,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269241,1.1.3.2,335849.0
+2013,Canada,Retail trade,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269241,1.1.3.2,390971.0
+2014,Canada,Retail trade,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269241,1.1.3.2,444100.0
+2012,Canada,Retail trade,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269242,1.1.3.3,4775154.0
+2013,Canada,Retail trade,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269242,1.1.3.3,4378374.0
+2014,Canada,Retail trade,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269242,1.1.3.3,4379073.0
+2012,Canada,Retail trade,All other methods,"Total all stores (x 1,000)",v101269243,1.1.4.1,10933501.0
+2013,Canada,Retail trade,All other methods,"Total all stores (x 1,000)",v101269243,1.1.4.1,10293399.0
+2014,Canada,Retail trade,All other methods,"Total all stores (x 1,000)",v101269243,1.1.4.1,9882412.0
+2012,Canada,Retail trade,All other methods,"Chain stores (x 1,000)",v101269244,1.1.4.2,7011139.0
+2013,Canada,Retail trade,All other methods,"Chain stores (x 1,000)",v101269244,1.1.4.2,7245131.0
+2014,Canada,Retail trade,All other methods,"Chain stores (x 1,000)",v101269244,1.1.4.2,6706678.0
+2012,Canada,Retail trade,All other methods,"Non-chain stores (x 1,000)",v101269245,1.1.4.3,3922362.0
+2013,Canada,Retail trade,All other methods,"Non-chain stores (x 1,000)",v101269245,1.1.4.3,3048268.0
+2014,Canada,Retail trade,All other methods,"Non-chain stores (x 1,000)",v101269245,1.1.4.3,3175733.0
+2012,Canada,Motor vehicle and parts dealers,In-store sales,"Total all stores (x 1,000)",v101269246,1.2.1.1,105539642.0
+2013,Canada,Motor vehicle and parts dealers,In-store sales,"Total all stores (x 1,000)",v101269246,1.2.1.1,115246100.0
+2014,Canada,Motor vehicle and parts dealers,In-store sales,"Total all stores (x 1,000)",v101269246,1.2.1.1,123164277.0
+2012,Canada,Motor vehicle and parts dealers,In-store sales,"Chain stores (x 1,000)",v101269247,1.2.1.2,F
+2013,Canada,Motor vehicle and parts dealers,In-store sales,"Chain stores (x 1,000)",v101269247,1.2.1.2,F
+2014,Canada,Motor vehicle and parts dealers,In-store sales,"Chain stores (x 1,000)",v101269247,1.2.1.2,F
+2012,Canada,Motor vehicle and parts dealers,In-store sales,"Non-chain stores (x 1,000)",v101269248,1.2.1.3,F
+2013,Canada,Motor vehicle and parts dealers,In-store sales,"Non-chain stores (x 1,000)",v101269248,1.2.1.3,F
+2014,Canada,Motor vehicle and parts dealers,In-store sales,"Non-chain stores (x 1,000)",v101269248,1.2.1.3,F
+2012,Canada,Motor vehicle and parts dealers,E-commerce,"Total all stores (x 1,000)",v101269249,1.2.2.1,2758082.0
+2013,Canada,Motor vehicle and parts dealers,E-commerce,"Total all stores (x 1,000)",v101269249,1.2.2.1,2167230.0
+2014,Canada,Motor vehicle and parts dealers,E-commerce,"Total all stores (x 1,000)",v101269249,1.2.2.1,2250305.0
+2012,Canada,Motor vehicle and parts dealers,E-commerce,"Chain stores (x 1,000)",v101269250,1.2.2.2,F
+2013,Canada,Motor vehicle and parts dealers,E-commerce,"Chain stores (x 1,000)",v101269250,1.2.2.2,F
+2014,Canada,Motor vehicle and parts dealers,E-commerce,"Chain stores (x 1,000)",v101269250,1.2.2.2,F
+2012,Canada,Motor vehicle and parts dealers,E-commerce,"Non-chain stores (x 1,000)",v101269251,1.2.2.3,F
+2013,Canada,Motor vehicle and parts dealers,E-commerce,"Non-chain stores (x 1,000)",v101269251,1.2.2.3,F
+2014,Canada,Motor vehicle and parts dealers,E-commerce,"Non-chain stores (x 1,000)",v101269251,1.2.2.3,F
+2012,Canada,Motor vehicle and parts dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269252,1.2.3.1,1844687.0
+2013,Canada,Motor vehicle and parts dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269252,1.2.3.1,1729104.0
+2014,Canada,Motor vehicle and parts dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269252,1.2.3.1,1603655.0
+2012,Canada,Motor vehicle and parts dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269253,1.2.3.2,F
+2013,Canada,Motor vehicle and parts dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269253,1.2.3.2,F
+2014,Canada,Motor vehicle and parts dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269253,1.2.3.2,F
+2012,Canada,Motor vehicle and parts dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269254,1.2.3.3,F
+2013,Canada,Motor vehicle and parts dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269254,1.2.3.3,F
+2014,Canada,Motor vehicle and parts dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269254,1.2.3.3,F
+2012,Canada,Motor vehicle and parts dealers,All other methods,"Total all stores (x 1,000)",v101269255,1.2.4.1,1157003.0
+2013,Canada,Motor vehicle and parts dealers,All other methods,"Total all stores (x 1,000)",v101269255,1.2.4.1,517987.0
+2014,Canada,Motor vehicle and parts dealers,All other methods,"Total all stores (x 1,000)",v101269255,1.2.4.1,609341.0
+2012,Canada,Motor vehicle and parts dealers,All other methods,"Chain stores (x 1,000)",v101269256,1.2.4.2,F
+2013,Canada,Motor vehicle and parts dealers,All other methods,"Chain stores (x 1,000)",v101269256,1.2.4.2,F
+2014,Canada,Motor vehicle and parts dealers,All other methods,"Chain stores (x 1,000)",v101269256,1.2.4.2,F
+2012,Canada,Motor vehicle and parts dealers,All other methods,"Non-chain stores (x 1,000)",v101269257,1.2.4.3,F
+2013,Canada,Motor vehicle and parts dealers,All other methods,"Non-chain stores (x 1,000)",v101269257,1.2.4.3,F
+2014,Canada,Motor vehicle and parts dealers,All other methods,"Non-chain stores (x 1,000)",v101269257,1.2.4.3,F
+2012,Canada,Automobile dealers,In-store sales,"Total all stores (x 1,000)",v101269258,1.3.1.1,90563783.0
+2013,Canada,Automobile dealers,In-store sales,"Total all stores (x 1,000)",v101269258,1.3.1.1,98945246.0
+2014,Canada,Automobile dealers,In-store sales,"Total all stores (x 1,000)",v101269258,1.3.1.1,106065795.0
+2012,Canada,Automobile dealers,In-store sales,"Chain stores (x 1,000)",v101269259,1.3.1.2,F
+2013,Canada,Automobile dealers,In-store sales,"Chain stores (x 1,000)",v101269259,1.3.1.2,F
+2014,Canada,Automobile dealers,In-store sales,"Chain stores (x 1,000)",v101269259,1.3.1.2,F
+2012,Canada,Automobile dealers,In-store sales,"Non-chain stores (x 1,000)",v101269260,1.3.1.3,F
+2013,Canada,Automobile dealers,In-store sales,"Non-chain stores (x 1,000)",v101269260,1.3.1.3,F
+2014,Canada,Automobile dealers,In-store sales,"Non-chain stores (x 1,000)",v101269260,1.3.1.3,F
+2012,Canada,Automobile dealers,E-commerce,"Total all stores (x 1,000)",v101269261,1.3.2.1,2336763.0
+2013,Canada,Automobile dealers,E-commerce,"Total all stores (x 1,000)",v101269261,1.3.2.1,1601797.0
+2014,Canada,Automobile dealers,E-commerce,"Total all stores (x 1,000)",v101269261,1.3.2.1,x
+2012,Canada,Automobile dealers,E-commerce,"Chain stores (x 1,000)",v101269262,1.3.2.2,F
+2013,Canada,Automobile dealers,E-commerce,"Chain stores (x 1,000)",v101269262,1.3.2.2,F
+2014,Canada,Automobile dealers,E-commerce,"Chain stores (x 1,000)",v101269262,1.3.2.2,F
+2012,Canada,Automobile dealers,E-commerce,"Non-chain stores (x 1,000)",v101269263,1.3.2.3,F
+2013,Canada,Automobile dealers,E-commerce,"Non-chain stores (x 1,000)",v101269263,1.3.2.3,F
+2014,Canada,Automobile dealers,E-commerce,"Non-chain stores (x 1,000)",v101269263,1.3.2.3,F
+2012,Canada,Automobile dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269264,1.3.3.1,864353.0
+2013,Canada,Automobile dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269264,1.3.3.1,911642.0
+2014,Canada,Automobile dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269264,1.3.3.1,x
+2012,Canada,Automobile dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269265,1.3.3.2,F
+2013,Canada,Automobile dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269265,1.3.3.2,F
+2014,Canada,Automobile dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269265,1.3.3.2,F
+2012,Canada,Automobile dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269266,1.3.3.3,F
+2013,Canada,Automobile dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269266,1.3.3.3,F
+2014,Canada,Automobile dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269266,1.3.3.3,F
+2012,Canada,Automobile dealers,All other methods,"Total all stores (x 1,000)",v101269267,1.3.4.1,601628.0
+2013,Canada,Automobile dealers,All other methods,"Total all stores (x 1,000)",v101269267,1.3.4.1,312040.0
+2014,Canada,Automobile dealers,All other methods,"Total all stores (x 1,000)",v101269267,1.3.4.1,423496.0
+2012,Canada,Automobile dealers,All other methods,"Chain stores (x 1,000)",v101269268,1.3.4.2,F
+2013,Canada,Automobile dealers,All other methods,"Chain stores (x 1,000)",v101269268,1.3.4.2,F
+2014,Canada,Automobile dealers,All other methods,"Chain stores (x 1,000)",v101269268,1.3.4.2,F
+2012,Canada,Automobile dealers,All other methods,"Non-chain stores (x 1,000)",v101269269,1.3.4.3,F
+2013,Canada,Automobile dealers,All other methods,"Non-chain stores (x 1,000)",v101269269,1.3.4.3,F
+2014,Canada,Automobile dealers,All other methods,"Non-chain stores (x 1,000)",v101269269,1.3.4.3,F
+2012,Canada,New car dealers,In-store sales,"Total all stores (x 1,000)",v101269270,1.4.1.1,83540732.0
+2013,Canada,New car dealers,In-store sales,"Total all stores (x 1,000)",v101269270,1.4.1.1,91587560.0
+2014,Canada,New car dealers,In-store sales,"Total all stores (x 1,000)",v101269270,1.4.1.1,98593947.0
+2012,Canada,New car dealers,In-store sales,"Chain stores (x 1,000)",v101269271,1.4.1.2,F
+2013,Canada,New car dealers,In-store sales,"Chain stores (x 1,000)",v101269271,1.4.1.2,F
+2014,Canada,New car dealers,In-store sales,"Chain stores (x 1,000)",v101269271,1.4.1.2,F
+2012,Canada,New car dealers,In-store sales,"Non-chain stores (x 1,000)",v101269272,1.4.1.3,F
+2013,Canada,New car dealers,In-store sales,"Non-chain stores (x 1,000)",v101269272,1.4.1.3,F
+2014,Canada,New car dealers,In-store sales,"Non-chain stores (x 1,000)",v101269272,1.4.1.3,F
+2012,Canada,New car dealers,E-commerce,"Total all stores (x 1,000)",v101269273,1.4.2.1,2019548.0
+2013,Canada,New car dealers,E-commerce,"Total all stores (x 1,000)",v101269273,1.4.2.1,1357647.0
+2014,Canada,New car dealers,E-commerce,"Total all stores (x 1,000)",v101269273,1.4.2.1,1452020.0
+2012,Canada,New car dealers,E-commerce,"Chain stores (x 1,000)",v101269274,1.4.2.2,F
+2013,Canada,New car dealers,E-commerce,"Chain stores (x 1,000)",v101269274,1.4.2.2,F
+2014,Canada,New car dealers,E-commerce,"Chain stores (x 1,000)",v101269274,1.4.2.2,F
+2012,Canada,New car dealers,E-commerce,"Non-chain stores (x 1,000)",v101269275,1.4.2.3,F
+2013,Canada,New car dealers,E-commerce,"Non-chain stores (x 1,000)",v101269275,1.4.2.3,F
+2014,Canada,New car dealers,E-commerce,"Non-chain stores (x 1,000)",v101269275,1.4.2.3,F
+2012,Canada,New car dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269276,1.4.3.1,827328.0
+2013,Canada,New car dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269276,1.4.3.1,886677.0
+2014,Canada,New car dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269276,1.4.3.1,898849.0
+2012,Canada,New car dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269277,1.4.3.2,F
+2013,Canada,New car dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269277,1.4.3.2,F
+2014,Canada,New car dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269277,1.4.3.2,F
+2012,Canada,New car dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269278,1.4.3.3,F
+2013,Canada,New car dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269278,1.4.3.3,F
+2014,Canada,New car dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269278,1.4.3.3,F
+2012,Canada,New car dealers,All other methods,"Total all stores (x 1,000)",v101269279,1.4.4.1,458166.0
+2013,Canada,New car dealers,All other methods,"Total all stores (x 1,000)",v101269279,1.4.4.1,75785.0
+2014,Canada,New car dealers,All other methods,"Total all stores (x 1,000)",v101269279,1.4.4.1,22880.0
+2012,Canada,New car dealers,All other methods,"Chain stores (x 1,000)",v101269280,1.4.4.2,F
+2013,Canada,New car dealers,All other methods,"Chain stores (x 1,000)",v101269280,1.4.4.2,F
+2014,Canada,New car dealers,All other methods,"Chain stores (x 1,000)",v101269280,1.4.4.2,F
+2012,Canada,New car dealers,All other methods,"Non-chain stores (x 1,000)",v101269281,1.4.4.3,F
+2013,Canada,New car dealers,All other methods,"Non-chain stores (x 1,000)",v101269281,1.4.4.3,F
+2014,Canada,New car dealers,All other methods,"Non-chain stores (x 1,000)",v101269281,1.4.4.3,F
+2012,Canada,Used car dealers,In-store sales,"Total all stores (x 1,000)",v101269282,1.5.1.1,7023050.0
+2013,Canada,Used car dealers,In-store sales,"Total all stores (x 1,000)",v101269282,1.5.1.1,7357685.0
+2014,Canada,Used car dealers,In-store sales,"Total all stores (x 1,000)",v101269282,1.5.1.1,7471849.0
+2012,Canada,Used car dealers,In-store sales,"Chain stores (x 1,000)",v101269283,1.5.1.2,F
+2013,Canada,Used car dealers,In-store sales,"Chain stores (x 1,000)",v101269283,1.5.1.2,F
+2014,Canada,Used car dealers,In-store sales,"Chain stores (x 1,000)",v101269283,1.5.1.2,F
+2012,Canada,Used car dealers,In-store sales,"Non-chain stores (x 1,000)",v101269284,1.5.1.3,F
+2013,Canada,Used car dealers,In-store sales,"Non-chain stores (x 1,000)",v101269284,1.5.1.3,F
+2014,Canada,Used car dealers,In-store sales,"Non-chain stores (x 1,000)",v101269284,1.5.1.3,F
+2012,Canada,Used car dealers,E-commerce,"Total all stores (x 1,000)",v101269285,1.5.2.1,317214.0
+2013,Canada,Used car dealers,E-commerce,"Total all stores (x 1,000)",v101269285,1.5.2.1,244150.0
+2014,Canada,Used car dealers,E-commerce,"Total all stores (x 1,000)",v101269285,1.5.2.1,x
+2012,Canada,Used car dealers,E-commerce,"Chain stores (x 1,000)",v101269286,1.5.2.2,F
+2013,Canada,Used car dealers,E-commerce,"Chain stores (x 1,000)",v101269286,1.5.2.2,F
+2014,Canada,Used car dealers,E-commerce,"Chain stores (x 1,000)",v101269286,1.5.2.2,F
+2012,Canada,Used car dealers,E-commerce,"Non-chain stores (x 1,000)",v101269287,1.5.2.3,F
+2013,Canada,Used car dealers,E-commerce,"Non-chain stores (x 1,000)",v101269287,1.5.2.3,F
+2014,Canada,Used car dealers,E-commerce,"Non-chain stores (x 1,000)",v101269287,1.5.2.3,F
+2012,Canada,Used car dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269288,1.5.3.1,37025.0
+2013,Canada,Used car dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269288,1.5.3.1,24965.0
+2014,Canada,Used car dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269288,1.5.3.1,x
+2012,Canada,Used car dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269289,1.5.3.2,F
+2013,Canada,Used car dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269289,1.5.3.2,F
+2014,Canada,Used car dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269289,1.5.3.2,F
+2012,Canada,Used car dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269290,1.5.3.3,F
+2013,Canada,Used car dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269290,1.5.3.3,F
+2014,Canada,Used car dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269290,1.5.3.3,F
+2012,Canada,Used car dealers,All other methods,"Total all stores (x 1,000)",v101269291,1.5.4.1,143462.0
+2013,Canada,Used car dealers,All other methods,"Total all stores (x 1,000)",v101269291,1.5.4.1,236255.0
+2014,Canada,Used car dealers,All other methods,"Total all stores (x 1,000)",v101269291,1.5.4.1,400616.0
+2012,Canada,Used car dealers,All other methods,"Chain stores (x 1,000)",v101269292,1.5.4.2,F
+2013,Canada,Used car dealers,All other methods,"Chain stores (x 1,000)",v101269292,1.5.4.2,F
+2014,Canada,Used car dealers,All other methods,"Chain stores (x 1,000)",v101269292,1.5.4.2,F
+2012,Canada,Used car dealers,All other methods,"Non-chain stores (x 1,000)",v101269293,1.5.4.3,F
+2013,Canada,Used car dealers,All other methods,"Non-chain stores (x 1,000)",v101269293,1.5.4.3,F
+2014,Canada,Used car dealers,All other methods,"Non-chain stores (x 1,000)",v101269293,1.5.4.3,F
+2012,Canada,Other motor vehicle dealers,In-store sales,"Total all stores (x 1,000)",v101269294,1.6.1.1,8298964.0
+2013,Canada,Other motor vehicle dealers,In-store sales,"Total all stores (x 1,000)",v101269294,1.6.1.1,8691583.0
+2014,Canada,Other motor vehicle dealers,In-store sales,"Total all stores (x 1,000)",v101269294,1.6.1.1,8891665.0
+2012,Canada,Other motor vehicle dealers,In-store sales,"Chain stores (x 1,000)",v101269295,1.6.1.2,F
+2013,Canada,Other motor vehicle dealers,In-store sales,"Chain stores (x 1,000)",v101269295,1.6.1.2,F
+2014,Canada,Other motor vehicle dealers,In-store sales,"Chain stores (x 1,000)",v101269295,1.6.1.2,F
+2012,Canada,Other motor vehicle dealers,In-store sales,"Non-chain stores (x 1,000)",v101269296,1.6.1.3,F
+2013,Canada,Other motor vehicle dealers,In-store sales,"Non-chain stores (x 1,000)",v101269296,1.6.1.3,F
+2014,Canada,Other motor vehicle dealers,In-store sales,"Non-chain stores (x 1,000)",v101269296,1.6.1.3,F
+2012,Canada,Other motor vehicle dealers,E-commerce,"Total all stores (x 1,000)",v101269297,1.6.2.1,164022.0
+2013,Canada,Other motor vehicle dealers,E-commerce,"Total all stores (x 1,000)",v101269297,1.6.2.1,273952.0
+2014,Canada,Other motor vehicle dealers,E-commerce,"Total all stores (x 1,000)",v101269297,1.6.2.1,x
+2012,Canada,Other motor vehicle dealers,E-commerce,"Chain stores (x 1,000)",v101269298,1.6.2.2,F
+2013,Canada,Other motor vehicle dealers,E-commerce,"Chain stores (x 1,000)",v101269298,1.6.2.2,F
+2014,Canada,Other motor vehicle dealers,E-commerce,"Chain stores (x 1,000)",v101269298,1.6.2.2,F
+2012,Canada,Other motor vehicle dealers,E-commerce,"Non-chain stores (x 1,000)",v101269299,1.6.2.3,F
+2013,Canada,Other motor vehicle dealers,E-commerce,"Non-chain stores (x 1,000)",v101269299,1.6.2.3,F
+2014,Canada,Other motor vehicle dealers,E-commerce,"Non-chain stores (x 1,000)",v101269299,1.6.2.3,F
+2012,Canada,Other motor vehicle dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269300,1.6.3.1,179872.0
+2013,Canada,Other motor vehicle dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269300,1.6.3.1,255462.0
+2014,Canada,Other motor vehicle dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269300,1.6.3.1,164194.0
+2012,Canada,Other motor vehicle dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269301,1.6.3.2,F
+2013,Canada,Other motor vehicle dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269301,1.6.3.2,F
+2014,Canada,Other motor vehicle dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269301,1.6.3.2,F
+2012,Canada,Other motor vehicle dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269302,1.6.3.3,F
+2013,Canada,Other motor vehicle dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269302,1.6.3.3,F
+2014,Canada,Other motor vehicle dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269302,1.6.3.3,F
+2012,Canada,Other motor vehicle dealers,All other methods,"Total all stores (x 1,000)",v101269303,1.6.4.1,156304.0
+2013,Canada,Other motor vehicle dealers,All other methods,"Total all stores (x 1,000)",v101269303,1.6.4.1,56571.0
+2014,Canada,Other motor vehicle dealers,All other methods,"Total all stores (x 1,000)",v101269303,1.6.4.1,x
+2012,Canada,Other motor vehicle dealers,All other methods,"Chain stores (x 1,000)",v101269304,1.6.4.2,F
+2013,Canada,Other motor vehicle dealers,All other methods,"Chain stores (x 1,000)",v101269304,1.6.4.2,F
+2014,Canada,Other motor vehicle dealers,All other methods,"Chain stores (x 1,000)",v101269304,1.6.4.2,F
+2012,Canada,Other motor vehicle dealers,All other methods,"Non-chain stores (x 1,000)",v101269305,1.6.4.3,F
+2013,Canada,Other motor vehicle dealers,All other methods,"Non-chain stores (x 1,000)",v101269305,1.6.4.3,F
+2014,Canada,Other motor vehicle dealers,All other methods,"Non-chain stores (x 1,000)",v101269305,1.6.4.3,F
+2012,Canada,"Automotive parts, accessories and tire stores",In-store sales,"Total all stores (x 1,000)",v101269306,1.7.1.1,6676895.0
+2013,Canada,"Automotive parts, accessories and tire stores",In-store sales,"Total all stores (x 1,000)",v101269306,1.7.1.1,7609272.0
+2014,Canada,"Automotive parts, accessories and tire stores",In-store sales,"Total all stores (x 1,000)",v101269306,1.7.1.1,8206817.0
+2012,Canada,"Automotive parts, accessories and tire stores",In-store sales,"Chain stores (x 1,000)",v101269307,1.7.1.2,F
+2013,Canada,"Automotive parts, accessories and tire stores",In-store sales,"Chain stores (x 1,000)",v101269307,1.7.1.2,F
+2014,Canada,"Automotive parts, accessories and tire stores",In-store sales,"Chain stores (x 1,000)",v101269307,1.7.1.2,F
+2012,Canada,"Automotive parts, accessories and tire stores",In-store sales,"Non-chain stores (x 1,000)",v101269308,1.7.1.3,F
+2013,Canada,"Automotive parts, accessories and tire stores",In-store sales,"Non-chain stores (x 1,000)",v101269308,1.7.1.3,F
+2014,Canada,"Automotive parts, accessories and tire stores",In-store sales,"Non-chain stores (x 1,000)",v101269308,1.7.1.3,F
+2012,Canada,"Automotive parts, accessories and tire stores",E-commerce,"Total all stores (x 1,000)",v101269309,1.7.2.1,257297.0
+2013,Canada,"Automotive parts, accessories and tire stores",E-commerce,"Total all stores (x 1,000)",v101269309,1.7.2.1,291481.0
+2014,Canada,"Automotive parts, accessories and tire stores",E-commerce,"Total all stores (x 1,000)",v101269309,1.7.2.1,x
+2012,Canada,"Automotive parts, accessories and tire stores",E-commerce,"Chain stores (x 1,000)",v101269310,1.7.2.2,F
+2013,Canada,"Automotive parts, accessories and tire stores",E-commerce,"Chain stores (x 1,000)",v101269310,1.7.2.2,F
+2014,Canada,"Automotive parts, accessories and tire stores",E-commerce,"Chain stores (x 1,000)",v101269310,1.7.2.2,F
+2012,Canada,"Automotive parts, accessories and tire stores",E-commerce,"Non-chain stores (x 1,000)",v101269311,1.7.2.3,F
+2013,Canada,"Automotive parts, accessories and tire stores",E-commerce,"Non-chain stores (x 1,000)",v101269311,1.7.2.3,F
+2014,Canada,"Automotive parts, accessories and tire stores",E-commerce,"Non-chain stores (x 1,000)",v101269311,1.7.2.3,F
+2012,Canada,"Automotive parts, accessories and tire stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269312,1.7.3.1,800462.0
+2013,Canada,"Automotive parts, accessories and tire stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269312,1.7.3.1,562000.0
+2014,Canada,"Automotive parts, accessories and tire stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269312,1.7.3.1,x
+2012,Canada,"Automotive parts, accessories and tire stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269313,1.7.3.2,F
+2013,Canada,"Automotive parts, accessories and tire stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269313,1.7.3.2,F
+2014,Canada,"Automotive parts, accessories and tire stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269313,1.7.3.2,F
+2012,Canada,"Automotive parts, accessories and tire stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269314,1.7.3.3,F
+2013,Canada,"Automotive parts, accessories and tire stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269314,1.7.3.3,F
+2014,Canada,"Automotive parts, accessories and tire stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269314,1.7.3.3,F
+2012,Canada,"Automotive parts, accessories and tire stores",All other methods,"Total all stores (x 1,000)",v101269315,1.7.4.1,399070.0
+2013,Canada,"Automotive parts, accessories and tire stores",All other methods,"Total all stores (x 1,000)",v101269315,1.7.4.1,149377.0
+2014,Canada,"Automotive parts, accessories and tire stores",All other methods,"Total all stores (x 1,000)",v101269315,1.7.4.1,x
+2012,Canada,"Automotive parts, accessories and tire stores",All other methods,"Chain stores (x 1,000)",v101269316,1.7.4.2,F
+2013,Canada,"Automotive parts, accessories and tire stores",All other methods,"Chain stores (x 1,000)",v101269316,1.7.4.2,F
+2014,Canada,"Automotive parts, accessories and tire stores",All other methods,"Chain stores (x 1,000)",v101269316,1.7.4.2,F
+2012,Canada,"Automotive parts, accessories and tire stores",All other methods,"Non-chain stores (x 1,000)",v101269317,1.7.4.3,F
+2013,Canada,"Automotive parts, accessories and tire stores",All other methods,"Non-chain stores (x 1,000)",v101269317,1.7.4.3,F
+2014,Canada,"Automotive parts, accessories and tire stores",All other methods,"Non-chain stores (x 1,000)",v101269317,1.7.4.3,F
+2012,Canada,Furniture and home furnishings stores,In-store sales,"Total all stores (x 1,000)",v101269318,1.8.1.1,15195675.0
+2013,Canada,Furniture and home furnishings stores,In-store sales,"Total all stores (x 1,000)",v101269318,1.8.1.1,15624609.0
+2014,Canada,Furniture and home furnishings stores,In-store sales,"Total all stores (x 1,000)",v101269318,1.8.1.1,16211731.0
+2012,Canada,Furniture and home furnishings stores,In-store sales,"Chain stores (x 1,000)",v101269319,1.8.1.2,F
+2013,Canada,Furniture and home furnishings stores,In-store sales,"Chain stores (x 1,000)",v101269319,1.8.1.2,F
+2014,Canada,Furniture and home furnishings stores,In-store sales,"Chain stores (x 1,000)",v101269319,1.8.1.2,F
+2012,Canada,Furniture and home furnishings stores,In-store sales,"Non-chain stores (x 1,000)",v101269320,1.8.1.3,F
+2013,Canada,Furniture and home furnishings stores,In-store sales,"Non-chain stores (x 1,000)",v101269320,1.8.1.3,F
+2014,Canada,Furniture and home furnishings stores,In-store sales,"Non-chain stores (x 1,000)",v101269320,1.8.1.3,F
+2012,Canada,Furniture and home furnishings stores,E-commerce,"Total all stores (x 1,000)",v101269321,1.8.2.1,98276.0
+2013,Canada,Furniture and home furnishings stores,E-commerce,"Total all stores (x 1,000)",v101269321,1.8.2.1,247696.0
+2014,Canada,Furniture and home furnishings stores,E-commerce,"Total all stores (x 1,000)",v101269321,1.8.2.1,295885.0
+2012,Canada,Furniture and home furnishings stores,E-commerce,"Chain stores (x 1,000)",v101269322,1.8.2.2,F
+2013,Canada,Furniture and home furnishings stores,E-commerce,"Chain stores (x 1,000)",v101269322,1.8.2.2,F
+2014,Canada,Furniture and home furnishings stores,E-commerce,"Chain stores (x 1,000)",v101269322,1.8.2.2,F
+2012,Canada,Furniture and home furnishings stores,E-commerce,"Non-chain stores (x 1,000)",v101269323,1.8.2.3,F
+2013,Canada,Furniture and home furnishings stores,E-commerce,"Non-chain stores (x 1,000)",v101269323,1.8.2.3,F
+2014,Canada,Furniture and home furnishings stores,E-commerce,"Non-chain stores (x 1,000)",v101269323,1.8.2.3,F
+2012,Canada,Furniture and home furnishings stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269324,1.8.3.1,x
+2013,Canada,Furniture and home furnishings stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269324,1.8.3.1,x
+2014,Canada,Furniture and home furnishings stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269324,1.8.3.1,115662.0
+2012,Canada,Furniture and home furnishings stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269325,1.8.3.2,F
+2013,Canada,Furniture and home furnishings stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269325,1.8.3.2,F
+2014,Canada,Furniture and home furnishings stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269325,1.8.3.2,F
+2012,Canada,Furniture and home furnishings stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269326,1.8.3.3,F
+2013,Canada,Furniture and home furnishings stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269326,1.8.3.3,F
+2014,Canada,Furniture and home furnishings stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269326,1.8.3.3,F
+2012,Canada,Furniture and home furnishings stores,All other methods,"Total all stores (x 1,000)",v101269327,1.8.4.1,x
+2013,Canada,Furniture and home furnishings stores,All other methods,"Total all stores (x 1,000)",v101269327,1.8.4.1,x
+2014,Canada,Furniture and home furnishings stores,All other methods,"Total all stores (x 1,000)",v101269327,1.8.4.1,182498.0
+2012,Canada,Furniture and home furnishings stores,All other methods,"Chain stores (x 1,000)",v101269328,1.8.4.2,F
+2013,Canada,Furniture and home furnishings stores,All other methods,"Chain stores (x 1,000)",v101269328,1.8.4.2,F
+2014,Canada,Furniture and home furnishings stores,All other methods,"Chain stores (x 1,000)",v101269328,1.8.4.2,F
+2012,Canada,Furniture and home furnishings stores,All other methods,"Non-chain stores (x 1,000)",v101269329,1.8.4.3,F
+2013,Canada,Furniture and home furnishings stores,All other methods,"Non-chain stores (x 1,000)",v101269329,1.8.4.3,F
+2014,Canada,Furniture and home furnishings stores,All other methods,"Non-chain stores (x 1,000)",v101269329,1.8.4.3,F
+2012,Canada,Furniture stores,In-store sales,"Total all stores (x 1,000)",v101269330,1.9.1.1,9504007.0
+2013,Canada,Furniture stores,In-store sales,"Total all stores (x 1,000)",v101269330,1.9.1.1,9658832.0
+2014,Canada,Furniture stores,In-store sales,"Total all stores (x 1,000)",v101269330,1.9.1.1,9990630.0
+2012,Canada,Furniture stores,In-store sales,"Chain stores (x 1,000)",v101269331,1.9.1.2,F
+2013,Canada,Furniture stores,In-store sales,"Chain stores (x 1,000)",v101269331,1.9.1.2,F
+2014,Canada,Furniture stores,In-store sales,"Chain stores (x 1,000)",v101269331,1.9.1.2,F
+2012,Canada,Furniture stores,In-store sales,"Non-chain stores (x 1,000)",v101269332,1.9.1.3,F
+2013,Canada,Furniture stores,In-store sales,"Non-chain stores (x 1,000)",v101269332,1.9.1.3,F
+2014,Canada,Furniture stores,In-store sales,"Non-chain stores (x 1,000)",v101269332,1.9.1.3,F
+2012,Canada,Furniture stores,E-commerce,"Total all stores (x 1,000)",v101269333,1.9.2.1,67761.0
+2013,Canada,Furniture stores,E-commerce,"Total all stores (x 1,000)",v101269333,1.9.2.1,185715.0
+2014,Canada,Furniture stores,E-commerce,"Total all stores (x 1,000)",v101269333,1.9.2.1,209938.0
+2012,Canada,Furniture stores,E-commerce,"Chain stores (x 1,000)",v101269334,1.9.2.2,F
+2013,Canada,Furniture stores,E-commerce,"Chain stores (x 1,000)",v101269334,1.9.2.2,F
+2014,Canada,Furniture stores,E-commerce,"Chain stores (x 1,000)",v101269334,1.9.2.2,F
+2012,Canada,Furniture stores,E-commerce,"Non-chain stores (x 1,000)",v101269335,1.9.2.3,F
+2013,Canada,Furniture stores,E-commerce,"Non-chain stores (x 1,000)",v101269335,1.9.2.3,F
+2014,Canada,Furniture stores,E-commerce,"Non-chain stores (x 1,000)",v101269335,1.9.2.3,F
+2012,Canada,Furniture stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269336,1.9.3.1,24413.0
+2013,Canada,Furniture stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269336,1.9.3.1,48908.0
+2014,Canada,Furniture stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269336,1.9.3.1,63959.0
+2012,Canada,Furniture stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269337,1.9.3.2,F
+2013,Canada,Furniture stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269337,1.9.3.2,F
+2014,Canada,Furniture stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269337,1.9.3.2,F
+2012,Canada,Furniture stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269338,1.9.3.3,F
+2013,Canada,Furniture stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269338,1.9.3.3,F
+2014,Canada,Furniture stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269338,1.9.3.3,F
+2012,Canada,Furniture stores,All other methods,"Total all stores (x 1,000)",v101269339,1.9.4.1,62389.0
+2013,Canada,Furniture stores,All other methods,"Total all stores (x 1,000)",v101269339,1.9.4.1,65742.0
+2014,Canada,Furniture stores,All other methods,"Total all stores (x 1,000)",v101269339,1.9.4.1,70734.0
+2012,Canada,Furniture stores,All other methods,"Chain stores (x 1,000)",v101269340,1.9.4.2,F
+2013,Canada,Furniture stores,All other methods,"Chain stores (x 1,000)",v101269340,1.9.4.2,F
+2014,Canada,Furniture stores,All other methods,"Chain stores (x 1,000)",v101269340,1.9.4.2,F
+2012,Canada,Furniture stores,All other methods,"Non-chain stores (x 1,000)",v101269341,1.9.4.3,F
+2013,Canada,Furniture stores,All other methods,"Non-chain stores (x 1,000)",v101269341,1.9.4.3,F
+2014,Canada,Furniture stores,All other methods,"Non-chain stores (x 1,000)",v101269341,1.9.4.3,F
+2012,Canada,Home furnishings stores,In-store sales,"Total all stores (x 1,000)",v101269342,1.10.1.1,5691668.0
+2013,Canada,Home furnishings stores,In-store sales,"Total all stores (x 1,000)",v101269342,1.10.1.1,5965777.0
+2014,Canada,Home furnishings stores,In-store sales,"Total all stores (x 1,000)",v101269342,1.10.1.1,6221101.0
+2012,Canada,Home furnishings stores,In-store sales,"Chain stores (x 1,000)",v101269343,1.10.1.2,F
+2013,Canada,Home furnishings stores,In-store sales,"Chain stores (x 1,000)",v101269343,1.10.1.2,F
+2014,Canada,Home furnishings stores,In-store sales,"Chain stores (x 1,000)",v101269343,1.10.1.2,F
+2012,Canada,Home furnishings stores,In-store sales,"Non-chain stores (x 1,000)",v101269344,1.10.1.3,F
+2013,Canada,Home furnishings stores,In-store sales,"Non-chain stores (x 1,000)",v101269344,1.10.1.3,F
+2014,Canada,Home furnishings stores,In-store sales,"Non-chain stores (x 1,000)",v101269344,1.10.1.3,F
+2012,Canada,Home furnishings stores,E-commerce,"Total all stores (x 1,000)",v101269345,1.10.2.1,30515.0
+2013,Canada,Home furnishings stores,E-commerce,"Total all stores (x 1,000)",v101269345,1.10.2.1,61980.0
+2014,Canada,Home furnishings stores,E-commerce,"Total all stores (x 1,000)",v101269345,1.10.2.1,85947.0
+2012,Canada,Home furnishings stores,E-commerce,"Chain stores (x 1,000)",v101269346,1.10.2.2,F
+2013,Canada,Home furnishings stores,E-commerce,"Chain stores (x 1,000)",v101269346,1.10.2.2,F
+2014,Canada,Home furnishings stores,E-commerce,"Chain stores (x 1,000)",v101269346,1.10.2.2,F
+2012,Canada,Home furnishings stores,E-commerce,"Non-chain stores (x 1,000)",v101269347,1.10.2.3,F
+2013,Canada,Home furnishings stores,E-commerce,"Non-chain stores (x 1,000)",v101269347,1.10.2.3,F
+2014,Canada,Home furnishings stores,E-commerce,"Non-chain stores (x 1,000)",v101269347,1.10.2.3,F
+2012,Canada,Home furnishings stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269348,1.10.3.1,x
+2013,Canada,Home furnishings stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269348,1.10.3.1,x
+2014,Canada,Home furnishings stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269348,1.10.3.1,51703.0
+2012,Canada,Home furnishings stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269349,1.10.3.2,F
+2013,Canada,Home furnishings stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269349,1.10.3.2,F
+2014,Canada,Home furnishings stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269349,1.10.3.2,F
+2012,Canada,Home furnishings stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269350,1.10.3.3,F
+2013,Canada,Home furnishings stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269350,1.10.3.3,F
+2014,Canada,Home furnishings stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269350,1.10.3.3,F
+2012,Canada,Home furnishings stores,All other methods,"Total all stores (x 1,000)",v101269351,1.10.4.1,x
+2013,Canada,Home furnishings stores,All other methods,"Total all stores (x 1,000)",v101269351,1.10.4.1,x
+2014,Canada,Home furnishings stores,All other methods,"Total all stores (x 1,000)",v101269351,1.10.4.1,111764.0
+2012,Canada,Home furnishings stores,All other methods,"Chain stores (x 1,000)",v101269352,1.10.4.2,F
+2013,Canada,Home furnishings stores,All other methods,"Chain stores (x 1,000)",v101269352,1.10.4.2,F
+2014,Canada,Home furnishings stores,All other methods,"Chain stores (x 1,000)",v101269352,1.10.4.2,F
+2012,Canada,Home furnishings stores,All other methods,"Non-chain stores (x 1,000)",v101269353,1.10.4.3,F
+2013,Canada,Home furnishings stores,All other methods,"Non-chain stores (x 1,000)",v101269353,1.10.4.3,F
+2014,Canada,Home furnishings stores,All other methods,"Non-chain stores (x 1,000)",v101269353,1.10.4.3,F
+2012,Canada,Electronics and appliance stores,In-store sales,"Total all stores (x 1,000)",v101269354,1.11.1.1,14794318.0
+2013,Canada,Electronics and appliance stores,In-store sales,"Total all stores (x 1,000)",v101269354,1.11.1.1,14863183.0
+2014,Canada,Electronics and appliance stores,In-store sales,"Total all stores (x 1,000)",v101269354,1.11.1.1,14887917.0
+2012,Canada,Electronics and appliance stores,In-store sales,"Chain stores (x 1,000)",v101269355,1.11.1.2,F
+2013,Canada,Electronics and appliance stores,In-store sales,"Chain stores (x 1,000)",v101269355,1.11.1.2,F
+2014,Canada,Electronics and appliance stores,In-store sales,"Chain stores (x 1,000)",v101269355,1.11.1.2,F
+2012,Canada,Electronics and appliance stores,In-store sales,"Non-chain stores (x 1,000)",v101269356,1.11.1.3,F
+2013,Canada,Electronics and appliance stores,In-store sales,"Non-chain stores (x 1,000)",v101269356,1.11.1.3,F
+2014,Canada,Electronics and appliance stores,In-store sales,"Non-chain stores (x 1,000)",v101269356,1.11.1.3,F
+2012,Canada,Electronics and appliance stores,E-commerce,"Total all stores (x 1,000)",v101269357,1.11.2.1,535505.0
+2013,Canada,Electronics and appliance stores,E-commerce,"Total all stores (x 1,000)",v101269357,1.11.2.1,743917.0
+2014,Canada,Electronics and appliance stores,E-commerce,"Total all stores (x 1,000)",v101269357,1.11.2.1,779906.0
+2012,Canada,Electronics and appliance stores,E-commerce,"Chain stores (x 1,000)",v101269358,1.11.2.2,F
+2013,Canada,Electronics and appliance stores,E-commerce,"Chain stores (x 1,000)",v101269358,1.11.2.2,F
+2014,Canada,Electronics and appliance stores,E-commerce,"Chain stores (x 1,000)",v101269358,1.11.2.2,F
+2012,Canada,Electronics and appliance stores,E-commerce,"Non-chain stores (x 1,000)",v101269359,1.11.2.3,F
+2013,Canada,Electronics and appliance stores,E-commerce,"Non-chain stores (x 1,000)",v101269359,1.11.2.3,F
+2014,Canada,Electronics and appliance stores,E-commerce,"Non-chain stores (x 1,000)",v101269359,1.11.2.3,F
+2012,Canada,Electronics and appliance stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269360,1.11.3.1,283922.0
+2013,Canada,Electronics and appliance stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269360,1.11.3.1,306544.0
+2014,Canada,Electronics and appliance stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269360,1.11.3.1,349943.0
+2012,Canada,Electronics and appliance stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269361,1.11.3.2,F
+2013,Canada,Electronics and appliance stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269361,1.11.3.2,F
+2014,Canada,Electronics and appliance stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269361,1.11.3.2,F
+2012,Canada,Electronics and appliance stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269362,1.11.3.3,F
+2013,Canada,Electronics and appliance stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269362,1.11.3.3,F
+2014,Canada,Electronics and appliance stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269362,1.11.3.3,F
+2012,Canada,Electronics and appliance stores,All other methods,"Total all stores (x 1,000)",v101269363,1.11.4.1,324824.0
+2013,Canada,Electronics and appliance stores,All other methods,"Total all stores (x 1,000)",v101269363,1.11.4.1,366918.0
+2014,Canada,Electronics and appliance stores,All other methods,"Total all stores (x 1,000)",v101269363,1.11.4.1,448271.0
+2012,Canada,Electronics and appliance stores,All other methods,"Chain stores (x 1,000)",v101269364,1.11.4.2,F
+2013,Canada,Electronics and appliance stores,All other methods,"Chain stores (x 1,000)",v101269364,1.11.4.2,F
+2014,Canada,Electronics and appliance stores,All other methods,"Chain stores (x 1,000)",v101269364,1.11.4.2,F
+2012,Canada,Electronics and appliance stores,All other methods,"Non-chain stores (x 1,000)",v101269365,1.11.4.3,F
+2013,Canada,Electronics and appliance stores,All other methods,"Non-chain stores (x 1,000)",v101269365,1.11.4.3,F
+2014,Canada,Electronics and appliance stores,All other methods,"Non-chain stores (x 1,000)",v101269365,1.11.4.3,F
+2012,Canada,Building material and garden equipment and supplies dealers,In-store sales,"Total all stores (x 1,000)",v101269366,1.12.1.1,28056327.0
+2013,Canada,Building material and garden equipment and supplies dealers,In-store sales,"Total all stores (x 1,000)",v101269366,1.12.1.1,28807370.0
+2014,Canada,Building material and garden equipment and supplies dealers,In-store sales,"Total all stores (x 1,000)",v101269366,1.12.1.1,29842365.0
+2012,Canada,Building material and garden equipment and supplies dealers,In-store sales,"Chain stores (x 1,000)",v101269367,1.12.1.2,F
+2013,Canada,Building material and garden equipment and supplies dealers,In-store sales,"Chain stores (x 1,000)",v101269367,1.12.1.2,F
+2014,Canada,Building material and garden equipment and supplies dealers,In-store sales,"Chain stores (x 1,000)",v101269367,1.12.1.2,F
+2012,Canada,Building material and garden equipment and supplies dealers,In-store sales,"Non-chain stores (x 1,000)",v101269368,1.12.1.3,F
+2013,Canada,Building material and garden equipment and supplies dealers,In-store sales,"Non-chain stores (x 1,000)",v101269368,1.12.1.3,F
+2014,Canada,Building material and garden equipment and supplies dealers,In-store sales,"Non-chain stores (x 1,000)",v101269368,1.12.1.3,F
+2012,Canada,Building material and garden equipment and supplies dealers,E-commerce,"Total all stores (x 1,000)",v101269369,1.12.2.1,75709.0
+2013,Canada,Building material and garden equipment and supplies dealers,E-commerce,"Total all stores (x 1,000)",v101269369,1.12.2.1,246802.0
+2014,Canada,Building material and garden equipment and supplies dealers,E-commerce,"Total all stores (x 1,000)",v101269369,1.12.2.1,282328.0
+2012,Canada,Building material and garden equipment and supplies dealers,E-commerce,"Chain stores (x 1,000)",v101269370,1.12.2.2,F
+2013,Canada,Building material and garden equipment and supplies dealers,E-commerce,"Chain stores (x 1,000)",v101269370,1.12.2.2,F
+2014,Canada,Building material and garden equipment and supplies dealers,E-commerce,"Chain stores (x 1,000)",v101269370,1.12.2.2,F
+2012,Canada,Building material and garden equipment and supplies dealers,E-commerce,"Non-chain stores (x 1,000)",v101269371,1.12.2.3,F
+2013,Canada,Building material and garden equipment and supplies dealers,E-commerce,"Non-chain stores (x 1,000)",v101269371,1.12.2.3,F
+2014,Canada,Building material and garden equipment and supplies dealers,E-commerce,"Non-chain stores (x 1,000)",v101269371,1.12.2.3,F
+2012,Canada,Building material and garden equipment and supplies dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269372,1.12.3.1,774297.0
+2013,Canada,Building material and garden equipment and supplies dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269372,1.12.3.1,901311.0
+2014,Canada,Building material and garden equipment and supplies dealers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269372,1.12.3.1,1196829.0
+2012,Canada,Building material and garden equipment and supplies dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269373,1.12.3.2,F
+2013,Canada,Building material and garden equipment and supplies dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269373,1.12.3.2,F
+2014,Canada,Building material and garden equipment and supplies dealers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269373,1.12.3.2,F
+2012,Canada,Building material and garden equipment and supplies dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269374,1.12.3.3,F
+2013,Canada,Building material and garden equipment and supplies dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269374,1.12.3.3,F
+2014,Canada,Building material and garden equipment and supplies dealers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269374,1.12.3.3,F
+2012,Canada,Building material and garden equipment and supplies dealers,All other methods,"Total all stores (x 1,000)",v101269375,1.12.4.1,461978.0
+2013,Canada,Building material and garden equipment and supplies dealers,All other methods,"Total all stores (x 1,000)",v101269375,1.12.4.1,398365.0
+2014,Canada,Building material and garden equipment and supplies dealers,All other methods,"Total all stores (x 1,000)",v101269375,1.12.4.1,365766.0
+2012,Canada,Building material and garden equipment and supplies dealers,All other methods,"Chain stores (x 1,000)",v101269376,1.12.4.2,F
+2013,Canada,Building material and garden equipment and supplies dealers,All other methods,"Chain stores (x 1,000)",v101269376,1.12.4.2,F
+2014,Canada,Building material and garden equipment and supplies dealers,All other methods,"Chain stores (x 1,000)",v101269376,1.12.4.2,F
+2012,Canada,Building material and garden equipment and supplies dealers,All other methods,"Non-chain stores (x 1,000)",v101269377,1.12.4.3,F
+2013,Canada,Building material and garden equipment and supplies dealers,All other methods,"Non-chain stores (x 1,000)",v101269377,1.12.4.3,F
+2014,Canada,Building material and garden equipment and supplies dealers,All other methods,"Non-chain stores (x 1,000)",v101269377,1.12.4.3,F
+2012,Canada,Food and beverage stores,In-store sales,"Total all stores (x 1,000)",v101269378,1.13.1.1,104177994.0
+2013,Canada,Food and beverage stores,In-store sales,"Total all stores (x 1,000)",v101269378,1.13.1.1,107904354.0
+2014,Canada,Food and beverage stores,In-store sales,"Total all stores (x 1,000)",v101269378,1.13.1.1,111132843.0
+2012,Canada,Food and beverage stores,In-store sales,"Chain stores (x 1,000)",v101269379,1.13.1.2,F
+2013,Canada,Food and beverage stores,In-store sales,"Chain stores (x 1,000)",v101269379,1.13.1.2,F
+2014,Canada,Food and beverage stores,In-store sales,"Chain stores (x 1,000)",v101269379,1.13.1.2,F
+2012,Canada,Food and beverage stores,In-store sales,"Non-chain stores (x 1,000)",v101269380,1.13.1.3,F
+2013,Canada,Food and beverage stores,In-store sales,"Non-chain stores (x 1,000)",v101269380,1.13.1.3,F
+2014,Canada,Food and beverage stores,In-store sales,"Non-chain stores (x 1,000)",v101269380,1.13.1.3,F
+2012,Canada,Food and beverage stores,E-commerce,"Total all stores (x 1,000)",v101269381,1.13.2.1,125419.0
+2013,Canada,Food and beverage stores,E-commerce,"Total all stores (x 1,000)",v101269381,1.13.2.1,114006.0
+2014,Canada,Food and beverage stores,E-commerce,"Total all stores (x 1,000)",v101269381,1.13.2.1,x
+2012,Canada,Food and beverage stores,E-commerce,"Chain stores (x 1,000)",v101269382,1.13.2.2,F
+2013,Canada,Food and beverage stores,E-commerce,"Chain stores (x 1,000)",v101269382,1.13.2.2,F
+2014,Canada,Food and beverage stores,E-commerce,"Chain stores (x 1,000)",v101269382,1.13.2.2,F
+2012,Canada,Food and beverage stores,E-commerce,"Non-chain stores (x 1,000)",v101269383,1.13.2.3,F
+2013,Canada,Food and beverage stores,E-commerce,"Non-chain stores (x 1,000)",v101269383,1.13.2.3,F
+2014,Canada,Food and beverage stores,E-commerce,"Non-chain stores (x 1,000)",v101269383,1.13.2.3,F
+2012,Canada,Food and beverage stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269384,1.13.3.1,222361.0
+2013,Canada,Food and beverage stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269384,1.13.3.1,177256.0
+2014,Canada,Food and beverage stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269384,1.13.3.1,x
+2012,Canada,Food and beverage stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269385,1.13.3.2,F
+2013,Canada,Food and beverage stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269385,1.13.3.2,F
+2014,Canada,Food and beverage stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269385,1.13.3.2,F
+2012,Canada,Food and beverage stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269386,1.13.3.3,F
+2013,Canada,Food and beverage stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269386,1.13.3.3,F
+2014,Canada,Food and beverage stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269386,1.13.3.3,F
+2012,Canada,Food and beverage stores,All other methods,"Total all stores (x 1,000)",v101269387,1.13.4.1,3664593.0
+2013,Canada,Food and beverage stores,All other methods,"Total all stores (x 1,000)",v101269387,1.13.4.1,4431519.0
+2014,Canada,Food and beverage stores,All other methods,"Total all stores (x 1,000)",v101269387,1.13.4.1,4015025.0
+2012,Canada,Food and beverage stores,All other methods,"Chain stores (x 1,000)",v101269388,1.13.4.2,F
+2013,Canada,Food and beverage stores,All other methods,"Chain stores (x 1,000)",v101269388,1.13.4.2,F
+2014,Canada,Food and beverage stores,All other methods,"Chain stores (x 1,000)",v101269388,1.13.4.2,F
+2012,Canada,Food and beverage stores,All other methods,"Non-chain stores (x 1,000)",v101269389,1.13.4.3,F
+2013,Canada,Food and beverage stores,All other methods,"Non-chain stores (x 1,000)",v101269389,1.13.4.3,F
+2014,Canada,Food and beverage stores,All other methods,"Non-chain stores (x 1,000)",v101269389,1.13.4.3,F
+2012,Canada,Grocery stores,In-store sales,"Total all stores (x 1,000)",v101269390,1.14.1.1,83930838.0
+2013,Canada,Grocery stores,In-store sales,"Total all stores (x 1,000)",v101269390,1.14.1.1,87653008.0
+2014,Canada,Grocery stores,In-store sales,"Total all stores (x 1,000)",v101269390,1.14.1.1,89710455.0
+2012,Canada,Grocery stores,In-store sales,"Chain stores (x 1,000)",v101269391,1.14.1.2,F
+2013,Canada,Grocery stores,In-store sales,"Chain stores (x 1,000)",v101269391,1.14.1.2,F
+2014,Canada,Grocery stores,In-store sales,"Chain stores (x 1,000)",v101269391,1.14.1.2,F
+2012,Canada,Grocery stores,In-store sales,"Non-chain stores (x 1,000)",v101269392,1.14.1.3,F
+2013,Canada,Grocery stores,In-store sales,"Non-chain stores (x 1,000)",v101269392,1.14.1.3,F
+2014,Canada,Grocery stores,In-store sales,"Non-chain stores (x 1,000)",v101269392,1.14.1.3,F
+2012,Canada,Grocery stores,E-commerce,"Total all stores (x 1,000)",v101269393,1.14.2.1,x
+2013,Canada,Grocery stores,E-commerce,"Total all stores (x 1,000)",v101269393,1.14.2.1,x
+2014,Canada,Grocery stores,E-commerce,"Total all stores (x 1,000)",v101269393,1.14.2.1,x
+2012,Canada,Grocery stores,E-commerce,"Chain stores (x 1,000)",v101269394,1.14.2.2,F
+2013,Canada,Grocery stores,E-commerce,"Chain stores (x 1,000)",v101269394,1.14.2.2,F
+2014,Canada,Grocery stores,E-commerce,"Chain stores (x 1,000)",v101269394,1.14.2.2,F
+2012,Canada,Grocery stores,E-commerce,"Non-chain stores (x 1,000)",v101269395,1.14.2.3,F
+2013,Canada,Grocery stores,E-commerce,"Non-chain stores (x 1,000)",v101269395,1.14.2.3,F
+2014,Canada,Grocery stores,E-commerce,"Non-chain stores (x 1,000)",v101269395,1.14.2.3,F
+2012,Canada,Grocery stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269396,1.14.3.1,x
+2013,Canada,Grocery stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269396,1.14.3.1,x
+2014,Canada,Grocery stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269396,1.14.3.1,x
+2012,Canada,Grocery stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269397,1.14.3.2,F
+2013,Canada,Grocery stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269397,1.14.3.2,F
+2014,Canada,Grocery stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269397,1.14.3.2,F
+2012,Canada,Grocery stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269398,1.14.3.3,F
+2013,Canada,Grocery stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269398,1.14.3.3,F
+2014,Canada,Grocery stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269398,1.14.3.3,F
+2012,Canada,Grocery stores,All other methods,"Total all stores (x 1,000)",v101269399,1.14.4.1,x
+2013,Canada,Grocery stores,All other methods,"Total all stores (x 1,000)",v101269399,1.14.4.1,x
+2014,Canada,Grocery stores,All other methods,"Total all stores (x 1,000)",v101269399,1.14.4.1,x
+2012,Canada,Grocery stores,All other methods,"Chain stores (x 1,000)",v101269400,1.14.4.2,F
+2013,Canada,Grocery stores,All other methods,"Chain stores (x 1,000)",v101269400,1.14.4.2,F
+2014,Canada,Grocery stores,All other methods,"Chain stores (x 1,000)",v101269400,1.14.4.2,F
+2012,Canada,Grocery stores,All other methods,"Non-chain stores (x 1,000)",v101269401,1.14.4.3,F
+2013,Canada,Grocery stores,All other methods,"Non-chain stores (x 1,000)",v101269401,1.14.4.3,F
+2014,Canada,Grocery stores,All other methods,"Non-chain stores (x 1,000)",v101269401,1.14.4.3,F
+2012,Canada,Supermarkets and other grocery (except convenience) stores,In-store sales,"Total all stores (x 1,000)",v101269402,1.15.1.1,75954981.0
+2013,Canada,Supermarkets and other grocery (except convenience) stores,In-store sales,"Total all stores (x 1,000)",v101269402,1.15.1.1,79438587.0
+2014,Canada,Supermarkets and other grocery (except convenience) stores,In-store sales,"Total all stores (x 1,000)",v101269402,1.15.1.1,81100401.0
+2012,Canada,Supermarkets and other grocery (except convenience) stores,In-store sales,"Chain stores (x 1,000)",v101269403,1.15.1.2,F
+2013,Canada,Supermarkets and other grocery (except convenience) stores,In-store sales,"Chain stores (x 1,000)",v101269403,1.15.1.2,F
+2014,Canada,Supermarkets and other grocery (except convenience) stores,In-store sales,"Chain stores (x 1,000)",v101269403,1.15.1.2,F
+2012,Canada,Supermarkets and other grocery (except convenience) stores,In-store sales,"Non-chain stores (x 1,000)",v101269404,1.15.1.3,F
+2013,Canada,Supermarkets and other grocery (except convenience) stores,In-store sales,"Non-chain stores (x 1,000)",v101269404,1.15.1.3,F
+2014,Canada,Supermarkets and other grocery (except convenience) stores,In-store sales,"Non-chain stores (x 1,000)",v101269404,1.15.1.3,F
+2012,Canada,Supermarkets and other grocery (except convenience) stores,E-commerce,"Total all stores (x 1,000)",v101269405,1.15.2.1,x
+2013,Canada,Supermarkets and other grocery (except convenience) stores,E-commerce,"Total all stores (x 1,000)",v101269405,1.15.2.1,x
+2014,Canada,Supermarkets and other grocery (except convenience) stores,E-commerce,"Total all stores (x 1,000)",v101269405,1.15.2.1,x
+2012,Canada,Supermarkets and other grocery (except convenience) stores,E-commerce,"Chain stores (x 1,000)",v101269406,1.15.2.2,F
+2013,Canada,Supermarkets and other grocery (except convenience) stores,E-commerce,"Chain stores (x 1,000)",v101269406,1.15.2.2,F
+2014,Canada,Supermarkets and other grocery (except convenience) stores,E-commerce,"Chain stores (x 1,000)",v101269406,1.15.2.2,F
+2012,Canada,Supermarkets and other grocery (except convenience) stores,E-commerce,"Non-chain stores (x 1,000)",v101269407,1.15.2.3,F
+2013,Canada,Supermarkets and other grocery (except convenience) stores,E-commerce,"Non-chain stores (x 1,000)",v101269407,1.15.2.3,F
+2014,Canada,Supermarkets and other grocery (except convenience) stores,E-commerce,"Non-chain stores (x 1,000)",v101269407,1.15.2.3,F
+2012,Canada,Supermarkets and other grocery (except convenience) stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269408,1.15.3.1,x
+2013,Canada,Supermarkets and other grocery (except convenience) stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269408,1.15.3.1,x
+2014,Canada,Supermarkets and other grocery (except convenience) stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269408,1.15.3.1,68604.0
+2012,Canada,Supermarkets and other grocery (except convenience) stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269409,1.15.3.2,F
+2013,Canada,Supermarkets and other grocery (except convenience) stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269409,1.15.3.2,F
+2014,Canada,Supermarkets and other grocery (except convenience) stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269409,1.15.3.2,F
+2012,Canada,Supermarkets and other grocery (except convenience) stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269410,1.15.3.3,F
+2013,Canada,Supermarkets and other grocery (except convenience) stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269410,1.15.3.3,F
+2014,Canada,Supermarkets and other grocery (except convenience) stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269410,1.15.3.3,F
+2012,Canada,Supermarkets and other grocery (except convenience) stores,All other methods,"Total all stores (x 1,000)",v101269411,1.15.4.1,x
+2013,Canada,Supermarkets and other grocery (except convenience) stores,All other methods,"Total all stores (x 1,000)",v101269411,1.15.4.1,x
+2014,Canada,Supermarkets and other grocery (except convenience) stores,All other methods,"Total all stores (x 1,000)",v101269411,1.15.4.1,x
+2012,Canada,Supermarkets and other grocery (except convenience) stores,All other methods,"Chain stores (x 1,000)",v101269412,1.15.4.2,F
+2013,Canada,Supermarkets and other grocery (except convenience) stores,All other methods,"Chain stores (x 1,000)",v101269412,1.15.4.2,F
+2014,Canada,Supermarkets and other grocery (except convenience) stores,All other methods,"Chain stores (x 1,000)",v101269412,1.15.4.2,F
+2012,Canada,Supermarkets and other grocery (except convenience) stores,All other methods,"Non-chain stores (x 1,000)",v101269413,1.15.4.3,F
+2013,Canada,Supermarkets and other grocery (except convenience) stores,All other methods,"Non-chain stores (x 1,000)",v101269413,1.15.4.3,F
+2014,Canada,Supermarkets and other grocery (except convenience) stores,All other methods,"Non-chain stores (x 1,000)",v101269413,1.15.4.3,F
+2012,Canada,Convenience stores,In-store sales,"Total all stores (x 1,000)",v101269414,1.16.1.1,7975857.0
+2013,Canada,Convenience stores,In-store sales,"Total all stores (x 1,000)",v101269414,1.16.1.1,8214420.0
+2014,Canada,Convenience stores,In-store sales,"Total all stores (x 1,000)",v101269414,1.16.1.1,8610054.0
+2012,Canada,Convenience stores,In-store sales,"Chain stores (x 1,000)",v101269415,1.16.1.2,F
+2013,Canada,Convenience stores,In-store sales,"Chain stores (x 1,000)",v101269415,1.16.1.2,F
+2014,Canada,Convenience stores,In-store sales,"Chain stores (x 1,000)",v101269415,1.16.1.2,F
+2012,Canada,Convenience stores,In-store sales,"Non-chain stores (x 1,000)",v101269416,1.16.1.3,F
+2013,Canada,Convenience stores,In-store sales,"Non-chain stores (x 1,000)",v101269416,1.16.1.3,F
+2014,Canada,Convenience stores,In-store sales,"Non-chain stores (x 1,000)",v101269416,1.16.1.3,F
+2012,Canada,Convenience stores,E-commerce,"Total all stores (x 1,000)",v101269417,1.16.2.1,x
+2013,Canada,Convenience stores,E-commerce,"Total all stores (x 1,000)",v101269417,1.16.2.1,x
+2014,Canada,Convenience stores,E-commerce,"Total all stores (x 1,000)",v101269417,1.16.2.1,x
+2012,Canada,Convenience stores,E-commerce,"Chain stores (x 1,000)",v101269418,1.16.2.2,F
+2013,Canada,Convenience stores,E-commerce,"Chain stores (x 1,000)",v101269418,1.16.2.2,F
+2014,Canada,Convenience stores,E-commerce,"Chain stores (x 1,000)",v101269418,1.16.2.2,F
+2012,Canada,Convenience stores,E-commerce,"Non-chain stores (x 1,000)",v101269419,1.16.2.3,F
+2013,Canada,Convenience stores,E-commerce,"Non-chain stores (x 1,000)",v101269419,1.16.2.3,F
+2014,Canada,Convenience stores,E-commerce,"Non-chain stores (x 1,000)",v101269419,1.16.2.3,F
+2012,Canada,Convenience stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269420,1.16.3.1,12717.0
+2013,Canada,Convenience stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269420,1.16.3.1,5073.0
+2014,Canada,Convenience stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269420,1.16.3.1,x
+2012,Canada,Convenience stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269421,1.16.3.2,F
+2013,Canada,Convenience stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269421,1.16.3.2,F
+2014,Canada,Convenience stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269421,1.16.3.2,F
+2012,Canada,Convenience stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269422,1.16.3.3,F
+2013,Canada,Convenience stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269422,1.16.3.3,F
+2014,Canada,Convenience stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269422,1.16.3.3,F
+2012,Canada,Convenience stores,All other methods,"Total all stores (x 1,000)",v101269423,1.16.4.1,x
+2013,Canada,Convenience stores,All other methods,"Total all stores (x 1,000)",v101269423,1.16.4.1,x
+2014,Canada,Convenience stores,All other methods,"Total all stores (x 1,000)",v101269423,1.16.4.1,x
+2012,Canada,Convenience stores,All other methods,"Chain stores (x 1,000)",v101269424,1.16.4.2,F
+2013,Canada,Convenience stores,All other methods,"Chain stores (x 1,000)",v101269424,1.16.4.2,F
+2014,Canada,Convenience stores,All other methods,"Chain stores (x 1,000)",v101269424,1.16.4.2,F
+2012,Canada,Convenience stores,All other methods,"Non-chain stores (x 1,000)",v101269425,1.16.4.3,F
+2013,Canada,Convenience stores,All other methods,"Non-chain stores (x 1,000)",v101269425,1.16.4.3,F
+2014,Canada,Convenience stores,All other methods,"Non-chain stores (x 1,000)",v101269425,1.16.4.3,F
+2012,Canada,Specialty food stores,In-store sales,"Total all stores (x 1,000)",v101269426,1.17.1.1,5829208.0
+2013,Canada,Specialty food stores,In-store sales,"Total all stores (x 1,000)",v101269426,1.17.1.1,6069052.0
+2014,Canada,Specialty food stores,In-store sales,"Total all stores (x 1,000)",v101269426,1.17.1.1,6046483.0
+2012,Canada,Specialty food stores,In-store sales,"Chain stores (x 1,000)",v101269427,1.17.1.2,F
+2013,Canada,Specialty food stores,In-store sales,"Chain stores (x 1,000)",v101269427,1.17.1.2,F
+2014,Canada,Specialty food stores,In-store sales,"Chain stores (x 1,000)",v101269427,1.17.1.2,F
+2012,Canada,Specialty food stores,In-store sales,"Non-chain stores (x 1,000)",v101269428,1.17.1.3,F
+2013,Canada,Specialty food stores,In-store sales,"Non-chain stores (x 1,000)",v101269428,1.17.1.3,F
+2014,Canada,Specialty food stores,In-store sales,"Non-chain stores (x 1,000)",v101269428,1.17.1.3,F
+2012,Canada,Specialty food stores,E-commerce,"Total all stores (x 1,000)",v101269429,1.17.2.1,x
+2013,Canada,Specialty food stores,E-commerce,"Total all stores (x 1,000)",v101269429,1.17.2.1,x
+2014,Canada,Specialty food stores,E-commerce,"Total all stores (x 1,000)",v101269429,1.17.2.1,x
+2012,Canada,Specialty food stores,E-commerce,"Chain stores (x 1,000)",v101269430,1.17.2.2,F
+2013,Canada,Specialty food stores,E-commerce,"Chain stores (x 1,000)",v101269430,1.17.2.2,F
+2014,Canada,Specialty food stores,E-commerce,"Chain stores (x 1,000)",v101269430,1.17.2.2,F
+2012,Canada,Specialty food stores,E-commerce,"Non-chain stores (x 1,000)",v101269431,1.17.2.3,F
+2013,Canada,Specialty food stores,E-commerce,"Non-chain stores (x 1,000)",v101269431,1.17.2.3,F
+2014,Canada,Specialty food stores,E-commerce,"Non-chain stores (x 1,000)",v101269431,1.17.2.3,F
+2012,Canada,Specialty food stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269432,1.17.3.1,x
+2013,Canada,Specialty food stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269432,1.17.3.1,x
+2014,Canada,Specialty food stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269432,1.17.3.1,159926.0
+2012,Canada,Specialty food stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269433,1.17.3.2,F
+2013,Canada,Specialty food stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269433,1.17.3.2,F
+2014,Canada,Specialty food stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269433,1.17.3.2,F
+2012,Canada,Specialty food stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269434,1.17.3.3,F
+2013,Canada,Specialty food stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269434,1.17.3.3,F
+2014,Canada,Specialty food stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269434,1.17.3.3,F
+2012,Canada,Specialty food stores,All other methods,"Total all stores (x 1,000)",v101269435,1.17.4.1,x
+2013,Canada,Specialty food stores,All other methods,"Total all stores (x 1,000)",v101269435,1.17.4.1,x
+2014,Canada,Specialty food stores,All other methods,"Total all stores (x 1,000)",v101269435,1.17.4.1,x
+2012,Canada,Specialty food stores,All other methods,"Chain stores (x 1,000)",v101269436,1.17.4.2,F
+2013,Canada,Specialty food stores,All other methods,"Chain stores (x 1,000)",v101269436,1.17.4.2,F
+2014,Canada,Specialty food stores,All other methods,"Chain stores (x 1,000)",v101269436,1.17.4.2,F
+2012,Canada,Specialty food stores,All other methods,"Non-chain stores (x 1,000)",v101269437,1.17.4.3,F
+2013,Canada,Specialty food stores,All other methods,"Non-chain stores (x 1,000)",v101269437,1.17.4.3,F
+2014,Canada,Specialty food stores,All other methods,"Non-chain stores (x 1,000)",v101269437,1.17.4.3,F
+2012,Canada,"Beer, wine and liquor stores",In-store sales,"Total all stores (x 1,000)",v101269438,1.18.1.1,14417948.0
+2013,Canada,"Beer, wine and liquor stores",In-store sales,"Total all stores (x 1,000)",v101269438,1.18.1.1,14182294.0
+2014,Canada,"Beer, wine and liquor stores",In-store sales,"Total all stores (x 1,000)",v101269438,1.18.1.1,15375905.0
+2012,Canada,"Beer, wine and liquor stores",In-store sales,"Chain stores (x 1,000)",v101269439,1.18.1.2,F
+2013,Canada,"Beer, wine and liquor stores",In-store sales,"Chain stores (x 1,000)",v101269439,1.18.1.2,F
+2014,Canada,"Beer, wine and liquor stores",In-store sales,"Chain stores (x 1,000)",v101269439,1.18.1.2,F
+2012,Canada,"Beer, wine and liquor stores",In-store sales,"Non-chain stores (x 1,000)",v101269440,1.18.1.3,F
+2013,Canada,"Beer, wine and liquor stores",In-store sales,"Non-chain stores (x 1,000)",v101269440,1.18.1.3,F
+2014,Canada,"Beer, wine and liquor stores",In-store sales,"Non-chain stores (x 1,000)",v101269440,1.18.1.3,F
+2012,Canada,"Beer, wine and liquor stores",E-commerce,"Total all stores (x 1,000)",v101269441,1.18.2.1,x
+2013,Canada,"Beer, wine and liquor stores",E-commerce,"Total all stores (x 1,000)",v101269441,1.18.2.1,x
+2014,Canada,"Beer, wine and liquor stores",E-commerce,"Total all stores (x 1,000)",v101269441,1.18.2.1,x
+2012,Canada,"Beer, wine and liquor stores",E-commerce,"Chain stores (x 1,000)",v101269442,1.18.2.2,F
+2013,Canada,"Beer, wine and liquor stores",E-commerce,"Chain stores (x 1,000)",v101269442,1.18.2.2,F
+2014,Canada,"Beer, wine and liquor stores",E-commerce,"Chain stores (x 1,000)",v101269442,1.18.2.2,F
+2012,Canada,"Beer, wine and liquor stores",E-commerce,"Non-chain stores (x 1,000)",v101269443,1.18.2.3,F
+2013,Canada,"Beer, wine and liquor stores",E-commerce,"Non-chain stores (x 1,000)",v101269443,1.18.2.3,F
+2014,Canada,"Beer, wine and liquor stores",E-commerce,"Non-chain stores (x 1,000)",v101269443,1.18.2.3,F
+2012,Canada,"Beer, wine and liquor stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269444,1.18.3.1,x
+2013,Canada,"Beer, wine and liquor stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269444,1.18.3.1,x
+2014,Canada,"Beer, wine and liquor stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269444,1.18.3.1,x
+2012,Canada,"Beer, wine and liquor stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269445,1.18.3.2,F
+2013,Canada,"Beer, wine and liquor stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269445,1.18.3.2,F
+2014,Canada,"Beer, wine and liquor stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269445,1.18.3.2,F
+2012,Canada,"Beer, wine and liquor stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269446,1.18.3.3,F
+2013,Canada,"Beer, wine and liquor stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269446,1.18.3.3,F
+2014,Canada,"Beer, wine and liquor stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269446,1.18.3.3,F
+2012,Canada,"Beer, wine and liquor stores",All other methods,"Total all stores (x 1,000)",v101269447,1.18.4.1,3480467.0
+2013,Canada,"Beer, wine and liquor stores",All other methods,"Total all stores (x 1,000)",v101269447,1.18.4.1,4122070.0
+2014,Canada,"Beer, wine and liquor stores",All other methods,"Total all stores (x 1,000)",v101269447,1.18.4.1,3612612.0
+2012,Canada,"Beer, wine and liquor stores",All other methods,"Chain stores (x 1,000)",v101269448,1.18.4.2,F
+2013,Canada,"Beer, wine and liquor stores",All other methods,"Chain stores (x 1,000)",v101269448,1.18.4.2,F
+2014,Canada,"Beer, wine and liquor stores",All other methods,"Chain stores (x 1,000)",v101269448,1.18.4.2,F
+2012,Canada,"Beer, wine and liquor stores",All other methods,"Non-chain stores (x 1,000)",v101269449,1.18.4.3,F
+2013,Canada,"Beer, wine and liquor stores",All other methods,"Non-chain stores (x 1,000)",v101269449,1.18.4.3,F
+2014,Canada,"Beer, wine and liquor stores",All other methods,"Non-chain stores (x 1,000)",v101269449,1.18.4.3,F
+2012,Canada,Health and personal care stores,In-store sales,"Total all stores (x 1,000)",v101269450,1.19.1.1,38239446.0
+2013,Canada,Health and personal care stores,In-store sales,"Total all stores (x 1,000)",v101269450,1.19.1.1,39846718.0
+2014,Canada,Health and personal care stores,In-store sales,"Total all stores (x 1,000)",v101269450,1.19.1.1,41265819.0
+2012,Canada,Health and personal care stores,In-store sales,"Chain stores (x 1,000)",v101269451,1.19.1.2,F
+2013,Canada,Health and personal care stores,In-store sales,"Chain stores (x 1,000)",v101269451,1.19.1.2,F
+2014,Canada,Health and personal care stores,In-store sales,"Chain stores (x 1,000)",v101269451,1.19.1.2,F
+2012,Canada,Health and personal care stores,In-store sales,"Non-chain stores (x 1,000)",v101269452,1.19.1.3,F
+2013,Canada,Health and personal care stores,In-store sales,"Non-chain stores (x 1,000)",v101269452,1.19.1.3,F
+2014,Canada,Health and personal care stores,In-store sales,"Non-chain stores (x 1,000)",v101269452,1.19.1.3,F
+2012,Canada,Health and personal care stores,E-commerce,"Total all stores (x 1,000)",v101269453,1.19.2.1,68871.0
+2013,Canada,Health and personal care stores,E-commerce,"Total all stores (x 1,000)",v101269453,1.19.2.1,46749.0
+2014,Canada,Health and personal care stores,E-commerce,"Total all stores (x 1,000)",v101269453,1.19.2.1,x
+2012,Canada,Health and personal care stores,E-commerce,"Chain stores (x 1,000)",v101269454,1.19.2.2,F
+2013,Canada,Health and personal care stores,E-commerce,"Chain stores (x 1,000)",v101269454,1.19.2.2,F
+2014,Canada,Health and personal care stores,E-commerce,"Chain stores (x 1,000)",v101269454,1.19.2.2,F
+2012,Canada,Health and personal care stores,E-commerce,"Non-chain stores (x 1,000)",v101269455,1.19.2.3,F
+2013,Canada,Health and personal care stores,E-commerce,"Non-chain stores (x 1,000)",v101269455,1.19.2.3,F
+2014,Canada,Health and personal care stores,E-commerce,"Non-chain stores (x 1,000)",v101269455,1.19.2.3,F
+2012,Canada,Health and personal care stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269456,1.19.3.1,692759.0
+2013,Canada,Health and personal care stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269456,1.19.3.1,382850.0
+2014,Canada,Health and personal care stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269456,1.19.3.1,x
+2012,Canada,Health and personal care stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269457,1.19.3.2,F
+2013,Canada,Health and personal care stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269457,1.19.3.2,F
+2014,Canada,Health and personal care stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269457,1.19.3.2,F
+2012,Canada,Health and personal care stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269458,1.19.3.3,F
+2013,Canada,Health and personal care stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269458,1.19.3.3,F
+2014,Canada,Health and personal care stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269458,1.19.3.3,F
+2012,Canada,Health and personal care stores,All other methods,"Total all stores (x 1,000)",v101269459,1.19.4.1,365915.0
+2013,Canada,Health and personal care stores,All other methods,"Total all stores (x 1,000)",v101269459,1.19.4.1,408923.0
+2014,Canada,Health and personal care stores,All other methods,"Total all stores (x 1,000)",v101269459,1.19.4.1,x
+2012,Canada,Health and personal care stores,All other methods,"Chain stores (x 1,000)",v101269460,1.19.4.2,F
+2013,Canada,Health and personal care stores,All other methods,"Chain stores (x 1,000)",v101269460,1.19.4.2,F
+2014,Canada,Health and personal care stores,All other methods,"Chain stores (x 1,000)",v101269460,1.19.4.2,F
+2012,Canada,Health and personal care stores,All other methods,"Non-chain stores (x 1,000)",v101269461,1.19.4.3,F
+2013,Canada,Health and personal care stores,All other methods,"Non-chain stores (x 1,000)",v101269461,1.19.4.3,F
+2014,Canada,Health and personal care stores,All other methods,"Non-chain stores (x 1,000)",v101269461,1.19.4.3,F
+2012,Canada,Gasoline stations,In-store sales,"Total all stores (x 1,000)",v101269462,1.20.1.1,57795144.0
+2013,Canada,Gasoline stations,In-store sales,"Total all stores (x 1,000)",v101269462,1.20.1.1,60232062.0
+2014,Canada,Gasoline stations,In-store sales,"Total all stores (x 1,000)",v101269462,1.20.1.1,63371977.0
+2012,Canada,Gasoline stations,In-store sales,"Chain stores (x 1,000)",v101269463,1.20.1.2,F
+2013,Canada,Gasoline stations,In-store sales,"Chain stores (x 1,000)",v101269463,1.20.1.2,F
+2014,Canada,Gasoline stations,In-store sales,"Chain stores (x 1,000)",v101269463,1.20.1.2,F
+2012,Canada,Gasoline stations,In-store sales,"Non-chain stores (x 1,000)",v101269464,1.20.1.3,F
+2013,Canada,Gasoline stations,In-store sales,"Non-chain stores (x 1,000)",v101269464,1.20.1.3,F
+2014,Canada,Gasoline stations,In-store sales,"Non-chain stores (x 1,000)",v101269464,1.20.1.3,F
+2012,Canada,Gasoline stations,E-commerce,"Total all stores (x 1,000)",v101269465,1.20.2.1,x
+2013,Canada,Gasoline stations,E-commerce,"Total all stores (x 1,000)",v101269465,1.20.2.1,x
+2014,Canada,Gasoline stations,E-commerce,"Total all stores (x 1,000)",v101269465,1.20.2.1,x
+2012,Canada,Gasoline stations,E-commerce,"Chain stores (x 1,000)",v101269466,1.20.2.2,F
+2013,Canada,Gasoline stations,E-commerce,"Chain stores (x 1,000)",v101269466,1.20.2.2,F
+2014,Canada,Gasoline stations,E-commerce,"Chain stores (x 1,000)",v101269466,1.20.2.2,F
+2012,Canada,Gasoline stations,E-commerce,"Non-chain stores (x 1,000)",v101269467,1.20.2.3,F
+2013,Canada,Gasoline stations,E-commerce,"Non-chain stores (x 1,000)",v101269467,1.20.2.3,F
+2014,Canada,Gasoline stations,E-commerce,"Non-chain stores (x 1,000)",v101269467,1.20.2.3,F
+2012,Canada,Gasoline stations,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269468,1.20.3.1,x
+2013,Canada,Gasoline stations,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269468,1.20.3.1,x
+2014,Canada,Gasoline stations,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269468,1.20.3.1,x
+2012,Canada,Gasoline stations,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269469,1.20.3.2,F
+2013,Canada,Gasoline stations,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269469,1.20.3.2,F
+2014,Canada,Gasoline stations,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269469,1.20.3.2,F
+2012,Canada,Gasoline stations,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269470,1.20.3.3,F
+2013,Canada,Gasoline stations,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269470,1.20.3.3,F
+2014,Canada,Gasoline stations,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269470,1.20.3.3,F
+2012,Canada,Gasoline stations,All other methods,"Total all stores (x 1,000)",v101269471,1.20.4.1,x
+2013,Canada,Gasoline stations,All other methods,"Total all stores (x 1,000)",v101269471,1.20.4.1,x
+2014,Canada,Gasoline stations,All other methods,"Total all stores (x 1,000)",v101269471,1.20.4.1,x
+2012,Canada,Gasoline stations,All other methods,"Chain stores (x 1,000)",v101269472,1.20.4.2,F
+2013,Canada,Gasoline stations,All other methods,"Chain stores (x 1,000)",v101269472,1.20.4.2,F
+2014,Canada,Gasoline stations,All other methods,"Chain stores (x 1,000)",v101269472,1.20.4.2,F
+2012,Canada,Gasoline stations,All other methods,"Non-chain stores (x 1,000)",v101269473,1.20.4.3,F
+2013,Canada,Gasoline stations,All other methods,"Non-chain stores (x 1,000)",v101269473,1.20.4.3,F
+2014,Canada,Gasoline stations,All other methods,"Non-chain stores (x 1,000)",v101269473,1.20.4.3,F
+2012,Canada,Clothing and clothing accessories stores,In-store sales,"Total all stores (x 1,000)",v101269474,1.21.1.1,27322837.0
+2013,Canada,Clothing and clothing accessories stores,In-store sales,"Total all stores (x 1,000)",v101269474,1.21.1.1,27856190.0
+2014,Canada,Clothing and clothing accessories stores,In-store sales,"Total all stores (x 1,000)",v101269474,1.21.1.1,28634423.0
+2012,Canada,Clothing and clothing accessories stores,In-store sales,"Chain stores (x 1,000)",v101269475,1.21.1.2,F
+2013,Canada,Clothing and clothing accessories stores,In-store sales,"Chain stores (x 1,000)",v101269475,1.21.1.2,F
+2014,Canada,Clothing and clothing accessories stores,In-store sales,"Chain stores (x 1,000)",v101269475,1.21.1.2,F
+2012,Canada,Clothing and clothing accessories stores,In-store sales,"Non-chain stores (x 1,000)",v101269476,1.21.1.3,F
+2013,Canada,Clothing and clothing accessories stores,In-store sales,"Non-chain stores (x 1,000)",v101269476,1.21.1.3,F
+2014,Canada,Clothing and clothing accessories stores,In-store sales,"Non-chain stores (x 1,000)",v101269476,1.21.1.3,F
+2012,Canada,Clothing and clothing accessories stores,E-commerce,"Total all stores (x 1,000)",v101269477,1.21.2.1,343260.0
+2013,Canada,Clothing and clothing accessories stores,E-commerce,"Total all stores (x 1,000)",v101269477,1.21.2.1,431325.0
+2014,Canada,Clothing and clothing accessories stores,E-commerce,"Total all stores (x 1,000)",v101269477,1.21.2.1,519216.0
+2012,Canada,Clothing and clothing accessories stores,E-commerce,"Chain stores (x 1,000)",v101269478,1.21.2.2,F
+2013,Canada,Clothing and clothing accessories stores,E-commerce,"Chain stores (x 1,000)",v101269478,1.21.2.2,F
+2014,Canada,Clothing and clothing accessories stores,E-commerce,"Chain stores (x 1,000)",v101269478,1.21.2.2,F
+2012,Canada,Clothing and clothing accessories stores,E-commerce,"Non-chain stores (x 1,000)",v101269479,1.21.2.3,F
+2013,Canada,Clothing and clothing accessories stores,E-commerce,"Non-chain stores (x 1,000)",v101269479,1.21.2.3,F
+2014,Canada,Clothing and clothing accessories stores,E-commerce,"Non-chain stores (x 1,000)",v101269479,1.21.2.3,F
+2012,Canada,Clothing and clothing accessories stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269480,1.21.3.1,x
+2013,Canada,Clothing and clothing accessories stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269480,1.21.3.1,x
+2014,Canada,Clothing and clothing accessories stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269480,1.21.3.1,125487.0
+2012,Canada,Clothing and clothing accessories stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269481,1.21.3.2,F
+2013,Canada,Clothing and clothing accessories stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269481,1.21.3.2,F
+2014,Canada,Clothing and clothing accessories stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269481,1.21.3.2,F
+2012,Canada,Clothing and clothing accessories stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269482,1.21.3.3,F
+2013,Canada,Clothing and clothing accessories stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269482,1.21.3.3,F
+2014,Canada,Clothing and clothing accessories stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269482,1.21.3.3,F
+2012,Canada,Clothing and clothing accessories stores,All other methods,"Total all stores (x 1,000)",v101269483,1.21.4.1,x
+2013,Canada,Clothing and clothing accessories stores,All other methods,"Total all stores (x 1,000)",v101269483,1.21.4.1,x
+2014,Canada,Clothing and clothing accessories stores,All other methods,"Total all stores (x 1,000)",v101269483,1.21.4.1,209287.0
+2012,Canada,Clothing and clothing accessories stores,All other methods,"Chain stores (x 1,000)",v101269484,1.21.4.2,F
+2013,Canada,Clothing and clothing accessories stores,All other methods,"Chain stores (x 1,000)",v101269484,1.21.4.2,F
+2014,Canada,Clothing and clothing accessories stores,All other methods,"Chain stores (x 1,000)",v101269484,1.21.4.2,F
+2012,Canada,Clothing and clothing accessories stores,All other methods,"Non-chain stores (x 1,000)",v101269485,1.21.4.3,F
+2013,Canada,Clothing and clothing accessories stores,All other methods,"Non-chain stores (x 1,000)",v101269485,1.21.4.3,F
+2014,Canada,Clothing and clothing accessories stores,All other methods,"Non-chain stores (x 1,000)",v101269485,1.21.4.3,F
+2012,Canada,Clothing stores,In-store sales,"Total all stores (x 1,000)",v101269486,1.22.1.1,21126974.0
+2013,Canada,Clothing stores,In-store sales,"Total all stores (x 1,000)",v101269486,1.22.1.1,21545741.0
+2014,Canada,Clothing stores,In-store sales,"Total all stores (x 1,000)",v101269486,1.22.1.1,22139387.0
+2012,Canada,Clothing stores,In-store sales,"Chain stores (x 1,000)",v101269487,1.22.1.2,F
+2013,Canada,Clothing stores,In-store sales,"Chain stores (x 1,000)",v101269487,1.22.1.2,F
+2014,Canada,Clothing stores,In-store sales,"Chain stores (x 1,000)",v101269487,1.22.1.2,F
+2012,Canada,Clothing stores,In-store sales,"Non-chain stores (x 1,000)",v101269488,1.22.1.3,F
+2013,Canada,Clothing stores,In-store sales,"Non-chain stores (x 1,000)",v101269488,1.22.1.3,F
+2014,Canada,Clothing stores,In-store sales,"Non-chain stores (x 1,000)",v101269488,1.22.1.3,F
+2012,Canada,Clothing stores,E-commerce,"Total all stores (x 1,000)",v101269489,1.22.2.1,271807.0
+2013,Canada,Clothing stores,E-commerce,"Total all stores (x 1,000)",v101269489,1.22.2.1,284225.0
+2014,Canada,Clothing stores,E-commerce,"Total all stores (x 1,000)",v101269489,1.22.2.1,343087.0
+2012,Canada,Clothing stores,E-commerce,"Chain stores (x 1,000)",v101269490,1.22.2.2,F
+2013,Canada,Clothing stores,E-commerce,"Chain stores (x 1,000)",v101269490,1.22.2.2,F
+2014,Canada,Clothing stores,E-commerce,"Chain stores (x 1,000)",v101269490,1.22.2.2,F
+2012,Canada,Clothing stores,E-commerce,"Non-chain stores (x 1,000)",v101269491,1.22.2.3,F
+2013,Canada,Clothing stores,E-commerce,"Non-chain stores (x 1,000)",v101269491,1.22.2.3,F
+2014,Canada,Clothing stores,E-commerce,"Non-chain stores (x 1,000)",v101269491,1.22.2.3,F
+2012,Canada,Clothing stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269492,1.22.3.1,53770.0
+2013,Canada,Clothing stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269492,1.22.3.1,61321.0
+2014,Canada,Clothing stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269492,1.22.3.1,x
+2012,Canada,Clothing stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269493,1.22.3.2,F
+2013,Canada,Clothing stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269493,1.22.3.2,F
+2014,Canada,Clothing stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269493,1.22.3.2,F
+2012,Canada,Clothing stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269494,1.22.3.3,F
+2013,Canada,Clothing stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269494,1.22.3.3,F
+2014,Canada,Clothing stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269494,1.22.3.3,F
+2012,Canada,Clothing stores,All other methods,"Total all stores (x 1,000)",v101269495,1.22.4.1,119469.0
+2013,Canada,Clothing stores,All other methods,"Total all stores (x 1,000)",v101269495,1.22.4.1,167262.0
+2014,Canada,Clothing stores,All other methods,"Total all stores (x 1,000)",v101269495,1.22.4.1,x
+2012,Canada,Clothing stores,All other methods,"Chain stores (x 1,000)",v101269496,1.22.4.2,F
+2013,Canada,Clothing stores,All other methods,"Chain stores (x 1,000)",v101269496,1.22.4.2,F
+2014,Canada,Clothing stores,All other methods,"Chain stores (x 1,000)",v101269496,1.22.4.2,F
+2012,Canada,Clothing stores,All other methods,"Non-chain stores (x 1,000)",v101269497,1.22.4.3,F
+2013,Canada,Clothing stores,All other methods,"Non-chain stores (x 1,000)",v101269497,1.22.4.3,F
+2014,Canada,Clothing stores,All other methods,"Non-chain stores (x 1,000)",v101269497,1.22.4.3,F
+2012,Canada,Shoe stores,In-store sales,"Total all stores (x 1,000)",v101269498,1.23.1.1,3033435.0
+2013,Canada,Shoe stores,In-store sales,"Total all stores (x 1,000)",v101269498,1.23.1.1,3134923.0
+2014,Canada,Shoe stores,In-store sales,"Total all stores (x 1,000)",v101269498,1.23.1.1,3265590.0
+2012,Canada,Shoe stores,In-store sales,"Chain stores (x 1,000)",v101269499,1.23.1.2,F
+2013,Canada,Shoe stores,In-store sales,"Chain stores (x 1,000)",v101269499,1.23.1.2,F
+2014,Canada,Shoe stores,In-store sales,"Chain stores (x 1,000)",v101269499,1.23.1.2,F
+2012,Canada,Shoe stores,In-store sales,"Non-chain stores (x 1,000)",v101269500,1.23.1.3,F
+2013,Canada,Shoe stores,In-store sales,"Non-chain stores (x 1,000)",v101269500,1.23.1.3,F
+2014,Canada,Shoe stores,In-store sales,"Non-chain stores (x 1,000)",v101269500,1.23.1.3,F
+2012,Canada,Shoe stores,E-commerce,"Total all stores (x 1,000)",v101269501,1.23.2.1,x
+2013,Canada,Shoe stores,E-commerce,"Total all stores (x 1,000)",v101269501,1.23.2.1,x
+2014,Canada,Shoe stores,E-commerce,"Total all stores (x 1,000)",v101269501,1.23.2.1,107495.0
+2012,Canada,Shoe stores,E-commerce,"Chain stores (x 1,000)",v101269502,1.23.2.2,F
+2013,Canada,Shoe stores,E-commerce,"Chain stores (x 1,000)",v101269502,1.23.2.2,F
+2014,Canada,Shoe stores,E-commerce,"Chain stores (x 1,000)",v101269502,1.23.2.2,F
+2012,Canada,Shoe stores,E-commerce,"Non-chain stores (x 1,000)",v101269503,1.23.2.3,F
+2013,Canada,Shoe stores,E-commerce,"Non-chain stores (x 1,000)",v101269503,1.23.2.3,F
+2014,Canada,Shoe stores,E-commerce,"Non-chain stores (x 1,000)",v101269503,1.23.2.3,F
+2012,Canada,Shoe stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269504,1.23.3.1,x
+2013,Canada,Shoe stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269504,1.23.3.1,x
+2014,Canada,Shoe stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269504,1.23.3.1,x
+2012,Canada,Shoe stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269505,1.23.3.2,F
+2013,Canada,Shoe stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269505,1.23.3.2,F
+2014,Canada,Shoe stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269505,1.23.3.2,F
+2012,Canada,Shoe stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269506,1.23.3.3,F
+2013,Canada,Shoe stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269506,1.23.3.3,F
+2014,Canada,Shoe stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269506,1.23.3.3,F
+2012,Canada,Shoe stores,All other methods,"Total all stores (x 1,000)",v101269507,1.23.4.1,x
+2013,Canada,Shoe stores,All other methods,"Total all stores (x 1,000)",v101269507,1.23.4.1,x
+2014,Canada,Shoe stores,All other methods,"Total all stores (x 1,000)",v101269507,1.23.4.1,x
+2012,Canada,Shoe stores,All other methods,"Chain stores (x 1,000)",v101269508,1.23.4.2,F
+2013,Canada,Shoe stores,All other methods,"Chain stores (x 1,000)",v101269508,1.23.4.2,F
+2014,Canada,Shoe stores,All other methods,"Chain stores (x 1,000)",v101269508,1.23.4.2,F
+2012,Canada,Shoe stores,All other methods,"Non-chain stores (x 1,000)",v101269509,1.23.4.3,F
+2013,Canada,Shoe stores,All other methods,"Non-chain stores (x 1,000)",v101269509,1.23.4.3,F
+2014,Canada,Shoe stores,All other methods,"Non-chain stores (x 1,000)",v101269509,1.23.4.3,F
+2012,Canada,"Jewellery, luggage and leather goods stores",In-store sales,"Total all stores (x 1,000)",v101269510,1.24.1.1,3162427.0
+2013,Canada,"Jewellery, luggage and leather goods stores",In-store sales,"Total all stores (x 1,000)",v101269510,1.24.1.1,3175527.0
+2014,Canada,"Jewellery, luggage and leather goods stores",In-store sales,"Total all stores (x 1,000)",v101269510,1.24.1.1,3229446.0
+2012,Canada,"Jewellery, luggage and leather goods stores",In-store sales,"Chain stores (x 1,000)",v101269511,1.24.1.2,F
+2013,Canada,"Jewellery, luggage and leather goods stores",In-store sales,"Chain stores (x 1,000)",v101269511,1.24.1.2,F
+2014,Canada,"Jewellery, luggage and leather goods stores",In-store sales,"Chain stores (x 1,000)",v101269511,1.24.1.2,F
+2012,Canada,"Jewellery, luggage and leather goods stores",In-store sales,"Non-chain stores (x 1,000)",v101269512,1.24.1.3,F
+2013,Canada,"Jewellery, luggage and leather goods stores",In-store sales,"Non-chain stores (x 1,000)",v101269512,1.24.1.3,F
+2014,Canada,"Jewellery, luggage and leather goods stores",In-store sales,"Non-chain stores (x 1,000)",v101269512,1.24.1.3,F
+2012,Canada,"Jewellery, luggage and leather goods stores",E-commerce,"Total all stores (x 1,000)",v101269513,1.24.2.1,x
+2013,Canada,"Jewellery, luggage and leather goods stores",E-commerce,"Total all stores (x 1,000)",v101269513,1.24.2.1,x
+2014,Canada,"Jewellery, luggage and leather goods stores",E-commerce,"Total all stores (x 1,000)",v101269513,1.24.2.1,68634.0
+2012,Canada,"Jewellery, luggage and leather goods stores",E-commerce,"Chain stores (x 1,000)",v101269514,1.24.2.2,F
+2013,Canada,"Jewellery, luggage and leather goods stores",E-commerce,"Chain stores (x 1,000)",v101269514,1.24.2.2,F
+2014,Canada,"Jewellery, luggage and leather goods stores",E-commerce,"Chain stores (x 1,000)",v101269514,1.24.2.2,F
+2012,Canada,"Jewellery, luggage and leather goods stores",E-commerce,"Non-chain stores (x 1,000)",v101269515,1.24.2.3,F
+2013,Canada,"Jewellery, luggage and leather goods stores",E-commerce,"Non-chain stores (x 1,000)",v101269515,1.24.2.3,F
+2014,Canada,"Jewellery, luggage and leather goods stores",E-commerce,"Non-chain stores (x 1,000)",v101269515,1.24.2.3,F
+2012,Canada,"Jewellery, luggage and leather goods stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269516,1.24.3.1,x
+2013,Canada,"Jewellery, luggage and leather goods stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269516,1.24.3.1,x
+2014,Canada,"Jewellery, luggage and leather goods stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269516,1.24.3.1,x
+2012,Canada,"Jewellery, luggage and leather goods stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269517,1.24.3.2,F
+2013,Canada,"Jewellery, luggage and leather goods stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269517,1.24.3.2,F
+2014,Canada,"Jewellery, luggage and leather goods stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269517,1.24.3.2,F
+2012,Canada,"Jewellery, luggage and leather goods stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269518,1.24.3.3,F
+2013,Canada,"Jewellery, luggage and leather goods stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269518,1.24.3.3,F
+2014,Canada,"Jewellery, luggage and leather goods stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269518,1.24.3.3,F
+2012,Canada,"Jewellery, luggage and leather goods stores",All other methods,"Total all stores (x 1,000)",v101269519,1.24.4.1,x
+2013,Canada,"Jewellery, luggage and leather goods stores",All other methods,"Total all stores (x 1,000)",v101269519,1.24.4.1,x
+2014,Canada,"Jewellery, luggage and leather goods stores",All other methods,"Total all stores (x 1,000)",v101269519,1.24.4.1,x
+2012,Canada,"Jewellery, luggage and leather goods stores",All other methods,"Chain stores (x 1,000)",v101269520,1.24.4.2,F
+2013,Canada,"Jewellery, luggage and leather goods stores",All other methods,"Chain stores (x 1,000)",v101269520,1.24.4.2,F
+2014,Canada,"Jewellery, luggage and leather goods stores",All other methods,"Chain stores (x 1,000)",v101269520,1.24.4.2,F
+2012,Canada,"Jewellery, luggage and leather goods stores",All other methods,"Non-chain stores (x 1,000)",v101269521,1.24.4.3,F
+2013,Canada,"Jewellery, luggage and leather goods stores",All other methods,"Non-chain stores (x 1,000)",v101269521,1.24.4.3,F
+2014,Canada,"Jewellery, luggage and leather goods stores",All other methods,"Non-chain stores (x 1,000)",v101269521,1.24.4.3,F
+2012,Canada,"Sporting goods, hobby, book and music stores",In-store sales,"Total all stores (x 1,000)",v101269522,1.25.1.1,10664026.0
+2013,Canada,"Sporting goods, hobby, book and music stores",In-store sales,"Total all stores (x 1,000)",v101269522,1.25.1.1,10848776.0
+2014,Canada,"Sporting goods, hobby, book and music stores",In-store sales,"Total all stores (x 1,000)",v101269522,1.25.1.1,11277489.0
+2012,Canada,"Sporting goods, hobby, book and music stores",In-store sales,"Chain stores (x 1,000)",v101269523,1.25.1.2,F
+2013,Canada,"Sporting goods, hobby, book and music stores",In-store sales,"Chain stores (x 1,000)",v101269523,1.25.1.2,F
+2014,Canada,"Sporting goods, hobby, book and music stores",In-store sales,"Chain stores (x 1,000)",v101269523,1.25.1.2,F
+2012,Canada,"Sporting goods, hobby, book and music stores",In-store sales,"Non-chain stores (x 1,000)",v101269524,1.25.1.3,F
+2013,Canada,"Sporting goods, hobby, book and music stores",In-store sales,"Non-chain stores (x 1,000)",v101269524,1.25.1.3,F
+2014,Canada,"Sporting goods, hobby, book and music stores",In-store sales,"Non-chain stores (x 1,000)",v101269524,1.25.1.3,F
+2012,Canada,"Sporting goods, hobby, book and music stores",E-commerce,"Total all stores (x 1,000)",v101269525,1.25.2.1,199633.0
+2013,Canada,"Sporting goods, hobby, book and music stores",E-commerce,"Total all stores (x 1,000)",v101269525,1.25.2.1,354701.0
+2014,Canada,"Sporting goods, hobby, book and music stores",E-commerce,"Total all stores (x 1,000)",v101269525,1.25.2.1,423769.0
+2012,Canada,"Sporting goods, hobby, book and music stores",E-commerce,"Chain stores (x 1,000)",v101269526,1.25.2.2,F
+2013,Canada,"Sporting goods, hobby, book and music stores",E-commerce,"Chain stores (x 1,000)",v101269526,1.25.2.2,F
+2014,Canada,"Sporting goods, hobby, book and music stores",E-commerce,"Chain stores (x 1,000)",v101269526,1.25.2.2,F
+2012,Canada,"Sporting goods, hobby, book and music stores",E-commerce,"Non-chain stores (x 1,000)",v101269527,1.25.2.3,F
+2013,Canada,"Sporting goods, hobby, book and music stores",E-commerce,"Non-chain stores (x 1,000)",v101269527,1.25.2.3,F
+2014,Canada,"Sporting goods, hobby, book and music stores",E-commerce,"Non-chain stores (x 1,000)",v101269527,1.25.2.3,F
+2012,Canada,"Sporting goods, hobby, book and music stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269528,1.25.3.1,143120.0
+2013,Canada,"Sporting goods, hobby, book and music stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269528,1.25.3.1,151891.0
+2014,Canada,"Sporting goods, hobby, book and music stores","Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269528,1.25.3.1,190772.0
+2012,Canada,"Sporting goods, hobby, book and music stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269529,1.25.3.2,F
+2013,Canada,"Sporting goods, hobby, book and music stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269529,1.25.3.2,F
+2014,Canada,"Sporting goods, hobby, book and music stores","Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269529,1.25.3.2,F
+2012,Canada,"Sporting goods, hobby, book and music stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269530,1.25.3.3,F
+2013,Canada,"Sporting goods, hobby, book and music stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269530,1.25.3.3,F
+2014,Canada,"Sporting goods, hobby, book and music stores","Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269530,1.25.3.3,F
+2012,Canada,"Sporting goods, hobby, book and music stores",All other methods,"Total all stores (x 1,000)",v101269531,1.25.4.1,58138.0
+2013,Canada,"Sporting goods, hobby, book and music stores",All other methods,"Total all stores (x 1,000)",v101269531,1.25.4.1,100569.0
+2014,Canada,"Sporting goods, hobby, book and music stores",All other methods,"Total all stores (x 1,000)",v101269531,1.25.4.1,118519.0
+2012,Canada,"Sporting goods, hobby, book and music stores",All other methods,"Chain stores (x 1,000)",v101269532,1.25.4.2,F
+2013,Canada,"Sporting goods, hobby, book and music stores",All other methods,"Chain stores (x 1,000)",v101269532,1.25.4.2,F
+2014,Canada,"Sporting goods, hobby, book and music stores",All other methods,"Chain stores (x 1,000)",v101269532,1.25.4.2,F
+2012,Canada,"Sporting goods, hobby, book and music stores",All other methods,"Non-chain stores (x 1,000)",v101269533,1.25.4.3,F
+2013,Canada,"Sporting goods, hobby, book and music stores",All other methods,"Non-chain stores (x 1,000)",v101269533,1.25.4.3,F
+2014,Canada,"Sporting goods, hobby, book and music stores",All other methods,"Non-chain stores (x 1,000)",v101269533,1.25.4.3,F
+2012,Canada,General merchandise stores,In-store sales,"Total all stores (x 1,000)",v101269534,1.26.1.1,57612725.0
+2013,Canada,General merchandise stores,In-store sales,"Total all stores (x 1,000)",v101269534,1.26.1.1,59292502.0
+2014,Canada,General merchandise stores,In-store sales,"Total all stores (x 1,000)",v101269534,1.26.1.1,62184831.0
+2012,Canada,General merchandise stores,In-store sales,"Chain stores (x 1,000)",v101269535,1.26.1.2,F
+2013,Canada,General merchandise stores,In-store sales,"Chain stores (x 1,000)",v101269535,1.26.1.2,F
+2014,Canada,General merchandise stores,In-store sales,"Chain stores (x 1,000)",v101269535,1.26.1.2,F
+2012,Canada,General merchandise stores,In-store sales,"Non-chain stores (x 1,000)",v101269536,1.26.1.3,F
+2013,Canada,General merchandise stores,In-store sales,"Non-chain stores (x 1,000)",v101269536,1.26.1.3,F
+2014,Canada,General merchandise stores,In-store sales,"Non-chain stores (x 1,000)",v101269536,1.26.1.3,F
+2012,Canada,General merchandise stores,E-commerce,"Total all stores (x 1,000)",v101269537,1.26.2.1,x
+2013,Canada,General merchandise stores,E-commerce,"Total all stores (x 1,000)",v101269537,1.26.2.1,x
+2014,Canada,General merchandise stores,E-commerce,"Total all stores (x 1,000)",v101269537,1.26.2.1,356295.0
+2012,Canada,General merchandise stores,E-commerce,"Chain stores (x 1,000)",v101269538,1.26.2.2,F
+2013,Canada,General merchandise stores,E-commerce,"Chain stores (x 1,000)",v101269538,1.26.2.2,F
+2014,Canada,General merchandise stores,E-commerce,"Chain stores (x 1,000)",v101269538,1.26.2.2,F
+2012,Canada,General merchandise stores,E-commerce,"Non-chain stores (x 1,000)",v101269539,1.26.2.3,F
+2013,Canada,General merchandise stores,E-commerce,"Non-chain stores (x 1,000)",v101269539,1.26.2.3,F
+2014,Canada,General merchandise stores,E-commerce,"Non-chain stores (x 1,000)",v101269539,1.26.2.3,F
+2012,Canada,General merchandise stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269540,1.26.3.1,x
+2013,Canada,General merchandise stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269540,1.26.3.1,x
+2014,Canada,General merchandise stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269540,1.26.3.1,x
+2012,Canada,General merchandise stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269541,1.26.3.2,F
+2013,Canada,General merchandise stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269541,1.26.3.2,F
+2014,Canada,General merchandise stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269541,1.26.3.2,F
+2012,Canada,General merchandise stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269542,1.26.3.3,F
+2013,Canada,General merchandise stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269542,1.26.3.3,F
+2014,Canada,General merchandise stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269542,1.26.3.3,F
+2012,Canada,General merchandise stores,All other methods,"Total all stores (x 1,000)",v101269543,1.26.4.1,x
+2013,Canada,General merchandise stores,All other methods,"Total all stores (x 1,000)",v101269543,1.26.4.1,x
+2014,Canada,General merchandise stores,All other methods,"Total all stores (x 1,000)",v101269543,1.26.4.1,x
+2012,Canada,General merchandise stores,All other methods,"Chain stores (x 1,000)",v101269544,1.26.4.2,F
+2013,Canada,General merchandise stores,All other methods,"Chain stores (x 1,000)",v101269544,1.26.4.2,F
+2014,Canada,General merchandise stores,All other methods,"Chain stores (x 1,000)",v101269544,1.26.4.2,F
+2012,Canada,General merchandise stores,All other methods,"Non-chain stores (x 1,000)",v101269545,1.26.4.3,F
+2013,Canada,General merchandise stores,All other methods,"Non-chain stores (x 1,000)",v101269545,1.26.4.3,F
+2014,Canada,General merchandise stores,All other methods,"Non-chain stores (x 1,000)",v101269545,1.26.4.3,F
+2012,Canada,Department stores,In-store sales,"Total all stores (x 1,000)",v101269546,1.27.1.1,x
+2013,Canada,Department stores,In-store sales,"Total all stores (x 1,000)",v101269546,1.27.1.1,x
+2014,Canada,Department stores,In-store sales,"Total all stores (x 1,000)",v101269546,1.27.1.1,x
+2012,Canada,Department stores,In-store sales,"Chain stores (x 1,000)",v101269547,1.27.1.2,F
+2013,Canada,Department stores,In-store sales,"Chain stores (x 1,000)",v101269547,1.27.1.2,F
+2014,Canada,Department stores,In-store sales,"Chain stores (x 1,000)",v101269547,1.27.1.2,F
+2012,Canada,Department stores,In-store sales,"Non-chain stores (x 1,000)",v101269548,1.27.1.3,..
+2013,Canada,Department stores,In-store sales,"Non-chain stores (x 1,000)",v101269548,1.27.1.3,..
+2014,Canada,Department stores,In-store sales,"Non-chain stores (x 1,000)",v101269548,1.27.1.3,..
+2012,Canada,Department stores,E-commerce,"Total all stores (x 1,000)",v101269549,1.27.2.1,x
+2013,Canada,Department stores,E-commerce,"Total all stores (x 1,000)",v101269549,1.27.2.1,x
+2014,Canada,Department stores,E-commerce,"Total all stores (x 1,000)",v101269549,1.27.2.1,x
+2012,Canada,Department stores,E-commerce,"Chain stores (x 1,000)",v101269550,1.27.2.2,F
+2013,Canada,Department stores,E-commerce,"Chain stores (x 1,000)",v101269550,1.27.2.2,F
+2014,Canada,Department stores,E-commerce,"Chain stores (x 1,000)",v101269550,1.27.2.2,F
+2012,Canada,Department stores,E-commerce,"Non-chain stores (x 1,000)",v101269551,1.27.2.3,..
+2013,Canada,Department stores,E-commerce,"Non-chain stores (x 1,000)",v101269551,1.27.2.3,..
+2014,Canada,Department stores,E-commerce,"Non-chain stores (x 1,000)",v101269551,1.27.2.3,..
+2012,Canada,Department stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269552,1.27.3.1,0.0
+2013,Canada,Department stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269552,1.27.3.1,0.0
+2014,Canada,Department stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269552,1.27.3.1,0.0
+2012,Canada,Department stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269553,1.27.3.2,F
+2013,Canada,Department stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269553,1.27.3.2,F
+2014,Canada,Department stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269553,1.27.3.2,F
+2012,Canada,Department stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269554,1.27.3.3,..
+2013,Canada,Department stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269554,1.27.3.3,..
+2014,Canada,Department stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269554,1.27.3.3,..
+2012,Canada,Department stores,All other methods,"Total all stores (x 1,000)",v101269555,1.27.4.1,0.0
+2013,Canada,Department stores,All other methods,"Total all stores (x 1,000)",v101269555,1.27.4.1,0.0
+2014,Canada,Department stores,All other methods,"Total all stores (x 1,000)",v101269555,1.27.4.1,0.0
+2012,Canada,Department stores,All other methods,"Chain stores (x 1,000)",v101269556,1.27.4.2,F
+2013,Canada,Department stores,All other methods,"Chain stores (x 1,000)",v101269556,1.27.4.2,F
+2014,Canada,Department stores,All other methods,"Chain stores (x 1,000)",v101269556,1.27.4.2,F
+2012,Canada,Department stores,All other methods,"Non-chain stores (x 1,000)",v101269557,1.27.4.3,..
+2013,Canada,Department stores,All other methods,"Non-chain stores (x 1,000)",v101269557,1.27.4.3,..
+2014,Canada,Department stores,All other methods,"Non-chain stores (x 1,000)",v101269557,1.27.4.3,..
+2012,Canada,Other general merchandise stores,In-store sales,"Total all stores (x 1,000)",v101269558,1.28.1.1,x
+2013,Canada,Other general merchandise stores,In-store sales,"Total all stores (x 1,000)",v101269558,1.28.1.1,x
+2014,Canada,Other general merchandise stores,In-store sales,"Total all stores (x 1,000)",v101269558,1.28.1.1,x
+2012,Canada,Other general merchandise stores,In-store sales,"Chain stores (x 1,000)",v101269559,1.28.1.2,F
+2013,Canada,Other general merchandise stores,In-store sales,"Chain stores (x 1,000)",v101269559,1.28.1.2,F
+2014,Canada,Other general merchandise stores,In-store sales,"Chain stores (x 1,000)",v101269559,1.28.1.2,F
+2012,Canada,Other general merchandise stores,In-store sales,"Non-chain stores (x 1,000)",v101269560,1.28.1.3,F
+2013,Canada,Other general merchandise stores,In-store sales,"Non-chain stores (x 1,000)",v101269560,1.28.1.3,F
+2014,Canada,Other general merchandise stores,In-store sales,"Non-chain stores (x 1,000)",v101269560,1.28.1.3,F
+2012,Canada,Other general merchandise stores,E-commerce,"Total all stores (x 1,000)",v101269561,1.28.2.1,x
+2013,Canada,Other general merchandise stores,E-commerce,"Total all stores (x 1,000)",v101269561,1.28.2.1,x
+2014,Canada,Other general merchandise stores,E-commerce,"Total all stores (x 1,000)",v101269561,1.28.2.1,x
+2012,Canada,Other general merchandise stores,E-commerce,"Chain stores (x 1,000)",v101269562,1.28.2.2,F
+2013,Canada,Other general merchandise stores,E-commerce,"Chain stores (x 1,000)",v101269562,1.28.2.2,F
+2014,Canada,Other general merchandise stores,E-commerce,"Chain stores (x 1,000)",v101269562,1.28.2.2,F
+2012,Canada,Other general merchandise stores,E-commerce,"Non-chain stores (x 1,000)",v101269563,1.28.2.3,F
+2013,Canada,Other general merchandise stores,E-commerce,"Non-chain stores (x 1,000)",v101269563,1.28.2.3,F
+2014,Canada,Other general merchandise stores,E-commerce,"Non-chain stores (x 1,000)",v101269563,1.28.2.3,F
+2012,Canada,Other general merchandise stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269564,1.28.3.1,x
+2013,Canada,Other general merchandise stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269564,1.28.3.1,x
+2014,Canada,Other general merchandise stores,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269564,1.28.3.1,x
+2012,Canada,Other general merchandise stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269565,1.28.3.2,F
+2013,Canada,Other general merchandise stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269565,1.28.3.2,F
+2014,Canada,Other general merchandise stores,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269565,1.28.3.2,F
+2012,Canada,Other general merchandise stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269566,1.28.3.3,F
+2013,Canada,Other general merchandise stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269566,1.28.3.3,F
+2014,Canada,Other general merchandise stores,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269566,1.28.3.3,F
+2012,Canada,Other general merchandise stores,All other methods,"Total all stores (x 1,000)",v101269567,1.28.4.1,x
+2013,Canada,Other general merchandise stores,All other methods,"Total all stores (x 1,000)",v101269567,1.28.4.1,x
+2014,Canada,Other general merchandise stores,All other methods,"Total all stores (x 1,000)",v101269567,1.28.4.1,x
+2012,Canada,Other general merchandise stores,All other methods,"Chain stores (x 1,000)",v101269568,1.28.4.2,F
+2013,Canada,Other general merchandise stores,All other methods,"Chain stores (x 1,000)",v101269568,1.28.4.2,F
+2014,Canada,Other general merchandise stores,All other methods,"Chain stores (x 1,000)",v101269568,1.28.4.2,F
+2012,Canada,Other general merchandise stores,All other methods,"Non-chain stores (x 1,000)",v101269569,1.28.4.3,F
+2013,Canada,Other general merchandise stores,All other methods,"Non-chain stores (x 1,000)",v101269569,1.28.4.3,F
+2014,Canada,Other general merchandise stores,All other methods,"Non-chain stores (x 1,000)",v101269569,1.28.4.3,F
+2012,Canada,Miscellaneous store retailers,In-store sales,"Total all stores (x 1,000)",v101269570,1.29.1.1,11076682.0
+2013,Canada,Miscellaneous store retailers,In-store sales,"Total all stores (x 1,000)",v101269570,1.29.1.1,11547094.0
+2014,Canada,Miscellaneous store retailers,In-store sales,"Total all stores (x 1,000)",v101269570,1.29.1.1,11774148.0
+2012,Canada,Miscellaneous store retailers,In-store sales,"Chain stores (x 1,000)",v101269571,1.29.1.2,F
+2013,Canada,Miscellaneous store retailers,In-store sales,"Chain stores (x 1,000)",v101269571,1.29.1.2,F
+2014,Canada,Miscellaneous store retailers,In-store sales,"Chain stores (x 1,000)",v101269571,1.29.1.2,F
+2012,Canada,Miscellaneous store retailers,In-store sales,"Non-chain stores (x 1,000)",v101269572,1.29.1.3,F
+2013,Canada,Miscellaneous store retailers,In-store sales,"Non-chain stores (x 1,000)",v101269572,1.29.1.3,F
+2014,Canada,Miscellaneous store retailers,In-store sales,"Non-chain stores (x 1,000)",v101269572,1.29.1.3,F
+2012,Canada,Miscellaneous store retailers,E-commerce,"Total all stores (x 1,000)",v101269573,1.29.2.1,279795.0
+2013,Canada,Miscellaneous store retailers,E-commerce,"Total all stores (x 1,000)",v101269573,1.29.2.1,282588.0
+2014,Canada,Miscellaneous store retailers,E-commerce,"Total all stores (x 1,000)",v101269573,1.29.2.1,306359.0
+2012,Canada,Miscellaneous store retailers,E-commerce,"Chain stores (x 1,000)",v101269574,1.29.2.2,F
+2013,Canada,Miscellaneous store retailers,E-commerce,"Chain stores (x 1,000)",v101269574,1.29.2.2,F
+2014,Canada,Miscellaneous store retailers,E-commerce,"Chain stores (x 1,000)",v101269574,1.29.2.2,F
+2012,Canada,Miscellaneous store retailers,E-commerce,"Non-chain stores (x 1,000)",v101269575,1.29.2.3,F
+2013,Canada,Miscellaneous store retailers,E-commerce,"Non-chain stores (x 1,000)",v101269575,1.29.2.3,F
+2014,Canada,Miscellaneous store retailers,E-commerce,"Non-chain stores (x 1,000)",v101269575,1.29.2.3,F
+2012,Canada,Miscellaneous store retailers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269576,1.29.3.1,584904.0
+2013,Canada,Miscellaneous store retailers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269576,1.29.3.1,637341.0
+2014,Canada,Miscellaneous store retailers,"Catalogue, mail-order or telephone","Total all stores (x 1,000)",v101269576,1.29.3.1,668027.0
+2012,Canada,Miscellaneous store retailers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269577,1.29.3.2,F
+2013,Canada,Miscellaneous store retailers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269577,1.29.3.2,F
+2014,Canada,Miscellaneous store retailers,"Catalogue, mail-order or telephone","Chain stores (x 1,000)",v101269577,1.29.3.2,F
+2012,Canada,Miscellaneous store retailers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269578,1.29.3.3,F
+2013,Canada,Miscellaneous store retailers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269578,1.29.3.3,F
+2014,Canada,Miscellaneous store retailers,"Catalogue, mail-order or telephone","Non-chain stores (x 1,000)",v101269578,1.29.3.3,F
+2012,Canada,Miscellaneous store retailers,All other methods,"Total all stores (x 1,000)",v101269579,1.29.4.1,452035.0
+2013,Canada,Miscellaneous store retailers,All other methods,"Total all stores (x 1,000)",v101269579,1.29.4.1,410674.0
+2014,Canada,Miscellaneous store retailers,All other methods,"Total all stores (x 1,000)",v101269579,1.29.4.1,379161.0
+2012,Canada,Miscellaneous store retailers,All other methods,"Chain stores (x 1,000)",v101269580,1.29.4.2,F
+2013,Canada,Miscellaneous store retailers,All other methods,"Chain stores (x 1,000)",v101269580,1.29.4.2,F
+2014,Canada,Miscellaneous store retailers,All other methods,"Chain stores (x 1,000)",v101269580,1.29.4.2,F
+2012,Canada,Miscellaneous store retailers,All other methods,"Non-chain stores (x 1,000)",v101269581,1.29.4.3,F
+2013,Canada,Miscellaneous store retailers,All other methods,"Non-chain stores (x 1,000)",v101269581,1.29.4.3,F
+2014,Canada,Miscellaneous store retailers,All other methods,"Non-chain stores (x 1,000)",v101269581,1.29.4.3,F

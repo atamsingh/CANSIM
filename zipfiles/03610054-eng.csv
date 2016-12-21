@@ -1,0 +1,49 @@
+Ref_Date,GEO,NAICS,DISTPUB,Vector,Coordinate,Value
+2013,Canada,Periodical publishers,Subscription,v96885825,1.1.1,26.4
+2015,Canada,Periodical publishers,Subscription,v96885825,1.1.1,30.8
+2013,Canada,Periodical publishers,Newsstand and other copies sold,v96885826,1.1.2,13.3
+2015,Canada,Periodical publishers,Newsstand and other copies sold,v96885826,1.1.2,12.0
+2013,Canada,Periodical publishers,Controlled circulation,v96885827,1.1.3,30.6
+2015,Canada,Periodical publishers,Controlled circulation,v96885827,1.1.3,16.4
+2013,Canada,Periodical publishers,Complimentary,v96885828,1.1.4,29.7
+2015,Canada,Periodical publishers,Complimentary,v96885828,1.1.4,40.8
+2013,Atlantic provinces,Periodical publishers,Subscription,v96885829,2.1.1,6.6
+2015,Atlantic provinces,Periodical publishers,Subscription,v96885829,2.1.1,x
+2013,Atlantic provinces,Periodical publishers,Newsstand and other copies sold,v96885830,2.1.2,14.4
+2015,Atlantic provinces,Periodical publishers,Newsstand and other copies sold,v96885830,2.1.2,x
+2013,Atlantic provinces,Periodical publishers,Controlled circulation,v96885831,2.1.3,59.3
+2015,Atlantic provinces,Periodical publishers,Controlled circulation,v96885831,2.1.3,x
+2013,Atlantic provinces,Periodical publishers,Complimentary,v96885832,2.1.4,19.7
+2015,Atlantic provinces,Periodical publishers,Complimentary,v96885832,2.1.4,30.5
+2013,Quebec,Periodical publishers,Subscription,v96885833,3.1.1,39.0
+2015,Quebec,Periodical publishers,Subscription,v96885833,3.1.1,42.2
+2013,Quebec,Periodical publishers,Newsstand and other copies sold,v96885834,3.1.2,25.4
+2015,Quebec,Periodical publishers,Newsstand and other copies sold,v96885834,3.1.2,18.9
+2013,Quebec,Periodical publishers,Controlled circulation,v96885835,3.1.3,6.4
+2015,Quebec,Periodical publishers,Controlled circulation,v96885835,3.1.3,4.8
+2013,Quebec,Periodical publishers,Complimentary,v96885836,3.1.4,29.3
+2015,Quebec,Periodical publishers,Complimentary,v96885836,3.1.4,34.1
+2013,Ontario,Periodical publishers,Subscription,v96885837,4.1.1,29.0
+2015,Ontario,Periodical publishers,Subscription,v96885837,4.1.1,x
+2013,Ontario,Periodical publishers,Newsstand and other copies sold,v96885838,4.1.2,12.3
+2015,Ontario,Periodical publishers,Newsstand and other copies sold,v96885838,4.1.2,x
+2013,Ontario,Periodical publishers,Controlled circulation,v96885839,4.1.3,32.5
+2015,Ontario,Periodical publishers,Controlled circulation,v96885839,4.1.3,x
+2013,Ontario,Periodical publishers,Complimentary,v96885840,4.1.4,26.1
+2015,Ontario,Periodical publishers,Complimentary,v96885840,4.1.4,44.0
+2013,Prairie provinces,Periodical publishers,Subscription,v96885841,5.1.1,10.0
+2015,Prairie provinces,Periodical publishers,Subscription,v96885841,5.1.1,x
+2013,Prairie provinces,Periodical publishers,Newsstand and other copies sold,v96885842,5.1.2,9.1
+2015,Prairie provinces,Periodical publishers,Newsstand and other copies sold,v96885842,5.1.2,x
+2013,Prairie provinces,Periodical publishers,Controlled circulation,v96885843,5.1.3,50.7
+2015,Prairie provinces,Periodical publishers,Controlled circulation,v96885843,5.1.3,34.3
+2013,Prairie provinces,Periodical publishers,Complimentary,v96885844,5.1.4,30.1
+2015,Prairie provinces,Periodical publishers,Complimentary,v96885844,5.1.4,51.8
+2013,British Columbia and Territories,Periodical publishers,Subscription,v96885845,6.1.1,20.6
+2015,British Columbia and Territories,Periodical publishers,Subscription,v96885845,6.1.1,46.5
+2013,British Columbia and Territories,Periodical publishers,Newsstand and other copies sold,v96885846,6.1.2,4.3
+2015,British Columbia and Territories,Periodical publishers,Newsstand and other copies sold,v96885846,6.1.2,2.6
+2013,British Columbia and Territories,Periodical publishers,Controlled circulation,v96885847,6.1.3,35.0
+2015,British Columbia and Territories,Periodical publishers,Controlled circulation,v96885847,6.1.3,15.8
+2013,British Columbia and Territories,Periodical publishers,Complimentary,v96885848,6.1.4,40.2
+2015,British Columbia and Territories,Periodical publishers,Complimentary,v96885848,6.1.4,35.1

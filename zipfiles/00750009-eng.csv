@@ -1,0 +1,269 @@
+Ref_Date,GEO,EST,Vector,Coordinate,Value
+1851,Canada,Population,v742020,1.1,2436297.00
+1861,Canada,Population,v742020,1.1,3229633.00
+1871,Canada,Population,v742020,1.1,3689257.00
+1881,Canada,Population,v742020,1.1,4324810.00
+1891,Canada,Population,v742020,1.1,4833239.00
+1901,Canada,Population,v742020,1.1,5371315.00
+1911,Canada,Population,v742020,1.1,7206643.00
+1921,Canada,Population,v742020,1.1,8787949.00
+1931,Canada,Population,v742020,1.1,10376786.00
+1941,Canada,Population,v742020,1.1,11506655.00
+1951,Canada,Population,v742020,1.1,14009429.00
+1961,Canada,Population,v742020,1.1,18238247.00
+1971,Canada,Population,v742020,1.1,21568311.00
+1871,Canada,Population density per square mile,v742071,1.2,1.06
+1881,Canada,Population density per square mile,v742071,1.2,1.25
+1891,Canada,Population density per square mile,v742071,1.2,1.39
+1901,Canada,Population density per square mile,v742071,1.2,1.55
+1911,Canada,Population density per square mile,v742071,1.2,2.08
+1921,Canada,Population density per square mile,v742071,1.2,2.53
+1931,Canada,Population density per square mile,v742071,1.2,2.99
+1941,Canada,Population density per square mile,v742071,1.2,3.32
+1951,Canada,Population density per square mile,v742071,1.2,3.88
+1961,Canada,Population density per square mile,v742071,1.2,5.12
+1971,Canada,Population density per square mile,v742071,1.2,6.06
+1951,Newfoundland and Labrador,Population,v742021,2.1,361416.00
+1961,Newfoundland and Labrador,Population,v742021,2.1,457853.00
+1971,Newfoundland and Labrador,Population,v742021,2.1,522104.00
+1951,Newfoundland and Labrador,Population density per square mile,v742072,2.2,2.44
+1961,Newfoundland and Labrador,Population density per square mile,v742072,2.2,3.20
+1971,Newfoundland and Labrador,Population density per square mile,v742072,2.2,3.64
+1851,Prince Edward Island,Population,v742025,3.1,62678.00
+1861,Prince Edward Island,Population,v742025,3.1,80857.00
+1871,Prince Edward Island,Population,v742025,3.1,94021.00
+1881,Prince Edward Island,Population,v742025,3.1,108891.00
+1891,Prince Edward Island,Population,v742025,3.1,109078.00
+1901,Prince Edward Island,Population,v742025,3.1,103259.00
+1911,Prince Edward Island,Population,v742025,3.1,93728.00
+1921,Prince Edward Island,Population,v742025,3.1,88615.00
+1931,Prince Edward Island,Population,v742025,3.1,88038.00
+1941,Prince Edward Island,Population,v742025,3.1,95047.00
+1951,Prince Edward Island,Population,v742025,3.1,98429.00
+1961,Prince Edward Island,Population,v742025,3.1,104629.00
+1971,Prince Edward Island,Population,v742025,3.1,111641.00
+1871,Prince Edward Island,Population density per square mile,v742076,3.2,43.05
+1881,Prince Edward Island,Population density per square mile,v742076,3.2,49.86
+1891,Prince Edward Island,Population density per square mile,v742076,3.2,49.94
+1901,Prince Edward Island,Population density per square mile,v742076,3.2,47.28
+1911,Prince Edward Island,Population density per square mile,v742076,3.2,42.92
+1921,Prince Edward Island,Population density per square mile,v742076,3.2,40.57
+1931,Prince Edward Island,Population density per square mile,v742076,3.2,40.31
+1941,Prince Edward Island,Population density per square mile,v742076,3.2,43.52
+1951,Prince Edward Island,Population density per square mile,v742076,3.2,45.07
+1961,Prince Edward Island,Population density per square mile,v742076,3.2,47.91
+1971,Prince Edward Island,Population density per square mile,v742076,3.2,51.08
+1851,Nova Scotia,Population,v742026,4.1,276854.00
+1861,Nova Scotia,Population,v742026,4.1,330857.00
+1871,Nova Scotia,Population,v742026,4.1,387800.00
+1881,Nova Scotia,Population,v742026,4.1,440572.00
+1891,Nova Scotia,Population,v742026,4.1,450396.00
+1901,Nova Scotia,Population,v742026,4.1,459574.00
+1911,Nova Scotia,Population,v742026,4.1,492338.00
+1921,Nova Scotia,Population,v742026,4.1,523837.00
+1931,Nova Scotia,Population,v742026,4.1,512846.00
+1941,Nova Scotia,Population,v742026,4.1,577962.00
+1951,Nova Scotia,Population,v742026,4.1,642584.00
+1961,Nova Scotia,Population,v742026,4.1,737007.00
+1971,Nova Scotia,Population,v742026,4.1,788960.00
+1871,Nova Scotia,Population density per square mile,v742077,4.2,18.70
+1881,Nova Scotia,Population density per square mile,v742077,4.2,21.24
+1891,Nova Scotia,Population density per square mile,v742077,4.2,21.71
+1901,Nova Scotia,Population density per square mile,v742077,4.2,22.16
+1911,Nova Scotia,Population density per square mile,v742077,4.2,23.74
+1921,Nova Scotia,Population density per square mile,v742077,4.2,25.25
+1931,Nova Scotia,Population density per square mile,v742077,4.2,24.72
+1941,Nova Scotia,Population density per square mile,v742077,4.2,27.86
+1951,Nova Scotia,Population density per square mile,v742077,4.2,30.98
+1961,Nova Scotia,Population density per square mile,v742077,4.2,36.12
+1971,Nova Scotia,Population density per square mile,v742077,4.2,38.67
+1851,New Brunswick,Population,v742027,5.1,193800.00
+1861,New Brunswick,Population,v742027,5.1,252047.00
+1871,New Brunswick,Population,v742027,5.1,285594.00
+1881,New Brunswick,Population,v742027,5.1,321233.00
+1891,New Brunswick,Population,v742027,5.1,321263.00
+1901,New Brunswick,Population,v742027,5.1,331120.00
+1911,New Brunswick,Population,v742027,5.1,351889.00
+1921,New Brunswick,Population,v742027,5.1,387876.00
+1931,New Brunswick,Population,v742027,5.1,408219.00
+1941,New Brunswick,Population,v742027,5.1,457401.00
+1951,New Brunswick,Population,v742027,5.1,515697.00
+1961,New Brunswick,Population,v742027,5.1,597936.00
+1971,New Brunswick,Population,v742027,5.1,634557.00
+1871,New Brunswick,Population density per square mile,v742078,5.2,10.40
+1881,New Brunswick,Population density per square mile,v742078,5.2,11.69
+1891,New Brunswick,Population density per square mile,v742078,5.2,11.69
+1901,New Brunswick,Population density per square mile,v742078,5.2,11.95
+1911,New Brunswick,Population density per square mile,v742078,5.2,12.70
+1921,New Brunswick,Population density per square mile,v742078,5.2,14.00
+1931,New Brunswick,Population density per square mile,v742078,5.2,14.73
+1941,New Brunswick,Population density per square mile,v742078,5.2,16.65
+1951,New Brunswick,Population density per square mile,v742078,5.2,18.77
+1961,New Brunswick,Population density per square mile,v742078,5.2,21.48
+1971,New Brunswick,Population density per square mile,v742078,5.2,22.96
+1851,Quebec,Population,v742028,6.1,890261.00
+1861,Quebec,Population,v742028,6.1,1111566.00
+1871,Quebec,Population,v742028,6.1,1191516.00
+1881,Quebec,Population,v742028,6.1,1359027.00
+1891,Quebec,Population,v742028,6.1,1488535.00
+1901,Quebec,Population,v742028,6.1,1648898.00
+1911,Quebec,Population,v742028,6.1,2005776.00
+1921,Quebec,Population,v742028,6.1,2360510.00
+1931,Quebec,Population,v742028,6.1,2874662.00
+1941,Quebec,Population,v742028,6.1,3331882.00
+1951,Quebec,Population,v742028,6.1,4055681.00
+1961,Quebec,Population,v742028,6.1,5259211.00
+1971,Quebec,Population,v742028,6.1,6027764.00
+1871,Quebec,Population density per square mile,v742079,6.2,2.27
+1881,Quebec,Population density per square mile,v742079,6.2,2.59
+1891,Quebec,Population density per square mile,v742079,6.2,2.84
+1901,Quebec,Population density per square mile,v742079,6.2,3.15
+1911,Quebec,Population density per square mile,v742079,6.2,3.83
+1921,Quebec,Population density per square mile,v742079,6.2,4.51
+1931,Quebec,Population density per square mile,v742079,6.2,5.49
+1941,Quebec,Population density per square mile,v742079,6.2,6.36
+1951,Quebec,Population density per square mile,v742079,6.2,7.14
+1961,Quebec,Population density per square mile,v742079,6.2,10.04
+1971,Quebec,Population density per square mile,v742079,6.2,11.50
+1851,Ontario,Population,v742029,7.1,952004.00
+1861,Ontario,Population,v742029,7.1,1396091.00
+1871,Ontario,Population,v742029,7.1,1620851.00
+1881,Ontario,Population,v742029,7.1,1926922.00
+1891,Ontario,Population,v742029,7.1,2114321.00
+1901,Ontario,Population,v742029,7.1,2182947.00
+1911,Ontario,Population,v742029,7.1,2527292.00
+1921,Ontario,Population,v742029,7.1,2933662.00
+1931,Ontario,Population,v742029,7.1,3431683.00
+1941,Ontario,Population,v742029,7.1,3787655.00
+1951,Ontario,Population,v742029,7.1,4597542.00
+1961,Ontario,Population,v742029,7.1,6236092.00
+1971,Ontario,Population,v742029,7.1,7703106.00
+1871,Ontario,Population density per square mile,v742080,7.2,4.46
+1881,Ontario,Population density per square mile,v742080,7.2,5.30
+1891,Ontario,Population density per square mile,v742080,7.2,5.82
+1901,Ontario,Population density per square mile,v742080,7.2,6.01
+1911,Ontario,Population density per square mile,v742080,7.2,6.96
+1921,Ontario,Population density per square mile,v742080,7.2,8.08
+1931,Ontario,Population density per square mile,v742080,7.2,9.45
+1941,Ontario,Population density per square mile,v742080,7.2,10.43
+1951,Ontario,Population density per square mile,v742080,7.2,12.66
+1961,Ontario,Population density per square mile,v742080,7.2,18.12
+1971,Ontario,Population density per square mile,v742080,7.2,21.75
+1871,Manitoba,Population,v742030,8.1,25228.00
+1881,Manitoba,Population,v742030,8.1,62260.00
+1891,Manitoba,Population,v742030,8.1,152506.00
+1901,Manitoba,Population,v742030,8.1,255211.00
+1911,Manitoba,Population,v742030,8.1,461394.00
+1921,Manitoba,Population,v742030,8.1,610118.00
+1931,Manitoba,Population,v742030,8.1,700139.00
+1941,Manitoba,Population,v742030,8.1,729744.00
+1951,Manitoba,Population,v742030,8.1,776541.00
+1961,Manitoba,Population,v742030,8.1,921686.00
+1971,Manitoba,Population,v742030,8.1,988247.00
+1871,Manitoba,Population density per square mile,v742081,8.2,0.11
+1881,Manitoba,Population density per square mile,v742081,8.2,0.28
+1891,Manitoba,Population density per square mile,v742081,8.2,0.69
+1901,Manitoba,Population density per square mile,v742081,8.2,1.16
+1911,Manitoba,Population density per square mile,v742081,8.2,2.10
+1921,Manitoba,Population density per square mile,v742081,8.2,2.78
+1931,Manitoba,Population density per square mile,v742081,8.2,3.19
+1941,Manitoba,Population density per square mile,v742081,8.2,3.32
+1951,Manitoba,Population density per square mile,v742081,8.2,3.53
+1961,Manitoba,Population density per square mile,v742081,8.2,4.35
+1971,Manitoba,Population density per square mile,v742081,8.2,4.67
+1901,Saskatchewan,Population,v742031,9.1,91279.00
+1911,Saskatchewan,Population,v742031,9.1,492432.00
+1921,Saskatchewan,Population,v742031,9.1,757510.00
+1931,Saskatchewan,Population,v742031,9.1,921785.00
+1941,Saskatchewan,Population,v742031,9.1,895992.00
+1951,Saskatchewan,Population,v742031,9.1,831728.00
+1961,Saskatchewan,Population,v742031,9.1,925181.00
+1971,Saskatchewan,Population,v742031,9.1,926242.00
+1901,Saskatchewan,Population density per square mile,v742082,9.2,0.38
+1911,Saskatchewan,Population density per square mile,v742082,9.2,2.07
+1921,Saskatchewan,Population density per square mile,v742082,9.2,3.18
+1931,Saskatchewan,Population density per square mile,v742082,9.2,3.87
+1941,Saskatchewan,Population density per square mile,v742082,9.2,3.77
+1951,Saskatchewan,Population density per square mile,v742082,9.2,3.50
+1961,Saskatchewan,Population density per square mile,v742082,9.2,4.20
+1971,Saskatchewan,Population density per square mile,v742082,9.2,4.21
+1901,Alberta,Population,v742032,10.1,73022.00
+1911,Alberta,Population,v742032,10.1,374295.00
+1921,Alberta,Population,v742032,10.1,588454.00
+1931,Alberta,Population,v742032,10.1,731605.00
+1941,Alberta,Population,v742032,10.1,796169.00
+1951,Alberta,Population,v742032,10.1,939501.00
+1961,Alberta,Population,v742032,10.1,1331944.00
+1971,Alberta,Population,v742032,10.1,1627874.00
+1901,Alberta,Population density per square mile,v742083,10.2,0.29
+1911,Alberta,Population density per square mile,v742083,10.2,1.50
+1921,Alberta,Population density per square mile,v742083,10.2,2.37
+1931,Alberta,Population density per square mile,v742083,10.2,2.94
+1941,Alberta,Population density per square mile,v742083,10.2,3.20
+1951,Alberta,Population density per square mile,v742083,10.2,3.78
+1961,Alberta,Population density per square mile,v742083,10.2,5.35
+1971,Alberta,Population density per square mile,v742083,10.2,6.61
+1851,British Columbia,Population,v742022,11.1,55000.00
+1861,British Columbia,Population,v742022,11.1,51524.00
+1871,British Columbia,Population,v742022,11.1,36247.00
+1881,British Columbia,Population,v742022,11.1,49459.00
+1891,British Columbia,Population,v742022,11.1,98173.00
+1901,British Columbia,Population,v742022,11.1,178657.00
+1911,British Columbia,Population,v742022,11.1,392480.00
+1921,British Columbia,Population,v742022,11.1,524582.00
+1931,British Columbia,Population,v742022,11.1,694263.00
+1941,British Columbia,Population,v742022,11.1,817861.00
+1951,British Columbia,Population,v742022,11.1,1165210.00
+1961,British Columbia,Population,v742022,11.1,1629082.00
+1971,British Columbia,Population,v742022,11.1,2184621.00
+1871,British Columbia,Population density per square mile,v742073,11.2,0.10
+1881,British Columbia,Population density per square mile,v742073,11.2,0.14
+1891,British Columbia,Population density per square mile,v742073,11.2,0.27
+1901,British Columbia,Population density per square mile,v742073,11.2,0.50
+1911,British Columbia,Population density per square mile,v742073,11.2,1.09
+1921,British Columbia,Population density per square mile,v742073,11.2,1.46
+1931,British Columbia,Population density per square mile,v742073,11.2,1.93
+1941,British Columbia,Population density per square mile,v742073,11.2,2.28
+1951,British Columbia,Population density per square mile,v742073,11.2,3.24
+1961,British Columbia,Population density per square mile,v742073,11.2,4.53
+1971,British Columbia,Population density per square mile,v742073,11.2,6.34
+1901,Yukon,Population,v742023,12.1,27219.00
+1911,Yukon,Population,v742023,12.1,8512.00
+1921,Yukon,Population,v742023,12.1,4157.00
+1931,Yukon,Population,v742023,12.1,4230.00
+1941,Yukon,Population,v742023,12.1,4914.00
+1951,Yukon,Population,v742023,12.1,9096.00
+1961,Yukon,Population,v742023,12.1,14628.00
+1971,Yukon,Population,v742023,12.1,18388.00
+1901,Yukon,Population density per square mile,v742074,12.2,0.13
+1911,Yukon,Population density per square mile,v742074,12.2,0.04
+1921,Yukon,Population density per square mile,v742074,12.2,0.02
+1931,Yukon,Population density per square mile,v742074,12.2,0.02
+1941,Yukon,Population density per square mile,v742074,12.2,0.02
+1951,Yukon,Population density per square mile,v742074,12.2,0.04
+1961,Yukon,Population density per square mile,v742074,12.2,0.07
+1971,Yukon,Population density per square mile,v742074,12.2,0.09
+1851,Northwest Territories,Population,v742024,13.1,5700.00
+1861,Northwest Territories,Population,v742024,13.1,6691.00
+1871,Northwest Territories,Population,v742024,13.1,48000.00
+1881,Northwest Territories,Population,v742024,13.1,56446.00
+1891,Northwest Territories,Population,v742024,13.1,98967.00
+1901,Northwest Territories,Population,v742024,13.1,20129.00
+1911,Northwest Territories,Population,v742024,13.1,6507.00
+1921,Northwest Territories,Population,v742024,13.1,8143.00
+1931,Northwest Territories,Population,v742024,13.1,9316.00
+1941,Northwest Territories,Population,v742024,13.1,12028.00
+1951,Northwest Territories,Population,v742024,13.1,16004.00
+1961,Northwest Territories,Population,v742024,13.1,22998.00
+1971,Northwest Territories,Population,v742024,13.1,34807.00
+1871,Northwest Territories,Population density per square mile,v742075,13.2,0.04
+1881,Northwest Territories,Population density per square mile,v742075,13.2,0.04
+1891,Northwest Territories,Population density per square mile,v742075,13.2,0.08
+1901,Northwest Territories,Population density per square mile,v742075,13.2,0.02
+1911,Northwest Territories,Population density per square mile,v742075,13.2,0.01
+1921,Northwest Territories,Population density per square mile,v742075,13.2,0.01
+1931,Northwest Territories,Population density per square mile,v742075,13.2,0.01
+1941,Northwest Territories,Population density per square mile,v742075,13.2,0.01
+1951,Northwest Territories,Population density per square mile,v742075,13.2,0.01
+1961,Northwest Territories,Population density per square mile,v742075,13.2,0.02
+1971,Northwest Territories,Population density per square mile,v742075,13.2,0.03

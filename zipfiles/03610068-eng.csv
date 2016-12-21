@@ -1,0 +1,57 @@
+Ref_Date,GEO,NAICS,SUMMARY,Vector,Coordinate,Value
+2014,Canada,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988802,1.1.1,1643.1
+2014,Canada,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988803,1.1.2,1430.2
+2014,Canada,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988804,1.1.3,232.8
+2014,Canada,Motion picture and video exhibition,Operating profit margin (percent),v105988805,1.1.4,13.0
+2014,Newfoundland and Labrador,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988806,2.1.1,x
+2014,Newfoundland and Labrador,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988807,2.1.2,x
+2014,Newfoundland and Labrador,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988808,2.1.3,x
+2014,Newfoundland and Labrador,Motion picture and video exhibition,Operating profit margin (percent),v105988809,2.1.4,x
+2014,Prince Edward Island,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988810,3.1.1,x
+2014,Prince Edward Island,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988811,3.1.2,x
+2014,Prince Edward Island,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988812,3.1.3,x
+2014,Prince Edward Island,Motion picture and video exhibition,Operating profit margin (percent),v105988813,3.1.4,x
+2014,Nova Scotia,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988814,4.1.1,x
+2014,Nova Scotia,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988815,4.1.2,x
+2014,Nova Scotia,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988816,4.1.3,x
+2014,Nova Scotia,Motion picture and video exhibition,Operating profit margin (percent),v105988817,4.1.4,x
+2014,New Brunswick,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988818,5.1.1,29.7
+2014,New Brunswick,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988819,5.1.2,26.1
+2014,New Brunswick,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988820,5.1.3,3.9
+2014,New Brunswick,Motion picture and video exhibition,Operating profit margin (percent),v105988821,5.1.4,12.2
+2014,Quebec,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988822,6.1.1,289.1
+2014,Quebec,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988823,6.1.2,277.8
+2014,Quebec,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988824,6.1.3,45.5
+2014,Quebec,Motion picture and video exhibition,Operating profit margin (percent),v105988825,6.1.4,3.9
+2014,Ontario,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988826,7.1.1,667.2
+2014,Ontario,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988827,7.1.2,593.0
+2014,Ontario,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988828,7.1.3,102.1
+2014,Ontario,Motion picture and video exhibition,Operating profit margin (percent),v105988829,7.1.4,11.1
+2014,Manitoba,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988830,8.1.1,x
+2014,Manitoba,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988831,8.1.2,x
+2014,Manitoba,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988832,8.1.3,6.5
+2014,Manitoba,Motion picture and video exhibition,Operating profit margin (percent),v105988833,8.1.4,x
+2014,Saskatchewan,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988834,9.1.1,46.9
+2014,Saskatchewan,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988835,9.1.2,35.0
+2014,Saskatchewan,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988836,9.1.3,5.7
+2014,Saskatchewan,Motion picture and video exhibition,Operating profit margin (percent),v105988837,9.1.4,25.5
+2014,Alberta,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988838,10.1.1,257.5
+2014,Alberta,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988839,10.1.2,192.8
+2014,Alberta,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988840,10.1.3,29.2
+2014,Alberta,Motion picture and video exhibition,Operating profit margin (percent),v105988841,10.1.4,25.1
+2014,British Columbia,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988842,11.1.1,233.3
+2014,British Columbia,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988843,11.1.2,201.5
+2014,British Columbia,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988844,11.1.3,30.8
+2014,British Columbia,Motion picture and video exhibition,Operating profit margin (percent),v105988845,11.1.4,13.7
+2014,Yukon,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988846,12.1.1,x
+2014,Yukon,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988847,12.1.2,x
+2014,Yukon,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988848,12.1.3,x
+2014,Yukon,Motion picture and video exhibition,Operating profit margin (percent),v105988849,12.1.4,x
+2014,Northwest Territories,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988850,13.1.1,x
+2014,Northwest Territories,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988851,13.1.2,x
+2014,Northwest Territories,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988852,13.1.3,x
+2014,Northwest Territories,Motion picture and video exhibition,Operating profit margin (percent),v105988853,13.1.4,x
+2014,Nunavut,Motion picture and video exhibition,"Operating revenue (x 1,000,000)",v105988854,14.1.1,x
+2014,Nunavut,Motion picture and video exhibition,"Operating expenses (x 1,000,000)",v105988855,14.1.2,x
+2014,Nunavut,Motion picture and video exhibition,"Salaries, wages, commissions and benefits (x 1,000,000)",v105988856,14.1.3,x
+2014,Nunavut,Motion picture and video exhibition,Operating profit margin (percent),v105988857,14.1.4,x

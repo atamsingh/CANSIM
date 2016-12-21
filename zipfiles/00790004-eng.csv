@@ -1,0 +1,791 @@
+Ref_Date,GEO,VEHICLE,SALES,Vector,Coordinate,Value
+2010,Canada,"Total, new motor vehicles",Units,v53846122,1.1.1,1584499.0
+2011,Canada,"Total, new motor vehicles",Units,v53846122,1.1.1,1620577.0
+2012,Canada,"Total, new motor vehicles",Units,v53846122,1.1.1,1716803.0
+2013,Canada,"Total, new motor vehicles",Units,v53846122,1.1.1,1775861.0
+2014,Canada,"Total, new motor vehicles",Units,v53846122,1.1.1,1890387.0
+2015,Canada,"Total, new motor vehicles",Units,v53846122,1.1.1,1938554.0
+2010,Canada,"Total, new motor vehicles","Dollars (x 1,000)",v53846123,1.1.2,52315609.0
+2011,Canada,"Total, new motor vehicles","Dollars (x 1,000)",v53846123,1.1.2,54125933.0
+2012,Canada,"Total, new motor vehicles","Dollars (x 1,000)",v53846123,1.1.2,56944638.0
+2013,Canada,"Total, new motor vehicles","Dollars (x 1,000)",v53846123,1.1.2,60862652.0
+2014,Canada,"Total, new motor vehicles","Dollars (x 1,000)",v53846123,1.1.2,66158618.0
+2015,Canada,"Total, new motor vehicles","Dollars (x 1,000)",v53846123,1.1.2,69819540.0
+2010,Canada,Passenger cars,Units,v53846124,1.2.1,710214.0
+2011,Canada,Passenger cars,Units,v53846124,1.2.1,691079.0
+2012,Canada,Passenger cars,Units,v53846124,1.2.1,759024.0
+2013,Canada,Passenger cars,Units,v53846124,1.2.1,760924.0
+2014,Canada,Passenger cars,Units,v53846124,1.2.1,760449.0
+2015,Canada,Passenger cars,Units,v53846124,1.2.1,712322.0
+2010,Canada,Passenger cars,"Dollars (x 1,000)",v53846125,1.2.2,18982437.0
+2011,Canada,Passenger cars,"Dollars (x 1,000)",v53846125,1.2.2,18408412.0
+2012,Canada,Passenger cars,"Dollars (x 1,000)",v53846125,1.2.2,20305823.0
+2013,Canada,Passenger cars,"Dollars (x 1,000)",v53846125,1.2.2,20680836.0
+2014,Canada,Passenger cars,"Dollars (x 1,000)",v53846125,1.2.2,20960311.0
+2015,Canada,Passenger cars,"Dollars (x 1,000)",v53846125,1.2.2,20298067.0
+2010,Canada,Trucks,Units,v53846126,1.3.1,874285.0
+2011,Canada,Trucks,Units,v53846126,1.3.1,929498.0
+2012,Canada,Trucks,Units,v53846126,1.3.1,957779.0
+2013,Canada,Trucks,Units,v53846126,1.3.1,1014937.0
+2014,Canada,Trucks,Units,v53846126,1.3.1,1129938.0
+2015,Canada,Trucks,Units,v53846126,1.3.1,1226232.0
+2010,Canada,Trucks,"Dollars (x 1,000)",v53846127,1.3.2,33333173.0
+2011,Canada,Trucks,"Dollars (x 1,000)",v53846127,1.3.2,35717521.0
+2012,Canada,Trucks,"Dollars (x 1,000)",v53846127,1.3.2,36638814.0
+2013,Canada,Trucks,"Dollars (x 1,000)",v53846127,1.3.2,40181817.0
+2014,Canada,Trucks,"Dollars (x 1,000)",v53846127,1.3.2,45198307.0
+2015,Canada,Trucks,"Dollars (x 1,000)",v53846127,1.3.2,49521472.0
+2010,Canada,Light trucks,Units,v53846128,1.4.1,847615.0
+2011,Canada,Light trucks,Units,v53846128,1.4.1,894394.0
+2012,Canada,Light trucks,Units,v53846128,1.4.1,917057.0
+2013,Canada,Light trucks,Units,v53846128,1.4.1,979474.0
+2014,Canada,Light trucks,Units,v53846128,1.4.1,1088401.0
+2015,Canada,Light trucks,Units,v53846128,1.4.1,1185704.0
+2010,Canada,Light trucks,"Dollars (x 1,000)",v53846129,1.4.2,29780756.0
+2011,Canada,Light trucks,"Dollars (x 1,000)",v53846129,1.4.2,31655900.0
+2012,Canada,Light trucks,"Dollars (x 1,000)",v53846129,1.4.2,32034451.0
+2013,Canada,Light trucks,"Dollars (x 1,000)",v53846129,1.4.2,36207962.0
+2014,Canada,Light trucks,"Dollars (x 1,000)",v53846129,1.4.2,40405917.0
+2015,Canada,Light trucks,"Dollars (x 1,000)",v53846129,1.4.2,44957194.0
+2010,Canada,Heavy trucks,Units,v53846130,1.5.1,23361.0
+2011,Canada,Heavy trucks,Units,v53846130,1.5.1,32429.0
+2012,Canada,Heavy trucks,Units,v53846130,1.5.1,37915.0
+2013,Canada,Heavy trucks,Units,v53846130,1.5.1,32454.0
+2014,Canada,Heavy trucks,Units,v53846130,1.5.1,37296.0
+2015,Canada,Heavy trucks,Units,v53846130,1.5.1,37158.0
+2010,Canada,Heavy trucks,"Dollars (x 1,000)",v53846131,1.5.2,2484812.0
+2011,Canada,Heavy trucks,"Dollars (x 1,000)",v53846131,1.5.2,3422882.0
+2012,Canada,Heavy trucks,"Dollars (x 1,000)",v53846131,1.5.2,4051643.0
+2013,Canada,Heavy trucks,"Dollars (x 1,000)",v53846131,1.5.2,3435759.0
+2014,Canada,Heavy trucks,"Dollars (x 1,000)",v53846131,1.5.2,4047369.0
+2015,Canada,Heavy trucks,"Dollars (x 1,000)",v53846131,1.5.2,3957276.0
+2010,Canada,Buses,Units,v53846132,1.6.1,3309.0
+2011,Canada,Buses,Units,v53846132,1.6.1,2675.0
+2012,Canada,Buses,Units,v53846132,1.6.1,2807.0
+2013,Canada,Buses,Units,v53846132,1.6.1,3009.0
+2014,Canada,Buses,Units,v53846132,1.6.1,4241.0
+2015,Canada,Buses,Units,v53846132,1.6.1,3370.0
+2010,Canada,Buses,"Dollars (x 1,000)",v53846133,1.6.2,1067605.0
+2011,Canada,Buses,"Dollars (x 1,000)",v53846133,1.6.2,638739.0
+2012,Canada,Buses,"Dollars (x 1,000)",v53846133,1.6.2,552721.0
+2013,Canada,Buses,"Dollars (x 1,000)",v53846133,1.6.2,538096.0
+2014,Canada,Buses,"Dollars (x 1,000)",v53846133,1.6.2,745021.0
+2015,Canada,Buses,"Dollars (x 1,000)",v53846133,1.6.2,607002.0
+2010,Newfoundland and Labrador,"Total, new motor vehicles",Units,v53846158,2.1.1,31669.0
+2011,Newfoundland and Labrador,"Total, new motor vehicles",Units,v53846158,2.1.1,30816.0
+2012,Newfoundland and Labrador,"Total, new motor vehicles",Units,v53846158,2.1.1,33606.0
+2013,Newfoundland and Labrador,"Total, new motor vehicles",Units,v53846158,2.1.1,35440.0
+2014,Newfoundland and Labrador,"Total, new motor vehicles",Units,v53846158,2.1.1,35440.0
+2015,Newfoundland and Labrador,"Total, new motor vehicles",Units,v53846158,2.1.1,35017.0
+2010,Newfoundland and Labrador,"Total, new motor vehicles","Dollars (x 1,000)",v53846159,2.1.2,934773.0
+2011,Newfoundland and Labrador,"Total, new motor vehicles","Dollars (x 1,000)",v53846159,2.1.2,908993.0
+2012,Newfoundland and Labrador,"Total, new motor vehicles","Dollars (x 1,000)",v53846159,2.1.2,977009.0
+2013,Newfoundland and Labrador,"Total, new motor vehicles","Dollars (x 1,000)",v53846159,2.1.2,1082731.0
+2014,Newfoundland and Labrador,"Total, new motor vehicles","Dollars (x 1,000)",v53846159,2.1.2,1109178.0
+2015,Newfoundland and Labrador,"Total, new motor vehicles","Dollars (x 1,000)",v53846159,2.1.2,1135328.0
+2010,Newfoundland and Labrador,Passenger cars,Units,v53846160,2.2.1,13947.0
+2011,Newfoundland and Labrador,Passenger cars,Units,v53846160,2.2.1,12385.0
+2012,Newfoundland and Labrador,Passenger cars,Units,v53846160,2.2.1,14054.0
+2013,Newfoundland and Labrador,Passenger cars,Units,v53846160,2.2.1,14429.0
+2014,Newfoundland and Labrador,Passenger cars,Units,v53846160,2.2.1,13308.0
+2015,Newfoundland and Labrador,Passenger cars,Units,v53846160,2.2.1,11520.0
+2010,Newfoundland and Labrador,Passenger cars,"Dollars (x 1,000)",v53846161,2.2.2,308842.0
+2011,Newfoundland and Labrador,Passenger cars,"Dollars (x 1,000)",v53846161,2.2.2,281539.0
+2012,Newfoundland and Labrador,Passenger cars,"Dollars (x 1,000)",v53846161,2.2.2,321522.0
+2013,Newfoundland and Labrador,Passenger cars,"Dollars (x 1,000)",v53846161,2.2.2,336104.0
+2014,Newfoundland and Labrador,Passenger cars,"Dollars (x 1,000)",v53846161,2.2.2,316726.0
+2015,Newfoundland and Labrador,Passenger cars,"Dollars (x 1,000)",v53846161,2.2.2,280129.0
+2010,Newfoundland and Labrador,Trucks,Units,v53846162,2.3.1,17722.0
+2011,Newfoundland and Labrador,Trucks,Units,v53846162,2.3.1,18431.0
+2012,Newfoundland and Labrador,Trucks,Units,v53846162,2.3.1,19552.0
+2013,Newfoundland and Labrador,Trucks,Units,v53846162,2.3.1,21011.0
+2014,Newfoundland and Labrador,Trucks,Units,v53846162,2.3.1,22132.0
+2015,Newfoundland and Labrador,Trucks,Units,v53846162,2.3.1,23497.0
+2010,Newfoundland and Labrador,Trucks,"Dollars (x 1,000)",v53846163,2.3.2,625930.0
+2011,Newfoundland and Labrador,Trucks,"Dollars (x 1,000)",v53846163,2.3.2,627454.0
+2012,Newfoundland and Labrador,Trucks,"Dollars (x 1,000)",v53846163,2.3.2,655486.0
+2013,Newfoundland and Labrador,Trucks,"Dollars (x 1,000)",v53846163,2.3.2,746627.0
+2014,Newfoundland and Labrador,Trucks,"Dollars (x 1,000)",v53846163,2.3.2,792452.0
+2015,Newfoundland and Labrador,Trucks,"Dollars (x 1,000)",v53846163,2.3.2,855199.0
+2010,Newfoundland and Labrador,Light trucks,Units,v53846164,2.4.1,17534.0
+2011,Newfoundland and Labrador,Light trucks,Units,v53846164,2.4.1,18209.0
+2012,Newfoundland and Labrador,Light trucks,Units,v53846164,2.4.1,x
+2013,Newfoundland and Labrador,Light trucks,Units,v53846164,2.4.1,x
+2014,Newfoundland and Labrador,Light trucks,Units,v53846164,2.4.1,21891.0
+2015,Newfoundland and Labrador,Light trucks,Units,v53846164,2.4.1,23327.0
+2010,Newfoundland and Labrador,Light trucks,"Dollars (x 1,000)",v53846165,2.4.2,603869.0
+2011,Newfoundland and Labrador,Light trucks,"Dollars (x 1,000)",v53846165,2.4.2,603373.0
+2012,Newfoundland and Labrador,Light trucks,"Dollars (x 1,000)",v53846165,2.4.2,x
+2013,Newfoundland and Labrador,Light trucks,"Dollars (x 1,000)",v53846165,2.4.2,x
+2014,Newfoundland and Labrador,Light trucks,"Dollars (x 1,000)",v53846165,2.4.2,769001.0
+2015,Newfoundland and Labrador,Light trucks,"Dollars (x 1,000)",v53846165,2.4.2,836800.0
+2010,Newfoundland and Labrador,Heavy trucks,Units,v53846166,2.5.1,188.0
+2011,Newfoundland and Labrador,Heavy trucks,Units,v53846166,2.5.1,222.0
+2012,Newfoundland and Labrador,Heavy trucks,Units,v53846166,2.5.1,227.0
+2013,Newfoundland and Labrador,Heavy trucks,Units,v53846166,2.5.1,205.0
+2014,Newfoundland and Labrador,Heavy trucks,Units,v53846166,2.5.1,x
+2015,Newfoundland and Labrador,Heavy trucks,Units,v53846166,2.5.1,x
+2010,Newfoundland and Labrador,Heavy trucks,"Dollars (x 1,000)",v53846167,2.5.2,22061.0
+2011,Newfoundland and Labrador,Heavy trucks,"Dollars (x 1,000)",v53846167,2.5.2,24081.0
+2012,Newfoundland and Labrador,Heavy trucks,"Dollars (x 1,000)",v53846167,2.5.2,23244.0
+2013,Newfoundland and Labrador,Heavy trucks,"Dollars (x 1,000)",v53846167,2.5.2,21213.0
+2014,Newfoundland and Labrador,Heavy trucks,"Dollars (x 1,000)",v53846167,2.5.2,x
+2015,Newfoundland and Labrador,Heavy trucks,"Dollars (x 1,000)",v53846167,2.5.2,x
+2011,Newfoundland and Labrador,Buses,Units,v66462665,2.6.1,..
+2012,Newfoundland and Labrador,Buses,Units,v66462665,2.6.1,x
+2013,Newfoundland and Labrador,Buses,Units,v66462665,2.6.1,x
+2014,Newfoundland and Labrador,Buses,Units,v66462665,2.6.1,x
+2015,Newfoundland and Labrador,Buses,Units,v66462665,2.6.1,x
+2011,Newfoundland and Labrador,Buses,"Dollars (x 1,000)",v66462666,2.6.2,..
+2012,Newfoundland and Labrador,Buses,"Dollars (x 1,000)",v66462666,2.6.2,x
+2013,Newfoundland and Labrador,Buses,"Dollars (x 1,000)",v66462666,2.6.2,x
+2014,Newfoundland and Labrador,Buses,"Dollars (x 1,000)",v66462666,2.6.2,x
+2015,Newfoundland and Labrador,Buses,"Dollars (x 1,000)",v66462666,2.6.2,x
+2010,Prince Edward Island,"Total, new motor vehicles",Units,v53846168,3.1.1,5783.0
+2011,Prince Edward Island,"Total, new motor vehicles",Units,v53846168,3.1.1,5795.0
+2012,Prince Edward Island,"Total, new motor vehicles",Units,v53846168,3.1.1,6600.0
+2013,Prince Edward Island,"Total, new motor vehicles",Units,v53846168,3.1.1,7337.0
+2014,Prince Edward Island,"Total, new motor vehicles",Units,v53846168,3.1.1,7555.0
+2015,Prince Edward Island,"Total, new motor vehicles",Units,v53846168,3.1.1,7976.0
+2010,Prince Edward Island,"Total, new motor vehicles","Dollars (x 1,000)",v53846169,3.1.2,163579.0
+2011,Prince Edward Island,"Total, new motor vehicles","Dollars (x 1,000)",v53846169,3.1.2,162404.0
+2012,Prince Edward Island,"Total, new motor vehicles","Dollars (x 1,000)",v53846169,3.1.2,178346.0
+2013,Prince Edward Island,"Total, new motor vehicles","Dollars (x 1,000)",v53846169,3.1.2,206535.0
+2014,Prince Edward Island,"Total, new motor vehicles","Dollars (x 1,000)",v53846169,3.1.2,218150.0
+2015,Prince Edward Island,"Total, new motor vehicles","Dollars (x 1,000)",v53846169,3.1.2,243015.0
+2010,Prince Edward Island,Passenger cars,Units,v53846170,3.2.1,2854.0
+2011,Prince Edward Island,Passenger cars,Units,v53846170,3.2.1,2771.0
+2012,Prince Edward Island,Passenger cars,Units,v53846170,3.2.1,3399.0
+2013,Prince Edward Island,Passenger cars,Units,v53846170,3.2.1,3989.0
+2014,Prince Edward Island,Passenger cars,Units,v53846170,3.2.1,3820.0
+2015,Prince Edward Island,Passenger cars,Units,v53846170,3.2.1,3432.0
+2010,Prince Edward Island,Passenger cars,"Dollars (x 1,000)",v53846171,3.2.2,63893.0
+2011,Prince Edward Island,Passenger cars,"Dollars (x 1,000)",v53846171,3.2.2,61379.0
+2012,Prince Edward Island,Passenger cars,"Dollars (x 1,000)",v53846171,3.2.2,76601.0
+2013,Prince Edward Island,Passenger cars,"Dollars (x 1,000)",v53846171,3.2.2,92166.0
+2014,Prince Edward Island,Passenger cars,"Dollars (x 1,000)",v53846171,3.2.2,90748.0
+2015,Prince Edward Island,Passenger cars,"Dollars (x 1,000)",v53846171,3.2.2,82526.0
+2010,Prince Edward Island,Trucks,Units,v53846172,3.3.1,2929.0
+2011,Prince Edward Island,Trucks,Units,v53846172,3.3.1,3024.0
+2012,Prince Edward Island,Trucks,Units,v53846172,3.3.1,3201.0
+2013,Prince Edward Island,Trucks,Units,v53846172,3.3.1,3348.0
+2014,Prince Edward Island,Trucks,Units,v53846172,3.3.1,3735.0
+2015,Prince Edward Island,Trucks,Units,v53846172,3.3.1,4544.0
+2010,Prince Edward Island,Trucks,"Dollars (x 1,000)",v53846173,3.3.2,99686.0
+2011,Prince Edward Island,Trucks,"Dollars (x 1,000)",v53846173,3.3.2,101026.0
+2012,Prince Edward Island,Trucks,"Dollars (x 1,000)",v53846173,3.3.2,101745.0
+2013,Prince Edward Island,Trucks,"Dollars (x 1,000)",v53846173,3.3.2,114369.0
+2014,Prince Edward Island,Trucks,"Dollars (x 1,000)",v53846173,3.3.2,127402.0
+2015,Prince Edward Island,Trucks,"Dollars (x 1,000)",v53846173,3.3.2,160488.0
+2010,Prince Edward Island,Light trucks,Units,v53846174,3.4.1,2901.0
+2011,Prince Edward Island,Light trucks,Units,v53846174,3.4.1,2982.0
+2012,Prince Edward Island,Light trucks,Units,v53846174,3.4.1,x
+2013,Prince Edward Island,Light trucks,Units,v53846174,3.4.1,x
+2014,Prince Edward Island,Light trucks,Units,v53846174,3.4.1,3702.0
+2015,Prince Edward Island,Light trucks,Units,v53846174,3.4.1,4446.0
+2010,Prince Edward Island,Light trucks,"Dollars (x 1,000)",v53846175,3.4.2,91671.0
+2011,Prince Edward Island,Light trucks,"Dollars (x 1,000)",v53846175,3.4.2,94077.0
+2012,Prince Edward Island,Light trucks,"Dollars (x 1,000)",v53846175,3.4.2,x
+2013,Prince Edward Island,Light trucks,"Dollars (x 1,000)",v53846175,3.4.2,x
+2014,Prince Edward Island,Light trucks,"Dollars (x 1,000)",v53846175,3.4.2,124275.0
+2015,Prince Edward Island,Light trucks,"Dollars (x 1,000)",v53846175,3.4.2,152732.0
+2010,Prince Edward Island,Heavy trucks,Units,v53846176,3.5.1,x
+2011,Prince Edward Island,Heavy trucks,Units,v53846176,3.5.1,x
+2012,Prince Edward Island,Heavy trucks,Units,v53846176,3.5.1,x
+2013,Prince Edward Island,Heavy trucks,Units,v53846176,3.5.1,x
+2014,Prince Edward Island,Heavy trucks,Units,v53846176,3.5.1,x
+2015,Prince Edward Island,Heavy trucks,Units,v53846176,3.5.1,x
+2010,Prince Edward Island,Heavy trucks,"Dollars (x 1,000)",v53846177,3.5.2,x
+2011,Prince Edward Island,Heavy trucks,"Dollars (x 1,000)",v53846177,3.5.2,x
+2012,Prince Edward Island,Heavy trucks,"Dollars (x 1,000)",v53846177,3.5.2,x
+2013,Prince Edward Island,Heavy trucks,"Dollars (x 1,000)",v53846177,3.5.2,x
+2014,Prince Edward Island,Heavy trucks,"Dollars (x 1,000)",v53846177,3.5.2,x
+2015,Prince Edward Island,Heavy trucks,"Dollars (x 1,000)",v53846177,3.5.2,x
+2010,Prince Edward Island,Buses,Units,v53846178,3.6.1,x
+2011,Prince Edward Island,Buses,Units,v53846178,3.6.1,x
+2012,Prince Edward Island,Buses,Units,v53846178,3.6.1,..
+2013,Prince Edward Island,Buses,Units,v53846178,3.6.1,..
+2014,Prince Edward Island,Buses,Units,v53846178,3.6.1,x
+2015,Prince Edward Island,Buses,Units,v53846178,3.6.1,x
+2010,Prince Edward Island,Buses,"Dollars (x 1,000)",v53846179,3.6.2,x
+2011,Prince Edward Island,Buses,"Dollars (x 1,000)",v53846179,3.6.2,x
+2012,Prince Edward Island,Buses,"Dollars (x 1,000)",v53846179,3.6.2,..
+2013,Prince Edward Island,Buses,"Dollars (x 1,000)",v53846179,3.6.2,..
+2014,Prince Edward Island,Buses,"Dollars (x 1,000)",v53846179,3.6.2,x
+2015,Prince Edward Island,Buses,"Dollars (x 1,000)",v53846179,3.6.2,x
+2010,Nova Scotia,"Total, new motor vehicles",Units,v53846180,4.1.1,47643.0
+2011,Nova Scotia,"Total, new motor vehicles",Units,v53846180,4.1.1,45897.0
+2012,Nova Scotia,"Total, new motor vehicles",Units,v53846180,4.1.1,48703.0
+2013,Nova Scotia,"Total, new motor vehicles",Units,v53846180,4.1.1,52544.0
+2014,Nova Scotia,"Total, new motor vehicles",Units,v53846180,4.1.1,53886.0
+2015,Nova Scotia,"Total, new motor vehicles",Units,v53846180,4.1.1,55055.0
+2010,Nova Scotia,"Total, new motor vehicles","Dollars (x 1,000)",v53846181,4.1.2,1428618.0
+2011,Nova Scotia,"Total, new motor vehicles","Dollars (x 1,000)",v53846181,4.1.2,1341542.0
+2012,Nova Scotia,"Total, new motor vehicles","Dollars (x 1,000)",v53846181,4.1.2,1421645.0
+2013,Nova Scotia,"Total, new motor vehicles","Dollars (x 1,000)",v53846181,4.1.2,1581851.0
+2014,Nova Scotia,"Total, new motor vehicles","Dollars (x 1,000)",v53846181,4.1.2,1649886.0
+2015,Nova Scotia,"Total, new motor vehicles","Dollars (x 1,000)",v53846181,4.1.2,1762683.0
+2010,Nova Scotia,Passenger cars,Units,v53846182,4.2.1,24256.0
+2011,Nova Scotia,Passenger cars,Units,v53846182,4.2.1,23342.0
+2012,Nova Scotia,Passenger cars,Units,v53846182,4.2.1,25777.0
+2013,Nova Scotia,Passenger cars,Units,v53846182,4.2.1,27389.0
+2014,Nova Scotia,Passenger cars,Units,v53846182,4.2.1,26480.0
+2015,Nova Scotia,Passenger cars,Units,v53846182,4.2.1,23277.0
+2010,Nova Scotia,Passenger cars,"Dollars (x 1,000)",v53846183,4.2.2,576166.0
+2011,Nova Scotia,Passenger cars,"Dollars (x 1,000)",v53846183,4.2.2,556354.0
+2012,Nova Scotia,Passenger cars,"Dollars (x 1,000)",v53846183,4.2.2,623714.0
+2013,Nova Scotia,Passenger cars,"Dollars (x 1,000)",v53846183,4.2.2,662419.0
+2014,Nova Scotia,Passenger cars,"Dollars (x 1,000)",v53846183,4.2.2,652746.0
+2015,Nova Scotia,Passenger cars,"Dollars (x 1,000)",v53846183,4.2.2,585798.0
+2010,Nova Scotia,Trucks,Units,v53846184,4.3.1,23387.0
+2011,Nova Scotia,Trucks,Units,v53846184,4.3.1,22555.0
+2012,Nova Scotia,Trucks,Units,v53846184,4.3.1,22926.0
+2013,Nova Scotia,Trucks,Units,v53846184,4.3.1,25155.0
+2014,Nova Scotia,Trucks,Units,v53846184,4.3.1,27406.0
+2015,Nova Scotia,Trucks,Units,v53846184,4.3.1,31778.0
+2010,Nova Scotia,Trucks,"Dollars (x 1,000)",v53846185,4.3.2,852452.0
+2011,Nova Scotia,Trucks,"Dollars (x 1,000)",v53846185,4.3.2,785188.0
+2012,Nova Scotia,Trucks,"Dollars (x 1,000)",v53846185,4.3.2,797931.0
+2013,Nova Scotia,Trucks,"Dollars (x 1,000)",v53846185,4.3.2,919432.0
+2014,Nova Scotia,Trucks,"Dollars (x 1,000)",v53846185,4.3.2,997140.0
+2015,Nova Scotia,Trucks,"Dollars (x 1,000)",v53846185,4.3.2,1176885.0
+2010,Nova Scotia,Light trucks,Units,v53846186,4.4.1,22562.0
+2011,Nova Scotia,Light trucks,Units,v53846186,4.4.1,21971.0
+2012,Nova Scotia,Light trucks,Units,v53846186,4.4.1,22246.0
+2013,Nova Scotia,Light trucks,Units,v53846186,4.4.1,24379.0
+2014,Nova Scotia,Light trucks,Units,v53846186,4.4.1,26780.0
+2015,Nova Scotia,Light trucks,Units,v53846186,4.4.1,31043.0
+2010,Nova Scotia,Light trucks,"Dollars (x 1,000)",v53846187,4.4.2,756966.0
+2011,Nova Scotia,Light trucks,"Dollars (x 1,000)",v53846187,4.4.2,719237.0
+2012,Nova Scotia,Light trucks,"Dollars (x 1,000)",v53846187,4.4.2,712217.0
+2013,Nova Scotia,Light trucks,"Dollars (x 1,000)",v53846187,4.4.2,836143.0
+2014,Nova Scotia,Light trucks,"Dollars (x 1,000)",v53846187,4.4.2,933468.0
+2015,Nova Scotia,Light trucks,"Dollars (x 1,000)",v53846187,4.4.2,1102066.0
+2010,Nova Scotia,Heavy trucks,Units,v53846188,4.5.1,x
+2011,Nova Scotia,Heavy trucks,Units,v53846188,4.5.1,570.0
+2012,Nova Scotia,Heavy trucks,Units,v53846188,4.5.1,x
+2013,Nova Scotia,Heavy trucks,Units,v53846188,4.5.1,x
+2014,Nova Scotia,Heavy trucks,Units,v53846188,4.5.1,x
+2015,Nova Scotia,Heavy trucks,Units,v53846188,4.5.1,x
+2010,Nova Scotia,Heavy trucks,"Dollars (x 1,000)",v53846189,4.5.2,x
+2011,Nova Scotia,Heavy trucks,"Dollars (x 1,000)",v53846189,4.5.2,59738.0
+2012,Nova Scotia,Heavy trucks,"Dollars (x 1,000)",v53846189,4.5.2,x
+2013,Nova Scotia,Heavy trucks,"Dollars (x 1,000)",v53846189,4.5.2,x
+2014,Nova Scotia,Heavy trucks,"Dollars (x 1,000)",v53846189,4.5.2,x
+2015,Nova Scotia,Heavy trucks,"Dollars (x 1,000)",v53846189,4.5.2,x
+2010,Nova Scotia,Buses,Units,v53846190,4.6.1,x
+2011,Nova Scotia,Buses,Units,v53846190,4.6.1,14.0
+2012,Nova Scotia,Buses,Units,v53846190,4.6.1,x
+2013,Nova Scotia,Buses,Units,v53846190,4.6.1,x
+2014,Nova Scotia,Buses,Units,v53846190,4.6.1,x
+2015,Nova Scotia,Buses,Units,v53846190,4.6.1,x
+2010,Nova Scotia,Buses,"Dollars (x 1,000)",v53846191,4.6.2,x
+2011,Nova Scotia,Buses,"Dollars (x 1,000)",v53846191,4.6.2,6214.0
+2012,Nova Scotia,Buses,"Dollars (x 1,000)",v53846191,4.6.2,x
+2013,Nova Scotia,Buses,"Dollars (x 1,000)",v53846191,4.6.2,x
+2014,Nova Scotia,Buses,"Dollars (x 1,000)",v53846191,4.6.2,x
+2015,Nova Scotia,Buses,"Dollars (x 1,000)",v53846191,4.6.2,x
+2010,New Brunswick,"Total, new motor vehicles",Units,v53846192,5.1.1,38777.0
+2011,New Brunswick,"Total, new motor vehicles",Units,v53846192,5.1.1,39503.0
+2012,New Brunswick,"Total, new motor vehicles",Units,v53846192,5.1.1,39895.0
+2013,New Brunswick,"Total, new motor vehicles",Units,v53846192,5.1.1,41512.0
+2014,New Brunswick,"Total, new motor vehicles",Units,v53846192,5.1.1,42656.0
+2015,New Brunswick,"Total, new motor vehicles",Units,v53846192,5.1.1,44727.0
+2010,New Brunswick,"Total, new motor vehicles","Dollars (x 1,000)",v53846193,5.1.2,1207724.0
+2011,New Brunswick,"Total, new motor vehicles","Dollars (x 1,000)",v53846193,5.1.2,1222096.0
+2012,New Brunswick,"Total, new motor vehicles","Dollars (x 1,000)",v53846193,5.1.2,1215049.0
+2013,New Brunswick,"Total, new motor vehicles","Dollars (x 1,000)",v53846193,5.1.2,1310493.0
+2014,New Brunswick,"Total, new motor vehicles","Dollars (x 1,000)",v53846193,5.1.2,1367071.0
+2015,New Brunswick,"Total, new motor vehicles","Dollars (x 1,000)",v53846193,5.1.2,1507344.0
+2010,New Brunswick,Passenger cars,Units,v53846194,5.2.1,16970.0
+2011,New Brunswick,Passenger cars,Units,v53846194,5.2.1,16473.0
+2012,New Brunswick,Passenger cars,Units,v53846194,5.2.1,18322.0
+2013,New Brunswick,Passenger cars,Units,v53846194,5.2.1,19053.0
+2014,New Brunswick,Passenger cars,Units,v53846194,5.2.1,18572.0
+2015,New Brunswick,Passenger cars,Units,v53846194,5.2.1,16505.0
+2010,New Brunswick,Passenger cars,"Dollars (x 1,000)",v53846195,5.2.2,404421.0
+2011,New Brunswick,Passenger cars,"Dollars (x 1,000)",v53846195,5.2.2,388994.0
+2012,New Brunswick,Passenger cars,"Dollars (x 1,000)",v53846195,5.2.2,433450.0
+2013,New Brunswick,Passenger cars,"Dollars (x 1,000)",v53846195,5.2.2,456724.0
+2014,New Brunswick,Passenger cars,"Dollars (x 1,000)",v53846195,5.2.2,450373.0
+2015,New Brunswick,Passenger cars,"Dollars (x 1,000)",v53846195,5.2.2,406073.0
+2010,New Brunswick,Trucks,Units,v53846196,5.3.1,21807.0
+2011,New Brunswick,Trucks,Units,v53846196,5.3.1,23030.0
+2012,New Brunswick,Trucks,Units,v53846196,5.3.1,21573.0
+2013,New Brunswick,Trucks,Units,v53846196,5.3.1,22459.0
+2014,New Brunswick,Trucks,Units,v53846196,5.3.1,24084.0
+2015,New Brunswick,Trucks,Units,v53846196,5.3.1,28222.0
+2010,New Brunswick,Trucks,"Dollars (x 1,000)",v53846197,5.3.2,803304.0
+2011,New Brunswick,Trucks,"Dollars (x 1,000)",v53846197,5.3.2,833103.0
+2012,New Brunswick,Trucks,"Dollars (x 1,000)",v53846197,5.3.2,781599.0
+2013,New Brunswick,Trucks,"Dollars (x 1,000)",v53846197,5.3.2,853769.0
+2014,New Brunswick,Trucks,"Dollars (x 1,000)",v53846197,5.3.2,916697.0
+2015,New Brunswick,Trucks,"Dollars (x 1,000)",v53846197,5.3.2,1101271.0
+2010,New Brunswick,Light trucks,Units,v53846198,5.4.1,20801.0
+2011,New Brunswick,Light trucks,Units,v53846198,5.4.1,21876.0
+2012,New Brunswick,Light trucks,Units,v53846198,5.4.1,20321.0
+2013,New Brunswick,Light trucks,Units,v53846198,5.4.1,21253.0
+2014,New Brunswick,Light trucks,Units,v53846198,5.4.1,22900.0
+2015,New Brunswick,Light trucks,Units,v53846198,5.4.1,26795.0
+2010,New Brunswick,Light trucks,"Dollars (x 1,000)",v53846199,5.4.2,695524.0
+2011,New Brunswick,Light trucks,"Dollars (x 1,000)",v53846199,5.4.2,706625.0
+2012,New Brunswick,Light trucks,"Dollars (x 1,000)",v53846199,5.4.2,639589.0
+2013,New Brunswick,Light trucks,"Dollars (x 1,000)",v53846199,5.4.2,722678.0
+2014,New Brunswick,Light trucks,"Dollars (x 1,000)",v53846199,5.4.2,785728.0
+2015,New Brunswick,Light trucks,"Dollars (x 1,000)",v53846199,5.4.2,946093.0
+2010,New Brunswick,Heavy trucks,Units,v53846200,5.5.1,x
+2011,New Brunswick,Heavy trucks,Units,v53846200,5.5.1,1148.0
+2012,New Brunswick,Heavy trucks,Units,v53846200,5.5.1,x
+2013,New Brunswick,Heavy trucks,Units,v53846200,5.5.1,x
+2014,New Brunswick,Heavy trucks,Units,v53846200,5.5.1,1123.0
+2015,New Brunswick,Heavy trucks,Units,v53846200,5.5.1,1335.0
+2010,New Brunswick,Heavy trucks,"Dollars (x 1,000)",v53846201,5.5.2,x
+2011,New Brunswick,Heavy trucks,"Dollars (x 1,000)",v53846201,5.5.2,124615.0
+2012,New Brunswick,Heavy trucks,"Dollars (x 1,000)",v53846201,5.5.2,x
+2013,New Brunswick,Heavy trucks,"Dollars (x 1,000)",v53846201,5.5.2,x
+2014,New Brunswick,Heavy trucks,"Dollars (x 1,000)",v53846201,5.5.2,124278.0
+2015,New Brunswick,Heavy trucks,"Dollars (x 1,000)",v53846201,5.5.2,147295.0
+2010,New Brunswick,Buses,Units,v53846202,5.6.1,x
+2011,New Brunswick,Buses,Units,v53846202,5.6.1,6.0
+2012,New Brunswick,Buses,Units,v53846202,5.6.1,x
+2013,New Brunswick,Buses,Units,v53846202,5.6.1,x
+2014,New Brunswick,Buses,Units,v53846202,5.6.1,61.0
+2015,New Brunswick,Buses,Units,v53846202,5.6.1,92.0
+2010,New Brunswick,Buses,"Dollars (x 1,000)",v53846203,5.6.2,x
+2011,New Brunswick,Buses,"Dollars (x 1,000)",v53846203,5.6.2,1862.0
+2012,New Brunswick,Buses,"Dollars (x 1,000)",v53846203,5.6.2,x
+2013,New Brunswick,Buses,"Dollars (x 1,000)",v53846203,5.6.2,x
+2014,New Brunswick,Buses,"Dollars (x 1,000)",v53846203,5.6.2,6691.0
+2015,New Brunswick,Buses,"Dollars (x 1,000)",v53846203,5.6.2,7883.0
+2010,Quebec,"Total, new motor vehicles",Units,v53846204,6.1.1,419847.0
+2011,Quebec,"Total, new motor vehicles",Units,v53846204,6.1.1,413545.0
+2012,Quebec,"Total, new motor vehicles",Units,v53846204,6.1.1,423076.0
+2013,Quebec,"Total, new motor vehicles",Units,v53846204,6.1.1,419472.0
+2014,Quebec,"Total, new motor vehicles",Units,v53846204,6.1.1,426821.0
+2015,Quebec,"Total, new motor vehicles",Units,v53846204,6.1.1,451354.0
+2010,Quebec,"Total, new motor vehicles","Dollars (x 1,000)",v53846205,6.1.2,12466669.0
+2011,Quebec,"Total, new motor vehicles","Dollars (x 1,000)",v53846205,6.1.2,12554816.0
+2012,Quebec,"Total, new motor vehicles","Dollars (x 1,000)",v53846205,6.1.2,12766183.0
+2013,Quebec,"Total, new motor vehicles","Dollars (x 1,000)",v53846205,6.1.2,13032302.0
+2014,Quebec,"Total, new motor vehicles","Dollars (x 1,000)",v53846205,6.1.2,13409659.0
+2015,Quebec,"Total, new motor vehicles","Dollars (x 1,000)",v53846205,6.1.2,14714821.0
+2010,Quebec,Passenger cars,Units,v53846206,6.2.1,235607.0
+2011,Quebec,Passenger cars,Units,v53846206,6.2.1,227467.0
+2012,Quebec,Passenger cars,Units,v53846206,6.2.1,240611.0
+2013,Quebec,Passenger cars,Units,v53846206,6.2.1,232923.0
+2014,Quebec,Passenger cars,Units,v53846206,6.2.1,229151.0
+2015,Quebec,Passenger cars,Units,v53846206,6.2.1,218456.0
+2010,Quebec,Passenger cars,"Dollars (x 1,000)",v53846207,6.2.2,5866064.0
+2011,Quebec,Passenger cars,"Dollars (x 1,000)",v53846207,6.2.2,5667290.0
+2012,Quebec,Passenger cars,"Dollars (x 1,000)",v53846207,6.2.2,6079621.0
+2013,Quebec,Passenger cars,"Dollars (x 1,000)",v53846207,6.2.2,5982995.0
+2014,Quebec,Passenger cars,"Dollars (x 1,000)",v53846207,6.2.2,5900787.0
+2015,Quebec,Passenger cars,"Dollars (x 1,000)",v53846207,6.2.2,5743704.0
+2010,Quebec,Trucks,Units,v53846208,6.3.1,184240.0
+2011,Quebec,Trucks,Units,v53846208,6.3.1,186078.0
+2012,Quebec,Trucks,Units,v53846208,6.3.1,182465.0
+2013,Quebec,Trucks,Units,v53846208,6.3.1,186549.0
+2014,Quebec,Trucks,Units,v53846208,6.3.1,197670.0
+2015,Quebec,Trucks,Units,v53846208,6.3.1,232898.0
+2010,Quebec,Trucks,"Dollars (x 1,000)",v53846209,6.3.2,6600605.0
+2011,Quebec,Trucks,"Dollars (x 1,000)",v53846209,6.3.2,6887526.0
+2012,Quebec,Trucks,"Dollars (x 1,000)",v53846209,6.3.2,6686562.0
+2013,Quebec,Trucks,"Dollars (x 1,000)",v53846209,6.3.2,7049307.0
+2014,Quebec,Trucks,"Dollars (x 1,000)",v53846209,6.3.2,7508872.0
+2015,Quebec,Trucks,"Dollars (x 1,000)",v53846209,6.3.2,8971117.0
+2010,Quebec,Light trucks,Units,v53846210,6.4.1,178098.0
+2011,Quebec,Light trucks,Units,v53846210,6.4.1,179581.0
+2012,Quebec,Light trucks,Units,v53846210,6.4.1,175109.0
+2013,Quebec,Light trucks,Units,v53846210,6.4.1,180093.0
+2014,Quebec,Light trucks,Units,v53846210,6.4.1,191033.0
+2015,Quebec,Light trucks,Units,v53846210,6.4.1,225658.0
+2010,Quebec,Light trucks,"Dollars (x 1,000)",v53846211,6.4.2,5757758.0
+2011,Quebec,Light trucks,"Dollars (x 1,000)",v53846211,6.4.2,6053108.0
+2012,Quebec,Light trucks,"Dollars (x 1,000)",v53846211,6.4.2,5831111.0
+2013,Quebec,Light trucks,"Dollars (x 1,000)",v53846211,6.4.2,6304759.0
+2014,Quebec,Light trucks,"Dollars (x 1,000)",v53846211,6.4.2,6758542.0
+2015,Quebec,Light trucks,"Dollars (x 1,000)",v53846211,6.4.2,8138105.0
+2010,Quebec,Heavy trucks,Units,v53846212,6.5.1,4983.0
+2011,Quebec,Heavy trucks,Units,v53846212,6.5.1,5577.0
+2012,Quebec,Heavy trucks,Units,v53846212,6.5.1,6615.0
+2013,Quebec,Heavy trucks,Units,v53846212,6.5.1,5632.0
+2014,Quebec,Heavy trucks,Units,v53846212,6.5.1,5683.0
+2015,Quebec,Heavy trucks,Units,v53846212,6.5.1,6644.0
+2010,Quebec,Heavy trucks,"Dollars (x 1,000)",v53846213,6.5.2,516870.0
+2011,Quebec,Heavy trucks,"Dollars (x 1,000)",v53846213,6.5.2,583965.0
+2012,Quebec,Heavy trucks,"Dollars (x 1,000)",v53846213,6.5.2,685325.0
+2013,Quebec,Heavy trucks,"Dollars (x 1,000)",v53846213,6.5.2,578168.0
+2014,Quebec,Heavy trucks,"Dollars (x 1,000)",v53846213,6.5.2,605934.0
+2015,Quebec,Heavy trucks,"Dollars (x 1,000)",v53846213,6.5.2,703706.0
+2010,Quebec,Buses,Units,v53846214,6.6.1,1159.0
+2011,Quebec,Buses,Units,v53846214,6.6.1,920.0
+2012,Quebec,Buses,Units,v53846214,6.6.1,741.0
+2013,Quebec,Buses,Units,v53846214,6.6.1,824.0
+2014,Quebec,Buses,Units,v53846214,6.6.1,954.0
+2015,Quebec,Buses,Units,v53846214,6.6.1,596.0
+2010,Quebec,Buses,"Dollars (x 1,000)",v53846215,6.6.2,325977.0
+2011,Quebec,Buses,"Dollars (x 1,000)",v53846215,6.6.2,250453.0
+2012,Quebec,Buses,"Dollars (x 1,000)",v53846215,6.6.2,170126.0
+2013,Quebec,Buses,"Dollars (x 1,000)",v53846215,6.6.2,166380.0
+2014,Quebec,Buses,"Dollars (x 1,000)",v53846215,6.6.2,144395.0
+2015,Quebec,Buses,"Dollars (x 1,000)",v53846215,6.6.2,129306.0
+2010,Ontario,"Total, new motor vehicles",Units,v53846216,7.1.1,586633.0
+2011,Ontario,"Total, new motor vehicles",Units,v53846216,7.1.1,600668.0
+2012,Ontario,"Total, new motor vehicles",Units,v53846216,7.1.1,632066.0
+2013,Ontario,"Total, new motor vehicles",Units,v53846216,7.1.1,656686.0
+2014,Ontario,"Total, new motor vehicles",Units,v53846216,7.1.1,732718.0
+2015,Ontario,"Total, new motor vehicles",Units,v53846216,7.1.1,778364.0
+2010,Ontario,"Total, new motor vehicles","Dollars (x 1,000)",v53846217,7.1.2,19781465.0
+2011,Ontario,"Total, new motor vehicles","Dollars (x 1,000)",v53846217,7.1.2,20061967.0
+2012,Ontario,"Total, new motor vehicles","Dollars (x 1,000)",v53846217,7.1.2,20925726.0
+2013,Ontario,"Total, new motor vehicles","Dollars (x 1,000)",v53846217,7.1.2,22305969.0
+2014,Ontario,"Total, new motor vehicles","Dollars (x 1,000)",v53846217,7.1.2,25309803.0
+2015,Ontario,"Total, new motor vehicles","Dollars (x 1,000)",v53846217,7.1.2,28029766.0
+2010,Ontario,Passenger cars,Units,v53846218,7.2.1,262315.0
+2011,Ontario,Passenger cars,Units,v53846218,7.2.1,263269.0
+2012,Ontario,Passenger cars,Units,v53846218,7.2.1,293019.0
+2013,Ontario,Passenger cars,Units,v53846218,7.2.1,294388.0
+2014,Ontario,Passenger cars,Units,v53846218,7.2.1,302077.0
+2015,Ontario,Passenger cars,Units,v53846218,7.2.1,283829.0
+2010,Ontario,Passenger cars,"Dollars (x 1,000)",v53846219,7.2.2,7421368.0
+2011,Ontario,Passenger cars,"Dollars (x 1,000)",v53846219,7.2.2,7322436.0
+2012,Ontario,Passenger cars,"Dollars (x 1,000)",v53846219,7.2.2,8162439.0
+2013,Ontario,Passenger cars,"Dollars (x 1,000)",v53846219,7.2.2,8362373.0
+2014,Ontario,Passenger cars,"Dollars (x 1,000)",v53846219,7.2.2,8692035.0
+2015,Ontario,Passenger cars,"Dollars (x 1,000)",v53846219,7.2.2,8480453.0
+2010,Ontario,Trucks,Units,v53846220,7.3.1,324318.0
+2011,Ontario,Trucks,Units,v53846220,7.3.1,337399.0
+2012,Ontario,Trucks,Units,v53846220,7.3.1,339047.0
+2013,Ontario,Trucks,Units,v53846220,7.3.1,362298.0
+2014,Ontario,Trucks,Units,v53846220,7.3.1,430641.0
+2015,Ontario,Trucks,Units,v53846220,7.3.1,494535.0
+2010,Ontario,Trucks,"Dollars (x 1,000)",v53846221,7.3.2,12360097.0
+2011,Ontario,Trucks,"Dollars (x 1,000)",v53846221,7.3.2,12739532.0
+2012,Ontario,Trucks,"Dollars (x 1,000)",v53846221,7.3.2,12763287.0
+2013,Ontario,Trucks,"Dollars (x 1,000)",v53846221,7.3.2,13943596.0
+2014,Ontario,Trucks,"Dollars (x 1,000)",v53846221,7.3.2,16617768.0
+2015,Ontario,Trucks,"Dollars (x 1,000)",v53846221,7.3.2,19549313.0
+2010,Ontario,Light trucks,Units,v53846222,7.4.1,314257.0
+2011,Ontario,Light trucks,Units,v53846222,7.4.1,324675.0
+2012,Ontario,Light trucks,Units,v53846222,7.4.1,325239.0
+2013,Ontario,Light trucks,Units,v53846222,7.4.1,350041.0
+2014,Ontario,Light trucks,Units,v53846222,7.4.1,415799.0
+2015,Ontario,Light trucks,Units,v53846222,7.4.1,476617.0
+2010,Ontario,Light trucks,"Dollars (x 1,000)",v53846223,7.4.2,10979717.0
+2011,Ontario,Light trucks,"Dollars (x 1,000)",v53846223,7.4.2,11263897.0
+2012,Ontario,Light trucks,"Dollars (x 1,000)",v53846223,7.4.2,11196830.0
+2013,Ontario,Light trucks,"Dollars (x 1,000)",v53846223,7.4.2,12602446.0
+2014,Ontario,Light trucks,"Dollars (x 1,000)",v53846223,7.4.2,14971769.0
+2015,Ontario,Light trucks,"Dollars (x 1,000)",v53846223,7.4.2,17635893.0
+2010,Ontario,Heavy trucks,Units,v53846224,7.5.1,8818.0
+2011,Ontario,Heavy trucks,Units,v53846224,7.5.1,11823.0
+2012,Ontario,Heavy trucks,Units,v53846224,7.5.1,12951.0
+2013,Ontario,Heavy trucks,Units,v53846224,7.5.1,11382.0
+2014,Ontario,Heavy trucks,Units,v53846224,7.5.1,13536.0
+2015,Ontario,Heavy trucks,Units,v53846224,7.5.1,16728.0
+2010,Ontario,Heavy trucks,"Dollars (x 1,000)",v53846225,7.5.2,937743.0
+2011,Ontario,Heavy trucks,"Dollars (x 1,000)",v53846225,7.5.2,1236435.0
+2012,Ontario,Heavy trucks,"Dollars (x 1,000)",v53846225,7.5.2,1360926.0
+2013,Ontario,Heavy trucks,"Dollars (x 1,000)",v53846225,7.5.2,1186377.0
+2014,Ontario,Heavy trucks,"Dollars (x 1,000)",v53846225,7.5.2,1354795.0
+2015,Ontario,Heavy trucks,"Dollars (x 1,000)",v53846225,7.5.2,1684718.0
+2010,Ontario,Buses,Units,v53846226,7.6.1,1243.0
+2011,Ontario,Buses,Units,v53846226,7.6.1,901.0
+2012,Ontario,Buses,Units,v53846226,7.6.1,857.0
+2013,Ontario,Buses,Units,v53846226,7.6.1,875.0
+2014,Ontario,Buses,Units,v53846226,7.6.1,1306.0
+2015,Ontario,Buses,Units,v53846226,7.6.1,1190.0
+2010,Ontario,Buses,"Dollars (x 1,000)",v53846227,7.6.2,442637.0
+2011,Ontario,Buses,"Dollars (x 1,000)",v53846227,7.6.2,239200.0
+2012,Ontario,Buses,"Dollars (x 1,000)",v53846227,7.6.2,205532.0
+2013,Ontario,Buses,"Dollars (x 1,000)",v53846227,7.6.2,154774.0
+2014,Ontario,Buses,"Dollars (x 1,000)",v53846227,7.6.2,291204.0
+2015,Ontario,Buses,"Dollars (x 1,000)",v53846227,7.6.2,228702.0
+2010,Manitoba,"Total, new motor vehicles",Units,v53846228,8.1.1,45355.0
+2011,Manitoba,"Total, new motor vehicles",Units,v53846228,8.1.1,48546.0
+2012,Manitoba,"Total, new motor vehicles",Units,v53846228,8.1.1,52236.0
+2013,Manitoba,"Total, new motor vehicles",Units,v53846228,8.1.1,56275.0
+2014,Manitoba,"Total, new motor vehicles",Units,v53846228,8.1.1,57783.0
+2015,Manitoba,"Total, new motor vehicles",Units,v53846228,8.1.1,57971.0
+2010,Manitoba,"Total, new motor vehicles","Dollars (x 1,000)",v53846229,8.1.2,1535685.0
+2011,Manitoba,"Total, new motor vehicles","Dollars (x 1,000)",v53846229,8.1.2,1694393.0
+2012,Manitoba,"Total, new motor vehicles","Dollars (x 1,000)",v53846229,8.1.2,1834435.0
+2013,Manitoba,"Total, new motor vehicles","Dollars (x 1,000)",v53846229,8.1.2,1999262.0
+2014,Manitoba,"Total, new motor vehicles","Dollars (x 1,000)",v53846229,8.1.2,2093991.0
+2015,Manitoba,"Total, new motor vehicles","Dollars (x 1,000)",v53846229,8.1.2,2210847.0
+2010,Manitoba,Passenger cars,Units,v53846230,8.2.1,15732.0
+2011,Manitoba,Passenger cars,Units,v53846230,8.2.1,15780.0
+2012,Manitoba,Passenger cars,Units,v53846230,8.2.1,17322.0
+2013,Manitoba,Passenger cars,Units,v53846230,8.2.1,18878.0
+2014,Manitoba,Passenger cars,Units,v53846230,8.2.1,17527.0
+2015,Manitoba,Passenger cars,Units,v53846230,8.2.1,15988.0
+2010,Manitoba,Passenger cars,"Dollars (x 1,000)",v53846231,8.2.2,397842.0
+2011,Manitoba,Passenger cars,"Dollars (x 1,000)",v53846231,8.2.2,401566.0
+2012,Manitoba,Passenger cars,"Dollars (x 1,000)",v53846231,8.2.2,436675.0
+2013,Manitoba,Passenger cars,"Dollars (x 1,000)",v53846231,8.2.2,478932.0
+2014,Manitoba,Passenger cars,"Dollars (x 1,000)",v53846231,8.2.2,451316.0
+2015,Manitoba,Passenger cars,"Dollars (x 1,000)",v53846231,8.2.2,429075.0
+2010,Manitoba,Trucks,Units,v53846232,8.3.1,29623.0
+2011,Manitoba,Trucks,Units,v53846232,8.3.1,32766.0
+2012,Manitoba,Trucks,Units,v53846232,8.3.1,34914.0
+2013,Manitoba,Trucks,Units,v53846232,8.3.1,37397.0
+2014,Manitoba,Trucks,Units,v53846232,8.3.1,40256.0
+2015,Manitoba,Trucks,Units,v53846232,8.3.1,41983.0
+2010,Manitoba,Trucks,"Dollars (x 1,000)",v53846233,8.3.2,1137842.0
+2011,Manitoba,Trucks,"Dollars (x 1,000)",v53846233,8.3.2,1292827.0
+2012,Manitoba,Trucks,"Dollars (x 1,000)",v53846233,8.3.2,1397760.0
+2013,Manitoba,Trucks,"Dollars (x 1,000)",v53846233,8.3.2,1520330.0
+2014,Manitoba,Trucks,"Dollars (x 1,000)",v53846233,8.3.2,1642675.0
+2015,Manitoba,Trucks,"Dollars (x 1,000)",v53846233,8.3.2,1781772.0
+2010,Manitoba,Light trucks,Units,v53846234,8.4.1,28358.0
+2011,Manitoba,Light trucks,Units,v53846234,8.4.1,30942.0
+2012,Manitoba,Light trucks,Units,v53846234,8.4.1,32434.0
+2013,Manitoba,Light trucks,Units,v53846234,8.4.1,35622.0
+2014,Manitoba,Light trucks,Units,v53846234,8.4.1,38328.0
+2015,Manitoba,Light trucks,Units,v53846234,8.4.1,39820.0
+2010,Manitoba,Light trucks,"Dollars (x 1,000)",v53846235,8.4.2,993961.0
+2011,Manitoba,Light trucks,"Dollars (x 1,000)",v53846235,8.4.2,1094481.0
+2012,Manitoba,Light trucks,"Dollars (x 1,000)",v53846235,8.4.2,1117802.0
+2013,Manitoba,Light trucks,"Dollars (x 1,000)",v53846235,8.4.2,1311124.0
+2014,Manitoba,Light trucks,"Dollars (x 1,000)",v53846235,8.4.2,1427798.0
+2015,Manitoba,Light trucks,"Dollars (x 1,000)",v53846235,8.4.2,1517593.0
+2010,Manitoba,Heavy trucks,Units,v53846236,8.5.1,x
+2011,Manitoba,Heavy trucks,Units,v53846236,8.5.1,x
+2012,Manitoba,Heavy trucks,Units,v53846236,8.5.1,x
+2013,Manitoba,Heavy trucks,Units,v53846236,8.5.1,1611.0
+2014,Manitoba,Heavy trucks,Units,v53846236,8.5.1,1757.0
+2015,Manitoba,Heavy trucks,Units,v53846236,8.5.1,1984.0
+2010,Manitoba,Heavy trucks,"Dollars (x 1,000)",v53846237,8.5.2,x
+2011,Manitoba,Heavy trucks,"Dollars (x 1,000)",v53846237,8.5.2,x
+2012,Manitoba,Heavy trucks,"Dollars (x 1,000)",v53846237,8.5.2,x
+2013,Manitoba,Heavy trucks,"Dollars (x 1,000)",v53846237,8.5.2,175902.0
+2014,Manitoba,Heavy trucks,"Dollars (x 1,000)",v53846237,8.5.2,190493.0
+2015,Manitoba,Heavy trucks,"Dollars (x 1,000)",v53846237,8.5.2,225208.0
+2010,Manitoba,Buses,Units,v53846238,8.6.1,x
+2011,Manitoba,Buses,Units,v53846238,8.6.1,x
+2012,Manitoba,Buses,Units,v53846238,8.6.1,x
+2013,Manitoba,Buses,Units,v53846238,8.6.1,164.0
+2014,Manitoba,Buses,Units,v53846238,8.6.1,171.0
+2015,Manitoba,Buses,Units,v53846238,8.6.1,179.0
+2010,Manitoba,Buses,"Dollars (x 1,000)",v53846239,8.6.2,x
+2011,Manitoba,Buses,"Dollars (x 1,000)",v53846239,8.6.2,x
+2012,Manitoba,Buses,"Dollars (x 1,000)",v53846239,8.6.2,x
+2013,Manitoba,Buses,"Dollars (x 1,000)",v53846239,8.6.2,33304.0
+2014,Manitoba,Buses,"Dollars (x 1,000)",v53846239,8.6.2,24384.0
+2015,Manitoba,Buses,"Dollars (x 1,000)",v53846239,8.6.2,38970.0
+2010,Saskatchewan,"Total, new motor vehicles",Units,v53846240,9.1.1,47599.0
+2011,Saskatchewan,"Total, new motor vehicles",Units,v53846240,9.1.1,51078.0
+2012,Saskatchewan,"Total, new motor vehicles",Units,v53846240,9.1.1,56517.0
+2013,Saskatchewan,"Total, new motor vehicles",Units,v53846240,9.1.1,59137.0
+2014,Saskatchewan,"Total, new motor vehicles",Units,v53846240,9.1.1,58434.0
+2015,Saskatchewan,"Total, new motor vehicles",Units,v53846240,9.1.1,55128.0
+2010,Saskatchewan,"Total, new motor vehicles","Dollars (x 1,000)",v53846241,9.1.2,1688447.0
+2011,Saskatchewan,"Total, new motor vehicles","Dollars (x 1,000)",v53846241,9.1.2,1886899.0
+2012,Saskatchewan,"Total, new motor vehicles","Dollars (x 1,000)",v53846241,9.1.2,2064154.0
+2013,Saskatchewan,"Total, new motor vehicles","Dollars (x 1,000)",v53846241,9.1.2,2293204.0
+2014,Saskatchewan,"Total, new motor vehicles","Dollars (x 1,000)",v53846241,9.1.2,2309709.0
+2015,Saskatchewan,"Total, new motor vehicles","Dollars (x 1,000)",v53846241,9.1.2,2200975.0
+2010,Saskatchewan,Passenger cars,Units,v53846242,9.2.1,12581.0
+2011,Saskatchewan,Passenger cars,Units,v53846242,9.2.1,11862.0
+2012,Saskatchewan,Passenger cars,Units,v53846242,9.2.1,13474.0
+2013,Saskatchewan,Passenger cars,Units,v53846242,9.2.1,12546.0
+2014,Saskatchewan,Passenger cars,Units,v53846242,9.2.1,12293.0
+2015,Saskatchewan,Passenger cars,Units,v53846242,9.2.1,10646.0
+2010,Saskatchewan,Passenger cars,"Dollars (x 1,000)",v53846243,9.2.2,323657.0
+2011,Saskatchewan,Passenger cars,"Dollars (x 1,000)",v53846243,9.2.2,320071.0
+2012,Saskatchewan,Passenger cars,"Dollars (x 1,000)",v53846243,9.2.2,359940.0
+2013,Saskatchewan,Passenger cars,"Dollars (x 1,000)",v53846243,9.2.2,341467.0
+2014,Saskatchewan,Passenger cars,"Dollars (x 1,000)",v53846243,9.2.2,341557.0
+2015,Saskatchewan,Passenger cars,"Dollars (x 1,000)",v53846243,9.2.2,301594.0
+2010,Saskatchewan,Trucks,Units,v53846244,9.3.1,35018.0
+2011,Saskatchewan,Trucks,Units,v53846244,9.3.1,39216.0
+2012,Saskatchewan,Trucks,Units,v53846244,9.3.1,43043.0
+2013,Saskatchewan,Trucks,Units,v53846244,9.3.1,46591.0
+2014,Saskatchewan,Trucks,Units,v53846244,9.3.1,46141.0
+2015,Saskatchewan,Trucks,Units,v53846244,9.3.1,44482.0
+2010,Saskatchewan,Trucks,"Dollars (x 1,000)",v53846245,9.3.2,1364790.0
+2011,Saskatchewan,Trucks,"Dollars (x 1,000)",v53846245,9.3.2,1566827.0
+2012,Saskatchewan,Trucks,"Dollars (x 1,000)",v53846245,9.3.2,1704214.0
+2013,Saskatchewan,Trucks,"Dollars (x 1,000)",v53846245,9.3.2,1951737.0
+2014,Saskatchewan,Trucks,"Dollars (x 1,000)",v53846245,9.3.2,1968153.0
+2015,Saskatchewan,Trucks,"Dollars (x 1,000)",v53846245,9.3.2,1899381.0
+2010,Saskatchewan,Light trucks,Units,v53846246,9.4.1,33967.0
+2011,Saskatchewan,Light trucks,Units,v53846246,9.4.1,37770.0
+2012,Saskatchewan,Light trucks,Units,v53846246,9.4.1,41153.0
+2013,Saskatchewan,Light trucks,Units,v53846246,9.4.1,44915.0
+2014,Saskatchewan,Light trucks,Units,v53846246,9.4.1,44137.0
+2015,Saskatchewan,Light trucks,Units,v53846246,9.4.1,43190.0
+2010,Saskatchewan,Light trucks,"Dollars (x 1,000)",v53846247,9.4.2,1254652.0
+2011,Saskatchewan,Light trucks,"Dollars (x 1,000)",v53846247,9.4.2,1414436.0
+2012,Saskatchewan,Light trucks,"Dollars (x 1,000)",v53846247,9.4.2,1509068.0
+2013,Saskatchewan,Light trucks,"Dollars (x 1,000)",v53846247,9.4.2,1764526.0
+2014,Saskatchewan,Light trucks,"Dollars (x 1,000)",v53846247,9.4.2,1746454.0
+2015,Saskatchewan,Light trucks,"Dollars (x 1,000)",v53846247,9.4.2,1749542.0
+2010,Saskatchewan,Heavy trucks,Units,v53846248,9.5.1,919.0
+2011,Saskatchewan,Heavy trucks,Units,v53846248,9.5.1,1378.0
+2012,Saskatchewan,Heavy trucks,Units,v53846248,9.5.1,1729.0
+2013,Saskatchewan,Heavy trucks,Units,v53846248,9.5.1,1568.0
+2014,Saskatchewan,Heavy trucks,Units,v53846248,9.5.1,1641.0
+2015,Saskatchewan,Heavy trucks,Units,v53846248,9.5.1,1129.0
+2010,Saskatchewan,Heavy trucks,"Dollars (x 1,000)",v53846249,9.5.2,93525.0
+2011,Saskatchewan,Heavy trucks,"Dollars (x 1,000)",v53846249,9.5.2,142230.0
+2012,Saskatchewan,Heavy trucks,"Dollars (x 1,000)",v53846249,9.5.2,182252.0
+2013,Saskatchewan,Heavy trucks,"Dollars (x 1,000)",v53846249,9.5.2,171301.0
+2014,Saskatchewan,Heavy trucks,"Dollars (x 1,000)",v53846249,9.5.2,185296.0
+2015,Saskatchewan,Heavy trucks,"Dollars (x 1,000)",v53846249,9.5.2,131364.0
+2010,Saskatchewan,Buses,Units,v53846250,9.6.1,132.0
+2011,Saskatchewan,Buses,Units,v53846250,9.6.1,68.0
+2012,Saskatchewan,Buses,Units,v53846250,9.6.1,161.0
+2013,Saskatchewan,Buses,Units,v53846250,9.6.1,108.0
+2014,Saskatchewan,Buses,Units,v53846250,9.6.1,363.0
+2015,Saskatchewan,Buses,Units,v53846250,9.6.1,163.0
+2010,Saskatchewan,Buses,"Dollars (x 1,000)",v53846251,9.6.2,16613.0
+2011,Saskatchewan,Buses,"Dollars (x 1,000)",v53846251,9.6.2,10161.0
+2012,Saskatchewan,Buses,"Dollars (x 1,000)",v53846251,9.6.2,12895.0
+2013,Saskatchewan,Buses,"Dollars (x 1,000)",v53846251,9.6.2,15910.0
+2014,Saskatchewan,Buses,"Dollars (x 1,000)",v53846251,9.6.2,36402.0
+2015,Saskatchewan,Buses,"Dollars (x 1,000)",v53846251,9.6.2,18475.0
+2010,Alberta,"Total, new motor vehicles",Units,v53846134,10.1.1,204537.0
+2011,Alberta,"Total, new motor vehicles",Units,v53846134,10.1.1,224147.0
+2012,Alberta,"Total, new motor vehicles",Units,v53846134,10.1.1,247785.0
+2013,Alberta,"Total, new motor vehicles",Units,v53846134,10.1.1,263224.0
+2014,Alberta,"Total, new motor vehicles",Units,v53846134,10.1.1,277191.0
+2015,Alberta,"Total, new motor vehicles",Units,v53846134,10.1.1,241918.0
+2010,Alberta,"Total, new motor vehicles","Dollars (x 1,000)",v53846135,10.1.2,7651117.0
+2011,Alberta,"Total, new motor vehicles","Dollars (x 1,000)",v53846135,10.1.2,8599490.0
+2012,Alberta,"Total, new motor vehicles","Dollars (x 1,000)",v53846135,10.1.2,9369124.0
+2013,Alberta,"Total, new motor vehicles","Dollars (x 1,000)",v53846135,10.1.2,10347218.0
+2014,Alberta,"Total, new motor vehicles","Dollars (x 1,000)",v53846135,10.1.2,11325487.0
+2015,Alberta,"Total, new motor vehicles","Dollars (x 1,000)",v53846135,10.1.2,9844754.0
+2010,Alberta,Passenger cars,Units,v53846136,10.2.1,57855.0
+2011,Alberta,Passenger cars,Units,v53846136,10.2.1,53084.0
+2012,Alberta,Passenger cars,Units,v53846136,10.2.1,59383.0
+2013,Alberta,Passenger cars,Units,v53846136,10.2.1,62568.0
+2014,Alberta,Passenger cars,Units,v53846136,10.2.1,59892.0
+2015,Alberta,Passenger cars,Units,v53846136,10.2.1,51845.0
+2010,Alberta,Passenger cars,"Dollars (x 1,000)",v53846137,10.2.2,1662814.0
+2011,Alberta,Passenger cars,"Dollars (x 1,000)",v53846137,10.2.2,1524820.0
+2012,Alberta,Passenger cars,"Dollars (x 1,000)",v53846137,10.2.2,1692581.0
+2013,Alberta,Passenger cars,"Dollars (x 1,000)",v53846137,10.2.2,1812630.0
+2014,Alberta,Passenger cars,"Dollars (x 1,000)",v53846137,10.2.2,1781479.0
+2015,Alberta,Passenger cars,"Dollars (x 1,000)",v53846137,10.2.2,1586628.0
+2010,Alberta,Trucks,Units,v53846138,10.3.1,146682.0
+2011,Alberta,Trucks,Units,v53846138,10.3.1,171063.0
+2012,Alberta,Trucks,Units,v53846138,10.3.1,188402.0
+2013,Alberta,Trucks,Units,v53846138,10.3.1,200656.0
+2014,Alberta,Trucks,Units,v53846138,10.3.1,217299.0
+2015,Alberta,Trucks,Units,v53846138,10.3.1,190073.0
+2010,Alberta,Trucks,"Dollars (x 1,000)",v53846139,10.3.2,5988303.0
+2011,Alberta,Trucks,"Dollars (x 1,000)",v53846139,10.3.2,7074670.0
+2012,Alberta,Trucks,"Dollars (x 1,000)",v53846139,10.3.2,7676543.0
+2013,Alberta,Trucks,"Dollars (x 1,000)",v53846139,10.3.2,8534588.0
+2014,Alberta,Trucks,"Dollars (x 1,000)",v53846139,10.3.2,9544007.0
+2015,Alberta,Trucks,"Dollars (x 1,000)",v53846139,10.3.2,8258126.0
+2010,Alberta,Light trucks,Units,v53846140,10.4.1,142531.0
+2011,Alberta,Light trucks,Units,v53846140,10.4.1,163459.0
+2012,Alberta,Light trucks,Units,v53846140,10.4.1,179225.0
+2013,Alberta,Light trucks,Units,v53846140,10.4.1,193258.0
+2014,Alberta,Light trucks,Units,v53846140,10.4.1,207421.0
+2015,Alberta,Light trucks,Units,v53846140,10.4.1,184581.0
+2010,Alberta,Light trucks,"Dollars (x 1,000)",v53846141,10.4.2,5411507.0
+2011,Alberta,Light trucks,"Dollars (x 1,000)",v53846141,10.4.2,6215219.0
+2012,Alberta,Light trucks,"Dollars (x 1,000)",v53846141,10.4.2,6641206.0
+2013,Alberta,Light trucks,"Dollars (x 1,000)",v53846141,10.4.2,7705282.0
+2014,Alberta,Light trucks,"Dollars (x 1,000)",v53846141,10.4.2,8302679.0
+2015,Alberta,Light trucks,"Dollars (x 1,000)",v53846141,10.4.2,7603748.0
+2010,Alberta,Heavy trucks,Units,v53846142,10.5.1,3893.0
+2011,Alberta,Heavy trucks,Units,v53846142,10.5.1,7299.0
+2012,Alberta,Heavy trucks,Units,v53846142,10.5.1,8878.0
+2013,Alberta,Heavy trucks,Units,v53846142,10.5.1,6903.0
+2014,Alberta,Heavy trucks,Units,v53846142,10.5.1,9061.0
+2015,Alberta,Heavy trucks,Units,v53846142,10.5.1,4820.0
+2010,Alberta,Heavy trucks,"Dollars (x 1,000)",v53846143,10.5.2,429013.0
+2011,Alberta,Heavy trucks,"Dollars (x 1,000)",v53846143,10.5.2,779564.0
+2012,Alberta,Heavy trucks,"Dollars (x 1,000)",v53846143,10.5.2,978140.0
+2013,Alberta,Heavy trucks,"Dollars (x 1,000)",v53846143,10.5.2,747671.0
+2014,Alberta,Heavy trucks,"Dollars (x 1,000)",v53846143,10.5.2,1081441.0
+2015,Alberta,Heavy trucks,"Dollars (x 1,000)",v53846143,10.5.2,557504.0
+2010,Alberta,Buses,Units,v53846144,10.6.1,258.0
+2011,Alberta,Buses,Units,v53846144,10.6.1,305.0
+2012,Alberta,Buses,Units,v53846144,10.6.1,299.0
+2013,Alberta,Buses,Units,v53846144,10.6.1,495.0
+2014,Alberta,Buses,Units,v53846144,10.6.1,817.0
+2015,Alberta,Buses,Units,v53846144,10.6.1,672.0
+2010,Alberta,Buses,"Dollars (x 1,000)",v53846145,10.6.2,147783.0
+2011,Alberta,Buses,"Dollars (x 1,000)",v53846145,10.6.2,79888.0
+2012,Alberta,Buses,"Dollars (x 1,000)",v53846145,10.6.2,57196.0
+2013,Alberta,Buses,"Dollars (x 1,000)",v53846145,10.6.2,81634.0
+2014,Alberta,Buses,"Dollars (x 1,000)",v53846145,10.6.2,159888.0
+2015,Alberta,Buses,"Dollars (x 1,000)",v53846145,10.6.2,96873.0
+2010,British Columbia and the Territories,"Total, new motor vehicles",Units,v53846146,11.1.1,156656.0
+2011,British Columbia and the Territories,"Total, new motor vehicles",Units,v53846146,11.1.1,160582.0
+2012,British Columbia and the Territories,"Total, new motor vehicles",Units,v53846146,11.1.1,176319.0
+2013,British Columbia and the Territories,"Total, new motor vehicles",Units,v53846146,11.1.1,184234.0
+2014,British Columbia and the Territories,"Total, new motor vehicles",Units,v53846146,11.1.1,197903.0
+2015,British Columbia and the Territories,"Total, new motor vehicles",Units,v53846146,11.1.1,211044.0
+2010,British Columbia and the Territories,"Total, new motor vehicles","Dollars (x 1,000)",v53846147,11.1.2,5457533.0
+2011,British Columbia and the Territories,"Total, new motor vehicles","Dollars (x 1,000)",v53846147,11.1.2,5693331.0
+2012,British Columbia and the Territories,"Total, new motor vehicles","Dollars (x 1,000)",v53846147,11.1.2,6192967.0
+2013,British Columbia and the Territories,"Total, new motor vehicles","Dollars (x 1,000)",v53846147,11.1.2,6703089.0
+2014,British Columbia and the Territories,"Total, new motor vehicles","Dollars (x 1,000)",v53846147,11.1.2,7365684.0
+2015,British Columbia and the Territories,"Total, new motor vehicles","Dollars (x 1,000)",v53846147,11.1.2,8170008.0
+2010,British Columbia and the Territories,Passenger cars,Units,v53846148,11.2.1,68097.0
+2011,British Columbia and the Territories,Passenger cars,Units,v53846148,11.2.1,64646.0
+2012,British Columbia and the Territories,Passenger cars,Units,v53846148,11.2.1,73663.0
+2013,British Columbia and the Territories,Passenger cars,Units,v53846148,11.2.1,74761.0
+2014,British Columbia and the Territories,Passenger cars,Units,v53846148,11.2.1,77329.0
+2015,British Columbia and the Territories,Passenger cars,Units,v53846148,11.2.1,76824.0
+2010,British Columbia and the Territories,Passenger cars,"Dollars (x 1,000)",v53846149,11.2.2,1957370.0
+2011,British Columbia and the Territories,Passenger cars,"Dollars (x 1,000)",v53846149,11.2.2,1883963.0
+2012,British Columbia and the Territories,Passenger cars,"Dollars (x 1,000)",v53846149,11.2.2,2119281.0
+2013,British Columbia and the Territories,Passenger cars,"Dollars (x 1,000)",v53846149,11.2.2,2155026.0
+2014,British Columbia and the Territories,Passenger cars,"Dollars (x 1,000)",v53846149,11.2.2,2282543.0
+2015,British Columbia and the Territories,Passenger cars,"Dollars (x 1,000)",v53846149,11.2.2,2402087.0
+2010,British Columbia and the Territories,Trucks,Units,v53846150,11.3.1,88559.0
+2011,British Columbia and the Territories,Trucks,Units,v53846150,11.3.1,95936.0
+2012,British Columbia and the Territories,Trucks,Units,v53846150,11.3.1,102656.0
+2013,British Columbia and the Territories,Trucks,Units,v53846150,11.3.1,109473.0
+2014,British Columbia and the Territories,Trucks,Units,v53846150,11.3.1,120574.0
+2015,British Columbia and the Territories,Trucks,Units,v53846150,11.3.1,134220.0
+2010,British Columbia and the Territories,Trucks,"Dollars (x 1,000)",v53846151,11.3.2,3500163.0
+2011,British Columbia and the Territories,Trucks,"Dollars (x 1,000)",v53846151,11.3.2,3809368.0
+2012,British Columbia and the Territories,Trucks,"Dollars (x 1,000)",v53846151,11.3.2,4073687.0
+2013,British Columbia and the Territories,Trucks,"Dollars (x 1,000)",v53846151,11.3.2,4548063.0
+2014,British Columbia and the Territories,Trucks,"Dollars (x 1,000)",v53846151,11.3.2,5083141.0
+2015,British Columbia and the Territories,Trucks,"Dollars (x 1,000)",v53846151,11.3.2,5767921.0
+2010,British Columbia and the Territories,Light trucks,Units,v53846152,11.4.1,86606.0
+2011,British Columbia and the Territories,Light trucks,Units,v53846152,11.4.1,92929.0
+2012,British Columbia and the Territories,Light trucks,Units,v53846152,11.4.1,98841.0
+2013,British Columbia and the Territories,Light trucks,Units,v53846152,11.4.1,105800.0
+2014,British Columbia and the Territories,Light trucks,Units,v53846152,11.4.1,116410.0
+2015,British Columbia and the Territories,Light trucks,Units,v53846152,11.4.1,130227.0
+2010,British Columbia and the Territories,Light trucks,"Dollars (x 1,000)",v53846153,11.4.2,3235132.0
+2011,British Columbia and the Territories,Light trucks,"Dollars (x 1,000)",v53846153,11.4.2,3491447.0
+2012,British Columbia and the Territories,Light trucks,"Dollars (x 1,000)",v53846153,11.4.2,3659030.0
+2013,British Columbia and the Territories,Light trucks,"Dollars (x 1,000)",v53846153,11.4.2,4128076.0
+2014,British Columbia and the Territories,Light trucks,"Dollars (x 1,000)",v53846153,11.4.2,4586202.0
+2015,British Columbia and the Territories,Light trucks,"Dollars (x 1,000)",v53846153,11.4.2,5274622.0
+2010,British Columbia and the Territories,Heavy trucks,Units,v53846154,11.5.1,1788.0
+2011,British Columbia and the Territories,Heavy trucks,Units,v53846154,11.5.1,2613.0
+2012,British Columbia and the Territories,Heavy trucks,Units,v53846154,11.5.1,3245.0
+2013,British Columbia and the Territories,Heavy trucks,Units,v53846154,11.5.1,3337.0
+2014,British Columbia and the Territories,Heavy trucks,Units,v53846154,11.5.1,3746.0
+2015,British Columbia and the Territories,Heavy trucks,Units,v53846154,11.5.1,3688.0
+2010,British Columbia and the Territories,Heavy trucks,"Dollars (x 1,000)",v53846155,11.5.2,190847.0
+2011,British Columbia and the Territories,Heavy trucks,"Dollars (x 1,000)",v53846155,11.5.2,283050.0
+2012,British Columbia and the Territories,Heavy trucks,"Dollars (x 1,000)",v53846155,11.5.2,357330.0
+2013,British Columbia and the Territories,Heavy trucks,"Dollars (x 1,000)",v53846155,11.5.2,360321.0
+2014,British Columbia and the Territories,Heavy trucks,"Dollars (x 1,000)",v53846155,11.5.2,428641.0
+2015,British Columbia and the Territories,Heavy trucks,"Dollars (x 1,000)",v53846155,11.5.2,426982.0
+2010,British Columbia and the Territories,Buses,Units,v53846156,11.6.1,165.0
+2011,British Columbia and the Territories,Buses,Units,v53846156,11.6.1,394.0
+2012,British Columbia and the Territories,Buses,Units,v53846156,11.6.1,570.0
+2013,British Columbia and the Territories,Buses,Units,v53846156,11.6.1,336.0
+2014,British Columbia and the Territories,Buses,Units,v53846156,11.6.1,418.0
+2015,British Columbia and the Territories,Buses,Units,v53846156,11.6.1,305.0
+2010,British Columbia and the Territories,Buses,"Dollars (x 1,000)",v53846157,11.6.2,74184.0
+2011,British Columbia and the Territories,Buses,"Dollars (x 1,000)",v53846157,11.6.2,34870.0
+2012,British Columbia and the Territories,Buses,"Dollars (x 1,000)",v53846157,11.6.2,57326.0
+2013,British Columbia and the Territories,Buses,"Dollars (x 1,000)",v53846157,11.6.2,59665.0
+2014,British Columbia and the Territories,Buses,"Dollars (x 1,000)",v53846157,11.6.2,68298.0
+2015,British Columbia and the Territories,Buses,"Dollars (x 1,000)",v53846157,11.6.2,66317.0

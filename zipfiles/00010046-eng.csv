@@ -1,0 +1,991 @@
+Ref_Date,GEO,AREA,EST,Vector,Coordinate,Value
+2007,Canada,Total greenhouse operations,Number,v52220857,1.1.1,3476.00000000
+2008,Canada,Total greenhouse operations,Number,v52220857,1.1.1,3295.00000000
+2009,Canada,Total greenhouse operations,Number,v52220857,1.1.1,3335.00000000
+2010,Canada,Total greenhouse operations,Number,v52220857,1.1.1,3285.00000000
+2011,Canada,Total greenhouse operations,Number,v52220857,1.1.1,3255.00000000
+2012,Canada,Total greenhouse operations,Number,v52220857,1.1.1,3135.00000000
+2013,Canada,Total greenhouse operations,Number,v52220857,1.1.1,3105.00000000
+2014,Canada,Total greenhouse operations,Number,v52220857,1.1.1,3065.00000000
+2015,Canada,Total greenhouse operations,Number,v52220857,1.1.1,2978.00000000
+2007,Canada,Total greenhouse area,Square feet,v52220868,1.2.2,225953760.00000000
+2008,Canada,Total greenhouse area,Square feet,v52220868,1.2.2,235106650.00000000
+2009,Canada,Total greenhouse area,Square feet,v52220868,1.2.2,240666535.00000000
+2010,Canada,Total greenhouse area,Square feet,v52220868,1.2.2,242501252.00000000
+2011,Canada,Total greenhouse area,Square feet,v52220868,1.2.2,247092815.00000000
+2012,Canada,Total greenhouse area,Square feet,v52220868,1.2.2,254332628.00000000
+2013,Canada,Total greenhouse area,Square feet,v52220868,1.2.2,259402905.00000000
+2014,Canada,Total greenhouse area,Square feet,v52220868,1.2.2,254758785.00000000
+2015,Canada,Total greenhouse area,Square feet,v52220868,1.2.2,256153238.00000000
+2007,Canada,Total greenhouse area,Square metres,v52220879,1.2.3,20991782.00000000
+2008,Canada,Total greenhouse area,Square metres,v52220879,1.2.3,21842113.00000000
+2009,Canada,Total greenhouse area,Square metres,v52220879,1.2.3,22358643.00000000
+2010,Canada,Total greenhouse area,Square metres,v52220879,1.2.3,22529094.00000000
+2011,Canada,Total greenhouse area,Square metres,v52220879,1.2.3,22955664.00000000
+2012,Canada,Total greenhouse area,Square metres,v52220879,1.2.3,23628264.00000000
+2013,Canada,Total greenhouse area,Square metres,v52220879,1.2.3,24099308.00000000
+2014,Canada,Total greenhouse area,Square metres,v52220879,1.2.3,23667855.00000000
+2015,Canada,Total greenhouse area,Square metres,v52220879,1.2.3,23797404.00000000
+2007,Canada,Glass,Square feet,v52220890,1.3.2,69372860.00000000
+2008,Canada,Glass,Square feet,v52220890,1.3.2,76440550.00000000
+2009,Canada,Glass,Square feet,v52220890,1.3.2,81230580.00000000
+2010,Canada,Glass,Square feet,v52220890,1.3.2,83825465.00000000
+2011,Canada,Glass,Square feet,v52220890,1.3.2,86503150.00000000
+2012,Canada,Glass,Square feet,v52220890,1.3.2,89523014.00000000
+2013,Canada,Glass,Square feet,v52220890,1.3.2,95274547.00000000
+2014,Canada,Glass,Square feet,v52220890,1.3.2,96168729.00000000
+2015,Canada,Glass,Square feet,v52220890,1.3.2,98625029.00000000
+2007,Canada,Glass,Square metres,v52220901,1.3.3,6444947.00000000
+2008,Canada,Glass,Square metres,v52220901,1.3.3,7101556.00000000
+2009,Canada,Glass,Square metres,v52220901,1.3.3,7546565.00000000
+2010,Canada,Glass,Square metres,v52220901,1.3.3,7787637.00000000
+2011,Canada,Glass,Square metres,v52220901,1.3.3,8036402.00000000
+2012,Canada,Glass,Square metres,v52220901,1.3.3,8316957.00000000
+2013,Canada,Glass,Square metres,v52220901,1.3.3,8851291.00000000
+2014,Canada,Glass,Square metres,v52220901,1.3.3,8934363.00000000
+2015,Canada,Glass,Square metres,v52220901,1.3.3,9162561.00000000
+2007,Canada,Rigid plastic,Square feet,v52220912,1.4.2,156580900.00000000
+2008,Canada,Rigid plastic,Square feet,v52220912,1.4.2,22969200.00000000
+2009,Canada,Rigid plastic,Square feet,v52220912,1.4.2,16072650.00000000
+2010,Canada,Rigid plastic,Square feet,v52220912,1.4.2,11313425.00000000
+2011,Canada,Rigid plastic,Square feet,v52220912,1.4.2,8347370.00000000
+2012,Canada,Rigid plastic,Square feet,v52220912,1.4.2,6865434.00000000
+2013,Canada,Rigid plastic,Square feet,v52220912,1.4.2,7543773.00000000
+2014,Canada,Rigid plastic,Square feet,v52220912,1.4.2,7161313.00000000
+2015,Canada,Rigid plastic,Square feet,v52220912,1.4.2,5514695.00000000
+2007,Canada,Rigid plastic,Square metres,v52220923,1.4.3,14546835.00000000
+2008,Canada,Rigid plastic,Square metres,v52220923,1.4.3,2133908.00000000
+2009,Canada,Rigid plastic,Square metres,v52220923,1.4.3,1493197.00000000
+2010,Canada,Rigid plastic,Square metres,v52220923,1.4.3,1051051.00000000
+2011,Canada,Rigid plastic,Square metres,v52220923,1.4.3,775496.00000000
+2012,Canada,Rigid plastic,Square metres,v52220923,1.4.3,637819.00000000
+2013,Canada,Rigid plastic,Square metres,v52220923,1.4.3,700839.00000000
+2014,Canada,Rigid plastic,Square metres,v52220923,1.4.3,665307.00000000
+2015,Canada,Rigid plastic,Square metres,v52220923,1.4.3,512332.00000000
+2007,Canada,Poly-film,Square feet,v52220934,1.5.2,0.00000000
+2008,Canada,Poly-film,Square feet,v52220934,1.5.2,135696900.00000000
+2009,Canada,Poly-film,Square feet,v52220934,1.5.2,143363305.00000000
+2010,Canada,Poly-film,Square feet,v52220934,1.5.2,147362362.00000000
+2011,Canada,Poly-film,Square feet,v52220934,1.5.2,152242295.00000000
+2012,Canada,Poly-film,Square feet,v52220934,1.5.2,157944180.00000000
+2013,Canada,Poly-film,Square feet,v52220934,1.5.2,156584585.00000000
+2014,Canada,Poly-film,Square feet,v52220934,1.5.2,151428743.00000000
+2015,Canada,Poly-film,Square feet,v52220934,1.5.2,152013514.00000000
+2007,Canada,Poly-film,Square metres,v52220945,1.5.3,0.00000000
+2008,Canada,Poly-film,Square metres,v52220945,1.5.3,12606649.00000000
+2009,Canada,Poly-film,Square metres,v52220945,1.5.3,13318881.00000000
+2010,Canada,Poly-film,Square metres,v52220945,1.5.3,13690406.00000000
+2011,Canada,Poly-film,Square metres,v52220945,1.5.3,14143766.00000000
+2012,Canada,Poly-film,Square metres,v52220945,1.5.3,14673488.00000000
+2013,Canada,Poly-film,Square metres,v52220945,1.5.3,14547178.00000000
+2014,Canada,Poly-film,Square metres,v52220945,1.5.3,14068185.00000000
+2015,Canada,Poly-film,Square metres,v52220945,1.5.3,14122511.00000000
+2007,Canada,Total months of operation,Number,v52220956,1.6.1,26270.00000000
+2008,Canada,Total months of operation,Number,v52220956,1.6.1,25781.00000000
+2009,Canada,Total months of operation,Number,v52220956,1.6.1,24876.00000000
+2010,Canada,Total months of operation,Number,v52220956,1.6.1,25624.00000000
+2011,Canada,Total months of operation,Number,v52220956,1.6.1,23085.00000000
+2012,Canada,Total months of operation,Number,v52220956,1.6.1,24426.00000000
+2013,Canada,Total months of operation,Number,v52220956,1.6.1,30626.00000000
+2014,Canada,Total months of operation,Number,v52220956,1.6.1,29573.00000000
+2015,Canada,Total months of operation,Number,v52220956,1.6.1,29093.00000000
+2007,Newfoundland and Labrador,Total greenhouse operations,Number,v52220847,2.1.1,60.00000000
+2008,Newfoundland and Labrador,Total greenhouse operations,Number,v52220847,2.1.1,50.00000000
+2009,Newfoundland and Labrador,Total greenhouse operations,Number,v52220847,2.1.1,50.00000000
+2010,Newfoundland and Labrador,Total greenhouse operations,Number,v52220847,2.1.1,50.00000000
+2011,Newfoundland and Labrador,Total greenhouse operations,Number,v52220847,2.1.1,50.00000000
+2012,Newfoundland and Labrador,Total greenhouse operations,Number,v52220847,2.1.1,50.00000000
+2013,Newfoundland and Labrador,Total greenhouse operations,Number,v52220847,2.1.1,50.00000000
+2014,Newfoundland and Labrador,Total greenhouse operations,Number,v52220847,2.1.1,50.00000000
+2015,Newfoundland and Labrador,Total greenhouse operations,Number,v52220847,2.1.1,45.00000000
+2007,Newfoundland and Labrador,Total greenhouse area,Square feet,v52220858,2.2.2,614100.00000000
+2008,Newfoundland and Labrador,Total greenhouse area,Square feet,v52220858,2.2.2,714325.00000000
+2009,Newfoundland and Labrador,Total greenhouse area,Square feet,v52220858,2.2.2,743150.00000000
+2010,Newfoundland and Labrador,Total greenhouse area,Square feet,v52220858,2.2.2,737970.00000000
+2011,Newfoundland and Labrador,Total greenhouse area,Square feet,v52220858,2.2.2,728470.00000000
+2012,Newfoundland and Labrador,Total greenhouse area,Square feet,v52220858,2.2.2,679145.00000000
+2013,Newfoundland and Labrador,Total greenhouse area,Square feet,v52220858,2.2.2,690859.00000000
+2014,Newfoundland and Labrador,Total greenhouse area,Square feet,v52220858,2.2.2,697009.00000000
+2015,Newfoundland and Labrador,Total greenhouse area,Square feet,v52220858,2.2.2,670511.00000000
+2007,Newfoundland and Labrador,Total greenhouse area,Square metres,v52220869,2.2.3,57052.00000000
+2008,Newfoundland and Labrador,Total greenhouse area,Square metres,v52220869,2.2.3,66363.00000000
+2009,Newfoundland and Labrador,Total greenhouse area,Square metres,v52220869,2.2.3,69041.00000000
+2010,Newfoundland and Labrador,Total greenhouse area,Square metres,v52220869,2.2.3,68560.00000000
+2011,Newfoundland and Labrador,Total greenhouse area,Square metres,v52220869,2.2.3,67677.00000000
+2012,Newfoundland and Labrador,Total greenhouse area,Square metres,v52220869,2.2.3,63095.00000000
+2013,Newfoundland and Labrador,Total greenhouse area,Square metres,v52220869,2.2.3,64183.00000000
+2014,Newfoundland and Labrador,Total greenhouse area,Square metres,v52220869,2.2.3,64754.00000000
+2015,Newfoundland and Labrador,Total greenhouse area,Square metres,v52220869,2.2.3,62292.00000000
+2007,Newfoundland and Labrador,Glass,Square feet,v52220880,2.3.2,8500.00000000
+2008,Newfoundland and Labrador,Glass,Square feet,v52220880,2.3.2,x
+2009,Newfoundland and Labrador,Glass,Square feet,v52220880,2.3.2,F
+2010,Newfoundland and Labrador,Glass,Square feet,v52220880,2.3.2,12900.00000000
+2011,Newfoundland and Labrador,Glass,Square feet,v52220880,2.3.2,x
+2012,Newfoundland and Labrador,Glass,Square feet,v52220880,2.3.2,13830.00000000
+2013,Newfoundland and Labrador,Glass,Square feet,v52220880,2.3.2,x
+2014,Newfoundland and Labrador,Glass,Square feet,v52220880,2.3.2,x
+2015,Newfoundland and Labrador,Glass,Square feet,v52220880,2.3.2,x
+2007,Newfoundland and Labrador,Glass,Square metres,v52220891,2.3.3,790.00000000
+2008,Newfoundland and Labrador,Glass,Square metres,v52220891,2.3.3,x
+2009,Newfoundland and Labrador,Glass,Square metres,v52220891,2.3.3,F
+2010,Newfoundland and Labrador,Glass,Square metres,v52220891,2.3.3,1198.00000000
+2011,Newfoundland and Labrador,Glass,Square metres,v52220891,2.3.3,x
+2012,Newfoundland and Labrador,Glass,Square metres,v52220891,2.3.3,1285.00000000
+2013,Newfoundland and Labrador,Glass,Square metres,v52220891,2.3.3,x
+2014,Newfoundland and Labrador,Glass,Square metres,v52220891,2.3.3,x
+2015,Newfoundland and Labrador,Glass,Square metres,v52220891,2.3.3,x
+2007,Newfoundland and Labrador,Rigid plastic,Square feet,v52220902,2.4.2,605600.00000000
+2008,Newfoundland and Labrador,Rigid plastic,Square feet,v52220902,2.4.2,x
+2009,Newfoundland and Labrador,Rigid plastic,Square feet,v52220902,2.4.2,70150.00000000
+2010,Newfoundland and Labrador,Rigid plastic,Square feet,v52220902,2.4.2,149040.00000000
+2011,Newfoundland and Labrador,Rigid plastic,Square feet,v52220902,2.4.2,x
+2012,Newfoundland and Labrador,Rigid plastic,Square feet,v52220902,2.4.2,22875.00000000
+2013,Newfoundland and Labrador,Rigid plastic,Square feet,v52220902,2.4.2,x
+2014,Newfoundland and Labrador,Rigid plastic,Square feet,v52220902,2.4.2,x
+2015,Newfoundland and Labrador,Rigid plastic,Square feet,v52220902,2.4.2,x
+2007,Newfoundland and Labrador,Rigid plastic,Square metres,v52220913,2.4.3,56262.00000000
+2008,Newfoundland and Labrador,Rigid plastic,Square metres,v52220913,2.4.3,x
+2009,Newfoundland and Labrador,Rigid plastic,Square metres,v52220913,2.4.3,6517.00000000
+2010,Newfoundland and Labrador,Rigid plastic,Square metres,v52220913,2.4.3,13846.00000000
+2011,Newfoundland and Labrador,Rigid plastic,Square metres,v52220913,2.4.3,x
+2012,Newfoundland and Labrador,Rigid plastic,Square metres,v52220913,2.4.3,2125.00000000
+2013,Newfoundland and Labrador,Rigid plastic,Square metres,v52220913,2.4.3,x
+2014,Newfoundland and Labrador,Rigid plastic,Square metres,v52220913,2.4.3,x
+2015,Newfoundland and Labrador,Rigid plastic,Square metres,v52220913,2.4.3,x
+2007,Newfoundland and Labrador,Poly-film,Square feet,v52220924,2.5.2,0.00000000
+2008,Newfoundland and Labrador,Poly-film,Square feet,v52220924,2.5.2,628400.00000000
+2009,Newfoundland and Labrador,Poly-film,Square feet,v52220924,2.5.2,665220.00000000
+2010,Newfoundland and Labrador,Poly-film,Square feet,v52220924,2.5.2,576030.00000000
+2011,Newfoundland and Labrador,Poly-film,Square feet,v52220924,2.5.2,690280.00000000
+2012,Newfoundland and Labrador,Poly-film,Square feet,v52220924,2.5.2,642440.00000000
+2013,Newfoundland and Labrador,Poly-film,Square feet,v52220924,2.5.2,639410.00000000
+2014,Newfoundland and Labrador,Poly-film,Square feet,v52220924,2.5.2,636790.00000000
+2015,Newfoundland and Labrador,Poly-film,Square feet,v52220924,2.5.2,618250.00000000
+2007,Newfoundland and Labrador,Poly-film,Square metres,v52220935,2.5.3,0.00000000
+2008,Newfoundland and Labrador,Poly-film,Square metres,v52220935,2.5.3,58380.00000000
+2009,Newfoundland and Labrador,Poly-film,Square metres,v52220935,2.5.3,61801.00000000
+2010,Newfoundland and Labrador,Poly-film,Square metres,v52220935,2.5.3,53515.00000000
+2011,Newfoundland and Labrador,Poly-film,Square metres,v52220935,2.5.3,64129.00000000
+2012,Newfoundland and Labrador,Poly-film,Square metres,v52220935,2.5.3,59685.00000000
+2013,Newfoundland and Labrador,Poly-film,Square metres,v52220935,2.5.3,59403.00000000
+2014,Newfoundland and Labrador,Poly-film,Square metres,v52220935,2.5.3,59160.00000000
+2015,Newfoundland and Labrador,Poly-film,Square metres,v52220935,2.5.3,57437.00000000
+2007,Newfoundland and Labrador,Total months of operation,Number,v52220946,2.6.1,365.00000000
+2008,Newfoundland and Labrador,Total months of operation,Number,v52220946,2.6.1,320.00000000
+2009,Newfoundland and Labrador,Total months of operation,Number,v52220946,2.6.1,330.00000000
+2010,Newfoundland and Labrador,Total months of operation,Number,v52220946,2.6.1,330.00000000
+2011,Newfoundland and Labrador,Total months of operation,Number,v52220946,2.6.1,315.00000000
+2012,Newfoundland and Labrador,Total months of operation,Number,v52220946,2.6.1,320.00000000
+2013,Newfoundland and Labrador,Total months of operation,Number,v52220946,2.6.1,482.00000000
+2014,Newfoundland and Labrador,Total months of operation,Number,v52220946,2.6.1,468.00000000
+2015,Newfoundland and Labrador,Total months of operation,Number,v52220946,2.6.1,397.00000000
+2007,Prince Edward Island,Total greenhouse operations,Number,v52220848,3.1.1,20.00000000
+2008,Prince Edward Island,Total greenhouse operations,Number,v52220848,3.1.1,15.00000000
+2009,Prince Edward Island,Total greenhouse operations,Number,v52220848,3.1.1,15.00000000
+2010,Prince Edward Island,Total greenhouse operations,Number,v52220848,3.1.1,15.00000000
+2011,Prince Edward Island,Total greenhouse operations,Number,v52220848,3.1.1,15.00000000
+2012,Prince Edward Island,Total greenhouse operations,Number,v52220848,3.1.1,15.00000000
+2013,Prince Edward Island,Total greenhouse operations,Number,v52220848,3.1.1,20.00000000
+2014,Prince Edward Island,Total greenhouse operations,Number,v52220848,3.1.1,20.00000000
+2015,Prince Edward Island,Total greenhouse operations,Number,v52220848,3.1.1,18.00000000
+2007,Prince Edward Island,Total greenhouse area,Square feet,v52220859,3.2.2,382100.00000000
+2008,Prince Edward Island,Total greenhouse area,Square feet,v52220859,3.2.2,270950.00000000
+2009,Prince Edward Island,Total greenhouse area,Square feet,v52220859,3.2.2,322780.00000000
+2010,Prince Edward Island,Total greenhouse area,Square feet,v52220859,3.2.2,297925.00000000
+2011,Prince Edward Island,Total greenhouse area,Square feet,v52220859,3.2.2,263420.00000000
+2012,Prince Edward Island,Total greenhouse area,Square feet,v52220859,3.2.2,318800.00000000
+2013,Prince Edward Island,Total greenhouse area,Square feet,v52220859,3.2.2,345927.00000000
+2014,Prince Edward Island,Total greenhouse area,Square feet,v52220859,3.2.2,361886.00000000
+2015,Prince Edward Island,Total greenhouse area,Square feet,v52220859,3.2.2,348452.00000000
+2007,Prince Edward Island,Total greenhouse area,Square metres,v52220870,3.2.3,35498.00000000
+2008,Prince Edward Island,Total greenhouse area,Square metres,v52220870,3.2.3,25172.00000000
+2009,Prince Edward Island,Total greenhouse area,Square metres,v52220870,3.2.3,29987.00000000
+2010,Prince Edward Island,Total greenhouse area,Square metres,v52220870,3.2.3,27678.00000000
+2011,Prince Edward Island,Total greenhouse area,Square metres,v52220870,3.2.3,24473.00000000
+2012,Prince Edward Island,Total greenhouse area,Square metres,v52220870,3.2.3,29617.00000000
+2013,Prince Edward Island,Total greenhouse area,Square metres,v52220870,3.2.3,32138.00000000
+2014,Prince Edward Island,Total greenhouse area,Square metres,v52220870,3.2.3,33620.00000000
+2015,Prince Edward Island,Total greenhouse area,Square metres,v52220870,3.2.3,32372.00000000
+2007,Prince Edward Island,Glass,Square feet,v52220881,3.3.2,x
+2008,Prince Edward Island,Glass,Square feet,v52220881,3.3.2,x
+2009,Prince Edward Island,Glass,Square feet,v52220881,3.3.2,x
+2010,Prince Edward Island,Glass,Square feet,v52220881,3.3.2,x
+2011,Prince Edward Island,Glass,Square feet,v52220881,3.3.2,x
+2012,Prince Edward Island,Glass,Square feet,v52220881,3.3.2,x
+2013,Prince Edward Island,Glass,Square feet,v52220881,3.3.2,x
+2014,Prince Edward Island,Glass,Square feet,v52220881,3.3.2,x
+2015,Prince Edward Island,Glass,Square feet,v52220881,3.3.2,x
+2007,Prince Edward Island,Glass,Square metres,v52220892,3.3.3,x
+2008,Prince Edward Island,Glass,Square metres,v52220892,3.3.3,x
+2009,Prince Edward Island,Glass,Square metres,v52220892,3.3.3,x
+2010,Prince Edward Island,Glass,Square metres,v52220892,3.3.3,x
+2011,Prince Edward Island,Glass,Square metres,v52220892,3.3.3,x
+2012,Prince Edward Island,Glass,Square metres,v52220892,3.3.3,x
+2013,Prince Edward Island,Glass,Square metres,v52220892,3.3.3,x
+2014,Prince Edward Island,Glass,Square metres,v52220892,3.3.3,x
+2015,Prince Edward Island,Glass,Square metres,v52220892,3.3.3,x
+2007,Prince Edward Island,Rigid plastic,Square feet,v52220903,3.4.2,x
+2008,Prince Edward Island,Rigid plastic,Square feet,v52220903,3.4.2,x
+2009,Prince Edward Island,Rigid plastic,Square feet,v52220903,3.4.2,x
+2010,Prince Edward Island,Rigid plastic,Square feet,v52220903,3.4.2,x
+2011,Prince Edward Island,Rigid plastic,Square feet,v52220903,3.4.2,x
+2012,Prince Edward Island,Rigid plastic,Square feet,v52220903,3.4.2,x
+2013,Prince Edward Island,Rigid plastic,Square feet,v52220903,3.4.2,x
+2014,Prince Edward Island,Rigid plastic,Square feet,v52220903,3.4.2,x
+2015,Prince Edward Island,Rigid plastic,Square feet,v52220903,3.4.2,x
+2007,Prince Edward Island,Rigid plastic,Square metres,v52220914,3.4.3,x
+2008,Prince Edward Island,Rigid plastic,Square metres,v52220914,3.4.3,x
+2009,Prince Edward Island,Rigid plastic,Square metres,v52220914,3.4.3,x
+2010,Prince Edward Island,Rigid plastic,Square metres,v52220914,3.4.3,x
+2011,Prince Edward Island,Rigid plastic,Square metres,v52220914,3.4.3,x
+2012,Prince Edward Island,Rigid plastic,Square metres,v52220914,3.4.3,x
+2013,Prince Edward Island,Rigid plastic,Square metres,v52220914,3.4.3,x
+2014,Prince Edward Island,Rigid plastic,Square metres,v52220914,3.4.3,x
+2015,Prince Edward Island,Rigid plastic,Square metres,v52220914,3.4.3,x
+2007,Prince Edward Island,Poly-film,Square feet,v52220925,3.5.2,0.00000000
+2008,Prince Edward Island,Poly-film,Square feet,v52220925,3.5.2,252300.00000000
+2009,Prince Edward Island,Poly-film,Square feet,v52220925,3.5.2,258910.00000000
+2010,Prince Edward Island,Poly-film,Square feet,v52220925,3.5.2,255835.00000000
+2011,Prince Edward Island,Poly-film,Square feet,v52220925,3.5.2,221330.00000000
+2012,Prince Edward Island,Poly-film,Square feet,v52220925,3.5.2,298550.00000000
+2013,Prince Edward Island,Poly-film,Square feet,v52220925,3.5.2,298440.00000000
+2014,Prince Edward Island,Poly-film,Square feet,v52220925,3.5.2,308596.00000000
+2015,Prince Edward Island,Poly-film,Square feet,v52220925,3.5.2,293856.00000000
+2007,Prince Edward Island,Poly-film,Square metres,v52220936,3.5.3,0.00000000
+2008,Prince Edward Island,Poly-film,Square metres,v52220936,3.5.3,23439.00000000
+2009,Prince Edward Island,Poly-film,Square metres,v52220936,3.5.3,24054.00000000
+2010,Prince Edward Island,Poly-film,Square metres,v52220936,3.5.3,23768.00000000
+2011,Prince Edward Island,Poly-film,Square metres,v52220936,3.5.3,20562.00000000
+2012,Prince Edward Island,Poly-film,Square metres,v52220936,3.5.3,27736.00000000
+2013,Prince Edward Island,Poly-film,Square metres,v52220936,3.5.3,27726.00000000
+2014,Prince Edward Island,Poly-film,Square metres,v52220936,3.5.3,28669.00000000
+2015,Prince Edward Island,Poly-film,Square metres,v52220936,3.5.3,27300.00000000
+2007,Prince Edward Island,Total months of operation,Number,v52220947,3.6.1,120.00000000
+2008,Prince Edward Island,Total months of operation,Number,v52220947,3.6.1,84.00000000
+2009,Prince Edward Island,Total months of operation,Number,v52220947,3.6.1,99.00000000
+2010,Prince Edward Island,Total months of operation,Number,v52220947,3.6.1,84.00000000
+2011,Prince Edward Island,Total months of operation,Number,v52220947,3.6.1,75.00000000
+2012,Prince Edward Island,Total months of operation,Number,v52220947,3.6.1,110.00000000
+2013,Prince Edward Island,Total months of operation,Number,v52220947,3.6.1,210.00000000
+2014,Prince Edward Island,Total months of operation,Number,v52220947,3.6.1,193.00000000
+2015,Prince Edward Island,Total months of operation,Number,v52220947,3.6.1,187.00000000
+2007,Nova Scotia,Total greenhouse operations,Number,v52220849,4.1.1,116.00000000
+2008,Nova Scotia,Total greenhouse operations,Number,v52220849,4.1.1,105.00000000
+2009,Nova Scotia,Total greenhouse operations,Number,v52220849,4.1.1,100.00000000
+2010,Nova Scotia,Total greenhouse operations,Number,v52220849,4.1.1,100.00000000
+2011,Nova Scotia,Total greenhouse operations,Number,v52220849,4.1.1,100.00000000
+2012,Nova Scotia,Total greenhouse operations,Number,v52220849,4.1.1,90.00000000
+2013,Nova Scotia,Total greenhouse operations,Number,v52220849,4.1.1,90.00000000
+2014,Nova Scotia,Total greenhouse operations,Number,v52220849,4.1.1,90.00000000
+2015,Nova Scotia,Total greenhouse operations,Number,v52220849,4.1.1,85.00000000
+2007,Nova Scotia,Total greenhouse area,Square feet,v52220860,4.2.2,2115000.00000000
+2008,Nova Scotia,Total greenhouse area,Square feet,v52220860,4.2.2,2078500.00000000
+2009,Nova Scotia,Total greenhouse area,Square feet,v52220860,4.2.2,2183490.00000000
+2010,Nova Scotia,Total greenhouse area,Square feet,v52220860,4.2.2,1996385.00000000
+2011,Nova Scotia,Total greenhouse area,Square feet,v52220860,4.2.2,2004725.00000000
+2012,Nova Scotia,Total greenhouse area,Square feet,v52220860,4.2.2,1839395.00000000
+2013,Nova Scotia,Total greenhouse area,Square feet,v52220860,4.2.2,1768595.00000000
+2014,Nova Scotia,Total greenhouse area,Square feet,v52220860,4.2.2,1714045.00000000
+2015,Nova Scotia,Total greenhouse area,Square feet,v52220860,4.2.2,1746906.00000000
+2007,Nova Scotia,Total greenhouse area,Square metres,v52220871,4.2.3,196490.00000000
+2008,Nova Scotia,Total greenhouse area,Square metres,v52220871,4.2.3,193099.00000000
+2009,Nova Scotia,Total greenhouse area,Square metres,v52220871,4.2.3,202853.00000000
+2010,Nova Scotia,Total greenhouse area,Square metres,v52220871,4.2.3,185470.00000000
+2011,Nova Scotia,Total greenhouse area,Square metres,v52220871,4.2.3,186245.00000000
+2012,Nova Scotia,Total greenhouse area,Square metres,v52220871,4.2.3,170885.00000000
+2013,Nova Scotia,Total greenhouse area,Square metres,v52220871,4.2.3,164308.00000000
+2014,Nova Scotia,Total greenhouse area,Square metres,v52220871,4.2.3,159240.00000000
+2015,Nova Scotia,Total greenhouse area,Square metres,v52220871,4.2.3,162293.00000000
+2007,Nova Scotia,Glass,Square feet,v52220882,4.3.2,645000.00000000
+2008,Nova Scotia,Glass,Square feet,v52220882,4.3.2,F
+2009,Nova Scotia,Glass,Square feet,v52220882,4.3.2,F
+2010,Nova Scotia,Glass,Square feet,v52220882,4.3.2,477365.00000000
+2011,Nova Scotia,Glass,Square feet,v52220882,4.3.2,483775.00000000
+2012,Nova Scotia,Glass,Square feet,v52220882,4.3.2,600000.00000000
+2013,Nova Scotia,Glass,Square feet,v52220882,4.3.2,602286.00000000
+2014,Nova Scotia,Glass,Square feet,v52220882,4.3.2,556295.00000000
+2015,Nova Scotia,Glass,Square feet,v52220882,4.3.2,442009.00000000
+2007,Nova Scotia,Glass,Square metres,v52220893,4.3.3,59922.00000000
+2008,Nova Scotia,Glass,Square metres,v52220893,4.3.3,F
+2009,Nova Scotia,Glass,Square metres,v52220893,4.3.3,F
+2010,Nova Scotia,Glass,Square metres,v52220893,4.3.3,44349.00000000
+2011,Nova Scotia,Glass,Square metres,v52220893,4.3.3,44944.00000000
+2012,Nova Scotia,Glass,Square metres,v52220893,4.3.3,55742.00000000
+2013,Nova Scotia,Glass,Square metres,v52220893,4.3.3,55954.00000000
+2014,Nova Scotia,Glass,Square metres,v52220893,4.3.3,51681.00000000
+2015,Nova Scotia,Glass,Square metres,v52220893,4.3.3,41064.00000000
+2007,Nova Scotia,Rigid plastic,Square feet,v52220904,4.4.2,1470000.00000000
+2008,Nova Scotia,Rigid plastic,Square feet,v52220904,4.4.2,41700.00000000
+2009,Nova Scotia,Rigid plastic,Square feet,v52220904,4.4.2,F
+2010,Nova Scotia,Rigid plastic,Square feet,v52220904,4.4.2,117545.00000000
+2011,Nova Scotia,Rigid plastic,Square feet,v52220904,4.4.2,F
+2012,Nova Scotia,Rigid plastic,Square feet,v52220904,4.4.2,127460.00000000
+2013,Nova Scotia,Rigid plastic,Square feet,v52220904,4.4.2,134520.00000000
+2014,Nova Scotia,Rigid plastic,Square feet,v52220904,4.4.2,124400.00000000
+2015,Nova Scotia,Rigid plastic,Square feet,v52220904,4.4.2,F
+2007,Nova Scotia,Rigid plastic,Square metres,v52220915,4.4.3,136567.00000000
+2008,Nova Scotia,Rigid plastic,Square metres,v52220915,4.4.3,3874.00000000
+2009,Nova Scotia,Rigid plastic,Square metres,v52220915,4.4.3,F
+2010,Nova Scotia,Rigid plastic,Square metres,v52220915,4.4.3,10920.00000000
+2011,Nova Scotia,Rigid plastic,Square metres,v52220915,4.4.3,F
+2012,Nova Scotia,Rigid plastic,Square metres,v52220915,4.4.3,11841.00000000
+2013,Nova Scotia,Rigid plastic,Square metres,v52220915,4.4.3,12497.00000000
+2014,Nova Scotia,Rigid plastic,Square metres,v52220915,4.4.3,11557.00000000
+2015,Nova Scotia,Rigid plastic,Square metres,v52220915,4.4.3,F
+2007,Nova Scotia,Poly-film,Square feet,v52220926,4.5.2,0.00000000
+2008,Nova Scotia,Poly-film,Square feet,v52220926,4.5.2,1411700.00000000
+2009,Nova Scotia,Poly-film,Square feet,v52220926,4.5.2,1516440.00000000
+2010,Nova Scotia,Poly-film,Square feet,v52220926,4.5.2,1401475.00000000
+2011,Nova Scotia,Poly-film,Square feet,v52220926,4.5.2,1483760.00000000
+2012,Nova Scotia,Poly-film,Square feet,v52220926,4.5.2,1111935.00000000
+2013,Nova Scotia,Poly-film,Square feet,v52220926,4.5.2,1031789.00000000
+2014,Nova Scotia,Poly-film,Square feet,v52220926,4.5.2,1033350.00000000
+2015,Nova Scotia,Poly-film,Square feet,v52220926,4.5.2,1252653.00000000
+2007,Nova Scotia,Poly-film,Square metres,v52220937,4.5.3,0.00000000
+2008,Nova Scotia,Poly-film,Square metres,v52220937,4.5.3,131151.00000000
+2009,Nova Scotia,Poly-film,Square metres,v52220937,4.5.3,140882.00000000
+2010,Nova Scotia,Poly-film,Square metres,v52220937,4.5.3,130201.00000000
+2011,Nova Scotia,Poly-film,Square metres,v52220937,4.5.3,137846.00000000
+2012,Nova Scotia,Poly-film,Square metres,v52220937,4.5.3,103302.00000000
+2013,Nova Scotia,Poly-film,Square metres,v52220937,4.5.3,95856.00000000
+2014,Nova Scotia,Poly-film,Square metres,v52220937,4.5.3,96001.00000000
+2015,Nova Scotia,Poly-film,Square metres,v52220937,4.5.3,116375.00000000
+2007,Nova Scotia,Total months of operation,Number,v52220948,4.6.1,720.00000000
+2008,Nova Scotia,Total months of operation,Number,v52220948,4.6.1,675.00000000
+2009,Nova Scotia,Total months of operation,Number,v52220948,4.6.1,655.00000000
+2010,Nova Scotia,Total months of operation,Number,v52220948,4.6.1,620.00000000
+2011,Nova Scotia,Total months of operation,Number,v52220948,4.6.1,615.00000000
+2012,Nova Scotia,Total months of operation,Number,v52220948,4.6.1,591.00000000
+2013,Nova Scotia,Total months of operation,Number,v52220948,4.6.1,787.00000000
+2014,Nova Scotia,Total months of operation,Number,v52220948,4.6.1,894.00000000
+2015,Nova Scotia,Total months of operation,Number,v52220948,4.6.1,778.00000000
+2007,New Brunswick,Total greenhouse operations,Number,v52220850,5.1.1,82.00000000
+2008,New Brunswick,Total greenhouse operations,Number,v52220850,5.1.1,75.00000000
+2009,New Brunswick,Total greenhouse operations,Number,v52220850,5.1.1,75.00000000
+2010,New Brunswick,Total greenhouse operations,Number,v52220850,5.1.1,75.00000000
+2011,New Brunswick,Total greenhouse operations,Number,v52220850,5.1.1,75.00000000
+2012,New Brunswick,Total greenhouse operations,Number,v52220850,5.1.1,85.00000000
+2013,New Brunswick,Total greenhouse operations,Number,v52220850,5.1.1,80.00000000
+2014,New Brunswick,Total greenhouse operations,Number,v52220850,5.1.1,80.00000000
+2015,New Brunswick,Total greenhouse operations,Number,v52220850,5.1.1,75.00000000
+2007,New Brunswick,Total greenhouse area,Square feet,v52220861,5.2.2,1795310.00000000
+2008,New Brunswick,Total greenhouse area,Square feet,v52220861,5.2.2,1744025.00000000
+2009,New Brunswick,Total greenhouse area,Square feet,v52220861,5.2.2,1800630.00000000
+2010,New Brunswick,Total greenhouse area,Square feet,v52220861,5.2.2,1999592.00000000
+2011,New Brunswick,Total greenhouse area,Square feet,v52220861,5.2.2,1970870.00000000
+2012,New Brunswick,Total greenhouse area,Square feet,v52220861,5.2.2,1991950.00000000
+2013,New Brunswick,Total greenhouse area,Square feet,v52220861,5.2.2,1884643.00000000
+2014,New Brunswick,Total greenhouse area,Square feet,v52220861,5.2.2,1919258.00000000
+2015,New Brunswick,Total greenhouse area,Square feet,v52220861,5.2.2,1913187.00000000
+2007,New Brunswick,Total greenhouse area,Square metres,v52220872,5.2.3,166790.00000000
+2008,New Brunswick,Total greenhouse area,Square metres,v52220872,5.2.3,162025.00000000
+2009,New Brunswick,Total greenhouse area,Square metres,v52220872,5.2.3,167284.00000000
+2010,New Brunswick,Total greenhouse area,Square metres,v52220872,5.2.3,185768.00000000
+2011,New Brunswick,Total greenhouse area,Square metres,v52220872,5.2.3,183100.00000000
+2012,New Brunswick,Total greenhouse area,Square metres,v52220872,5.2.3,185058.00000000
+2013,New Brunswick,Total greenhouse area,Square metres,v52220872,5.2.3,175089.00000000
+2014,New Brunswick,Total greenhouse area,Square metres,v52220872,5.2.3,178305.00000000
+2015,New Brunswick,Total greenhouse area,Square metres,v52220872,5.2.3,177741.00000000
+2007,New Brunswick,Glass,Square feet,v52220883,5.3.2,x
+2008,New Brunswick,Glass,Square feet,v52220883,5.3.2,x
+2009,New Brunswick,Glass,Square feet,v52220883,5.3.2,F
+2010,New Brunswick,Glass,Square feet,v52220883,5.3.2,x
+2011,New Brunswick,Glass,Square feet,v52220883,5.3.2,x
+2012,New Brunswick,Glass,Square feet,v52220883,5.3.2,x
+2013,New Brunswick,Glass,Square feet,v52220883,5.3.2,x
+2014,New Brunswick,Glass,Square feet,v52220883,5.3.2,x
+2015,New Brunswick,Glass,Square feet,v52220883,5.3.2,x
+2007,New Brunswick,Glass,Square metres,v52220894,5.3.3,x
+2008,New Brunswick,Glass,Square metres,v52220894,5.3.3,x
+2009,New Brunswick,Glass,Square metres,v52220894,5.3.3,F
+2010,New Brunswick,Glass,Square metres,v52220894,5.3.3,x
+2011,New Brunswick,Glass,Square metres,v52220894,5.3.3,x
+2012,New Brunswick,Glass,Square metres,v52220894,5.3.3,x
+2013,New Brunswick,Glass,Square metres,v52220894,5.3.3,x
+2014,New Brunswick,Glass,Square metres,v52220894,5.3.3,x
+2015,New Brunswick,Glass,Square metres,v52220894,5.3.3,x
+2007,New Brunswick,Rigid plastic,Square feet,v52220905,5.4.2,x
+2008,New Brunswick,Rigid plastic,Square feet,v52220905,5.4.2,x
+2009,New Brunswick,Rigid plastic,Square feet,v52220905,5.4.2,9020.00000000
+2010,New Brunswick,Rigid plastic,Square feet,v52220905,5.4.2,x
+2011,New Brunswick,Rigid plastic,Square feet,v52220905,5.4.2,x
+2012,New Brunswick,Rigid plastic,Square feet,v52220905,5.4.2,x
+2013,New Brunswick,Rigid plastic,Square feet,v52220905,5.4.2,x
+2014,New Brunswick,Rigid plastic,Square feet,v52220905,5.4.2,x
+2015,New Brunswick,Rigid plastic,Square feet,v52220905,5.4.2,x
+2007,New Brunswick,Rigid plastic,Square metres,v52220916,5.4.3,x
+2008,New Brunswick,Rigid plastic,Square metres,v52220916,5.4.3,x
+2009,New Brunswick,Rigid plastic,Square metres,v52220916,5.4.3,838.00000000
+2010,New Brunswick,Rigid plastic,Square metres,v52220916,5.4.3,x
+2011,New Brunswick,Rigid plastic,Square metres,v52220916,5.4.3,x
+2012,New Brunswick,Rigid plastic,Square metres,v52220916,5.4.3,x
+2013,New Brunswick,Rigid plastic,Square metres,v52220916,5.4.3,x
+2014,New Brunswick,Rigid plastic,Square metres,v52220916,5.4.3,x
+2015,New Brunswick,Rigid plastic,Square metres,v52220916,5.4.3,x
+2007,New Brunswick,Poly-film,Square feet,v52220927,5.5.2,0.00000000
+2008,New Brunswick,Poly-film,Square feet,v52220927,5.5.2,1698300.00000000
+2009,New Brunswick,Poly-film,Square feet,v52220927,5.5.2,1760390.00000000
+2010,New Brunswick,Poly-film,Square feet,v52220927,5.5.2,1866102.00000000
+2011,New Brunswick,Poly-film,Square feet,v52220927,5.5.2,1850310.00000000
+2012,New Brunswick,Poly-film,Square feet,v52220927,5.5.2,1878205.00000000
+2013,New Brunswick,Poly-film,Square feet,v52220927,5.5.2,1788850.00000000
+2014,New Brunswick,Poly-film,Square feet,v52220927,5.5.2,1824054.00000000
+2015,New Brunswick,Poly-film,Square feet,v52220927,5.5.2,1817983.00000000
+2007,New Brunswick,Poly-film,Square metres,v52220938,5.5.3,0.00000000
+2008,New Brunswick,Poly-film,Square metres,v52220938,5.5.3,157777.00000000
+2009,New Brunswick,Poly-film,Square metres,v52220938,5.5.3,163546.00000000
+2010,New Brunswick,Poly-film,Square metres,v52220938,5.5.3,173366.00000000
+2011,New Brunswick,Poly-film,Square metres,v52220938,5.5.3,171899.00000000
+2012,New Brunswick,Poly-film,Square metres,v52220938,5.5.3,174491.00000000
+2013,New Brunswick,Poly-film,Square metres,v52220938,5.5.3,166190.00000000
+2014,New Brunswick,Poly-film,Square metres,v52220938,5.5.3,169460.00000000
+2015,New Brunswick,Poly-film,Square metres,v52220938,5.5.3,168896.00000000
+2007,New Brunswick,Total months of operation,Number,v52220949,5.6.1,480.00000000
+2008,New Brunswick,Total months of operation,Number,v52220949,5.6.1,465.00000000
+2009,New Brunswick,Total months of operation,Number,v52220949,5.6.1,430.00000000
+2010,New Brunswick,Total months of operation,Number,v52220949,5.6.1,440.00000000
+2011,New Brunswick,Total months of operation,Number,v52220949,5.6.1,430.00000000
+2012,New Brunswick,Total months of operation,Number,v52220949,5.6.1,550.00000000
+2013,New Brunswick,Total months of operation,Number,v52220949,5.6.1,703.00000000
+2014,New Brunswick,Total months of operation,Number,v52220949,5.6.1,609.00000000
+2015,New Brunswick,Total months of operation,Number,v52220949,5.6.1,636.00000000
+2007,Quebec,Total greenhouse operations,Number,v52220851,6.1.1,800.00000000
+2008,Quebec,Total greenhouse operations,Number,v52220851,6.1.1,740.00000000
+2009,Quebec,Total greenhouse operations,Number,v52220851,6.1.1,730.00000000
+2010,Quebec,Total greenhouse operations,Number,v52220851,6.1.1,710.00000000
+2011,Quebec,Total greenhouse operations,Number,v52220851,6.1.1,725.00000000
+2012,Quebec,Total greenhouse operations,Number,v52220851,6.1.1,720.00000000
+2013,Quebec,Total greenhouse operations,Number,v52220851,6.1.1,715.00000000
+2014,Quebec,Total greenhouse operations,Number,v52220851,6.1.1,695.00000000
+2015,Quebec,Total greenhouse operations,Number,v52220851,6.1.1,685.00000000
+2007,Quebec,Total greenhouse area,Square feet,v52220862,6.2.2,26762000.00000000
+2008,Quebec,Total greenhouse area,Square feet,v52220862,6.2.2,26936100.00000000
+2009,Quebec,Total greenhouse area,Square feet,v52220862,6.2.2,27559360.00000000
+2010,Quebec,Total greenhouse area,Square feet,v52220862,6.2.2,28223245.00000000
+2011,Quebec,Total greenhouse area,Square feet,v52220862,6.2.2,29430660.00000000
+2012,Quebec,Total greenhouse area,Square feet,v52220862,6.2.2,28156740.00000000
+2013,Quebec,Total greenhouse area,Square feet,v52220862,6.2.2,27734445.00000000
+2014,Quebec,Total greenhouse area,Square feet,v52220862,6.2.2,26564192.00000000
+2015,Quebec,Total greenhouse area,Square feet,v52220862,6.2.2,27148247.00000000
+2007,Quebec,Total greenhouse area,Square metres,v52220873,6.2.3,2486270.00000000
+2008,Quebec,Total greenhouse area,Square metres,v52220873,6.2.3,2502444.00000000
+2009,Quebec,Total greenhouse area,Square metres,v52220873,6.2.3,2560347.00000000
+2010,Quebec,Total greenhouse area,Square metres,v52220873,6.2.3,2622024.00000000
+2011,Quebec,Total greenhouse area,Square metres,v52220873,6.2.3,2734197.00000000
+2012,Quebec,Total greenhouse area,Square metres,v52220873,6.2.3,2615846.00000000
+2013,Quebec,Total greenhouse area,Square metres,v52220873,6.2.3,2576613.00000000
+2014,Quebec,Total greenhouse area,Square metres,v52220873,6.2.3,2467893.00000000
+2015,Quebec,Total greenhouse area,Square metres,v52220873,6.2.3,2522154.00000000
+2007,Quebec,Glass,Square feet,v52220884,6.3.2,2500000.00000000
+2008,Quebec,Glass,Square feet,v52220884,6.3.2,3168100.00000000
+2009,Quebec,Glass,Square feet,v52220884,6.3.2,3492680.00000000
+2010,Quebec,Glass,Square feet,v52220884,6.3.2,3574710.00000000
+2011,Quebec,Glass,Square feet,v52220884,6.3.2,4357580.00000000
+2012,Quebec,Glass,Square feet,v52220884,6.3.2,4319200.00000000
+2013,Quebec,Glass,Square feet,v52220884,6.3.2,4559864.00000000
+2014,Quebec,Glass,Square feet,v52220884,6.3.2,3946079.00000000
+2015,Quebec,Glass,Square feet,v52220884,6.3.2,4053840.00000000
+2007,Quebec,Glass,Square metres,v52220895,6.3.3,232258.00000000
+2008,Quebec,Glass,Square metres,v52220895,6.3.3,294326.00000000
+2009,Quebec,Glass,Square metres,v52220895,6.3.3,324480.00000000
+2010,Quebec,Glass,Square metres,v52220895,6.3.3,332101.00000000
+2011,Quebec,Glass,Square metres,v52220895,6.3.3,404832.00000000
+2012,Quebec,Glass,Square metres,v52220895,6.3.3,401267.00000000
+2013,Quebec,Glass,Square metres,v52220895,6.3.3,423625.00000000
+2014,Quebec,Glass,Square metres,v52220895,6.3.3,366603.00000000
+2015,Quebec,Glass,Square metres,v52220895,6.3.3,376614.00000000
+2007,Quebec,Rigid plastic,Square feet,v52220906,6.4.2,24262000.00000000
+2008,Quebec,Rigid plastic,Square feet,v52220906,6.4.2,1886000.00000000
+2009,Quebec,Rigid plastic,Square feet,v52220906,6.4.2,2596780.00000000
+2010,Quebec,Rigid plastic,Square feet,v52220906,6.4.2,F
+2011,Quebec,Rigid plastic,Square feet,v52220906,6.4.2,F
+2012,Quebec,Rigid plastic,Square feet,v52220906,6.4.2,492880.00000000
+2013,Quebec,Rigid plastic,Square feet,v52220906,6.4.2,418881.00000000
+2014,Quebec,Rigid plastic,Square feet,v52220906,6.4.2,367413.00000000
+2015,Quebec,Rigid plastic,Square feet,v52220906,6.4.2,364227.00000000
+2007,Quebec,Rigid plastic,Square metres,v52220917,6.4.3,2254013.00000000
+2008,Quebec,Rigid plastic,Square metres,v52220917,6.4.3,175215.00000000
+2009,Quebec,Rigid plastic,Square metres,v52220917,6.4.3,241249.00000000
+2010,Quebec,Rigid plastic,Square metres,v52220917,6.4.3,F
+2011,Quebec,Rigid plastic,Square metres,v52220917,6.4.3,F
+2012,Quebec,Rigid plastic,Square metres,v52220917,6.4.3,45790.00000000
+2013,Quebec,Rigid plastic,Square metres,v52220917,6.4.3,38915.00000000
+2014,Quebec,Rigid plastic,Square metres,v52220917,6.4.3,34134.00000000
+2015,Quebec,Rigid plastic,Square metres,v52220917,6.4.3,33838.00000000
+2007,Quebec,Poly-film,Square feet,v52220928,6.5.2,0.00000000
+2008,Quebec,Poly-film,Square feet,v52220928,6.5.2,21882000.00000000
+2009,Quebec,Poly-film,Square feet,v52220928,6.5.2,21469900.00000000
+2010,Quebec,Poly-film,Square feet,v52220928,6.5.2,22962330.00000000
+2011,Quebec,Poly-film,Square feet,v52220928,6.5.2,24311520.00000000
+2012,Quebec,Poly-film,Square feet,v52220928,6.5.2,23344660.00000000
+2013,Quebec,Poly-film,Square feet,v52220928,6.5.2,22755700.00000000
+2014,Quebec,Poly-film,Square feet,v52220928,6.5.2,22250700.00000000
+2015,Quebec,Poly-film,Square feet,v52220928,6.5.2,22730180.00000000
+2007,Quebec,Poly-film,Square metres,v52220939,6.5.3,0.00000000
+2008,Quebec,Poly-film,Square metres,v52220939,6.5.3,2032903.00000000
+2009,Quebec,Poly-film,Square metres,v52220939,6.5.3,1994618.00000000
+2010,Quebec,Poly-film,Square metres,v52220939,6.5.3,2133269.00000000
+2011,Quebec,Poly-film,Square metres,v52220939,6.5.3,2258613.00000000
+2012,Quebec,Poly-film,Square metres,v52220939,6.5.3,2168789.00000000
+2013,Quebec,Poly-film,Square metres,v52220939,6.5.3,2114073.00000000
+2014,Quebec,Poly-film,Square metres,v52220939,6.5.3,2067157.00000000
+2015,Quebec,Poly-film,Square metres,v52220939,6.5.3,2111702.00000000
+2007,Quebec,Total months of operation,Number,v52220950,6.6.1,5485.00000000
+2008,Quebec,Total months of operation,Number,v52220950,6.6.1,5240.00000000
+2009,Quebec,Total months of operation,Number,v52220950,6.6.1,5040.00000000
+2010,Quebec,Total months of operation,Number,v52220950,6.6.1,4930.00000000
+2011,Quebec,Total months of operation,Number,v52220950,6.6.1,4700.00000000
+2012,Quebec,Total months of operation,Number,v52220950,6.6.1,5165.00000000
+2013,Quebec,Total months of operation,Number,v52220950,6.6.1,6033.00000000
+2014,Quebec,Total months of operation,Number,v52220950,6.6.1,5580.00000000
+2015,Quebec,Total months of operation,Number,v52220950,6.6.1,5653.00000000
+2007,Ontario,Total greenhouse operations,Number,v52220852,7.1.1,1200.00000000
+2008,Ontario,Total greenhouse operations,Number,v52220852,7.1.1,1190.00000000
+2009,Ontario,Total greenhouse operations,Number,v52220852,7.1.1,1245.00000000
+2010,Ontario,Total greenhouse operations,Number,v52220852,7.1.1,1190.00000000
+2011,Ontario,Total greenhouse operations,Number,v52220852,7.1.1,1150.00000000
+2012,Ontario,Total greenhouse operations,Number,v52220852,7.1.1,1055.00000000
+2013,Ontario,Total greenhouse operations,Number,v52220852,7.1.1,1045.00000000
+2014,Ontario,Total greenhouse operations,Number,v52220852,7.1.1,1040.00000000
+2015,Ontario,Total greenhouse operations,Number,v52220852,7.1.1,1000.00000000
+2007,Ontario,Total greenhouse area,Square feet,v52220863,7.2.2,124000000.00000000
+2008,Ontario,Total greenhouse area,Square feet,v52220863,7.2.2,135675700.00000000
+2009,Ontario,Total greenhouse area,Square feet,v52220863,7.2.2,138767210.00000000
+2010,Ontario,Total greenhouse area,Square feet,v52220863,7.2.2,136449395.00000000
+2011,Ontario,Total greenhouse area,Square feet,v52220863,7.2.2,137788835.00000000
+2012,Ontario,Total greenhouse area,Square feet,v52220863,7.2.2,146308428.00000000
+2013,Ontario,Total greenhouse area,Square feet,v52220863,7.2.2,152301271.00000000
+2014,Ontario,Total greenhouse area,Square feet,v52220863,7.2.2,149279604.00000000
+2015,Ontario,Total greenhouse area,Square feet,v52220863,7.2.2,150908293.00000000
+2007,Ontario,Total greenhouse area,Square metres,v52220874,7.2.3,11519972.00000000
+2008,Ontario,Total greenhouse area,Square metres,v52220874,7.2.3,12604680.00000000
+2009,Ontario,Total greenhouse area,Square metres,v52220874,7.2.3,12891890.00000000
+2010,Ontario,Total greenhouse area,Square metres,v52220874,7.2.3,12676558.00000000
+2011,Ontario,Total greenhouse area,Square metres,v52220874,7.2.3,12800996.00000000
+2012,Ontario,Total greenhouse area,Square metres,v52220874,7.2.3,13592492.00000000
+2013,Ontario,Total greenhouse area,Square metres,v52220874,7.2.3,14149245.00000000
+2014,Ontario,Total greenhouse area,Square metres,v52220874,7.2.3,13868523.00000000
+2015,Ontario,Total greenhouse area,Square metres,v52220874,7.2.3,14019833.00000000
+2007,Ontario,Glass,Square feet,v52220885,7.3.2,34000000.00000000
+2008,Ontario,Glass,Square feet,v52220885,7.3.2,35275000.00000000
+2009,Ontario,Glass,Square feet,v52220885,7.3.2,38310550.00000000
+2010,Ontario,Glass,Square feet,v52220885,7.3.2,36912815.00000000
+2011,Ontario,Glass,Square feet,v52220885,7.3.2,37426225.00000000
+2012,Ontario,Glass,Square feet,v52220885,7.3.2,39353793.00000000
+2013,Ontario,Glass,Square feet,v52220885,7.3.2,41722587.00000000
+2014,Ontario,Glass,Square feet,v52220885,7.3.2,45465714.00000000
+2015,Ontario,Glass,Square feet,v52220885,7.3.2,48583880.00000000
+2007,Ontario,Glass,Square metres,v52220896,7.3.3,3158702.00000000
+2008,Ontario,Glass,Square metres,v52220896,7.3.3,3277153.00000000
+2009,Ontario,Glass,Square metres,v52220896,7.3.3,3559165.00000000
+2010,Ontario,Glass,Square metres,v52220896,7.3.3,3429311.00000000
+2011,Ontario,Glass,Square metres,v52220896,7.3.3,3477009.00000000
+2012,Ontario,Glass,Square metres,v52220896,7.3.3,3656085.00000000
+2013,Ontario,Glass,Square metres,v52220896,7.3.3,3876154.00000000
+2014,Ontario,Glass,Square metres,v52220896,7.3.3,4223901.00000000
+2015,Ontario,Glass,Square metres,v52220896,7.3.3,4513588.00000000
+2007,Ontario,Rigid plastic,Square feet,v52220907,7.4.2,90000000.00000000
+2008,Ontario,Rigid plastic,Square feet,v52220907,7.4.2,16882000.00000000
+2009,Ontario,Rigid plastic,Square feet,v52220907,7.4.2,10131960.00000000
+2010,Ontario,Rigid plastic,Square feet,v52220907,7.4.2,6305480.00000000
+2011,Ontario,Rigid plastic,Square feet,v52220907,7.4.2,4309350.00000000
+2012,Ontario,Rigid plastic,Square feet,v52220907,7.4.2,4051320.00000000
+2013,Ontario,Rigid plastic,Square feet,v52220907,7.4.2,5364558.00000000
+2014,Ontario,Rigid plastic,Square feet,v52220907,7.4.2,3928490.00000000
+2015,Ontario,Rigid plastic,Square feet,v52220907,7.4.2,2342399.00000000
+2007,Ontario,Rigid plastic,Square metres,v52220918,7.4.3,8361270.00000000
+2008,Ontario,Rigid plastic,Square metres,v52220918,7.4.3,1568388.00000000
+2009,Ontario,Rigid plastic,Square metres,v52220918,7.4.3,941289.00000000
+2010,Ontario,Rigid plastic,Square metres,v52220918,7.4.3,585798.00000000
+2011,Ontario,Rigid plastic,Square metres,v52220918,7.4.3,400352.00000000
+2012,Ontario,Rigid plastic,Square metres,v52220918,7.4.3,376380.00000000
+2013,Ontario,Rigid plastic,Square metres,v52220918,7.4.3,498384.00000000
+2014,Ontario,Rigid plastic,Square metres,v52220918,7.4.3,364969.00000000
+2015,Ontario,Rigid plastic,Square metres,v52220918,7.4.3,217616.00000000
+2007,Ontario,Poly-film,Square feet,v52220929,7.5.2,0.00000000
+2008,Ontario,Poly-film,Square feet,v52220929,7.5.2,83518700.00000000
+2009,Ontario,Poly-film,Square feet,v52220929,7.5.2,90324700.00000000
+2010,Ontario,Poly-film,Square feet,v52220929,7.5.2,93231100.00000000
+2011,Ontario,Poly-film,Square feet,v52220929,7.5.2,96053260.00000000
+2012,Ontario,Poly-film,Square feet,v52220929,7.5.2,102903315.00000000
+2013,Ontario,Poly-film,Square feet,v52220929,7.5.2,105214126.00000000
+2014,Ontario,Poly-film,Square feet,v52220929,7.5.2,99885400.00000000
+2015,Ontario,Poly-film,Square feet,v52220929,7.5.2,99982014.00000000
+2007,Ontario,Poly-film,Square metres,v52220940,7.5.3,0.00000000
+2008,Ontario,Poly-film,Square metres,v52220940,7.5.3,7759138.00000000
+2009,Ontario,Poly-film,Square metres,v52220940,7.5.3,8391436.00000000
+2010,Ontario,Poly-film,Square metres,v52220940,7.5.3,8661449.00000000
+2011,Ontario,Poly-film,Square metres,v52220940,7.5.3,8923636.00000000
+2012,Ontario,Poly-film,Square metres,v52220940,7.5.3,9560027.00000000
+2013,Ontario,Poly-film,Square metres,v52220940,7.5.3,9774708.00000000
+2014,Ontario,Poly-film,Square metres,v52220940,7.5.3,9279653.00000000
+2015,Ontario,Poly-film,Square metres,v52220940,7.5.3,9288629.00000000
+2007,Ontario,Total months of operation,Number,v52220951,7.6.1,10200.00000000
+2008,Ontario,Total months of operation,Number,v52220951,7.6.1,10522.00000000
+2009,Ontario,Total months of operation,Number,v52220951,7.6.1,10200.00000000
+2010,Ontario,Total months of operation,Number,v52220951,7.6.1,10065.00000000
+2011,Ontario,Total months of operation,Number,v52220951,7.6.1,8960.00000000
+2012,Ontario,Total months of operation,Number,v52220951,7.6.1,9301.00000000
+2013,Ontario,Total months of operation,Number,v52220951,7.6.1,12173.00000000
+2014,Ontario,Total months of operation,Number,v52220951,7.6.1,12135.00000000
+2015,Ontario,Total months of operation,Number,v52220951,7.6.1,11783.00000000
+2007,Manitoba,Total greenhouse operations,Number,v52220853,8.1.1,135.00000000
+2008,Manitoba,Total greenhouse operations,Number,v52220853,8.1.1,125.00000000
+2009,Manitoba,Total greenhouse operations,Number,v52220853,8.1.1,115.00000000
+2010,Manitoba,Total greenhouse operations,Number,v52220853,8.1.1,125.00000000
+2011,Manitoba,Total greenhouse operations,Number,v52220853,8.1.1,125.00000000
+2012,Manitoba,Total greenhouse operations,Number,v52220853,8.1.1,110.00000000
+2013,Manitoba,Total greenhouse operations,Number,v52220853,8.1.1,110.00000000
+2014,Manitoba,Total greenhouse operations,Number,v52220853,8.1.1,110.00000000
+2015,Manitoba,Total greenhouse operations,Number,v52220853,8.1.1,105.00000000
+2007,Manitoba,Total greenhouse area,Square feet,v52220864,8.2.2,2938000.00000000
+2008,Manitoba,Total greenhouse area,Square feet,v52220864,8.2.2,3275100.00000000
+2009,Manitoba,Total greenhouse area,Square feet,v52220864,8.2.2,3882620.00000000
+2010,Manitoba,Total greenhouse area,Square feet,v52220864,8.2.2,3307070.00000000
+2011,Manitoba,Total greenhouse area,Square feet,v52220864,8.2.2,3237510.00000000
+2012,Manitoba,Total greenhouse area,Square feet,v52220864,8.2.2,3118905.00000000
+2013,Manitoba,Total greenhouse area,Square feet,v52220864,8.2.2,3120168.00000000
+2014,Manitoba,Total greenhouse area,Square feet,v52220864,8.2.2,3100223.00000000
+2015,Manitoba,Total greenhouse area,Square feet,v52220864,8.2.2,F
+2007,Manitoba,Total greenhouse area,Square metres,v52220875,8.2.3,272949.00000000
+2008,Manitoba,Total greenhouse area,Square metres,v52220875,8.2.3,304267.00000000
+2009,Manitoba,Total greenhouse area,Square metres,v52220875,8.2.3,360707.00000000
+2010,Manitoba,Total greenhouse area,Square metres,v52220875,8.2.3,307237.00000000
+2011,Manitoba,Total greenhouse area,Square metres,v52220875,8.2.3,300774.00000000
+2012,Manitoba,Total greenhouse area,Square metres,v52220875,8.2.3,289756.00000000
+2013,Manitoba,Total greenhouse area,Square metres,v52220875,8.2.3,289873.00000000
+2014,Manitoba,Total greenhouse area,Square metres,v52220875,8.2.3,288020.00000000
+2015,Manitoba,Total greenhouse area,Square metres,v52220875,8.2.3,F
+2007,Manitoba,Glass,Square feet,v52220886,8.3.2,x
+2008,Manitoba,Glass,Square feet,v52220886,8.3.2,1900.00000000
+2009,Manitoba,Glass,Square feet,v52220886,8.3.2,x
+2010,Manitoba,Glass,Square feet,v52220886,8.3.2,0.00000000
+2011,Manitoba,Glass,Square feet,v52220886,8.3.2,x
+2012,Manitoba,Glass,Square feet,v52220886,8.3.2,x
+2013,Manitoba,Glass,Square feet,v52220886,8.3.2,x
+2014,Manitoba,Glass,Square feet,v52220886,8.3.2,x
+2015,Manitoba,Glass,Square feet,v52220886,8.3.2,x
+2007,Manitoba,Glass,Square metres,v52220897,8.3.3,x
+2008,Manitoba,Glass,Square metres,v52220897,8.3.3,177.00000000
+2009,Manitoba,Glass,Square metres,v52220897,8.3.3,x
+2010,Manitoba,Glass,Square metres,v52220897,8.3.3,0.00000000
+2011,Manitoba,Glass,Square metres,v52220897,8.3.3,x
+2012,Manitoba,Glass,Square metres,v52220897,8.3.3,x
+2013,Manitoba,Glass,Square metres,v52220897,8.3.3,x
+2014,Manitoba,Glass,Square metres,v52220897,8.3.3,x
+2015,Manitoba,Glass,Square metres,v52220897,8.3.3,x
+2007,Manitoba,Rigid plastic,Square feet,v52220908,8.4.2,x
+2008,Manitoba,Rigid plastic,Square feet,v52220908,8.4.2,F
+2009,Manitoba,Rigid plastic,Square feet,v52220908,8.4.2,x
+2010,Manitoba,Rigid plastic,Square feet,v52220908,8.4.2,153710.00000000
+2011,Manitoba,Rigid plastic,Square feet,v52220908,8.4.2,x
+2012,Manitoba,Rigid plastic,Square feet,v52220908,8.4.2,x
+2013,Manitoba,Rigid plastic,Square feet,v52220908,8.4.2,x
+2014,Manitoba,Rigid plastic,Square feet,v52220908,8.4.2,x
+2015,Manitoba,Rigid plastic,Square feet,v52220908,8.4.2,x
+2007,Manitoba,Rigid plastic,Square metres,v52220919,8.4.3,x
+2008,Manitoba,Rigid plastic,Square metres,v52220919,8.4.3,F
+2009,Manitoba,Rigid plastic,Square metres,v52220919,8.4.3,x
+2010,Manitoba,Rigid plastic,Square metres,v52220919,8.4.3,14280.00000000
+2011,Manitoba,Rigid plastic,Square metres,v52220919,8.4.3,x
+2012,Manitoba,Rigid plastic,Square metres,v52220919,8.4.3,x
+2013,Manitoba,Rigid plastic,Square metres,v52220919,8.4.3,x
+2014,Manitoba,Rigid plastic,Square metres,v52220919,8.4.3,x
+2015,Manitoba,Rigid plastic,Square metres,v52220919,8.4.3,x
+2007,Manitoba,Poly-film,Square feet,v52220930,8.5.2,0.00000000
+2008,Manitoba,Poly-film,Square feet,v52220930,8.5.2,2972300.00000000
+2009,Manitoba,Poly-film,Square feet,v52220930,8.5.2,F
+2010,Manitoba,Poly-film,Square feet,v52220930,8.5.2,3153360.00000000
+2011,Manitoba,Poly-film,Square feet,v52220930,8.5.2,3124015.00000000
+2012,Manitoba,Poly-film,Square feet,v52220930,8.5.2,3003705.00000000
+2013,Manitoba,Poly-film,Square feet,v52220930,8.5.2,2985652.00000000
+2014,Manitoba,Poly-film,Square feet,v52220930,8.5.2,2974015.00000000
+2015,Manitoba,Poly-film,Square feet,v52220930,8.5.2,F
+2007,Manitoba,Poly-film,Square metres,v52220941,8.5.3,0.00000000
+2008,Manitoba,Poly-film,Square metres,v52220941,8.5.3,276136.00000000
+2009,Manitoba,Poly-film,Square metres,v52220941,8.5.3,F
+2010,Manitoba,Poly-film,Square metres,v52220941,8.5.3,292957.00000000
+2011,Manitoba,Poly-film,Square metres,v52220941,8.5.3,290230.00000000
+2012,Manitoba,Poly-film,Square metres,v52220941,8.5.3,279053.00000000
+2013,Manitoba,Poly-film,Square metres,v52220941,8.5.3,277376.00000000
+2014,Manitoba,Poly-film,Square metres,v52220941,8.5.3,276295.00000000
+2015,Manitoba,Poly-film,Square metres,v52220941,8.5.3,F
+2007,Manitoba,Total months of operation,Number,v52220952,8.6.1,855.00000000
+2008,Manitoba,Total months of operation,Number,v52220952,8.6.1,750.00000000
+2009,Manitoba,Total months of operation,Number,v52220952,8.6.1,810.00000000
+2010,Manitoba,Total months of operation,Number,v52220952,8.6.1,770.00000000
+2011,Manitoba,Total months of operation,Number,v52220952,8.6.1,690.00000000
+2012,Manitoba,Total months of operation,Number,v52220952,8.6.1,720.00000000
+2013,Manitoba,Total months of operation,Number,v52220952,8.6.1,730.00000000
+2014,Manitoba,Total months of operation,Number,v52220952,8.6.1,932.00000000
+2015,Manitoba,Total months of operation,Number,v52220952,8.6.1,887.00000000
+2007,Saskatchewan,Total greenhouse operations,Number,v52220854,9.1.1,168.00000000
+2008,Saskatchewan,Total greenhouse operations,Number,v52220854,9.1.1,145.00000000
+2009,Saskatchewan,Total greenhouse operations,Number,v52220854,9.1.1,145.00000000
+2010,Saskatchewan,Total greenhouse operations,Number,v52220854,9.1.1,145.00000000
+2011,Saskatchewan,Total greenhouse operations,Number,v52220854,9.1.1,145.00000000
+2012,Saskatchewan,Total greenhouse operations,Number,v52220854,9.1.1,150.00000000
+2013,Saskatchewan,Total greenhouse operations,Number,v52220854,9.1.1,145.00000000
+2014,Saskatchewan,Total greenhouse operations,Number,v52220854,9.1.1,140.00000000
+2015,Saskatchewan,Total greenhouse operations,Number,v52220854,9.1.1,140.00000000
+2007,Saskatchewan,Total greenhouse area,Square feet,v52220865,9.2.2,2532250.00000000
+2008,Saskatchewan,Total greenhouse area,Square feet,v52220865,9.2.2,2237350.00000000
+2009,Saskatchewan,Total greenhouse area,Square feet,v52220865,9.2.2,2117000.00000000
+2010,Saskatchewan,Total greenhouse area,Square feet,v52220865,9.2.2,2019595.00000000
+2011,Saskatchewan,Total greenhouse area,Square feet,v52220865,9.2.2,2110335.00000000
+2012,Saskatchewan,Total greenhouse area,Square feet,v52220865,9.2.2,2616145.00000000
+2013,Saskatchewan,Total greenhouse area,Square feet,v52220865,9.2.2,2391651.00000000
+2014,Saskatchewan,Total greenhouse area,Square feet,v52220865,9.2.2,2300500.00000000
+2015,Saskatchewan,Total greenhouse area,Square feet,v52220865,9.2.2,2300721.00000000
+2007,Saskatchewan,Total greenhouse area,Square metres,v52220876,9.2.3,235254.00000000
+2008,Saskatchewan,Total greenhouse area,Square metres,v52220876,9.2.3,207857.00000000
+2009,Saskatchewan,Total greenhouse area,Square metres,v52220876,9.2.3,196676.00000000
+2010,Saskatchewan,Total greenhouse area,Square metres,v52220876,9.2.3,187626.00000000
+2011,Saskatchewan,Total greenhouse area,Square metres,v52220876,9.2.3,196056.00000000
+2012,Saskatchewan,Total greenhouse area,Square metres,v52220876,9.2.3,243048.00000000
+2013,Saskatchewan,Total greenhouse area,Square metres,v52220876,9.2.3,222192.00000000
+2014,Saskatchewan,Total greenhouse area,Square metres,v52220876,9.2.3,213723.00000000
+2015,Saskatchewan,Total greenhouse area,Square metres,v52220876,9.2.3,213744.00000000
+2007,Saskatchewan,Glass,Square feet,v52220887,9.3.2,92250.00000000
+2008,Saskatchewan,Glass,Square feet,v52220887,9.3.2,78000.00000000
+2009,Saskatchewan,Glass,Square feet,v52220887,9.3.2,F
+2010,Saskatchewan,Glass,Square feet,v52220887,9.3.2,F
+2011,Saskatchewan,Glass,Square feet,v52220887,9.3.2,F
+2012,Saskatchewan,Glass,Square feet,v52220887,9.3.2,x
+2013,Saskatchewan,Glass,Square feet,v52220887,9.3.2,x
+2014,Saskatchewan,Glass,Square feet,v52220887,9.3.2,x
+2015,Saskatchewan,Glass,Square feet,v52220887,9.3.2,x
+2007,Saskatchewan,Glass,Square metres,v52220898,9.3.3,8570.00000000
+2008,Saskatchewan,Glass,Square metres,v52220898,9.3.3,7246.00000000
+2009,Saskatchewan,Glass,Square metres,v52220898,9.3.3,F
+2010,Saskatchewan,Glass,Square metres,v52220898,9.3.3,F
+2011,Saskatchewan,Glass,Square metres,v52220898,9.3.3,F
+2012,Saskatchewan,Glass,Square metres,v52220898,9.3.3,x
+2013,Saskatchewan,Glass,Square metres,v52220898,9.3.3,x
+2014,Saskatchewan,Glass,Square metres,v52220898,9.3.3,x
+2015,Saskatchewan,Glass,Square metres,v52220898,9.3.3,x
+2007,Saskatchewan,Rigid plastic,Square feet,v52220909,9.4.2,2440000.00000000
+2008,Saskatchewan,Rigid plastic,Square feet,v52220909,9.4.2,222350.00000000
+2009,Saskatchewan,Rigid plastic,Square feet,v52220909,9.4.2,195000.00000000
+2010,Saskatchewan,Rigid plastic,Square feet,v52220909,9.4.2,F
+2011,Saskatchewan,Rigid plastic,Square feet,v52220909,9.4.2,41060.00000000
+2012,Saskatchewan,Rigid plastic,Square feet,v52220909,9.4.2,x
+2013,Saskatchewan,Rigid plastic,Square feet,v52220909,9.4.2,x
+2014,Saskatchewan,Rigid plastic,Square feet,v52220909,9.4.2,x
+2015,Saskatchewan,Rigid plastic,Square feet,v52220909,9.4.2,x
+2007,Saskatchewan,Rigid plastic,Square metres,v52220920,9.4.3,226683.00000000
+2008,Saskatchewan,Rigid plastic,Square metres,v52220920,9.4.3,20657.00000000
+2009,Saskatchewan,Rigid plastic,Square metres,v52220920,9.4.3,18116.00000000
+2010,Saskatchewan,Rigid plastic,Square metres,v52220920,9.4.3,F
+2011,Saskatchewan,Rigid plastic,Square metres,v52220920,9.4.3,3815.00000000
+2012,Saskatchewan,Rigid plastic,Square metres,v52220920,9.4.3,x
+2013,Saskatchewan,Rigid plastic,Square metres,v52220920,9.4.3,x
+2014,Saskatchewan,Rigid plastic,Square metres,v52220920,9.4.3,x
+2015,Saskatchewan,Rigid plastic,Square metres,v52220920,9.4.3,x
+2007,Saskatchewan,Poly-film,Square feet,v52220931,9.5.2,0.00000000
+2008,Saskatchewan,Poly-film,Square feet,v52220931,9.5.2,1937000.00000000
+2009,Saskatchewan,Poly-film,Square feet,v52220931,9.5.2,1850000.00000000
+2010,Saskatchewan,Poly-film,Square feet,v52220931,9.5.2,1773040.00000000
+2011,Saskatchewan,Poly-film,Square feet,v52220931,9.5.2,1678400.00000000
+2012,Saskatchewan,Poly-film,Square feet,v52220931,9.5.2,2055145.00000000
+2013,Saskatchewan,Poly-film,Square feet,v52220931,9.5.2,1833780.00000000
+2014,Saskatchewan,Poly-film,Square feet,v52220931,9.5.2,1675015.00000000
+2015,Saskatchewan,Poly-film,Square feet,v52220931,9.5.2,1641313.00000000
+2007,Saskatchewan,Poly-film,Square metres,v52220942,9.5.3,0.00000000
+2008,Saskatchewan,Poly-film,Square metres,v52220942,9.5.3,179953.00000000
+2009,Saskatchewan,Poly-film,Square metres,v52220942,9.5.3,171871.00000000
+2010,Saskatchewan,Poly-film,Square metres,v52220942,9.5.3,164721.00000000
+2011,Saskatchewan,Poly-film,Square metres,v52220942,9.5.3,155928.00000000
+2012,Saskatchewan,Poly-film,Square metres,v52220942,9.5.3,190929.00000000
+2013,Saskatchewan,Poly-film,Square metres,v52220942,9.5.3,170364.00000000
+2014,Saskatchewan,Poly-film,Square metres,v52220942,9.5.3,155614.00000000
+2015,Saskatchewan,Poly-film,Square metres,v52220942,9.5.3,152483.00000000
+2007,Saskatchewan,Total months of operation,Number,v52220953,9.6.1,945.00000000
+2008,Saskatchewan,Total months of operation,Number,v52220953,9.6.1,825.00000000
+2009,Saskatchewan,Total months of operation,Number,v52220953,9.6.1,865.00000000
+2010,Saskatchewan,Total months of operation,Number,v52220953,9.6.1,890.00000000
+2011,Saskatchewan,Total months of operation,Number,v52220953,9.6.1,775.00000000
+2012,Saskatchewan,Total months of operation,Number,v52220953,9.6.1,839.00000000
+2013,Saskatchewan,Total months of operation,Number,v52220953,9.6.1,1151.00000000
+2014,Saskatchewan,Total months of operation,Number,v52220953,9.6.1,940.00000000
+2015,Saskatchewan,Total months of operation,Number,v52220953,9.6.1,900.00000000
+2007,Alberta,Total greenhouse operations,Number,v52220855,10.1.1,350.00000000
+2008,Alberta,Total greenhouse operations,Number,v52220855,10.1.1,335.00000000
+2009,Alberta,Total greenhouse operations,Number,v52220855,10.1.1,335.00000000
+2010,Alberta,Total greenhouse operations,Number,v52220855,10.1.1,325.00000000
+2011,Alberta,Total greenhouse operations,Number,v52220855,10.1.1,320.00000000
+2012,Alberta,Total greenhouse operations,Number,v52220855,10.1.1,310.00000000
+2013,Alberta,Total greenhouse operations,Number,v52220855,10.1.1,305.00000000
+2014,Alberta,Total greenhouse operations,Number,v52220855,10.1.1,305.00000000
+2015,Alberta,Total greenhouse operations,Number,v52220855,10.1.1,300.00000000
+2007,Alberta,Total greenhouse area,Square feet,v52220866,10.2.2,11615000.00000000
+2008,Alberta,Total greenhouse area,Square feet,v52220866,10.2.2,10419000.00000000
+2009,Alberta,Total greenhouse area,Square feet,v52220866,10.2.2,11086650.00000000
+2010,Alberta,Total greenhouse area,Square feet,v52220866,10.2.2,12152255.00000000
+2011,Alberta,Total greenhouse area,Square feet,v52220866,10.2.2,12182640.00000000
+2012,Alberta,Total greenhouse area,Square feet,v52220866,10.2.2,12162170.00000000
+2013,Alberta,Total greenhouse area,Square feet,v52220866,10.2.2,12250157.00000000
+2014,Alberta,Total greenhouse area,Square feet,v52220866,10.2.2,12519539.00000000
+2015,Alberta,Total greenhouse area,Square feet,v52220866,10.2.2,12533030.00000000
+2007,Alberta,Total greenhouse area,Square metres,v52220877,10.2.3,1079068.00000000
+2008,Alberta,Total greenhouse area,Square metres,v52220877,10.2.3,967956.00000000
+2009,Alberta,Total greenhouse area,Square metres,v52220877,10.2.3,1029983.00000000
+2010,Alberta,Total greenhouse area,Square metres,v52220877,10.2.3,1128981.00000000
+2011,Alberta,Total greenhouse area,Square metres,v52220877,10.2.3,1131804.00000000
+2012,Alberta,Total greenhouse area,Square metres,v52220877,10.2.3,1129902.00000000
+2013,Alberta,Total greenhouse area,Square metres,v52220877,10.2.3,1138076.00000000
+2014,Alberta,Total greenhouse area,Square metres,v52220877,10.2.3,1163103.00000000
+2015,Alberta,Total greenhouse area,Square metres,v52220877,10.2.3,1164356.00000000
+2007,Alberta,Glass,Square feet,v52220888,10.3.2,815000.00000000
+2008,Alberta,Glass,Square feet,v52220888,10.3.2,820350.00000000
+2009,Alberta,Glass,Square feet,v52220888,10.3.2,676660.00000000
+2010,Alberta,Glass,Square feet,v52220888,10.3.2,936375.00000000
+2011,Alberta,Glass,Square feet,v52220888,10.3.2,1008515.00000000
+2012,Alberta,Glass,Square feet,v52220888,10.3.2,1471770.00000000
+2013,Alberta,Glass,Square feet,v52220888,10.3.2,1708469.00000000
+2014,Alberta,Glass,Square feet,v52220888,10.3.2,1914789.00000000
+2015,Alberta,Glass,Square feet,v52220888,10.3.2,2022325.00000000
+2007,Alberta,Glass,Square metres,v52220899,10.3.3,75716.00000000
+2008,Alberta,Glass,Square metres,v52220899,10.3.3,76213.00000000
+2009,Alberta,Glass,Square metres,v52220899,10.3.3,62864.00000000
+2010,Alberta,Glass,Square metres,v52220899,10.3.3,86992.00000000
+2011,Alberta,Glass,Square metres,v52220899,10.3.3,93694.00000000
+2012,Alberta,Glass,Square metres,v52220899,10.3.3,136732.00000000
+2013,Alberta,Glass,Square metres,v52220899,10.3.3,158722.00000000
+2014,Alberta,Glass,Square metres,v52220899,10.3.3,177890.00000000
+2015,Alberta,Glass,Square metres,v52220899,10.3.3,187880.00000000
+2007,Alberta,Rigid plastic,Square feet,v52220910,10.4.2,10800000.00000000
+2008,Alberta,Rigid plastic,Square feet,v52220910,10.4.2,1221250.00000000
+2009,Alberta,Rigid plastic,Square feet,v52220910,10.4.2,493640.00000000
+2010,Alberta,Rigid plastic,Square feet,v52220910,10.4.2,733290.00000000
+2011,Alberta,Rigid plastic,Square feet,v52220910,10.4.2,516625.00000000
+2012,Alberta,Rigid plastic,Square feet,v52220910,10.4.2,338995.00000000
+2013,Alberta,Rigid plastic,Square feet,v52220910,10.4.2,349914.00000000
+2014,Alberta,Rigid plastic,Square feet,v52220910,10.4.2,406254.00000000
+2015,Alberta,Rigid plastic,Square feet,v52220910,10.4.2,506473.00000000
+2007,Alberta,Rigid plastic,Square metres,v52220921,10.4.3,1003352.00000000
+2008,Alberta,Rigid plastic,Square metres,v52220921,10.4.3,113458.00000000
+2009,Alberta,Rigid plastic,Square metres,v52220921,10.4.3,45861.00000000
+2010,Alberta,Rigid plastic,Square metres,v52220921,10.4.3,68125.00000000
+2011,Alberta,Rigid plastic,Square metres,v52220921,10.4.3,47996.00000000
+2012,Alberta,Rigid plastic,Square metres,v52220921,10.4.3,31494.00000000
+2013,Alberta,Rigid plastic,Square metres,v52220921,10.4.3,32508.00000000
+2014,Alberta,Rigid plastic,Square metres,v52220921,10.4.3,37742.00000000
+2015,Alberta,Rigid plastic,Square metres,v52220921,10.4.3,47053.00000000
+2007,Alberta,Poly-film,Square feet,v52220932,10.5.2,0.00000000
+2008,Alberta,Poly-film,Square feet,v52220932,10.5.2,8377400.00000000
+2009,Alberta,Poly-film,Square feet,v52220932,10.5.2,9916350.00000000
+2010,Alberta,Poly-film,Square feet,v52220932,10.5.2,10482590.00000000
+2011,Alberta,Poly-film,Square feet,v52220932,10.5.2,10657500.00000000
+2012,Alberta,Poly-film,Square feet,v52220932,10.5.2,10351405.00000000
+2013,Alberta,Poly-film,Square feet,v52220932,10.5.2,10191774.00000000
+2014,Alberta,Poly-film,Square feet,v52220932,10.5.2,10198496.00000000
+2015,Alberta,Poly-film,Square feet,v52220932,10.5.2,10004232.00000000
+2007,Alberta,Poly-film,Square metres,v52220943,10.5.3,0.00000000
+2008,Alberta,Poly-film,Square metres,v52220943,10.5.3,778286.00000000
+2009,Alberta,Poly-film,Square metres,v52220943,10.5.3,921259.00000000
+2010,Alberta,Poly-film,Square metres,v52220943,10.5.3,973864.00000000
+2011,Alberta,Poly-film,Square metres,v52220943,10.5.3,990114.00000000
+2012,Alberta,Poly-film,Square metres,v52220943,10.5.3,961677.00000000
+2013,Alberta,Poly-film,Square metres,v52220943,10.5.3,946846.00000000
+2014,Alberta,Poly-film,Square metres,v52220943,10.5.3,947471.00000000
+2015,Alberta,Poly-film,Square metres,v52220943,10.5.3,929423.00000000
+2007,Alberta,Total months of operation,Number,v52220954,10.6.1,2500.00000000
+2008,Alberta,Total months of operation,Number,v52220954,10.6.1,2400.00000000
+2009,Alberta,Total months of operation,Number,v52220954,10.6.1,2460.00000000
+2010,Alberta,Total months of operation,Number,v52220954,10.6.1,2320.00000000
+2011,Alberta,Total months of operation,Number,v52220954,10.6.1,2300.00000000
+2012,Alberta,Total months of operation,Number,v52220954,10.6.1,2050.00000000
+2013,Alberta,Total months of operation,Number,v52220954,10.6.1,2621.00000000
+2014,Alberta,Total months of operation,Number,v52220954,10.6.1,2354.00000000
+2015,Alberta,Total months of operation,Number,v52220954,10.6.1,2300.00000000
+2007,British Columbia,Total greenhouse operations,Number,v52220856,11.1.1,545.00000000
+2008,British Columbia,Total greenhouse operations,Number,v52220856,11.1.1,515.00000000
+2009,British Columbia,Total greenhouse operations,Number,v52220856,11.1.1,525.00000000
+2010,British Columbia,Total greenhouse operations,Number,v52220856,11.1.1,550.00000000
+2011,British Columbia,Total greenhouse operations,Number,v52220856,11.1.1,550.00000000
+2012,British Columbia,Total greenhouse operations,Number,v52220856,11.1.1,550.00000000
+2013,British Columbia,Total greenhouse operations,Number,v52220856,11.1.1,545.00000000
+2014,British Columbia,Total greenhouse operations,Number,v52220856,11.1.1,535.00000000
+2015,British Columbia,Total greenhouse operations,Number,v52220856,11.1.1,525.00000000
+2007,British Columbia,Total greenhouse area,Square feet,v52220867,11.2.2,53200000.00000000
+2008,British Columbia,Total greenhouse area,Square feet,v52220867,11.2.2,51755600.00000000
+2009,British Columbia,Total greenhouse area,Square feet,v52220867,11.2.2,52203645.00000000
+2010,British Columbia,Total greenhouse area,Square feet,v52220867,11.2.2,55317820.00000000
+2011,British Columbia,Total greenhouse area,Square feet,v52220867,11.2.2,57375350.00000000
+2012,British Columbia,Total greenhouse area,Square feet,v52220867,11.2.2,57140950.00000000
+2013,British Columbia,Total greenhouse area,Square feet,v52220867,11.2.2,56915189.00000000
+2014,British Columbia,Total greenhouse area,Square feet,v52220867,11.2.2,56302529.00000000
+2015,British Columbia,Total greenhouse area,Square feet,v52220867,11.2.2,55470108.00000000
+2007,British Columbia,Total greenhouse area,Square metres,v52220878,11.2.3,4942440.00000000
+2008,British Columbia,Total greenhouse area,Square metres,v52220878,11.2.3,4808251.00000000
+2009,British Columbia,Total greenhouse area,Square metres,v52220878,11.2.3,4849875.00000000
+2010,British Columbia,Total greenhouse area,Square metres,v52220878,11.2.3,5139191.00000000
+2011,British Columbia,Total greenhouse area,Square metres,v52220878,11.2.3,5330342.00000000
+2012,British Columbia,Total greenhouse area,Square metres,v52220878,11.2.3,5308566.00000000
+2013,British Columbia,Total greenhouse area,Square metres,v52220878,11.2.3,5287592.00000000
+2014,British Columbia,Total greenhouse area,Square metres,v52220878,11.2.3,5230674.00000000
+2015,British Columbia,Total greenhouse area,Square metres,v52220878,11.2.3,5153339.00000000
+2007,British Columbia,Glass,Square feet,v52220889,11.3.2,31200000.00000000
+2008,British Columbia,Glass,Square feet,v52220889,11.3.2,36436800.00000000
+2009,British Columbia,Glass,Square feet,v52220889,11.3.2,38072760.00000000
+2010,British Columbia,Glass,Square feet,v52220889,11.3.2,41823735.00000000
+2011,British Columbia,Glass,Square feet,v52220889,11.3.2,42769090.00000000
+2012,British Columbia,Glass,Square feet,v52220889,11.3.2,43359126.00000000
+2013,British Columbia,Glass,Square feet,v52220889,11.3.2,46234520.00000000
+2014,British Columbia,Glass,Square feet,v52220889,11.3.2,43809049.00000000
+2015,British Columbia,Glass,Square feet,v52220889,11.3.2,43052658.00000000
+2007,British Columbia,Glass,Square metres,v52220900,11.3.3,2898574.00000000
+2008,British Columbia,Glass,Square metres,v52220900,11.3.3,3385088.00000000
+2009,British Columbia,Glass,Square metres,v52220900,11.3.3,3537074.00000000
+2010,British Columbia,Glass,Square metres,v52220900,11.3.3,3885550.00000000
+2011,British Columbia,Glass,Square metres,v52220900,11.3.3,3973377.00000000
+2012,British Columbia,Glass,Square metres,v52220900,11.3.3,4028193.00000000
+2013,British Columbia,Glass,Square metres,v52220900,11.3.3,4295326.00000000
+2014,British Columbia,Glass,Square metres,v52220900,11.3.3,4069992.00000000
+2015,British Columbia,Glass,Square metres,v52220900,11.3.3,3999721.00000000
+2007,British Columbia,Rigid plastic,Square feet,v52220911,11.4.2,22000000.00000000
+2008,British Columbia,Rigid plastic,Square feet,v52220911,11.4.2,2300000.00000000
+2009,British Columbia,Rigid plastic,Square feet,v52220911,11.4.2,F
+2010,British Columbia,Rigid plastic,Square feet,v52220911,11.4.2,1833585.00000000
+2011,British Columbia,Rigid plastic,Square feet,v52220911,11.4.2,2434340.00000000
+2012,British Columbia,Rigid plastic,Square feet,v52220911,11.4.2,1427004.00000000
+2013,British Columbia,Rigid plastic,Square feet,v52220911,11.4.2,835605.00000000
+2014,British Columbia,Rigid plastic,Square feet,v52220911,11.4.2,1851153.00000000
+2015,British Columbia,Rigid plastic,Square feet,v52220911,11.4.2,1732236.00000000
+2007,British Columbia,Rigid plastic,Square metres,v52220922,11.4.3,2043866.00000000
+2008,British Columbia,Rigid plastic,Square metres,v52220922,11.4.3,213677.00000000
+2009,British Columbia,Rigid plastic,Square metres,v52220922,11.4.3,F
+2010,British Columbia,Rigid plastic,Square metres,v52220922,11.4.3,170346.00000000
+2011,British Columbia,Rigid plastic,Square metres,v52220922,11.4.3,226157.00000000
+2012,British Columbia,Rigid plastic,Square metres,v52220922,11.4.3,132573.00000000
+2013,British Columbia,Rigid plastic,Square metres,v52220922,11.4.3,77630.00000000
+2014,British Columbia,Rigid plastic,Square metres,v52220922,11.4.3,171978.00000000
+2015,British Columbia,Rigid plastic,Square metres,v52220922,11.4.3,160930.00000000
+2007,British Columbia,Poly-film,Square feet,v52220933,11.5.2,0.00000000
+2008,British Columbia,Poly-film,Square feet,v52220933,11.5.2,13018800.00000000
+2009,British Columbia,Poly-film,Square feet,v52220933,11.5.2,11938475.00000000
+2010,British Columbia,Poly-film,Square feet,v52220933,11.5.2,11660500.00000000
+2011,British Columbia,Poly-film,Square feet,v52220933,11.5.2,12171920.00000000
+2012,British Columbia,Poly-film,Square feet,v52220933,11.5.2,12354820.00000000
+2013,British Columbia,Poly-film,Square feet,v52220933,11.5.2,9845064.00000000
+2014,British Columbia,Poly-film,Square feet,v52220933,11.5.2,10642327.00000000
+2015,British Columbia,Poly-film,Square feet,v52220933,11.5.2,10685214.00000000
+2007,British Columbia,Poly-film,Square metres,v52220944,11.5.3,0.00000000
+2008,British Columbia,Poly-film,Square metres,v52220944,11.5.3,1209486.00000000
+2009,British Columbia,Poly-film,Square metres,v52220944,11.5.3,1109120.00000000
+2010,British Columbia,Poly-film,Square metres,v52220944,11.5.3,1083295.00000000
+2011,British Columbia,Poly-film,Square metres,v52220944,11.5.3,1130808.00000000
+2012,British Columbia,Poly-film,Square metres,v52220944,11.5.3,1147800.00000000
+2013,British Columbia,Poly-film,Square metres,v52220944,11.5.3,914636.00000000
+2014,British Columbia,Poly-film,Square metres,v52220944,11.5.3,988704.00000000
+2015,British Columbia,Poly-film,Square metres,v52220944,11.5.3,992688.00000000
+2007,British Columbia,Total months of operation,Number,v52220955,11.6.1,4600.00000000
+2008,British Columbia,Total months of operation,Number,v52220955,11.6.1,4500.00000000
+2009,British Columbia,Total months of operation,Number,v52220955,11.6.1,3987.00000000
+2010,British Columbia,Total months of operation,Number,v52220955,11.6.1,5175.00000000
+2011,British Columbia,Total months of operation,Number,v52220955,11.6.1,4225.00000000
+2012,British Columbia,Total months of operation,Number,v52220955,11.6.1,4780.00000000
+2013,British Columbia,Total months of operation,Number,v52220955,11.6.1,5736.00000000
+2014,British Columbia,Total months of operation,Number,v52220955,11.6.1,5468.00000000
+2015,British Columbia,Total months of operation,Number,v52220955,11.6.1,5572.00000000

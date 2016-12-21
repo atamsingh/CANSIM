@@ -165,10 +165,12 @@ function downloader() {
               };
               fs.writeFile("zipfiles/"+fileName+".zip", body, function(err) {
                 //console.log("zipped file written!" + code);
-                fs.createReadStream("zipfiles/"+fileName+".zip").pipe(unzip.Extract({ path: "zipfiles/unzipped/" }));
+                fs.createReadStream("zipfiles/"+fileName+".zip").pipe(unzip.Extract({ path: "zipfiles/" }));
                 console.log("unzipped file written!" + code)
-
+                fs.unlink("zipfiles/"+fileName+".zip")
+                r
               });
+
             });
           } catch(e){
             console.log('error downloading file: ' + code)

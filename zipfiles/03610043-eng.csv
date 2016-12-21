@@ -1,0 +1,43 @@
+Ref_Date,GEO,NAICS,EXPENDITURE,Vector,Coordinate,Value
+2013,Canada,Employment services,Total operating expense,v99450573,1.1.1,100.0
+2014,Canada,Employment services,Total operating expense,v99450573,1.1.1,100.0
+2013,Canada,Employment services,Cost of goods sold,v99450574,1.1.2,0.6
+2014,Canada,Employment services,Cost of goods sold,v99450574,1.1.2,0.0
+2013,Canada,Employment services,"Salaries, wages, commissions and benefits",v99450575,1.1.3,65.1
+2014,Canada,Employment services,"Salaries, wages, commissions and benefits",v99450575,1.1.3,63.7
+2013,Canada,Employment services,Subcontracts,v99450576,1.1.4,23.7
+2014,Canada,Employment services,Subcontracts,v99450576,1.1.4,24.8
+2013,Canada,Employment services,Research and development fees,v99450577,1.1.5,x
+2014,Canada,Employment services,Research and development fees,v99450577,1.1.5,x
+2013,Canada,Employment services,Professional and business fees,v99450578,1.1.6,1.9
+2014,Canada,Employment services,Professional and business fees,v99450578,1.1.6,1.7
+2013,Canada,Employment services,Utilities,v99450579,1.1.7,x
+2014,Canada,Employment services,Utilities,v99450579,1.1.7,0.1
+2013,Canada,Employment services,Office and computer related expenses,v99450580,1.1.8,0.6
+2014,Canada,Employment services,Office and computer related expenses,v99450580,1.1.8,0.7
+2013,Canada,Employment services,"Telephone, Internet and other telecommunication",v99450581,1.1.9,0.3
+2014,Canada,Employment services,"Telephone, Internet and other telecommunication",v99450581,1.1.9,0.3
+2013,Canada,Employment services,"Business taxes, licenses and permits",v99450582,1.1.10,0.1
+2014,Canada,Employment services,"Business taxes, licenses and permits",v99450582,1.1.10,0.1
+2013,Canada,Employment services,"Royalties, franchise fees and memberships",v99450583,1.1.11,0.2
+2014,Canada,Employment services,"Royalties, franchise fees and memberships",v99450583,1.1.11,0.3
+2013,Canada,Employment services,Crown charges,v99450584,1.1.12,0.0
+2014,Canada,Employment services,Crown charges,v99450584,1.1.12,x
+2013,Canada,Employment services,Rental and leasing,v99450585,1.1.13,1.2
+2014,Canada,Employment services,Rental and leasing,v99450585,1.1.13,1.4
+2013,Canada,Employment services,Repair and maintenance,v99450586,1.1.14,0.1
+2014,Canada,Employment services,Repair and maintenance,v99450586,1.1.14,0.1
+2013,Canada,Employment services,Amortization and depreciation,v99450587,1.1.15,0.4
+2014,Canada,Employment services,Amortization and depreciation,v99450587,1.1.15,0.4
+2013,Canada,Employment services,Insurance,v99450588,1.1.16,0.2
+2014,Canada,Employment services,Insurance,v99450588,1.1.16,0.3
+2013,Canada,Employment services,"Advertising, marketing, promotions, meals and entertainment",v99450589,1.1.17,0.6
+2014,Canada,Employment services,"Advertising, marketing, promotions, meals and entertainment",v99450589,1.1.17,0.8
+2013,Canada,Employment services,"Travel, meetings and conventions",v99450590,1.1.18,0.5
+2014,Canada,Employment services,"Travel, meetings and conventions",v99450590,1.1.18,0.5
+2013,Canada,Employment services,Financial services,v99450591,1.1.19,0.2
+2014,Canada,Employment services,Financial services,v99450591,1.1.19,0.3
+2013,Canada,Employment services,Other non-production-related costs and expenses,v99450592,1.1.20,0.1
+2014,Canada,Employment services,Other non-production-related costs and expenses,v99450592,1.1.20,0.2
+2013,Canada,Employment services,All other cost and expenses,v99450593,1.1.21,4.0
+2014,Canada,Employment services,All other cost and expenses,v99450593,1.1.21,3.8

@@ -1,0 +1,865 @@
+Ref_Date,GEO,ORI,INT,Vector,Coordinate,Value
+1953,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,168868.00
+1954,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,154227.00
+1955,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,109946.00
+1956,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,164857.00
+1957,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,282164.00
+1958,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,124851.00
+1959,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,106928.00
+1960,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,104111.00
+1961,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,71689.00
+1962,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,74586.00
+1963,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,93151.00
+1964,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,112606.00
+1965,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,146758.00
+1966,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,194743.00
+1967,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,222876.00
+1968,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,183974.00
+1969,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,161531.00
+1970,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,147713.00
+1971,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,121900.00
+1972,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,122006.00
+1973,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,184200.00
+1974,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,218465.00
+1975,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,187881.00
+1976,Canada,Overseas and the United States,Total immigration,v742547,1.1.1,149429.00
+1953,Canada,Overseas and the United States,Total workers,v742548,1.1.2,91133.00
+1954,Canada,Overseas and the United States,Total workers,v742548,1.1.2,84376.00
+1955,Canada,Overseas and the United States,Total workers,v742548,1.1.2,57987.00
+1956,Canada,Overseas and the United States,Total workers,v742548,1.1.2,91039.00
+1957,Canada,Overseas and the United States,Total workers,v742548,1.1.2,151511.00
+1958,Canada,Overseas and the United States,Total workers,v742548,1.1.2,63078.00
+1959,Canada,Overseas and the United States,Total workers,v742548,1.1.2,53551.00
+1960,Canada,Overseas and the United States,Total workers,v742548,1.1.2,53573.00
+1961,Canada,Overseas and the United States,Total workers,v742548,1.1.2,34809.00
+1962,Canada,Overseas and the United States,Total workers,v742548,1.1.2,36748.00
+1963,Canada,Overseas and the United States,Total workers,v742548,1.1.2,45866.00
+1964,Canada,Overseas and the United States,Total workers,v742548,1.1.2,56190.00
+1965,Canada,Overseas and the United States,Total workers,v742548,1.1.2,74195.00
+1966,Canada,Overseas and the United States,Total workers,v742548,1.1.2,99210.00
+1967,Canada,Overseas and the United States,Total workers,v742548,1.1.2,119539.00
+1968,Canada,Overseas and the United States,Total workers,v742548,1.1.2,95446.00
+1969,Canada,Overseas and the United States,Total workers,v742548,1.1.2,84349.00
+1970,Canada,Overseas and the United States,Total workers,v742548,1.1.2,77723.00
+1971,Canada,Overseas and the United States,Total workers,v742548,1.1.2,61282.00
+1972,Canada,Overseas and the United States,Total workers,v742548,1.1.2,59432.00
+1973,Canada,Overseas and the United States,Total workers,v742548,1.1.2,92228.00
+1974,Canada,Overseas and the United States,Total workers,v742548,1.1.2,106083.00
+1975,Canada,Overseas and the United States,Total workers,v742548,1.1.2,81189.00
+1976,Canada,Overseas and the United States,Total workers,v742548,1.1.2,61461.00
+1953,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,1176.00
+1954,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,1633.00
+1955,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,1404.00
+1956,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,996.00
+1957,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,1216.00
+1958,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,944.00
+1959,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,837.00
+1960,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,825.00
+1961,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,896.00
+1962,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,1093.00
+1963,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,1159.00
+1964,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,1212.00
+1965,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,1728.00
+1966,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,2292.00
+1967,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,3023.00
+1968,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,2385.00
+1969,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,2566.00
+1970,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,3095.00
+1971,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,3464.00
+1972,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,4368.00
+1973,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,5464.00
+1974,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,6445.00
+1975,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,5763.00
+1976,Canada,Overseas and the United States,"Workers, managerial and administrative",v742549,1.1.3,5655.00
+1953,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,8845.00
+1954,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,8350.00
+1955,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,7159.00
+1956,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,9343.00
+1957,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,16040.00
+1958,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,7553.00
+1959,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,6947.00
+1960,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,7436.00
+1961,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,6696.00
+1962,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,8218.00
+1963,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,9640.00
+1964,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,11965.00
+1965,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,16654.00
+1966,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,23637.00
+1967,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,30853.00
+1968,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,29250.00
+1969,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,26883.00
+1970,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,22412.00
+1971,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,16307.00
+1972,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,15262.00
+1973,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,19112.00
+1974,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,21599.00
+1975,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,19821.00
+1976,Canada,Overseas and the United States,"Workers, professional",v742553,1.1.4,14378.00
+1953,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,6339.00
+1954,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,6775.00
+1955,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,5775.00
+1956,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,9492.00
+1957,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,16829.00
+1958,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,6745.00
+1959,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,5459.00
+1960,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,5860.00
+1961,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,4232.00
+1962,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,4898.00
+1963,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,6186.00
+1964,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,7931.00
+1965,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,9919.00
+1966,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,13235.00
+1967,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,16609.00
+1968,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,12651.00
+1969,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,12222.00
+1970,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,12143.00
+1971,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,9909.00
+1972,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,8549.00
+1973,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,13422.00
+1974,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,15660.00
+1975,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,11803.00
+1976,Canada,Overseas and the United States,"Workers, clerical",v742554,1.1.5,9345.00
+1953,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1855.00
+1954,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1938.00
+1955,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1190.00
+1956,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,2255.00
+1957,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,5254.00
+1958,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1229.00
+1959,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,999.00
+1960,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1223.00
+1961,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,574.00
+1962,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,489.00
+1963,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,652.00
+1964,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,768.00
+1965,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1203.00
+1966,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1809.00
+1967,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1894.00
+1968,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1257.00
+1969,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,932.00
+1970,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,843.00
+1971,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,740.00
+1972,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,795.00
+1973,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1261.00
+1974,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1315.00
+1975,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,1055.00
+1976,Canada,Overseas and the United States,"Workers, transport and communication",v742555,1.1.6,784.00
+1953,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,3185.00
+1954,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,2735.00
+1955,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,2146.00
+1956,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,3823.00
+1957,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,6559.00
+1958,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,2229.00
+1959,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,2107.00
+1960,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,2152.00
+1961,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,1241.00
+1962,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,1214.00
+1963,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,1496.00
+1964,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,1999.00
+1965,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,2660.00
+1966,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,3306.00
+1967,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,3358.00
+1968,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,3195.00
+1969,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,3287.00
+1970,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,3030.00
+1971,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,2486.00
+1972,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,2460.00
+1973,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,3657.00
+1974,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,4119.00
+1975,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,3294.00
+1976,Canada,Overseas and the United States,"Workers, commercial and financial",v742556,1.1.7,2632.00
+1953,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,13766.00
+1954,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,11974.00
+1955,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,9588.00
+1956,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,13800.00
+1957,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,17574.00
+1958,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,11501.00
+1959,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,9740.00
+1960,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,8763.00
+1961,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,6557.00
+1962,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,5853.00
+1963,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,6099.00
+1964,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,6420.00
+1965,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,7587.00
+1966,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,8681.00
+1967,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,10716.00
+1968,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,9235.00
+1969,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,9060.00
+1970,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,7852.00
+1971,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,6387.00
+1972,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,6575.00
+1973,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,11917.00
+1974,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,10739.00
+1975,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,7198.00
+1976,Canada,Overseas and the United States,"Workers, service, sports and recreation",v742557,1.1.8,5774.00
+1953,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,17250.00
+1954,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,10920.00
+1955,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,7036.00
+1956,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,7500.00
+1957,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,10838.00
+1958,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,5071.00
+1959,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,4965.00
+1960,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,5321.00
+1961,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,2341.00
+1962,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,1923.00
+1963,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,2398.00
+1964,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,2234.00
+1965,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,2362.00
+1966,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,3153.00
+1967,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,3203.00
+1968,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,3164.00
+1969,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,2283.00
+1970,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,2129.00
+1971,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,2160.00
+1972,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,2127.00
+1973,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,3068.00
+1974,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,2637.00
+1975,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,1511.00
+1976,Canada,Overseas and the United States,"Workers, agriculture",v742558,1.1.9,1162.00
+1953,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,415.00
+1954,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,335.00
+1955,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,260.00
+1956,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,505.00
+1957,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,827.00
+1958,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,169.00
+1959,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,123.00
+1960,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,188.00
+1961,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,65.00
+1962,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,78.00
+1963,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,66.00
+1964,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,73.00
+1965,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,187.00
+1966,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,260.00
+1967,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,324.00
+1968,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,114.00
+1969,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,132.00
+1970,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,111.00
+1971,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,87.00
+1972,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,93.00
+1973,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,211.00
+1974,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,293.00
+1975,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,171.00
+1976,Canada,Overseas and the United States,"Workers, logging, fishing and trapping",v742559,1.1.10,60.00
+1953,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,464.00
+1954,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,428.00
+1955,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,254.00
+1956,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,1144.00
+1957,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,1866.00
+1958,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,344.00
+1959,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,248.00
+1960,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,479.00
+1961,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,90.00
+1962,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,100.00
+1963,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,130.00
+1964,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,114.00
+1965,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,230.00
+1966,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,334.00
+1967,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,380.00
+1968,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,496.00
+1969,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,389.00
+1970,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,272.00
+1971,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,237.00
+1972,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,144.00
+1973,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,173.00
+1974,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,233.00
+1975,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,178.00
+1976,Canada,Overseas and the United States,"Workers, mining and quarrying, gas and oil",v742560,1.1.11,103.00
+1953,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,26492.00
+1954,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,25699.00
+1955,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,15117.00
+1956,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,29264.00
+1957,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,54376.00
+1958,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,17476.00
+1959,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,12792.00
+1960,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,13551.00
+1961,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,8076.00
+1962,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,9685.00
+1963,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,14415.00
+1964,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,17476.00
+1965,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,24167.00
+1966,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,34047.00
+1967,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,38761.00
+1968,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,30926.00
+1969,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,23443.00
+1970,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,22006.00
+1971,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,16166.00
+1972,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,15389.00
+1973,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,26396.00
+1974,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,34620.00
+1975,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,24696.00
+1976,Canada,Overseas and the United States,"Workers, manufacturing, mechanical and construction",v742550,1.1.12,16578.00
+1953,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,10380.00
+1954,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,13011.00
+1955,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,7687.00
+1956,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,12482.00
+1957,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,19471.00
+1958,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,9388.00
+1959,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,8940.00
+1960,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,7482.00
+1961,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,3982.00
+1962,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,3145.00
+1963,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,3559.00
+1964,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,5737.00
+1965,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,7112.00
+1966,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,7593.00
+1967,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,8792.00
+1968,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,2681.00
+1969,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,2018.00
+1970,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,1614.00
+1971,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,1324.00
+1972,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,1184.00
+1973,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,2734.00
+1974,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,1787.00
+1975,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,1183.00
+1976,Canada,Overseas and the United States,"Workers, labourers",v742551,1.1.13,915.00
+1953,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,966.00
+1954,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,578.00
+1955,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,371.00
+1956,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,435.00
+1957,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,661.00
+1958,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,429.00
+1959,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,394.00
+1960,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,293.00
+1961,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,59.00
+1962,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,52.00
+1963,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,66.00
+1964,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,261.00
+1965,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,386.00
+1966,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,863.00
+1967,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,1626.00
+1968,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,92.00
+1969,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,1134.00
+1970,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,2216.00
+1971,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,2015.00
+1972,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,2486.00
+1973,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,4813.00
+1974,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,6636.00
+1975,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,4516.00
+1976,Canada,Overseas and the United States,"Workers, others not stated",v742552,1.1.14,4075.00
+1953,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,77735.00
+1954,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,69851.00
+1955,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,51959.00
+1956,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,73818.00
+1957,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,130653.00
+1958,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,61773.00
+1959,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,53377.00
+1960,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,50538.00
+1961,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,36880.00
+1962,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,37838.00
+1963,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,47285.00
+1964,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,56416.00
+1965,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,72563.00
+1966,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,95533.00
+1967,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,103337.00
+1968,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,88528.00
+1969,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,77182.00
+1970,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,69990.00
+1971,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,60618.00
+1972,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,62574.00
+1973,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,91972.00
+1974,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,112382.00
+1975,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,106692.00
+1976,Canada,Overseas and the United States,Total dependents,v742561,1.1.15,87968.00
+1953,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,31343.00
+1954,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,28897.00
+1955,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,21637.00
+1956,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,30547.00
+1957,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,52533.00
+1958,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,24795.00
+1959,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,21223.00
+1960,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,20654.00
+1961,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,15882.00
+1962,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,15674.00
+1963,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,19305.00
+1964,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,21023.00
+1965,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,25809.00
+1966,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,34216.00
+1967,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,37894.00
+1968,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,32091.00
+1969,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,27389.00
+1970,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,25361.00
+1971,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,21333.00
+1972,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,21749.00
+1973,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,27530.00
+1974,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,32470.00
+1975,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,30175.00
+1976,Canada,Overseas and the United States,"Dependents, spouse",v742562,1.1.16,25330.00
+1953,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,41253.00
+1954,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,35503.00
+1955,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,25397.00
+1956,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,38461.00
+1957,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,70673.00
+1958,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,30444.00
+1959,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,26133.00
+1960,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,24626.00
+1961,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,17315.00
+1962,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,18137.00
+1963,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,23226.00
+1964,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,29819.00
+1965,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,40315.00
+1966,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,53895.00
+1967,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,56417.00
+1968,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,44925.00
+1969,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,38754.00
+1970,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,34493.00
+1971,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,29684.00
+1972,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,30977.00
+1973,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,44149.00
+1974,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,61008.00
+1975,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,56722.00
+1976,Canada,Overseas and the United States,"Dependents, children",v742563,1.1.17,42197.00
+1953,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,5139.00
+1954,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,5451.00
+1955,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,4925.00
+1956,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,4810.00
+1957,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,7447.00
+1958,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,6534.00
+1959,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,6021.00
+1960,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,5258.00
+1961,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,3683.00
+1962,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,4027.00
+1963,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,4754.00
+1964,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,5574.00
+1965,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,6439.00
+1966,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,7422.00
+1967,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,9026.00
+1968,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,11512.00
+1969,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,11039.00
+1970,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,10136.00
+1971,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,9601.00
+1972,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,9848.00
+1973,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,20293.00
+1974,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,18904.00
+1975,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,19795.00
+1976,Canada,Overseas and the United States,"Dependents, other",v742564,1.1.18,20441.00
+1953,Canada,Overseas,Total immigration,v742565,1.2.1,159489.00
+1954,Canada,Overseas,Total immigration,v742565,1.2.1,144117.00
+1955,Canada,Overseas,Total immigration,v742565,1.2.1,99554.00
+1956,Canada,Overseas,Total immigration,v742565,1.2.1,155080.00
+1957,Canada,Overseas,Total immigration,v742565,1.2.1,271156.00
+1958,Canada,Overseas,Total immigration,v742565,1.2.1,114005.00
+1959,Canada,Overseas,Total immigration,v742565,1.2.1,95590.00
+1960,Canada,Overseas,Total immigration,v742565,1.2.1,92864.00
+1961,Canada,Overseas,Total immigration,v742565,1.2.1,60173.00
+1962,Canada,Overseas,Total immigration,v742565,1.2.1,62943.00
+1963,Canada,Overseas,Total immigration,v742565,1.2.1,81415.00
+1964,Canada,Overseas,Total immigration,v742565,1.2.1,100041.00
+1965,Canada,Overseas,Total immigration,v742565,1.2.1,131615.00
+1966,Canada,Overseas,Total immigration,v742565,1.2.1,177229.00
+1967,Canada,Overseas,Total immigration,v742565,1.2.1,203838.00
+1968,Canada,Overseas,Total immigration,v742565,1.2.1,163552.00
+1969,Canada,Overseas,Total immigration,v742565,1.2.1,138746.00
+1970,Canada,Overseas,Total immigration,v742565,1.2.1,123289.00
+1971,Canada,Overseas,Total immigration,v742565,1.2.1,97534.00
+1972,Canada,Overseas,Total immigration,v742565,1.2.1,99388.00
+1973,Canada,Overseas,Total immigration,v742565,1.2.1,158958.00
+1974,Canada,Overseas,Total immigration,v742565,1.2.1,191924.00
+1975,Canada,Overseas,Total immigration,v742565,1.2.1,167726.00
+1976,Canada,Overseas,Total immigration,v742565,1.2.1,132114.00
+1953,Canada,Overseas,Total workers,v742566,1.2.2,87129.00
+1954,Canada,Overseas,Total workers,v742566,1.2.2,80205.00
+1955,Canada,Overseas,Total workers,v742566,1.2.2,53803.00
+1956,Canada,Overseas,Total workers,v742566,1.2.2,87189.00
+1957,Canada,Overseas,Total workers,v742566,1.2.2,147181.00
+1958,Canada,Overseas,Total workers,v742566,1.2.2,58862.00
+1959,Canada,Overseas,Total workers,v742566,1.2.2,49370.00
+1960,Canada,Overseas,Total workers,v742566,1.2.2,49192.00
+1961,Canada,Overseas,Total workers,v742566,1.2.2,30607.00
+1962,Canada,Overseas,Total workers,v742566,1.2.2,32603.00
+1963,Canada,Overseas,Total workers,v742566,1.2.2,41656.00
+1964,Canada,Overseas,Total workers,v742566,1.2.2,51269.00
+1965,Canada,Overseas,Total workers,v742566,1.2.2,67760.00
+1966,Canada,Overseas,Total workers,v742566,1.2.2,91802.00
+1967,Canada,Overseas,Total workers,v742566,1.2.2,111273.00
+1968,Canada,Overseas,Total workers,v742566,1.2.2,85906.00
+1969,Canada,Overseas,Total workers,v742566,1.2.2,74129.00
+1970,Canada,Overseas,Total workers,v742566,1.2.2,66261.00
+1971,Canada,Overseas,Total workers,v742566,1.2.2,50648.00
+1972,Canada,Overseas,Total workers,v742566,1.2.2,49728.00
+1973,Canada,Overseas,Total workers,v742566,1.2.2,81735.00
+1974,Canada,Overseas,Total workers,v742566,1.2.2,94658.00
+1975,Canada,Overseas,Total workers,v742566,1.2.2,73009.00
+1976,Canada,Overseas,Total workers,v742566,1.2.2,54452.00
+1953,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,704.00
+1954,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,811.00
+1955,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,486.00
+1956,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,441.00
+1957,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,617.00
+1958,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,379.00
+1959,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,305.00
+1960,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,275.00
+1961,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,274.00
+1962,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,467.00
+1963,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,551.00
+1964,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,557.00
+1965,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,841.00
+1966,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,1319.00
+1967,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,2061.00
+1968,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,1589.00
+1969,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,1610.00
+1970,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,1901.00
+1971,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,1977.00
+1972,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,2901.00
+1973,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,3949.00
+1974,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,4673.00
+1975,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,4284.00
+1976,Canada,Overseas,"Workers, managerial and administrative",v742567,1.2.3,4386.00
+1953,Canada,Overseas,"Workers, professional",v742571,1.2.4,7664.00
+1954,Canada,Overseas,"Workers, professional",v742571,1.2.4,7269.00
+1955,Canada,Overseas,"Workers, professional",v742571,1.2.4,6037.00
+1956,Canada,Overseas,"Workers, professional",v742571,1.2.4,8322.00
+1957,Canada,Overseas,"Workers, professional",v742571,1.2.4,14886.00
+1958,Canada,Overseas,"Workers, professional",v742571,1.2.4,6277.00
+1959,Canada,Overseas,"Workers, professional",v742571,1.2.4,5502.00
+1960,Canada,Overseas,"Workers, professional",v742571,1.2.4,5808.00
+1961,Canada,Overseas,"Workers, professional",v742571,1.2.4,5153.00
+1962,Canada,Overseas,"Workers, professional",v742571,1.2.4,6575.00
+1963,Canada,Overseas,"Workers, professional",v742571,1.2.4,7894.00
+1964,Canada,Overseas,"Workers, professional",v742571,1.2.4,9935.00
+1965,Canada,Overseas,"Workers, professional",v742571,1.2.4,13960.00
+1966,Canada,Overseas,"Workers, professional",v742571,1.2.4,20422.00
+1967,Canada,Overseas,"Workers, professional",v742571,1.2.4,26899.00
+1968,Canada,Overseas,"Workers, professional",v742571,1.2.4,24186.00
+1969,Canada,Overseas,"Workers, professional",v742571,1.2.4,21645.00
+1970,Canada,Overseas,"Workers, professional",v742571,1.2.4,17020.00
+1971,Canada,Overseas,"Workers, professional",v742571,1.2.4,11479.00
+1972,Canada,Overseas,"Workers, professional",v742571,1.2.4,11081.00
+1973,Canada,Overseas,"Workers, professional",v742571,1.2.4,14704.00
+1974,Canada,Overseas,"Workers, professional",v742571,1.2.4,17100.00
+1975,Canada,Overseas,"Workers, professional",v742571,1.2.4,16376.00
+1976,Canada,Overseas,"Workers, professional",v742571,1.2.4,11705.00
+1953,Canada,Overseas,"Workers, clerical",v742572,1.2.5,5943.00
+1954,Canada,Overseas,"Workers, clerical",v742572,1.2.5,6331.00
+1955,Canada,Overseas,"Workers, clerical",v742572,1.2.5,5334.00
+1956,Canada,Overseas,"Workers, clerical",v742572,1.2.5,9027.00
+1957,Canada,Overseas,"Workers, clerical",v742572,1.2.5,16365.00
+1958,Canada,Overseas,"Workers, clerical",v742572,1.2.5,6249.00
+1959,Canada,Overseas,"Workers, clerical",v742572,1.2.5,4998.00
+1960,Canada,Overseas,"Workers, clerical",v742572,1.2.5,5360.00
+1961,Canada,Overseas,"Workers, clerical",v742572,1.2.5,3772.00
+1962,Canada,Overseas,"Workers, clerical",v742572,1.2.5,4418.00
+1963,Canada,Overseas,"Workers, clerical",v742572,1.2.5,5710.00
+1964,Canada,Overseas,"Workers, clerical",v742572,1.2.5,7228.00
+1965,Canada,Overseas,"Workers, clerical",v742572,1.2.5,8939.00
+1966,Canada,Overseas,"Workers, clerical",v742572,1.2.5,12146.00
+1967,Canada,Overseas,"Workers, clerical",v742572,1.2.5,15440.00
+1968,Canada,Overseas,"Workers, clerical",v742572,1.2.5,11381.00
+1969,Canada,Overseas,"Workers, clerical",v742572,1.2.5,10816.00
+1970,Canada,Overseas,"Workers, clerical",v742572,1.2.5,10562.00
+1971,Canada,Overseas,"Workers, clerical",v742572,1.2.5,8610.00
+1972,Canada,Overseas,"Workers, clerical",v742572,1.2.5,7452.00
+1973,Canada,Overseas,"Workers, clerical",v742572,1.2.5,12145.00
+1974,Canada,Overseas,"Workers, clerical",v742572,1.2.5,14293.00
+1975,Canada,Overseas,"Workers, clerical",v742572,1.2.5,10873.00
+1976,Canada,Overseas,"Workers, clerical",v742572,1.2.5,8637.00
+1953,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1749.00
+1954,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1831.00
+1955,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1083.00
+1956,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,2157.00
+1957,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,5125.00
+1958,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1096.00
+1959,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,916.00
+1960,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1129.00
+1961,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,469.00
+1962,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,417.00
+1963,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,580.00
+1964,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,683.00
+1965,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1100.00
+1966,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1698.00
+1967,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1759.00
+1968,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1153.00
+1969,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,831.00
+1970,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,707.00
+1971,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,595.00
+1972,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,604.00
+1973,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1080.00
+1974,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,1141.00
+1975,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,932.00
+1976,Canada,Overseas,"Workers, transport and communication",v742573,1.2.6,677.00
+1953,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2739.00
+1954,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2355.00
+1955,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,1771.00
+1956,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,3411.00
+1957,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,6137.00
+1958,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,1859.00
+1959,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,1670.00
+1960,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,1778.00
+1961,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,922.00
+1962,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,949.00
+1963,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,1238.00
+1964,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,1728.00
+1965,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2286.00
+1966,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2921.00
+1967,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2965.00
+1968,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2688.00
+1969,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2691.00
+1970,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2336.00
+1971,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,1893.00
+1972,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,1938.00
+1973,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,3133.00
+1974,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,3542.00
+1975,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2984.00
+1976,Canada,Overseas,"Workers, commercial and financial",v742574,1.2.7,2364.00
+1953,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,13566.00
+1954,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,11735.00
+1955,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,9312.00
+1956,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,13508.00
+1957,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,17245.00
+1958,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,11174.00
+1959,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,9416.00
+1960,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,8414.00
+1961,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,6255.00
+1962,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,5585.00
+1963,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,5861.00
+1964,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,6137.00
+1965,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,7225.00
+1966,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,8254.00
+1967,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,10342.00
+1968,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,8773.00
+1969,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,8516.00
+1970,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,7138.00
+1971,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,5738.00
+1972,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,5846.00
+1973,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,11134.00
+1974,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,10095.00
+1975,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,6834.00
+1976,Canada,Overseas,"Workers, service, sports and recreation",v742575,1.2.8,5396.00
+1953,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,17037.00
+1954,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,10709.00
+1955,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,6846.00
+1956,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,7351.00
+1957,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,10702.00
+1958,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,4898.00
+1959,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,4764.00
+1960,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,5095.00
+1961,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,2069.00
+1962,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,1691.00
+1963,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,2166.00
+1964,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,2066.00
+1965,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,2223.00
+1966,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,3007.00
+1967,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,3015.00
+1968,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,2889.00
+1969,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,2075.00
+1970,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,1891.00
+1971,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,1939.00
+1972,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,1960.00
+1973,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,2850.00
+1974,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,2373.00
+1975,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,1371.00
+1976,Canada,Overseas,"Workers, agriculture",v742576,1.2.9,1053.00
+1953,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,379.00
+1954,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,277.00
+1955,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,194.00
+1956,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,429.00
+1957,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,747.00
+1958,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,140.00
+1959,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,91.00
+1960,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,157.00
+1961,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,47.00
+1962,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,52.00
+1963,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,45.00
+1964,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,57.00
+1965,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,148.00
+1966,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,219.00
+1967,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,289.00
+1968,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,98.00
+1969,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,106.00
+1970,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,74.00
+1971,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,57.00
+1972,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,60.00
+1973,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,148.00
+1974,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,193.00
+1975,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,128.00
+1976,Canada,Overseas,"Workers, logging, fishing and trapping",v742577,1.2.10,49.00
+1953,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,432.00
+1954,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,390.00
+1955,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,235.00
+1956,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,1113.00
+1957,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,1815.00
+1958,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,322.00
+1959,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,236.00
+1960,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,463.00
+1961,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,75.00
+1962,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,88.00
+1963,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,113.00
+1964,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,104.00
+1965,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,216.00
+1966,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,318.00
+1967,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,358.00
+1968,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,470.00
+1969,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,379.00
+1970,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,250.00
+1971,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,209.00
+1972,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,131.00
+1973,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,152.00
+1974,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,216.00
+1975,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,164.00
+1976,Canada,Overseas,"Workers, mining and quarrying, gas and oil",v742578,1.2.11,93.00
+1953,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,25791.00
+1954,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,25095.00
+1955,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,14572.00
+1956,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,28650.00
+1957,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,53526.00
+1958,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,16726.00
+1959,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,12214.00
+1960,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,13011.00
+1961,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,7615.00
+1962,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,9213.00
+1963,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,13938.00
+1964,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,16852.00
+1965,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,23408.00
+1966,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,33140.00
+1967,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,37830.00
+1968,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,29977.00
+1969,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,22413.00
+1970,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,20704.00
+1971,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,14949.00
+1972,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,14203.00
+1973,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,25182.00
+1974,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,32951.00
+1975,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,23545.00
+1976,Canada,Overseas,"Workers, manufacturing, mechanical and construction",v742568,1.2.12,15646.00
+1953,Canada,Overseas,"Workers, labourers",v742569,1.2.13,10312.00
+1954,Canada,Overseas,"Workers, labourers",v742569,1.2.13,12924.00
+1955,Canada,Overseas,"Workers, labourers",v742569,1.2.13,7613.00
+1956,Canada,Overseas,"Workers, labourers",v742569,1.2.13,12368.00
+1957,Canada,Overseas,"Workers, labourers",v742569,1.2.13,19382.00
+1958,Canada,Overseas,"Workers, labourers",v742569,1.2.13,9334.00
+1959,Canada,Overseas,"Workers, labourers",v742569,1.2.13,8875.00
+1960,Canada,Overseas,"Workers, labourers",v742569,1.2.13,7417.00
+1961,Canada,Overseas,"Workers, labourers",v742569,1.2.13,3918.00
+1962,Canada,Overseas,"Workers, labourers",v742569,1.2.13,3114.00
+1963,Canada,Overseas,"Workers, labourers",v742569,1.2.13,3524.00
+1964,Canada,Overseas,"Workers, labourers",v742569,1.2.13,5699.00
+1965,Canada,Overseas,"Workers, labourers",v742569,1.2.13,7049.00
+1966,Canada,Overseas,"Workers, labourers",v742569,1.2.13,7514.00
+1967,Canada,Overseas,"Workers, labourers",v742569,1.2.13,8716.00
+1968,Canada,Overseas,"Workers, labourers",v742569,1.2.13,2613.00
+1969,Canada,Overseas,"Workers, labourers",v742569,1.2.13,1939.00
+1970,Canada,Overseas,"Workers, labourers",v742569,1.2.13,1509.00
+1971,Canada,Overseas,"Workers, labourers",v742569,1.2.13,1235.00
+1972,Canada,Overseas,"Workers, labourers",v742569,1.2.13,1089.00
+1973,Canada,Overseas,"Workers, labourers",v742569,1.2.13,2578.00
+1974,Canada,Overseas,"Workers, labourers",v742569,1.2.13,1658.00
+1975,Canada,Overseas,"Workers, labourers",v742569,1.2.13,1117.00
+1976,Canada,Overseas,"Workers, labourers",v742569,1.2.13,851.00
+1953,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,813.00
+1954,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,478.00
+1955,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,320.00
+1956,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,412.00
+1957,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,634.00
+1958,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,408.00
+1959,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,383.00
+1960,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,285.00
+1961,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,38.00
+1962,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,34.00
+1963,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,36.00
+1964,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,223.00
+1965,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,365.00
+1966,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,844.00
+1967,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,1599.00
+1968,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,89.00
+1969,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,1108.00
+1970,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,2169.00
+1971,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,1967.00
+1972,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,2427.00
+1973,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,4680.00
+1974,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,6423.00
+1975,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,4401.00
+1976,Canada,Overseas,"Workers, others not stated",v742570,1.2.14,3903.00
+1953,Canada,Overseas,Total dependents,v742579,1.2.15,72360.00
+1954,Canada,Overseas,Total dependents,v742579,1.2.15,63912.00
+1955,Canada,Overseas,Total dependents,v742579,1.2.15,45751.00
+1956,Canada,Overseas,Total dependents,v742579,1.2.15,67891.00
+1957,Canada,Overseas,Total dependents,v742579,1.2.15,123975.00
+1958,Canada,Overseas,Total dependents,v742579,1.2.15,55143.00
+1959,Canada,Overseas,Total dependents,v742579,1.2.15,46220.00
+1960,Canada,Overseas,Total dependents,v742579,1.2.15,43672.00
+1961,Canada,Overseas,Total dependents,v742579,1.2.15,29566.00
+1962,Canada,Overseas,Total dependents,v742579,1.2.15,30340.00
+1963,Canada,Overseas,Total dependents,v742579,1.2.15,39759.00
+1964,Canada,Overseas,Total dependents,v742579,1.2.15,48772.00
+1965,Canada,Overseas,Total dependents,v742579,1.2.15,63855.00
+1966,Canada,Overseas,Total dependents,v742579,1.2.15,85427.00
+1967,Canada,Overseas,Total dependents,v742579,1.2.15,92565.00
+1968,Canada,Overseas,Total dependents,v742579,1.2.15,77646.00
+1969,Canada,Overseas,Total dependents,v742579,1.2.15,64617.00
+1970,Canada,Overseas,Total dependents,v742579,1.2.15,57028.00
+1971,Canada,Overseas,Total dependents,v742579,1.2.15,46886.00
+1972,Canada,Overseas,Total dependents,v742579,1.2.15,49660.00
+1973,Canada,Overseas,Total dependents,v742579,1.2.15,77223.00
+1974,Canada,Overseas,Total dependents,v742579,1.2.15,97266.00
+1975,Canada,Overseas,Total dependents,v742579,1.2.15,94717.00
+1976,Canada,Overseas,Total dependents,v742579,1.2.15,77662.00
+1953,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,29041.00
+1954,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,26417.00
+1955,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,19053.00
+1956,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,28171.00
+1957,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,49910.00
+1958,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,22274.00
+1959,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,18562.00
+1960,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,18081.00
+1961,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,13243.00
+1962,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,12979.00
+1963,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,16591.00
+1964,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,18565.00
+1965,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,23094.00
+1966,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,30883.00
+1967,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,34380.00
+1968,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,28325.00
+1969,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,22958.00
+1970,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,20488.00
+1971,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,16378.00
+1972,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,17097.00
+1973,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,22649.00
+1974,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,27980.00
+1975,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,26574.00
+1976,Canada,Overseas,"Dependents, spouse",v742580,1.2.16,22126.00
+1953,Canada,Overseas,"Dependents, children",v742581,1.2.17,38836.00
+1954,Canada,Overseas,"Dependents, children",v742581,1.2.17,32694.00
+1955,Canada,Overseas,"Dependents, children",v742581,1.2.17,22361.00
+1956,Canada,Overseas,"Dependents, children",v742581,1.2.17,35481.00
+1957,Canada,Overseas,"Dependents, children",v742581,1.2.17,67227.00
+1958,Canada,Overseas,"Dependents, children",v742581,1.2.17,27061.00
+1959,Canada,Overseas,"Dependents, children",v742581,1.2.17,22424.00
+1960,Canada,Overseas,"Dependents, children",v742581,1.2.17,21131.00
+1961,Canada,Overseas,"Dependents, children",v742581,1.2.17,13541.00
+1962,Canada,Overseas,"Dependents, children",v742581,1.2.17,14302.00
+1963,Canada,Overseas,"Dependents, children",v742581,1.2.17,19464.00
+1964,Canada,Overseas,"Dependents, children",v742581,1.2.17,25701.00
+1965,Canada,Overseas,"Dependents, children",v742581,1.2.17,35446.00
+1966,Canada,Overseas,"Dependents, children",v742581,1.2.17,48322.00
+1967,Canada,Overseas,"Dependents, children",v742581,1.2.17,50402.00
+1968,Canada,Overseas,"Dependents, children",v742581,1.2.17,39119.00
+1969,Canada,Overseas,"Dependents, children",v742581,1.2.17,32282.00
+1970,Canada,Overseas,"Dependents, children",v742581,1.2.17,28094.00
+1971,Canada,Overseas,"Dependents, children",v742581,1.2.17,22851.00
+1972,Canada,Overseas,"Dependents, children",v742581,1.2.17,24535.00
+1973,Canada,Overseas,"Dependents, children",v742581,1.2.17,36873.00
+1974,Canada,Overseas,"Dependents, children",v742581,1.2.17,53092.00
+1975,Canada,Overseas,"Dependents, children",v742581,1.2.17,50311.00
+1976,Canada,Overseas,"Dependents, children",v742581,1.2.17,36882.00
+1953,Canada,Overseas,"Dependents, other",v742582,1.2.18,4483.00
+1954,Canada,Overseas,"Dependents, other",v742582,1.2.18,4801.00
+1955,Canada,Overseas,"Dependents, other",v742582,1.2.18,4337.00
+1956,Canada,Overseas,"Dependents, other",v742582,1.2.18,4239.00
+1957,Canada,Overseas,"Dependents, other",v742582,1.2.18,6838.00
+1958,Canada,Overseas,"Dependents, other",v742582,1.2.18,5808.00
+1959,Canada,Overseas,"Dependents, other",v742582,1.2.18,5234.00
+1960,Canada,Overseas,"Dependents, other",v742582,1.2.18,4460.00
+1961,Canada,Overseas,"Dependents, other",v742582,1.2.18,2782.00
+1962,Canada,Overseas,"Dependents, other",v742582,1.2.18,3059.00
+1963,Canada,Overseas,"Dependents, other",v742582,1.2.18,3704.00
+1964,Canada,Overseas,"Dependents, other",v742582,1.2.18,4506.00
+1965,Canada,Overseas,"Dependents, other",v742582,1.2.18,5315.00
+1966,Canada,Overseas,"Dependents, other",v742582,1.2.18,6222.00
+1967,Canada,Overseas,"Dependents, other",v742582,1.2.18,7783.00
+1968,Canada,Overseas,"Dependents, other",v742582,1.2.18,10202.00
+1969,Canada,Overseas,"Dependents, other",v742582,1.2.18,9377.00
+1970,Canada,Overseas,"Dependents, other",v742582,1.2.18,8446.00
+1971,Canada,Overseas,"Dependents, other",v742582,1.2.18,7657.00
+1972,Canada,Overseas,"Dependents, other",v742582,1.2.18,8028.00
+1973,Canada,Overseas,"Dependents, other",v742582,1.2.18,17701.00
+1974,Canada,Overseas,"Dependents, other",v742582,1.2.18,16194.00
+1975,Canada,Overseas,"Dependents, other",v742582,1.2.18,17832.00
+1976,Canada,Overseas,"Dependents, other",v742582,1.2.18,18654.00

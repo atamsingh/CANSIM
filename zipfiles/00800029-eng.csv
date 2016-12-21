@@ -1,0 +1,325 @@
+Ref_Date,GEO,NAPCS,Vector,Coordinate,Value
+2013,Canada,"Total commodities, retail trade commissions and miscellaneous services (x 1,000)",v101883719,1.1,19459388.0
+2014,Canada,"Total commodities, retail trade commissions and miscellaneous services (x 1,000)",v101883719,1.1,23157527.0
+2013,Canada,"Total commodities (x 1,000)",v101883720,1.2,19251176.0
+2014,Canada,"Total commodities (x 1,000)",v101883720,1.2,23011143.0
+2013,Canada,"Food and beverages (x 1,000)",v101883721,1.3,1486225.0
+2014,Canada,"Food and beverages (x 1,000)",v101883721,1.3,1512141.0
+2013,Canada,"Fresh meat and poultry (x 1,000)",v101883722,1.4,30700.0
+2014,Canada,"Fresh meat and poultry (x 1,000)",v101883722,1.4,38016.0
+2013,Canada,"Fresh fish and other seafood (x 1,000)",v101883723,1.5,3047.0
+2014,Canada,"Fresh fish and other seafood (x 1,000)",v101883723,1.5,7822.0
+2013,Canada,"Fresh fruit and vegetables (x 1,000)",v101883724,1.6,29319.0
+2014,Canada,"Fresh fruit and vegetables (x 1,000)",v101883724,1.6,29836.0
+2013,Canada,"Eggs and dairy products (except frozen desserts) (x 1,000)",v101883725,1.7,288651.0
+2014,Canada,"Eggs and dairy products (except frozen desserts) (x 1,000)",v101883725,1.7,214029.0
+2013,Canada,"Baked goods (except frozen products, cookies and crackers) (x 1,000)",v101883726,1.8,39399.0
+2014,Canada,"Baked goods (except frozen products, cookies and crackers) (x 1,000)",v101883726,1.8,77390.0
+2013,Canada,"Perishable prepared foods (including fresh sliced deli meats, prepared entrees and fresh pasta) (x 1,000)",v101883727,1.9,23595.0
+2014,Canada,"Perishable prepared foods (including fresh sliced deli meats, prepared entrees and fresh pasta) (x 1,000)",v101883727,1.9,29734.0
+2013,Canada,"Frozen food (x 1,000)",v101883728,1.10,80847.0
+2014,Canada,"Frozen food (x 1,000)",v101883728,1.10,100676.0
+2013,Canada,"Cookies, confectionery and snack foods (x 1,000)",v101883729,1.11,276604.0
+2014,Canada,"Cookies, confectionery and snack foods (x 1,000)",v101883729,1.11,224435.0
+2013,Canada,"Packaged food dry goods, not elsewhere classified (x 1,000)",v101883730,1.12,153533.0
+2014,Canada,"Packaged food dry goods, not elsewhere classified (x 1,000)",v101883730,1.12,186026.0
+2013,Canada,"Soft drinks (except bottled water) (x 1,000)",v101883731,1.13,144010.0
+2014,Canada,"Soft drinks (except bottled water) (x 1,000)",v101883731,1.13,152877.0
+2013,Canada,"Non-alcoholic beverages (except soft drinks, milk, hot beverages and frozen drinks) (x 1,000)",v101883732,1.14,291169.0
+2014,Canada,"Non-alcoholic beverages (except soft drinks, milk, hot beverages and frozen drinks) (x 1,000)",v101883732,1.14,119843.0
+2013,Canada,"Hot prepared beverages (including hot coffee) (x 1,000)",v101883733,1.15,108527.0
+2014,Canada,"Hot prepared beverages (including hot coffee) (x 1,000)",v101883733,1.15,329235.0
+2013,Canada,"Alcoholic beverages (x 1,000)",v101883734,1.16,x
+2014,Canada,"Alcoholic beverages (x 1,000)",v101883734,1.16,2162.0
+2013,Canada,"Ice (x 1,000)",v101883735,1.17,x
+2014,Canada,"Ice (x 1,000)",v101883735,1.17,60.0
+2013,Canada,"Clothing, footwear and accessories (x 1,000)",v101883736,1.18,960545.0
+2014,Canada,"Clothing, footwear and accessories (x 1,000)",v101883736,1.18,1358406.0
+2013,Canada,"Men's outerwear coats and jackets (x 1,000)",v101883737,1.19,17939.0
+2014,Canada,"Men's outerwear coats and jackets (x 1,000)",v101883737,1.19,19855.0
+2013,Canada,"Men's suits, sports jackets and blazers (x 1,000)",v101883738,1.20,x
+2014,Canada,"Men's suits, sports jackets and blazers (x 1,000)",v101883738,1.20,17624.0
+2013,Canada,"Men's pants, shirts, sweaters and other bottoms and tops (x 1,000)",v101883739,1.21,29147.0
+2014,Canada,"Men's pants, shirts, sweaters and other bottoms and tops (x 1,000)",v101883739,1.21,73153.0
+2013,Canada,"Men's sleepwear, underwear and hosiery (x 1,000)",v101883740,1.22,x
+2014,Canada,"Men's sleepwear, underwear and hosiery (x 1,000)",v101883740,1.22,5264.0
+2013,Canada,"Men's hats, gloves, belts and other accessories (x 1,000)",v101883741,1.23,18725.0
+2014,Canada,"Men's hats, gloves, belts and other accessories (x 1,000)",v101883741,1.23,11506.0
+2013,Canada,"Men's clothing, not elsewhere classified (x 1,000)",v101883742,1.24,27173.0
+2014,Canada,"Men's clothing, not elsewhere classified (x 1,000)",v101883742,1.24,27410.0
+2013,Canada,"Women's outerwear coats and jackets (x 1,000)",v101883743,1.25,35194.0
+2014,Canada,"Women's outerwear coats and jackets (x 1,000)",v101883743,1.25,57528.0
+2013,Canada,"Women's dresses and suits (x 1,000)",v101883744,1.26,45531.0
+2014,Canada,"Women's dresses and suits (x 1,000)",v101883744,1.26,74489.0
+2013,Canada,"Women's skirts, pants, blouses, sweaters and other bottoms and tops (x 1,000)",v101883745,1.27,124216.0
+2014,Canada,"Women's skirts, pants, blouses, sweaters and other bottoms and tops (x 1,000)",v101883745,1.27,177538.0
+2013,Canada,"Women's lingerie, sleepwear and underwear (x 1,000)",v101883746,1.28,33232.0
+2014,Canada,"Women's lingerie, sleepwear and underwear (x 1,000)",v101883746,1.28,36881.0
+2013,Canada,"Women's hosiery (x 1,000)",v101883747,1.29,2594.0
+2014,Canada,"Women's hosiery (x 1,000)",v101883747,1.29,2597.0
+2013,Canada,"Women's handbags, purses and accessories (x 1,000)",v101883748,1.30,50057.0
+2014,Canada,"Women's handbags, purses and accessories (x 1,000)",v101883748,1.30,165830.0
+2013,Canada,"Women's clothing, not elsewhere classified (x 1,000)",v101883749,1.31,74066.0
+2014,Canada,"Women's clothing, not elsewhere classified (x 1,000)",v101883749,1.31,83571.0
+2013,Canada,"Boys' clothing and accessories (x 1,000)",v101883750,1.32,x
+2014,Canada,"Boys' clothing and accessories (x 1,000)",v101883750,1.32,6256.0
+2013,Canada,"Girls' clothing and accessories (x 1,000)",v101883751,1.33,3039.0
+2014,Canada,"Girls' clothing and accessories (x 1,000)",v101883751,1.33,5729.0
+2013,Canada,"Infants' clothing and fabric accessories (x 1,000)",v101883752,1.34,74519.0
+2014,Canada,"Infants' clothing and fabric accessories (x 1,000)",v101883752,1.34,53668.0
+2013,Canada,"Unisex clothing, costumes and vestments (x 1,000)",v101883753,1.35,33428.0
+2014,Canada,"Unisex clothing, costumes and vestments (x 1,000)",v101883753,1.35,36401.0
+2013,Canada,"Men's athletic footwear (x 1,000)",v101883754,1.36,8078.0
+2014,Canada,"Men's athletic footwear (x 1,000)",v101883754,1.36,10612.0
+2013,Canada,"Men's footwear and accessories (except athletic) (x 1,000)",v101883755,1.37,47749.0
+2014,Canada,"Men's footwear and accessories (except athletic) (x 1,000)",v101883755,1.37,88216.0
+2013,Canada,"Women's athletic footwear (x 1,000)",v101883756,1.38,8267.0
+2014,Canada,"Women's athletic footwear (x 1,000)",v101883756,1.38,12290.0
+2013,Canada,"Women's footwear and accessories (except athletic) (x 1,000)",v101883757,1.39,72581.0
+2014,Canada,"Women's footwear and accessories (except athletic) (x 1,000)",v101883757,1.39,115679.0
+2013,Canada,"Infants' footwear (x 1,000)",v101883758,1.40,986.0
+2014,Canada,"Infants' footwear (x 1,000)",v101883758,1.40,571.0
+2013,Canada,"Children's athletic footwear (x 1,000)",v101883759,1.41,3803.0
+2014,Canada,"Children's athletic footwear (x 1,000)",v101883759,1.41,2054.0
+2013,Canada,"Children's footwear, not elsewhere classified (x 1,000)",v101883760,1.42,x
+2014,Canada,"Children's footwear, not elsewhere classified (x 1,000)",v101883760,1.42,245.0
+2013,Canada,"Fine jewellery (including precious metal, diamonds, gemstones, and pearls) (x 1,000)",v101883761,1.43,87052.0
+2014,Canada,"Fine jewellery (including precious metal, diamonds, gemstones, and pearls) (x 1,000)",v101883761,1.43,135100.0
+2013,Canada,"Costume jewellery (including base metal, glass, plastic, and synthetic stones) (x 1,000)",v101883762,1.44,63796.0
+2014,Canada,"Costume jewellery (including base metal, glass, plastic, and synthetic stones) (x 1,000)",v101883762,1.44,32925.0
+2013,Canada,"Watches (x 1,000)",v101883763,1.45,63245.0
+2014,Canada,"Watches (x 1,000)",v101883763,1.45,61604.0
+2013,Canada,"Luggage, briefcases, knapsacks, and duffel bags (x 1,000)",v101883764,1.46,20315.0
+2014,Canada,"Luggage, briefcases, knapsacks, and duffel bags (x 1,000)",v101883764,1.46,43810.0
+2013,Canada,"Home furniture, furnishings, housewares,appliances and electronics (x 1,000)",v101883765,1.47,2437963.0
+2014,Canada,"Home furniture, furnishings, housewares,appliances and electronics (x 1,000)",v101883765,1.47,3318051.0
+2013,Canada,"Mattresses and foundations (x 1,000)",v101883766,1.48,45802.0
+2014,Canada,"Mattresses and foundations (x 1,000)",v101883766,1.48,71234.0
+2013,Canada,"Infants' furniture (x 1,000)",v101883767,1.49,x
+2014,Canada,"Infants' furniture (x 1,000)",v101883767,1.49,x
+2013,Canada,"Indoor home furniture, not elsewhere classified (x 1,000)",v101883768,1.50,303356.0
+2014,Canada,"Indoor home furniture, not elsewhere classified (x 1,000)",v101883768,1.50,482518.0
+2013,Canada,"Outdoor home furniture (x 1,000)",v101883769,1.51,125473.0
+2014,Canada,"Outdoor home furniture (x 1,000)",v101883769,1.51,158003.0
+2013,Canada,"Window treatments (x 1,000)",v101883770,1.52,71768.0
+2014,Canada,"Window treatments (x 1,000)",v101883770,1.52,75020.0
+2013,Canada,"Household textile products, not elsewhere classified (x 1,000)",v101883771,1.53,148596.0
+2014,Canada,"Household textile products, not elsewhere classified (x 1,000)",v101883771,1.53,119002.0
+2013,Canada,"Decorative home furnishings (except textile products) (x 1,000)",v101883772,1.54,125933.0
+2014,Canada,"Decorative home furnishings (except textile products) (x 1,000)",v101883772,1.54,156409.0
+2013,Canada,"Tableware, kitchenware, cookware and bakeware (x 1,000)",v101883773,1.55,117643.0
+2014,Canada,"Tableware, kitchenware, cookware and bakeware (x 1,000)",v101883773,1.55,191415.0
+2013,Canada,"Household cleaning supplies (x 1,000)",v101883774,1.56,45747.0
+2014,Canada,"Household cleaning supplies (x 1,000)",v101883774,1.56,33963.0
+2013,Canada,"Paper household supplies (x 1,000)",v101883775,1.57,x
+2014,Canada,"Paper household supplies (x 1,000)",v101883775,1.57,x
+2013,Canada,"Miscellaneous household supplies, not elsewhere classified (x 1,000)",v101883776,1.58,19850.0
+2014,Canada,"Miscellaneous household supplies, not elsewhere classified (x 1,000)",v101883776,1.58,24691.0
+2013,Canada,"Small home appliances (x 1,000)",v101883777,1.59,226662.0
+2014,Canada,"Small home appliances (x 1,000)",v101883777,1.59,174151.0
+2013,Canada,"Major home kitchen and cleaning appliances (x 1,000)",v101883778,1.60,266981.0
+2014,Canada,"Major home kitchen and cleaning appliances (x 1,000)",v101883778,1.60,326679.0
+2013,Canada,"Computers, peripherals, and networking equipment (x 1,000)",v101883779,1.61,457979.0
+2014,Canada,"Computers, peripherals, and networking equipment (x 1,000)",v101883779,1.61,542886.0
+2013,Canada,"Computer software (except games) (x 1,000)",v101883780,1.62,96998.0
+2014,Canada,"Computer software (except games) (x 1,000)",v101883780,1.62,534100.0
+2013,Canada,"Telephones and related products (x 1,000)",v101883781,1.63,67654.0
+2014,Canada,"Telephones and related products (x 1,000)",v101883781,1.63,81196.0
+2013,Canada,"Televisions and home audiovisual equipment (x 1,000)",v101883782,1.64,198219.0
+2014,Canada,"Televisions and home audiovisual equipment (x 1,000)",v101883782,1.64,265641.0
+2013,Canada,"Cameras (except video cameras) and phototgraphic equipment (x 1,000)",v101883783,1.65,90901.0
+2014,Canada,"Cameras (except video cameras) and phototgraphic equipment (x 1,000)",v101883783,1.65,48673.0
+2013,Canada,"Sporting and leisure products (x 1,000)",v101883784,1.66,1538037.0
+2014,Canada,"Sporting and leisure products (x 1,000)",v101883784,1.66,1533986.0
+2013,Canada,"Bicycles and biking equipment and accessories (x 1,000)",v101883785,1.67,x
+2014,Canada,"Bicycles and biking equipment and accessories (x 1,000)",v101883785,1.67,26460.0
+2013,Canada,"Exercise equipment (x 1,000)",v101883786,1.68,64058.0
+2014,Canada,"Exercise equipment (x 1,000)",v101883786,1.68,78515.0
+2013,Canada,"Golf equipment (x 1,000)",v101883787,1.69,x
+2014,Canada,"Golf equipment (x 1,000)",v101883787,1.69,4686.0
+2013,Canada,"Skiing and snowboarding equipment (x 1,000)",v101883788,1.70,4566.0
+2014,Canada,"Skiing and snowboarding equipment (x 1,000)",v101883788,1.70,6337.0
+2013,Canada,"Hunting, fishing and camping equipment (x 1,000)",v101883789,1.71,83362.0
+2014,Canada,"Hunting, fishing and camping equipment (x 1,000)",v101883789,1.71,70667.0
+2013,Canada,"Team sporting equipment (x 1,000)",v101883790,1.72,22812.0
+2014,Canada,"Team sporting equipment (x 1,000)",v101883790,1.72,25851.0
+2013,Canada,"Sporting equipment, not elsewhere classified (x 1,000)",v101883791,1.73,114180.0
+2014,Canada,"Sporting equipment, not elsewhere classified (x 1,000)",v101883791,1.73,178606.0
+2013,Canada,"Electronic game consoles and game software (x 1,000)",v101883792,1.74,55592.0
+2014,Canada,"Electronic game consoles and game software (x 1,000)",v101883792,1.74,91212.0
+2013,Canada,"Toys and games (except game consoles and software) (x 1,000)",v101883793,1.75,121623.0
+2014,Canada,"Toys and games (except game consoles and software) (x 1,000)",v101883793,1.75,113124.0
+2013,Canada,"Books (x 1,000)",v101883794,1.76,446355.0
+2014,Canada,"Books (x 1,000)",v101883794,1.76,304434.0
+2013,Canada,"Newspapers, magazines and periodicals (x 1,000)",v101883795,1.77,149565.0
+2014,Canada,"Newspapers, magazines and periodicals (x 1,000)",v101883795,1.77,86693.0
+2013,Canada,"Publications not elsewhere classified (including posters, art prints, maps, and greeting cards) (x 1,000)",v101883796,1.78,6020.0
+2014,Canada,"Publications not elsewhere classified (including posters, art prints, maps, and greeting cards) (x 1,000)",v101883796,1.78,x
+2013,Canada,"Audio and video recordings (x 1,000)",v101883797,1.79,x
+2014,Canada,"Audio and video recordings (x 1,000)",v101883797,1.79,487013.0
+2013,Canada,"Artists' equipment and supplies (x 1,000)",v101883798,1.80,x
+2014,Canada,"Artists' equipment and supplies (x 1,000)",v101883798,1.80,x
+2013,Canada,"Musical instruments and print music (x 1,000)",v101883799,1.81,x
+2014,Canada,"Musical instruments and print music (x 1,000)",v101883799,1.81,x
+2013,Canada,"Sewing and knitting supplies (x 1,000)",v101883800,1.82,32594.0
+2014,Canada,"Sewing and knitting supplies (x 1,000)",v101883800,1.82,18078.0
+2013,Canada,"Craft and hobby kits and leisure supplies, not elsewhere classified (x 1,000)",v101883801,1.83,37585.0
+2014,Canada,"Craft and hobby kits and leisure supplies, not elsewhere classified (x 1,000)",v101883801,1.83,35839.0
+2013,Canada,"Motor vehicles, recreational vehicles, motor vehicles parts and accessories (x 1,000)",v101883802,1.84,227768.0
+2014,Canada,"Motor vehicles, recreational vehicles, motor vehicles parts and accessories (x 1,000)",v101883802,1.84,266951.0
+2013,Canada,"New passenger automobiles (x 1,000)",v101883803,1.85,..
+2014,Canada,"New passenger automobiles (x 1,000)",v101883803,1.85,31.0
+2013,Canada,"New minivans, sport utility vehicles and light trucks (x 1,000)",v101883804,1.86,..
+2014,Canada,"New minivans, sport utility vehicles and light trucks (x 1,000)",v101883804,1.86,..
+2013,Canada,"New medium and heavy trucks (x 1,000)",v101883805,1.87,x
+2014,Canada,"New medium and heavy trucks (x 1,000)",v101883805,1.87,..
+2013,Canada,"Used passenger automobiles (x 1,000)",v101883806,1.88,x
+2014,Canada,"Used passenger automobiles (x 1,000)",v101883806,1.88,5829.0
+2013,Canada,"Used minivans, sport utility vehicles and light trucks (x 1,000)",v101883807,1.89,x
+2014,Canada,"Used minivans, sport utility vehicles and light trucks (x 1,000)",v101883807,1.89,406.0
+2013,Canada,"Used medium and heavy trucks (x 1,000)",v101883808,1.90,6379.0
+2014,Canada,"Used medium and heavy trucks (x 1,000)",v101883808,1.90,9690.0
+2013,Canada,"New motorcycles and scooters (x 1,000)",v101883809,1.91,..
+2014,Canada,"New motorcycles and scooters (x 1,000)",v101883809,1.91,..
+2013,Canada,"New motor homes, travel trailers and truck campers (x 1,000)",v101883810,1.92,..
+2014,Canada,"New motor homes, travel trailers and truck campers (x 1,000)",v101883810,1.92,..
+2013,Canada,"New snowmobiles and other personal off-road vehicles (x 1,000)",v101883811,1.93,..
+2014,Canada,"New snowmobiles and other personal off-road vehicles (x 1,000)",v101883811,1.93,..
+2013,Canada,"New recreational boats and other recreational vehicles, not elsewhere classified (x 1,000)",v101883812,1.94,1726.0
+2014,Canada,"New recreational boats and other recreational vehicles, not elsewhere classified (x 1,000)",v101883812,1.94,7240.0
+2013,Canada,"Used motorcycles and scooters (x 1,000)",v101883813,1.95,..
+2014,Canada,"Used motorcycles and scooters (x 1,000)",v101883813,1.95,..
+2013,Canada,"Used motor homes, travel trailers and truck campers (x 1,000)",v101883814,1.96,..
+2014,Canada,"Used motor homes, travel trailers and truck campers (x 1,000)",v101883814,1.96,2528.0
+2013,Canada,"Used snowmobiles and other personal off-road vehicles (x 1,000)",v101883815,1.97,..
+2014,Canada,"Used snowmobiles and other personal off-road vehicles (x 1,000)",v101883815,1.97,x
+2013,Canada,"Used recreational boats and other recreational vehicles, not elsewhere classified (x 1,000)",v101883816,1.98,..
+2014,Canada,"Used recreational boats and other recreational vehicles, not elsewhere classified (x 1,000)",v101883816,1.98,x
+2013,Canada,"New motor vehicles tires (x 1,000)",v101883817,1.99,27698.0
+2014,Canada,"New motor vehicles tires (x 1,000)",v101883817,1.99,25481.0
+2013,Canada,"Motor vehicle parts and accessories (except tires), new and used (x 1,000)",v101883818,1.100,82766.0
+2014,Canada,"Motor vehicle parts and accessories (except tires), new and used (x 1,000)",v101883818,1.100,121009.0
+2013,Canada,"Motor vehicle chemicals (x 1,000)",v101883819,1.101,79062.0
+2014,Canada,"Motor vehicle chemicals (x 1,000)",v101883819,1.101,91366.0
+2013,Canada,"Automotive and household fuels (x 1,000)",v101883820,1.102,9779024.0
+2014,Canada,"Automotive and household fuels (x 1,000)",v101883820,1.102,11397705.0
+2013,Canada,"Automotive fuels (x 1,000)",v101883821,1.103,5227753.0
+2014,Canada,"Automotive fuels (x 1,000)",v101883821,1.103,7075659.0
+2013,Canada,"Household fuels (x 1,000)",v101883822,1.104,4551271.0
+2014,Canada,"Household fuels (x 1,000)",v101883822,1.104,4322045.0
+2013,Canada,"Health, personal and household products (x 1,000)",v101883823,1.105,1804058.0
+2014,Canada,"Health, personal and household products (x 1,000)",v101883823,1.105,2228068.0
+2013,Canada,"Prescription pharmaceuticals (x 1,000)",v101883824,1.106,770812.0
+2014,Canada,"Prescription pharmaceuticals (x 1,000)",v101883824,1.106,1035707.0
+2013,Canada,"Non-prescription pharmaceuticals (x 1,000)",v101883825,1.107,15425.0
+2014,Canada,"Non-prescription pharmaceuticals (x 1,000)",v101883825,1.107,20226.0
+2013,Canada,"Vitamin, mineral, and other health supplements (x 1,000)",v101883826,1.108,198314.0
+2014,Canada,"Vitamin, mineral, and other health supplements (x 1,000)",v101883826,1.108,290556.0
+2013,Canada,"Prescription eyewear (x 1,000)",v101883827,1.109,x
+2014,Canada,"Prescription eyewear (x 1,000)",v101883827,1.109,x
+2013,Canada,"Non-prescription eyewear (x 1,000)",v101883828,1.110,x
+2014,Canada,"Non-prescription eyewear (x 1,000)",v101883828,1.110,x
+2013,Canada,"Home health products, not elsewhere classified (x 1,000)",v101883829,1.111,370909.0
+2014,Canada,"Home health products, not elsewhere classified (x 1,000)",v101883829,1.111,355396.0
+2013,Canada,"Disposable diapers (x 1,000)",v101883830,1.112,x
+2014,Canada,"Disposable diapers (x 1,000)",v101883830,1.112,22569.0
+2013,Canada,"Infants' and children's car seats (x 1,000)",v101883831,1.113,10803.0
+2014,Canada,"Infants' and children's car seats (x 1,000)",v101883831,1.113,x
+2013,Canada,"Strollers and infant care products, not elsewhere classified (x 1,000)",v101883832,1.114,x
+2014,Canada,"Strollers and infant care products, not elsewhere classified (x 1,000)",v101883832,1.114,1682.0
+2013,Canada,"Cosmetics and fragrances (x 1,000)",v101883833,1.115,159687.0
+2014,Canada,"Cosmetics and fragrances (x 1,000)",v101883833,1.115,216233.0
+2013,Canada,"Toiletries (x 1,000)",v101883834,1.116,96726.0
+2014,Canada,"Toiletries (x 1,000)",v101883834,1.116,135049.0
+2013,Canada,"Feminine hygiene products (x 1,000)",v101883835,1.117,12.0
+2014,Canada,"Feminine hygiene products (x 1,000)",v101883835,1.117,2165.0
+2013,Canada,"Personal care supplies and equipment, not elsewhere classified (x 1,000)",v101883836,1.118,x
+2014,Canada,"Personal care supplies and equipment, not elsewhere classified (x 1,000)",v101883836,1.118,52983.0
+2013,Canada,"Hardware, tools, renovation and lawn and garden products (x 1,000)",v101883837,1.119,403785.0
+2014,Canada,"Hardware, tools, renovation and lawn and garden products (x 1,000)",v101883837,1.119,609622.0
+2013,Canada,"Hardware (x 1,000)",v101883838,1.120,13719.0
+2014,Canada,"Hardware (x 1,000)",v101883838,1.120,27011.0
+2013,Canada,"Hand tools (x 1,000)",v101883839,1.121,50644.0
+2014,Canada,"Hand tools (x 1,000)",v101883839,1.121,58129.0
+2013,Canada,"Power tools (x 1,000)",v101883840,1.122,15012.0
+2014,Canada,"Power tools (x 1,000)",v101883840,1.122,16587.0
+2013,Canada,"Major household air-conditioning, heating, and water heating equipment (x 1,000)",v101883841,1.123,72027.0
+2014,Canada,"Major household air-conditioning, heating, and water heating equipment (x 1,000)",v101883841,1.123,45690.0
+2013,Canada,"Plumbing and electrical supplies (including fixtures) (x 1,000)",v101883842,1.124,29601.0
+2014,Canada,"Plumbing and electrical supplies (including fixtures) (x 1,000)",v101883842,1.124,85154.0
+2013,Canada,"Paint, painting supplies and wallpaper (x 1,000)",v101883843,1.125,977.0
+2014,Canada,"Paint, painting supplies and wallpaper (x 1,000)",v101883843,1.125,1727.0
+2013,Canada,"Flooring, floor coverings and floor and wall tiles (x 1,000)",v101883844,1.126,3863.0
+2014,Canada,"Flooring, floor coverings and floor and wall tiles (x 1,000)",v101883844,1.126,20038.0
+2013,Canada,"Lumber and other renovation materials and supplies (x 1,000)",v101883845,1.127,5818.0
+2014,Canada,"Lumber and other renovation materials and supplies (x 1,000)",v101883845,1.127,11010.0
+2013,Canada,"Hardware and renovation related products, not elsewhere classified (x 1,000)",v101883846,1.128,x
+2014,Canada,"Hardware and renovation related products, not elsewhere classified (x 1,000)",v101883846,1.128,204343.0
+2013,Canada,"Lawnmowers, snowblowers and gardening tools (x 1,000)",v101883847,1.129,x
+2014,Canada,"Lawnmowers, snowblowers and gardening tools (x 1,000)",v101883847,1.129,30976.0
+2013,Canada,"Live plants, seeds and other home and garden supplies (except agricultural fertilizers and pesticides) (x 1,000)",v101883848,1.130,22345.0
+2014,Canada,"Live plants, seeds and other home and garden supplies (except agricultural fertilizers and pesticides) (x 1,000)",v101883848,1.130,108957.0
+2013,Canada,"Miscellaneous retail products (x 1,000)",v101883849,1.131,613370.0
+2014,Canada,"Miscellaneous retail products (x 1,000)",v101883849,1.131,786020.0
+2013,Canada,"Pets (x 1,000)",v101883850,1.132,..
+2014,Canada,"Pets (x 1,000)",v101883850,1.132,2441.0
+2013,Canada,"Pet food, supplies and accessories (x 1,000)",v101883851,1.133,9369.0
+2014,Canada,"Pet food, supplies and accessories (x 1,000)",v101883851,1.133,20859.0
+2013,Canada,"Tobacco products and acccessories (x 1,000)",v101883852,1.134,13251.0
+2014,Canada,"Tobacco products and acccessories (x 1,000)",v101883852,1.134,18524.0
+2013,Canada,"Home office equipment, not elsewhere classified (x 1,000)",v101883853,1.135,4795.0
+2014,Canada,"Home office equipment, not elsewhere classified (x 1,000)",v101883853,1.135,25737.0
+2013,Canada,"Home office supplies, not elsewhere classified (x 1,000)",v101883854,1.136,88482.0
+2014,Canada,"Home office supplies, not elsewhere classified (x 1,000)",v101883854,1.136,126496.0
+2013,Canada,"Farm equipment (x 1,000)",v101883855,1.137,5624.0
+2014,Canada,"Farm equipment (x 1,000)",v101883855,1.137,18634.0
+2013,Canada,"Farm supplies (x 1,000)",v101883856,1.138,20397.0
+2014,Canada,"Farm supplies (x 1,000)",v101883856,1.138,33201.0
+2013,Canada,"Supplies for beer and wine making (x 1,000)",v101883857,1.139,x
+2014,Canada,"Supplies for beer and wine making (x 1,000)",v101883857,1.139,..
+2013,Canada,"Cut flowers, indoor potted plants and floral supplies (x 1,000)",v101883858,1.140,x
+2014,Canada,"Cut flowers, indoor potted plants and floral supplies (x 1,000)",v101883858,1.140,..
+2013,Canada,"Monuments and tombstones (x 1,000)",v101883859,1.141,..
+2014,Canada,"Monuments and tombstones (x 1,000)",v101883859,1.141,..
+2013,Canada,"Manufactured mobile homes (x 1,000)",v101883860,1.142,..
+2014,Canada,"Manufactured mobile homes (x 1,000)",v101883860,1.142,..
+2013,Canada,"Professional and scientific instruments (x 1,000)",v101883861,1.143,9736.0
+2014,Canada,"Professional and scientific instruments (x 1,000)",v101883861,1.143,412.0
+2013,Canada,"Equipment and supplies for non-farm activities, not elsewhere classified (x 1,000)",v101883862,1.144,48778.0
+2014,Canada,"Equipment and supplies for non-farm activities, not elsewhere classified (x 1,000)",v101883862,1.144,28122.0
+2013,Canada,"Miscellaneous retail products, not elsewhere classified (x 1,000)",v101883863,1.145,253670.0
+2014,Canada,"Miscellaneous retail products, not elsewhere classified (x 1,000)",v101883863,1.145,352492.0
+2013,Canada,"Artwork (x 1,000)",v101883864,1.146,1551.0
+2014,Canada,"Artwork (x 1,000)",v101883864,1.146,x
+2013,Canada,"Collectors' items (x 1,000)",v101883865,1.147,98642.0
+2014,Canada,"Collectors' items (x 1,000)",v101883865,1.147,87311.0
+2013,Canada,"Antiques, and used or seconnd-hand merchandise (except motor vehicles and mobile homes) (x 1,000)",v101883866,1.148,x
+2014,Canada,"Antiques, and used or seconnd-hand merchandise (except motor vehicles and mobile homes) (x 1,000)",v101883866,1.148,x
+2013,Canada,"Total retail trade commissions and miscellaneous services (x 1,000)",v101883867,1.149,202137.0
+2014,Canada,"Total retail trade commissions and miscellaneous services (x 1,000)",v101883867,1.149,146384.0
+2013,Canada,"Retail trade commissions (x 1,000)",v101883868,1.150,26819.0
+2014,Canada,"Retail trade commissions (x 1,000)",v101883868,1.150,25670.0
+2013,Canada,"Office machinery and equipment rental and leasing services (except computer equipment) (x 1,000)",v101883869,1.151,28012.0
+2014,Canada,"Office machinery and equipment rental and leasing services (except computer equipment) (x 1,000)",v101883869,1.151,8814.0
+2013,Canada,"Rental and leasing services of other goods (except movies and games on DVD's, tapes and cassettes) (x 1,000)",v101883870,1.152,5149.0
+2014,Canada,"Rental and leasing services of other goods (except movies and games on DVD's, tapes and cassettes) (x 1,000)",v101883870,1.152,x
+2013,Canada,"Repair and maintenance services (except for buildings and motor vehicles) (x 1,000)",v101883871,1.153,132864.0
+2014,Canada,"Repair and maintenance services (except for buildings and motor vehicles) (x 1,000)",v101883871,1.153,59030.0
+2013,Canada,"Prepared meals (x 1,000)",v101883872,1.154,9193.0
+2014,Canada,"Prepared meals (x 1,000)",v101883872,1.154,10655.0
+2013,Canada,"Alcoholic beverages for immediate consumption (x 1,000)",v101883873,1.155,x
+2014,Canada,"Alcoholic beverages for immediate consumption (x 1,000)",v101883873,1.155,x
+2013,Canada,"Rental services of movies and games on DVD's, tapes and cassettes (x 1,000)",v101883874,1.156,0.0
+2014,Canada,"Rental services of movies and games on DVD's, tapes and cassettes (x 1,000)",v101883874,1.156,0.0
+2013,Canada,"Computer equipment rental and leasing services (x 1,000)",v101883875,1.157,0.0
+2014,Canada,"Computer equipment rental and leasing services (x 1,000)",v101883875,1.157,0.0
+2013,Canada,"Rental and non-financial leasing services of motor homes, travel trailers and campers (x 1,000)",v101883876,1.158,x
+2014,Canada,"Rental and non-financial leasing services of motor homes, travel trailers and campers (x 1,000)",v101883876,1.158,0.0
+2013,Canada,"Motor vehicle maintenance and repair services (x 1,000)",v101883877,1.159,x
+2014,Canada,"Motor vehicle maintenance and repair services (x 1,000)",v101883877,1.159,x
+2013,Canada,"Rental and non-financial leasing services of automobiles and light trucks (x 1,000)",v101883878,1.160,0.0
+2014,Canada,"Rental and non-financial leasing services of automobiles and light trucks (x 1,000)",v101883878,1.160,0.0
+2013,Canada,"Rental and non-financial leasing services of heavy trucks, truck trailers and buses, without operator (x 1,000)",v101883879,1.161,0.0
+2014,Canada,"Rental and non-financial leasing services of heavy trucks, truck trailers and buses, without operator (x 1,000)",v101883879,1.161,11946.0
+2013,Canada,"Commercial and industrial machinery and equipment (except office equipment) rental and leasing services (x 1,000)",v101883880,1.162,x
+2014,Canada,"Commercial and industrial machinery and equipment (except office equipment) rental and leasing services (x 1,000)",v101883880,1.162,0.0

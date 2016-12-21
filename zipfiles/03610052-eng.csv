@@ -1,0 +1,25 @@
+Ref_Date,GEO,NAICS,REV,Vector,Coordinate,Value
+2013,Canada,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885801,1.1.1,1071.5
+2015,Canada,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885801,1.1.1,722.3
+2013,Canada,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885802,1.1.2,484.2
+2015,Canada,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885802,1.1.2,403.8
+2013,Atlantic provinces,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885803,2.1.1,24.5
+2015,Atlantic provinces,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885803,2.1.1,20.4
+2013,Atlantic provinces,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885804,2.1.2,8.6
+2015,Atlantic provinces,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885804,2.1.2,7.8
+2013,Quebec,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885805,3.1.1,213.2
+2015,Quebec,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885805,3.1.1,141.3
+2013,Quebec,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885806,3.1.2,132.2
+2015,Quebec,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885806,3.1.2,100.3
+2013,Ontario,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885807,4.1.1,566.7
+2015,Ontario,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885807,4.1.1,315.1
+2013,Ontario,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885808,4.1.2,306.8
+2015,Ontario,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885808,4.1.2,267.4
+2013,Prairie provinces,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885809,5.1.1,176.9
+2015,Prairie provinces,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885809,5.1.1,166.5
+2013,Prairie provinces,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885810,5.1.2,21.6
+2015,Prairie provinces,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885810,5.1.2,16.8
+2013,British Columbia and Territories,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885811,6.1.1,90.3
+2015,British Columbia and Territories,Periodical publishers,"Advertising revenue (x 1,000,000)",v96885811,6.1.1,79.1
+2013,British Columbia and Territories,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885812,6.1.2,15.0
+2015,British Columbia and Territories,Periodical publishers,"Circulation revenue (x 1,000,000)",v96885812,6.1.2,11.5

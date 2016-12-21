@@ -1,0 +1,11 @@
+Ref_Date,GEO,NAICS,CLIENT,Vector,Coordinate,Value
+2013,Canada,Employment services,Total sales to all clients,v99450594,1.1.1,100.0
+2014,Canada,Employment services,Total sales to all clients,v99450594,1.1.1,100.0
+2013,Canada,Employment services,Sales to businesses,v99450595,1.1.2,86.6
+2014,Canada,Employment services,Sales to businesses,v99450595,1.1.2,86.5
+2013,Canada,Employment services,Sales to individuals and households,v99450596,1.1.3,1.4
+2014,Canada,Employment services,Sales to individuals and households,v99450596,1.1.3,2.2
+2013,Canada,Employment services,"Sales to governments, not-for-profit organizations and public institutions",v99450597,1.1.4,10.3
+2014,Canada,Employment services,"Sales to governments, not-for-profit organizations and public institutions",v99450597,1.1.4,9.1
+2013,Canada,Employment services,Sales outside Canada (exports),v99450598,1.1.5,1.5
+2014,Canada,Employment services,Sales outside Canada (exports),v99450598,1.1.5,2.2

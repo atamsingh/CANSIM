@@ -1,0 +1,841 @@
+Ref_Date,GEO,INDUSTRY,SUMMARY,Vector,Coordinate,Value
+2012,Canada,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848503,1.1.1,54770.2
+2013,Canada,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848503,1.1.1,57804.0
+2014,Canada,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848503,1.1.1,60868.1
+2012,Canada,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848504,1.1.2,52462.4
+2013,Canada,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848504,1.1.2,55337.2
+2014,Canada,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848504,1.1.2,58322.8
+2012,Canada,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848505,1.1.3,17616.9
+2013,Canada,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848505,1.1.3,18202.6
+2014,Canada,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848505,1.1.3,18982.0
+2012,Canada,Food services and drinking places,Operating profit margin (percent),v99848506,1.1.4,4.2
+2013,Canada,Food services and drinking places,Operating profit margin (percent),v99848506,1.1.4,4.3
+2014,Canada,Food services and drinking places,Operating profit margin (percent),v99848506,1.1.4,4.2
+2012,Canada,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848507,1.2.1,23426.3
+2013,Canada,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848507,1.2.1,25479.5
+2014,Canada,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848507,1.2.1,26991.9
+2012,Canada,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848508,1.2.2,22768.0
+2013,Canada,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848508,1.2.2,24753.1
+2014,Canada,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848508,1.2.2,26230.3
+2012,Canada,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848509,1.2.3,7947.8
+2013,Canada,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848509,1.2.3,8287.0
+2014,Canada,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848509,1.2.3,8691.0
+2012,Canada,Full-service restaurants,Operating profit margin (percent),v99848510,1.2.4,2.8
+2013,Canada,Full-service restaurants,Operating profit margin (percent),v99848510,1.2.4,2.9
+2014,Canada,Full-service restaurants,Operating profit margin (percent),v99848510,1.2.4,2.8
+2012,Canada,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848511,1.3.1,23262.7
+2013,Canada,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848511,1.3.1,24204.0
+2014,Canada,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848511,1.3.1,25495.8
+2012,Canada,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848512,1.3.2,22071.5
+2013,Canada,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848512,1.3.2,22920.2
+2014,Canada,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848512,1.3.2,24216.3
+2012,Canada,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848513,1.3.3,6948.2
+2013,Canada,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848513,1.3.3,7188.6
+2014,Canada,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848513,1.3.3,7516.4
+2012,Canada,Limited-service eating places,Operating profit margin (percent),v99848514,1.3.4,5.1
+2013,Canada,Limited-service eating places,Operating profit margin (percent),v99848514,1.3.4,5.3
+2014,Canada,Limited-service eating places,Operating profit margin (percent),v99848514,1.3.4,5.0
+2012,Canada,Special food services,"Operating revenue (x 1,000,000)",v99848515,1.4.1,5169.3
+2013,Canada,Special food services,"Operating revenue (x 1,000,000)",v99848515,1.4.1,5267.3
+2014,Canada,Special food services,"Operating revenue (x 1,000,000)",v99848515,1.4.1,5530.5
+2012,Canada,Special food services,"Operating expenses (x 1,000,000)",v99848516,1.4.2,4820.7
+2013,Canada,Special food services,"Operating expenses (x 1,000,000)",v99848516,1.4.2,4902.4
+2014,Canada,Special food services,"Operating expenses (x 1,000,000)",v99848516,1.4.2,5119.3
+2012,Canada,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848517,1.4.3,1987.8
+2013,Canada,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848517,1.4.3,2007.7
+2014,Canada,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848517,1.4.3,2058.3
+2012,Canada,Special food services,Operating profit margin (percent),v99848518,1.4.4,6.7
+2013,Canada,Special food services,Operating profit margin (percent),v99848518,1.4.4,6.9
+2014,Canada,Special food services,Operating profit margin (percent),v99848518,1.4.4,7.4
+2012,Canada,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848519,1.5.1,2911.9
+2013,Canada,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848519,1.5.1,2853.3
+2014,Canada,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848519,1.5.1,2849.9
+2012,Canada,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848520,1.5.2,2802.3
+2013,Canada,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848520,1.5.2,2761.4
+2014,Canada,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848520,1.5.2,2756.9
+2012,Canada,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848521,1.5.3,733.1
+2013,Canada,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848521,1.5.3,719.4
+2014,Canada,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848521,1.5.3,716.3
+2012,Canada,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848522,1.5.4,3.8
+2013,Canada,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848522,1.5.4,3.2
+2014,Canada,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848522,1.5.4,3.3
+2012,Newfoundland and Labrador,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848523,2.1.1,728.6
+2013,Newfoundland and Labrador,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848523,2.1.1,783.7
+2014,Newfoundland and Labrador,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848523,2.1.1,816.3
+2012,Newfoundland and Labrador,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848524,2.1.2,708.5
+2013,Newfoundland and Labrador,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848524,2.1.2,760.1
+2014,Newfoundland and Labrador,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848524,2.1.2,794.1
+2012,Newfoundland and Labrador,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848525,2.1.3,252.3
+2013,Newfoundland and Labrador,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848525,2.1.3,270.2
+2014,Newfoundland and Labrador,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848525,2.1.3,277.8
+2012,Newfoundland and Labrador,Food services and drinking places,Operating profit margin (percent),v99848526,2.1.4,2.8
+2013,Newfoundland and Labrador,Food services and drinking places,Operating profit margin (percent),v99848526,2.1.4,3.0
+2014,Newfoundland and Labrador,Food services and drinking places,Operating profit margin (percent),v99848526,2.1.4,2.7
+2012,Newfoundland and Labrador,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848527,2.2.1,212.6
+2013,Newfoundland and Labrador,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848527,2.2.1,229.4
+2014,Newfoundland and Labrador,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848527,2.2.1,238.4
+2012,Newfoundland and Labrador,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848528,2.2.2,208.9
+2013,Newfoundland and Labrador,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848528,2.2.2,225.5
+2014,Newfoundland and Labrador,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848528,2.2.2,234.6
+2012,Newfoundland and Labrador,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848529,2.2.3,73.2
+2013,Newfoundland and Labrador,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848529,2.2.3,78.6
+2014,Newfoundland and Labrador,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848529,2.2.3,81.2
+2012,Newfoundland and Labrador,Full-service restaurants,Operating profit margin (percent),v99848530,2.2.4,1.7
+2013,Newfoundland and Labrador,Full-service restaurants,Operating profit margin (percent),v99848530,2.2.4,1.7
+2014,Newfoundland and Labrador,Full-service restaurants,Operating profit margin (percent),v99848530,2.2.4,1.6
+2012,Newfoundland and Labrador,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848531,2.3.1,338.6
+2013,Newfoundland and Labrador,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848531,2.3.1,356.8
+2014,Newfoundland and Labrador,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848531,2.3.1,374.1
+2012,Newfoundland and Labrador,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848532,2.3.2,328.6
+2013,Newfoundland and Labrador,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848532,2.3.2,345.4
+2014,Newfoundland and Labrador,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848532,2.3.2,365.5
+2012,Newfoundland and Labrador,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848533,2.3.3,109.1
+2013,Newfoundland and Labrador,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848533,2.3.3,114.1
+2014,Newfoundland and Labrador,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848533,2.3.3,116.7
+2012,Newfoundland and Labrador,Limited-service eating places,Operating profit margin (percent),v99848534,2.3.4,2.9
+2013,Newfoundland and Labrador,Limited-service eating places,Operating profit margin (percent),v99848534,2.3.4,3.2
+2014,Newfoundland and Labrador,Limited-service eating places,Operating profit margin (percent),v99848534,2.3.4,2.3
+2012,Newfoundland and Labrador,Special food services,"Operating revenue (x 1,000,000)",v99848535,2.4.1,121.2
+2013,Newfoundland and Labrador,Special food services,"Operating revenue (x 1,000,000)",v99848535,2.4.1,135.0
+2014,Newfoundland and Labrador,Special food services,"Operating revenue (x 1,000,000)",v99848535,2.4.1,140.3
+2012,Newfoundland and Labrador,Special food services,"Operating expenses (x 1,000,000)",v99848536,2.4.2,116.4
+2013,Newfoundland and Labrador,Special food services,"Operating expenses (x 1,000,000)",v99848536,2.4.2,129.1
+2014,Newfoundland and Labrador,Special food services,"Operating expenses (x 1,000,000)",v99848536,2.4.2,132.3
+2012,Newfoundland and Labrador,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848537,2.4.3,54.3
+2013,Newfoundland and Labrador,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848537,2.4.3,60.3
+2014,Newfoundland and Labrador,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848537,2.4.3,62.6
+2012,Newfoundland and Labrador,Special food services,Operating profit margin (percent),v99848538,2.4.4,4.0
+2013,Newfoundland and Labrador,Special food services,Operating profit margin (percent),v99848538,2.4.4,4.4
+2014,Newfoundland and Labrador,Special food services,Operating profit margin (percent),v99848538,2.4.4,5.7
+2012,Newfoundland and Labrador,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848539,2.5.1,56.3
+2013,Newfoundland and Labrador,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848539,2.5.1,62.4
+2014,Newfoundland and Labrador,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848539,2.5.1,63.5
+2012,Newfoundland and Labrador,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848540,2.5.2,54.6
+2013,Newfoundland and Labrador,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848540,2.5.2,60.0
+2014,Newfoundland and Labrador,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848540,2.5.2,61.7
+2012,Newfoundland and Labrador,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848541,2.5.3,15.7
+2013,Newfoundland and Labrador,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848541,2.5.3,17.1
+2014,Newfoundland and Labrador,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848541,2.5.3,17.5
+2012,Newfoundland and Labrador,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848542,2.5.4,3.0
+2013,Newfoundland and Labrador,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848542,2.5.4,3.9
+2014,Newfoundland and Labrador,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848542,2.5.4,2.8
+2012,Prince Edward Island,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848543,3.1.1,210.2
+2013,Prince Edward Island,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848543,3.1.1,221.1
+2014,Prince Edward Island,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848543,3.1.1,234.6
+2012,Prince Edward Island,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848544,3.1.2,199.9
+2013,Prince Edward Island,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848544,3.1.2,210.3
+2014,Prince Edward Island,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848544,3.1.2,220.8
+2012,Prince Edward Island,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848545,3.1.3,67.5
+2013,Prince Edward Island,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848545,3.1.3,69.1
+2014,Prince Edward Island,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848545,3.1.3,72.5
+2012,Prince Edward Island,Food services and drinking places,Operating profit margin (percent),v99848546,3.1.4,4.9
+2013,Prince Edward Island,Food services and drinking places,Operating profit margin (percent),v99848546,3.1.4,4.9
+2014,Prince Edward Island,Food services and drinking places,Operating profit margin (percent),v99848546,3.1.4,5.9
+2012,Prince Edward Island,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848547,3.2.1,92.4
+2013,Prince Edward Island,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848547,3.2.1,101.3
+2014,Prince Edward Island,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848547,3.2.1,107.4
+2012,Prince Edward Island,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848548,3.2.2,89.5
+2013,Prince Edward Island,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848548,3.2.2,98.1
+2014,Prince Edward Island,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848548,3.2.2,101.7
+2012,Prince Edward Island,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848549,3.2.3,30.9
+2013,Prince Edward Island,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848549,3.2.3,31.9
+2014,Prince Edward Island,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848549,3.2.3,33.6
+2012,Prince Edward Island,Full-service restaurants,Operating profit margin (percent),v99848550,3.2.4,3.1
+2013,Prince Edward Island,Full-service restaurants,Operating profit margin (percent),v99848550,3.2.4,3.1
+2014,Prince Edward Island,Full-service restaurants,Operating profit margin (percent),v99848550,3.2.4,5.3
+2012,Prince Edward Island,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848551,3.3.1,107.4
+2013,Prince Edward Island,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848551,3.3.1,108.6
+2014,Prince Edward Island,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848551,3.3.1,115.9
+2012,Prince Edward Island,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848552,3.3.2,101.0
+2013,Prince Edward Island,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848552,3.3.2,102.2
+2014,Prince Edward Island,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848552,3.3.2,109.2
+2012,Prince Edward Island,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848553,3.3.3,33.5
+2013,Prince Edward Island,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848553,3.3.3,34.1
+2014,Prince Edward Island,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848553,3.3.3,35.7
+2012,Prince Edward Island,Limited-service eating places,Operating profit margin (percent),v99848554,3.3.4,5.9
+2013,Prince Edward Island,Limited-service eating places,Operating profit margin (percent),v99848554,3.3.4,5.8
+2014,Prince Edward Island,Limited-service eating places,Operating profit margin (percent),v99848554,3.3.4,5.8
+2012,Prince Edward Island,Special food services,"Operating revenue (x 1,000,000)",v99848555,3.4.1,x
+2013,Prince Edward Island,Special food services,"Operating revenue (x 1,000,000)",v99848555,3.4.1,x
+2014,Prince Edward Island,Special food services,"Operating revenue (x 1,000,000)",v99848555,3.4.1,8.5
+2012,Prince Edward Island,Special food services,"Operating expenses (x 1,000,000)",v99848556,3.4.2,x
+2013,Prince Edward Island,Special food services,"Operating expenses (x 1,000,000)",v99848556,3.4.2,x
+2014,Prince Edward Island,Special food services,"Operating expenses (x 1,000,000)",v99848556,3.4.2,7.2
+2012,Prince Edward Island,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848557,3.4.3,x
+2013,Prince Edward Island,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848557,3.4.3,x
+2014,Prince Edward Island,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848557,3.4.3,2.3
+2012,Prince Edward Island,Special food services,Operating profit margin (percent),v99848558,3.4.4,x
+2013,Prince Edward Island,Special food services,Operating profit margin (percent),v99848558,3.4.4,x
+2014,Prince Edward Island,Special food services,Operating profit margin (percent),v99848558,3.4.4,15.4
+2012,Prince Edward Island,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848559,3.5.1,x
+2013,Prince Edward Island,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848559,3.5.1,x
+2014,Prince Edward Island,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848559,3.5.1,2.8
+2012,Prince Edward Island,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848560,3.5.2,x
+2013,Prince Edward Island,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848560,3.5.2,x
+2014,Prince Edward Island,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848560,3.5.2,2.7
+2012,Prince Edward Island,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848561,3.5.3,x
+2013,Prince Edward Island,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848561,3.5.3,x
+2014,Prince Edward Island,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848561,3.5.3,0.8
+2012,Prince Edward Island,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848562,3.5.4,x
+2013,Prince Edward Island,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848562,3.5.4,x
+2014,Prince Edward Island,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848562,3.5.4,3.5
+2012,Nova Scotia,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848563,4.1.1,1366.8
+2013,Nova Scotia,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848563,4.1.1,1434.8
+2014,Nova Scotia,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848563,4.1.1,1490.3
+2012,Nova Scotia,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848564,4.1.2,1299.6
+2013,Nova Scotia,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848564,4.1.2,1366.0
+2014,Nova Scotia,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848564,4.1.2,1427.7
+2012,Nova Scotia,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848565,4.1.3,445.7
+2013,Nova Scotia,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848565,4.1.3,452.5
+2014,Nova Scotia,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848565,4.1.3,459.6
+2012,Nova Scotia,Food services and drinking places,Operating profit margin (percent),v99848566,4.1.4,4.9
+2013,Nova Scotia,Food services and drinking places,Operating profit margin (percent),v99848566,4.1.4,4.8
+2014,Nova Scotia,Food services and drinking places,Operating profit margin (percent),v99848566,4.1.4,4.2
+2012,Nova Scotia,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848567,4.2.1,488.3
+2013,Nova Scotia,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848567,4.2.1,535.4
+2014,Nova Scotia,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848567,4.2.1,586.4
+2012,Nova Scotia,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848568,4.2.2,470.3
+2013,Nova Scotia,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848568,4.2.2,515.7
+2014,Nova Scotia,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848568,4.2.2,565.2
+2012,Nova Scotia,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848569,4.2.3,164.8
+2013,Nova Scotia,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848569,4.2.3,168.4
+2014,Nova Scotia,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848569,4.2.3,183.2
+2012,Nova Scotia,Full-service restaurants,Operating profit margin (percent),v99848570,4.2.4,3.7
+2013,Nova Scotia,Full-service restaurants,Operating profit margin (percent),v99848570,4.2.4,3.7
+2014,Nova Scotia,Full-service restaurants,Operating profit margin (percent),v99848570,4.2.4,3.6
+2012,Nova Scotia,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848571,4.3.1,669.2
+2013,Nova Scotia,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848571,4.3.1,684.1
+2014,Nova Scotia,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848571,4.3.1,698.6
+2012,Nova Scotia,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848572,4.3.2,626.8
+2013,Nova Scotia,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848572,4.3.2,642.2
+2014,Nova Scotia,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848572,4.3.2,668.5
+2012,Nova Scotia,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848573,4.3.3,199.3
+2013,Nova Scotia,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848573,4.3.3,201.3
+2014,Nova Scotia,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848573,4.3.3,201.4
+2012,Nova Scotia,Limited-service eating places,Operating profit margin (percent),v99848574,4.3.4,6.3
+2013,Nova Scotia,Limited-service eating places,Operating profit margin (percent),v99848574,4.3.4,6.1
+2014,Nova Scotia,Limited-service eating places,Operating profit margin (percent),v99848574,4.3.4,4.3
+2012,Nova Scotia,Special food services,"Operating revenue (x 1,000,000)",v99848575,4.4.1,134.8
+2013,Nova Scotia,Special food services,"Operating revenue (x 1,000,000)",v99848575,4.4.1,128.8
+2014,Nova Scotia,Special food services,"Operating revenue (x 1,000,000)",v99848575,4.4.1,120.6
+2012,Nova Scotia,Special food services,"Operating expenses (x 1,000,000)",v99848576,4.4.2,128.6
+2013,Nova Scotia,Special food services,"Operating expenses (x 1,000,000)",v99848576,4.4.2,125.4
+2014,Nova Scotia,Special food services,"Operating expenses (x 1,000,000)",v99848576,4.4.2,115.4
+2012,Nova Scotia,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848577,4.4.3,59.1
+2013,Nova Scotia,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848577,4.4.3,58.6
+2014,Nova Scotia,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848577,4.4.3,51.7
+2012,Nova Scotia,Special food services,Operating profit margin (percent),v99848578,4.4.4,4.6
+2013,Nova Scotia,Special food services,Operating profit margin (percent),v99848578,4.4.4,2.6
+2014,Nova Scotia,Special food services,Operating profit margin (percent),v99848578,4.4.4,4.3
+2012,Nova Scotia,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848579,4.5.1,74.5
+2013,Nova Scotia,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848579,4.5.1,86.6
+2014,Nova Scotia,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848579,4.5.1,84.6
+2012,Nova Scotia,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848580,4.5.2,73.8
+2013,Nova Scotia,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848580,4.5.2,82.7
+2014,Nova Scotia,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848580,4.5.2,78.6
+2012,Nova Scotia,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848581,4.5.3,22.5
+2013,Nova Scotia,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848581,4.5.3,24.2
+2014,Nova Scotia,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848581,4.5.3,23.3
+2012,Nova Scotia,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848582,4.5.4,0.9
+2013,Nova Scotia,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848582,4.5.4,4.5
+2014,Nova Scotia,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848582,4.5.4,7.2
+2012,New Brunswick,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848583,5.1.1,1067.5
+2013,New Brunswick,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848583,5.1.1,1088.6
+2014,New Brunswick,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848583,5.1.1,1112.4
+2012,New Brunswick,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848584,5.1.2,1002.5
+2013,New Brunswick,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848584,5.1.2,1033.6
+2014,New Brunswick,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848584,5.1.2,1052.1
+2012,New Brunswick,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848585,5.1.3,342.5
+2013,New Brunswick,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848585,5.1.3,349.8
+2014,New Brunswick,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848585,5.1.3,355.9
+2012,New Brunswick,Food services and drinking places,Operating profit margin (percent),v99848586,5.1.4,6.1
+2013,New Brunswick,Food services and drinking places,Operating profit margin (percent),v99848586,5.1.4,5.1
+2014,New Brunswick,Food services and drinking places,Operating profit margin (percent),v99848586,5.1.4,5.4
+2012,New Brunswick,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848587,5.2.1,307.0
+2013,New Brunswick,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848587,5.2.1,326.7
+2014,New Brunswick,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848587,5.2.1,346.4
+2012,New Brunswick,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848588,5.2.2,295.6
+2013,New Brunswick,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848588,5.2.2,314.6
+2014,New Brunswick,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848588,5.2.2,331.3
+2012,New Brunswick,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848589,5.2.3,103.9
+2013,New Brunswick,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848589,5.2.3,106.5
+2014,New Brunswick,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848589,5.2.3,111.8
+2012,New Brunswick,Full-service restaurants,Operating profit margin (percent),v99848590,5.2.4,3.7
+2013,New Brunswick,Full-service restaurants,Operating profit margin (percent),v99848590,5.2.4,3.7
+2014,New Brunswick,Full-service restaurants,Operating profit margin (percent),v99848590,5.2.4,4.4
+2012,New Brunswick,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848591,5.3.1,633.8
+2013,New Brunswick,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848591,5.3.1,641.6
+2014,New Brunswick,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848591,5.3.1,649.1
+2012,New Brunswick,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848592,5.3.2,584.6
+2013,New Brunswick,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848592,5.3.2,599.9
+2014,New Brunswick,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848592,5.3.2,607.7
+2012,New Brunswick,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848593,5.3.3,190.5
+2013,New Brunswick,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848593,5.3.3,197.2
+2014,New Brunswick,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848593,5.3.3,200.1
+2012,New Brunswick,Limited-service eating places,Operating profit margin (percent),v99848594,5.3.4,7.8
+2013,New Brunswick,Limited-service eating places,Operating profit margin (percent),v99848594,5.3.4,6.5
+2014,New Brunswick,Limited-service eating places,Operating profit margin (percent),v99848594,5.3.4,6.4
+2012,New Brunswick,Special food services,"Operating revenue (x 1,000,000)",v99848595,5.4.1,60.3
+2013,New Brunswick,Special food services,"Operating revenue (x 1,000,000)",v99848595,5.4.1,55.9
+2014,New Brunswick,Special food services,"Operating revenue (x 1,000,000)",v99848595,5.4.1,52.9
+2012,New Brunswick,Special food services,"Operating expenses (x 1,000,000)",v99848596,5.4.2,58.0
+2013,New Brunswick,Special food services,"Operating expenses (x 1,000,000)",v99848596,5.4.2,55.6
+2014,New Brunswick,Special food services,"Operating expenses (x 1,000,000)",v99848596,5.4.2,50.8
+2012,New Brunswick,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848597,5.4.3,28.7
+2013,New Brunswick,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848597,5.4.3,27.3
+2014,New Brunswick,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848597,5.4.3,25.6
+2012,New Brunswick,Special food services,Operating profit margin (percent),v99848598,5.4.4,3.8
+2013,New Brunswick,Special food services,Operating profit margin (percent),v99848598,5.4.4,0.4
+2014,New Brunswick,Special food services,Operating profit margin (percent),v99848598,5.4.4,4.0
+2012,New Brunswick,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848599,5.5.1,66.4
+2013,New Brunswick,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848599,5.5.1,64.4
+2014,New Brunswick,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848599,5.5.1,64.0
+2012,New Brunswick,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848600,5.5.2,64.4
+2013,New Brunswick,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848600,5.5.2,63.5
+2014,New Brunswick,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848600,5.5.2,62.2
+2012,New Brunswick,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848601,5.5.3,19.3
+2013,New Brunswick,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848601,5.5.3,18.8
+2014,New Brunswick,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848601,5.5.3,18.3
+2012,New Brunswick,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848602,5.5.4,3.0
+2013,New Brunswick,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848602,5.5.4,1.4
+2014,New Brunswick,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848602,5.5.4,2.7
+2012,Quebec,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848603,6.1.1,10922.0
+2013,Quebec,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848603,6.1.1,11527.9
+2014,Quebec,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848603,6.1.1,11773.0
+2012,Quebec,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848604,6.1.2,10487.0
+2013,Quebec,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848604,6.1.2,11024.9
+2014,Quebec,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848604,6.1.2,11322.8
+2012,Quebec,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848605,6.1.3,3658.8
+2013,Quebec,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848605,6.1.3,3749.6
+2014,Quebec,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848605,6.1.3,3826.4
+2012,Quebec,Food services and drinking places,Operating profit margin (percent),v99848606,6.1.4,4.0
+2013,Quebec,Food services and drinking places,Operating profit margin (percent),v99848606,6.1.4,4.4
+2014,Quebec,Food services and drinking places,Operating profit margin (percent),v99848606,6.1.4,3.8
+2012,Quebec,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848607,6.2.1,5366.8
+2013,Quebec,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848607,6.2.1,5841.4
+2014,Quebec,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848607,6.2.1,5897.9
+2012,Quebec,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848608,6.2.2,5210.8
+2013,Quebec,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848608,6.2.2,5671.6
+2014,Quebec,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848608,6.2.2,5738.3
+2012,Quebec,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848609,6.2.3,1936.8
+2013,Quebec,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848609,6.2.3,1999.9
+2014,Quebec,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848609,6.2.3,2028.5
+2012,Quebec,Full-service restaurants,Operating profit margin (percent),v99848610,6.2.4,2.9
+2013,Quebec,Full-service restaurants,Operating profit margin (percent),v99848610,6.2.4,2.9
+2014,Quebec,Full-service restaurants,Operating profit margin (percent),v99848610,6.2.4,2.7
+2012,Quebec,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848611,6.3.1,3835.4
+2013,Quebec,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848611,6.3.1,3964.6
+2014,Quebec,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848611,6.3.1,4156.2
+2012,Quebec,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848612,6.3.2,3689.5
+2013,Quebec,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848612,6.3.2,3775.8
+2014,Quebec,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848612,6.3.2,3979.2
+2012,Quebec,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848613,6.3.3,1226.1
+2013,Quebec,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848613,6.3.3,1248.0
+2014,Quebec,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848613,6.3.3,1299.5
+2012,Quebec,Limited-service eating places,Operating profit margin (percent),v99848614,6.3.4,3.8
+2013,Quebec,Limited-service eating places,Operating profit margin (percent),v99848614,6.3.4,4.8
+2014,Quebec,Limited-service eating places,Operating profit margin (percent),v99848614,6.3.4,4.3
+2012,Quebec,Special food services,"Operating revenue (x 1,000,000)",v99848615,6.4.1,900.8
+2013,Quebec,Special food services,"Operating revenue (x 1,000,000)",v99848615,6.4.1,954.7
+2014,Quebec,Special food services,"Operating revenue (x 1,000,000)",v99848615,6.4.1,961.8
+2012,Quebec,Special food services,"Operating expenses (x 1,000,000)",v99848616,6.4.2,825.9
+2013,Quebec,Special food services,"Operating expenses (x 1,000,000)",v99848616,6.4.2,843.0
+2014,Quebec,Special food services,"Operating expenses (x 1,000,000)",v99848616,6.4.2,883.3
+2012,Quebec,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848617,6.4.3,283.4
+2013,Quebec,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848617,6.4.3,295.2
+2014,Quebec,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848617,6.4.3,297.3
+2012,Quebec,Special food services,Operating profit margin (percent),v99848618,6.4.4,8.3
+2013,Quebec,Special food services,Operating profit margin (percent),v99848618,6.4.4,11.7
+2014,Quebec,Special food services,Operating profit margin (percent),v99848618,6.4.4,8.2
+2012,Quebec,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848619,6.5.1,819.1
+2013,Quebec,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848619,6.5.1,767.2
+2014,Quebec,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848619,6.5.1,757.1
+2012,Quebec,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848620,6.5.2,760.8
+2013,Quebec,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848620,6.5.2,734.4
+2014,Quebec,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848620,6.5.2,722.0
+2012,Quebec,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848621,6.5.3,212.6
+2013,Quebec,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848621,6.5.3,206.4
+2014,Quebec,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848621,6.5.3,201.1
+2012,Quebec,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848622,6.5.4,7.1
+2013,Quebec,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848622,6.5.4,4.3
+2014,Quebec,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848622,6.5.4,4.6
+2012,Ontario,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848623,7.1.1,20534.2
+2013,Ontario,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848623,7.1.1,21531.7
+2014,Ontario,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848623,7.1.1,22803.1
+2012,Ontario,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848624,7.1.2,19797.1
+2013,Ontario,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848624,7.1.2,20787.5
+2014,Ontario,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848624,7.1.2,22030.7
+2012,Ontario,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848625,7.1.3,6387.7
+2013,Ontario,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848625,7.1.3,6605.0
+2014,Ontario,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848625,7.1.3,6914.1
+2012,Ontario,Food services and drinking places,Operating profit margin (percent),v99848626,7.1.4,3.6
+2013,Ontario,Food services and drinking places,Operating profit margin (percent),v99848626,7.1.4,3.5
+2014,Ontario,Food services and drinking places,Operating profit margin (percent),v99848626,7.1.4,3.4
+2012,Ontario,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848627,7.2.1,8211.4
+2013,Ontario,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848627,7.2.1,8900.6
+2014,Ontario,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848627,7.2.1,9626.2
+2012,Ontario,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848628,7.2.2,8023.9
+2013,Ontario,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848628,7.2.2,8697.3
+2014,Ontario,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848628,7.2.2,9424.8
+2012,Ontario,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848629,7.2.3,2612.6
+2013,Ontario,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848629,7.2.3,2717.6
+2014,Ontario,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848629,7.2.3,2915.1
+2012,Ontario,Full-service restaurants,Operating profit margin (percent),v99848630,7.2.4,2.3
+2013,Ontario,Full-service restaurants,Operating profit margin (percent),v99848630,7.2.4,2.3
+2014,Ontario,Full-service restaurants,Operating profit margin (percent),v99848630,7.2.4,2.1
+2012,Ontario,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848631,7.3.1,9765.4
+2013,Ontario,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848631,7.3.1,10005.6
+2014,Ontario,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848631,7.3.1,10411.7
+2012,Ontario,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848632,7.3.2,9357.6
+2013,Ontario,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848632,7.3.2,9610.7
+2014,Ontario,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848632,7.3.2,10010.8
+2012,Ontario,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848633,7.3.3,2868.4
+2013,Ontario,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848633,7.3.3,2964.7
+2014,Ontario,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848633,7.3.3,3043.0
+2012,Ontario,Limited-service eating places,Operating profit margin (percent),v99848634,7.3.4,4.2
+2013,Ontario,Limited-service eating places,Operating profit margin (percent),v99848634,7.3.4,3.9
+2014,Ontario,Limited-service eating places,Operating profit margin (percent),v99848634,7.3.4,3.9
+2012,Ontario,Special food services,"Operating revenue (x 1,000,000)",v99848635,7.4.1,1994.2
+2013,Ontario,Special food services,"Operating revenue (x 1,000,000)",v99848635,7.4.1,2041.7
+2014,Ontario,Special food services,"Operating revenue (x 1,000,000)",v99848635,7.4.1,2186.5
+2012,Ontario,Special food services,"Operating expenses (x 1,000,000)",v99848636,7.4.2,1870.1
+2013,Ontario,Special food services,"Operating expenses (x 1,000,000)",v99848636,7.4.2,1903.3
+2014,Ontario,Special food services,"Operating expenses (x 1,000,000)",v99848636,7.4.2,2020.1
+2012,Ontario,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848637,7.4.3,752.9
+2013,Ontario,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848637,7.4.3,764.1
+2014,Ontario,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848637,7.4.3,798.8
+2012,Ontario,Special food services,Operating profit margin (percent),v99848638,7.4.4,6.2
+2013,Ontario,Special food services,Operating profit margin (percent),v99848638,7.4.4,6.8
+2014,Ontario,Special food services,Operating profit margin (percent),v99848638,7.4.4,7.6
+2012,Ontario,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848639,7.5.1,563.1
+2013,Ontario,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848639,7.5.1,583.8
+2014,Ontario,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848639,7.5.1,578.8
+2012,Ontario,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848640,7.5.2,545.4
+2013,Ontario,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848640,7.5.2,576.1
+2014,Ontario,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848640,7.5.2,575.1
+2012,Ontario,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848641,7.5.3,153.9
+2013,Ontario,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848641,7.5.3,158.6
+2014,Ontario,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848641,7.5.3,157.2
+2012,Ontario,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848642,7.5.4,3.1
+2013,Ontario,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848642,7.5.4,1.3
+2014,Ontario,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848642,7.5.4,0.6
+2012,Manitoba,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848643,8.1.1,1545.9
+2013,Manitoba,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848643,8.1.1,1609.5
+2014,Manitoba,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848643,8.1.1,1690.8
+2012,Manitoba,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848644,8.1.2,1509.2
+2013,Manitoba,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848644,8.1.2,1560.0
+2014,Manitoba,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848644,8.1.2,1606.2
+2012,Manitoba,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848645,8.1.3,539.0
+2013,Manitoba,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848645,8.1.3,553.3
+2014,Manitoba,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848645,8.1.3,563.6
+2012,Manitoba,Food services and drinking places,Operating profit margin (percent),v99848646,8.1.4,2.4
+2013,Manitoba,Food services and drinking places,Operating profit margin (percent),v99848646,8.1.4,3.1
+2014,Manitoba,Food services and drinking places,Operating profit margin (percent),v99848646,8.1.4,5.0
+2012,Manitoba,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848647,8.2.1,630.2
+2013,Manitoba,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848647,8.2.1,680.0
+2014,Manitoba,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848647,8.2.1,726.4
+2012,Manitoba,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848648,8.2.2,628.9
+2013,Manitoba,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848648,8.2.2,668.0
+2014,Manitoba,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848648,8.2.2,692.7
+2012,Manitoba,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848649,8.2.3,234.7
+2013,Manitoba,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848649,8.2.3,247.1
+2014,Manitoba,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848649,8.2.3,255.5
+2012,Manitoba,Full-service restaurants,Operating profit margin (percent),v99848650,8.2.4,0.2
+2013,Manitoba,Full-service restaurants,Operating profit margin (percent),v99848650,8.2.4,1.8
+2014,Manitoba,Full-service restaurants,Operating profit margin (percent),v99848650,8.2.4,4.7
+2012,Manitoba,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848651,8.3.1,759.2
+2013,Manitoba,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848651,8.3.1,771.5
+2014,Manitoba,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848651,8.3.1,800.8
+2012,Manitoba,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848652,8.3.2,739.6
+2013,Manitoba,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848652,8.3.2,746.0
+2014,Manitoba,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848652,8.3.2,763.4
+2012,Manitoba,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848653,8.3.3,249.0
+2013,Manitoba,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848653,8.3.3,249.8
+2014,Manitoba,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848653,8.3.3,250.4
+2012,Manitoba,Limited-service eating places,Operating profit margin (percent),v99848654,8.3.4,2.6
+2013,Manitoba,Limited-service eating places,Operating profit margin (percent),v99848654,8.3.4,3.3
+2014,Manitoba,Limited-service eating places,Operating profit margin (percent),v99848654,8.3.4,4.7
+2012,Manitoba,Special food services,"Operating revenue (x 1,000,000)",v99848655,8.4.1,111.8
+2013,Manitoba,Special food services,"Operating revenue (x 1,000,000)",v99848655,8.4.1,114.4
+2014,Manitoba,Special food services,"Operating revenue (x 1,000,000)",v99848655,8.4.1,121.4
+2012,Manitoba,Special food services,"Operating expenses (x 1,000,000)",v99848656,8.4.2,99.6
+2013,Manitoba,Special food services,"Operating expenses (x 1,000,000)",v99848656,8.4.2,105.6
+2014,Manitoba,Special food services,"Operating expenses (x 1,000,000)",v99848656,8.4.2,110.1
+2012,Manitoba,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848657,8.4.3,45.6
+2013,Manitoba,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848657,8.4.3,47.0
+2014,Manitoba,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848657,8.4.3,48.5
+2012,Manitoba,Special food services,Operating profit margin (percent),v99848658,8.4.4,10.9
+2013,Manitoba,Special food services,Operating profit margin (percent),v99848658,8.4.4,7.7
+2014,Manitoba,Special food services,Operating profit margin (percent),v99848658,8.4.4,9.3
+2012,Manitoba,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848659,8.5.1,44.6
+2013,Manitoba,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848659,8.5.1,43.6
+2014,Manitoba,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848659,8.5.1,42.3
+2012,Manitoba,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848660,8.5.2,41.1
+2013,Manitoba,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848660,8.5.2,40.4
+2014,Manitoba,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848660,8.5.2,40.1
+2012,Manitoba,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848661,8.5.3,9.7
+2013,Manitoba,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848661,8.5.3,9.5
+2014,Manitoba,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848661,8.5.3,9.3
+2012,Manitoba,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848662,8.5.4,8.0
+2013,Manitoba,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848662,8.5.4,7.4
+2014,Manitoba,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848662,8.5.4,5.2
+2012,Saskatchewan,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848663,9.1.1,1577.6
+2013,Saskatchewan,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848663,9.1.1,1694.3
+2014,Saskatchewan,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848663,9.1.1,1793.6
+2012,Saskatchewan,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848664,9.1.2,1470.7
+2013,Saskatchewan,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848664,9.1.2,1572.1
+2014,Saskatchewan,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848664,9.1.2,1675.6
+2012,Saskatchewan,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848665,9.1.3,501.4
+2013,Saskatchewan,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848665,9.1.3,519.3
+2014,Saskatchewan,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848665,9.1.3,553.2
+2012,Saskatchewan,Food services and drinking places,Operating profit margin (percent),v99848666,9.1.4,6.8
+2013,Saskatchewan,Food services and drinking places,Operating profit margin (percent),v99848666,9.1.4,7.2
+2014,Saskatchewan,Food services and drinking places,Operating profit margin (percent),v99848666,9.1.4,6.6
+2012,Saskatchewan,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848667,9.2.1,708.4
+2013,Saskatchewan,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848667,9.2.1,776.8
+2014,Saskatchewan,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848667,9.2.1,814.1
+2012,Saskatchewan,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848668,9.2.2,657.1
+2013,Saskatchewan,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848668,9.2.2,720.5
+2014,Saskatchewan,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848668,9.2.2,759.4
+2012,Saskatchewan,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848669,9.2.3,237.6
+2013,Saskatchewan,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848669,9.2.3,248.1
+2014,Saskatchewan,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848669,9.2.3,267.6
+2012,Saskatchewan,Full-service restaurants,Operating profit margin (percent),v99848670,9.2.4,7.2
+2013,Saskatchewan,Full-service restaurants,Operating profit margin (percent),v99848670,9.2.4,7.2
+2014,Saskatchewan,Full-service restaurants,Operating profit margin (percent),v99848670,9.2.4,6.7
+2012,Saskatchewan,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848671,9.3.1,636.0
+2013,Saskatchewan,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848671,9.3.1,672.8
+2014,Saskatchewan,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848671,9.3.1,735.9
+2012,Saskatchewan,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848672,9.3.2,593.5
+2013,Saskatchewan,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848672,9.3.2,621.4
+2014,Saskatchewan,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848672,9.3.2,686.2
+2012,Saskatchewan,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848673,9.3.3,192.2
+2013,Saskatchewan,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848673,9.3.3,196.6
+2014,Saskatchewan,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848673,9.3.3,211.2
+2012,Saskatchewan,Limited-service eating places,Operating profit margin (percent),v99848674,9.3.4,6.7
+2013,Saskatchewan,Limited-service eating places,Operating profit margin (percent),v99848674,9.3.4,7.6
+2014,Saskatchewan,Limited-service eating places,Operating profit margin (percent),v99848674,9.3.4,6.8
+2012,Saskatchewan,Special food services,"Operating revenue (x 1,000,000)",v99848675,9.4.1,105.3
+2013,Saskatchewan,Special food services,"Operating revenue (x 1,000,000)",v99848675,9.4.1,110.5
+2014,Saskatchewan,Special food services,"Operating revenue (x 1,000,000)",v99848675,9.4.1,116.7
+2012,Saskatchewan,Special food services,"Operating expenses (x 1,000,000)",v99848676,9.4.2,95.3
+2013,Saskatchewan,Special food services,"Operating expenses (x 1,000,000)",v99848676,9.4.2,101.0
+2014,Saskatchewan,Special food services,"Operating expenses (x 1,000,000)",v99848676,9.4.2,104.9
+2012,Saskatchewan,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848677,9.4.3,41.3
+2013,Saskatchewan,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848677,9.4.3,43.1
+2014,Saskatchewan,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848677,9.4.3,43.7
+2012,Saskatchewan,Special food services,Operating profit margin (percent),v99848678,9.4.4,9.5
+2013,Saskatchewan,Special food services,Operating profit margin (percent),v99848678,9.4.4,8.5
+2014,Saskatchewan,Special food services,Operating profit margin (percent),v99848678,9.4.4,10.1
+2012,Saskatchewan,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848679,9.5.1,127.8
+2013,Saskatchewan,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848679,9.5.1,134.3
+2014,Saskatchewan,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848679,9.5.1,126.8
+2012,Saskatchewan,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848680,9.5.2,124.8
+2013,Saskatchewan,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848680,9.5.2,129.2
+2014,Saskatchewan,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848680,9.5.2,125.2
+2012,Saskatchewan,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848681,9.5.3,30.3
+2013,Saskatchewan,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848681,9.5.3,31.5
+2014,Saskatchewan,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848681,9.5.3,30.7
+2012,Saskatchewan,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848682,9.5.4,2.4
+2013,Saskatchewan,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848682,9.5.4,3.8
+2014,Saskatchewan,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848682,9.5.4,1.3
+2012,Alberta,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848683,10.1.1,8074.3
+2013,Alberta,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848683,10.1.1,8640.9
+2014,Alberta,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848683,10.1.1,9199.5
+2012,Alberta,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848684,10.1.2,7504.5
+2013,Alberta,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848684,10.1.2,8059.3
+2014,Alberta,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848684,10.1.2,8624.1
+2012,Alberta,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848685,10.1.3,2502.6
+2013,Alberta,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848685,10.1.3,2617.9
+2014,Alberta,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848685,10.1.3,2744.9
+2012,Alberta,Food services and drinking places,Operating profit margin (percent),v99848686,10.1.4,7.1
+2013,Alberta,Food services and drinking places,Operating profit margin (percent),v99848686,10.1.4,6.7
+2014,Alberta,Food services and drinking places,Operating profit margin (percent),v99848686,10.1.4,6.3
+2012,Alberta,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848687,10.2.1,3516.4
+2013,Alberta,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848687,10.2.1,3830.3
+2014,Alberta,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848687,10.2.1,4028.3
+2012,Alberta,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848688,10.2.2,3308.8
+2013,Alberta,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848688,10.2.2,3604.1
+2014,Alberta,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848688,10.2.2,3829.1
+2012,Alberta,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848689,10.2.3,1126.2
+2013,Alberta,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848689,10.2.3,1185.7
+2014,Alberta,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848689,10.2.3,1220.7
+2012,Alberta,Full-service restaurants,Operating profit margin (percent),v99848690,10.2.4,5.9
+2013,Alberta,Full-service restaurants,Operating profit margin (percent),v99848690,10.2.4,5.9
+2014,Alberta,Full-service restaurants,Operating profit margin (percent),v99848690,10.2.4,4.9
+2012,Alberta,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848691,10.3.1,3176.7
+2013,Alberta,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848691,10.3.1,3444.5
+2014,Alberta,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848691,10.3.1,3746.1
+2012,Alberta,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848692,10.3.2,2898.8
+2013,Alberta,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848692,10.3.2,3152.2
+2014,Alberta,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848692,10.3.2,3461.7
+2012,Alberta,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848693,10.3.3,891.3
+2013,Alberta,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848693,10.3.3,963.7
+2014,Alberta,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848693,10.3.3,1043.2
+2012,Alberta,Limited-service eating places,Operating profit margin (percent),v99848694,10.3.4,8.7
+2013,Alberta,Limited-service eating places,Operating profit margin (percent),v99848694,10.3.4,8.5
+2014,Alberta,Limited-service eating places,Operating profit margin (percent),v99848694,10.3.4,7.6
+2012,Alberta,Special food services,"Operating revenue (x 1,000,000)",v99848695,10.4.1,962.6
+2013,Alberta,Special food services,"Operating revenue (x 1,000,000)",v99848695,10.4.1,933.5
+2014,Alberta,Special food services,"Operating revenue (x 1,000,000)",v99848695,10.4.1,987.5
+2012,Alberta,Special food services,"Operating expenses (x 1,000,000)",v99848696,10.4.2,882.7
+2013,Alberta,Special food services,"Operating expenses (x 1,000,000)",v99848696,10.4.2,880.7
+2014,Alberta,Special food services,"Operating expenses (x 1,000,000)",v99848696,10.4.2,910.6
+2012,Alberta,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848697,10.4.3,379.5
+2013,Alberta,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848697,10.4.3,360.5
+2014,Alberta,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848697,10.4.3,371.5
+2012,Alberta,Special food services,Operating profit margin (percent),v99848698,10.4.4,8.3
+2013,Alberta,Special food services,Operating profit margin (percent),v99848698,10.4.4,5.7
+2014,Alberta,Special food services,Operating profit margin (percent),v99848698,10.4.4,7.8
+2012,Alberta,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848699,10.5.1,418.6
+2013,Alberta,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848699,10.5.1,432.5
+2014,Alberta,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848699,10.5.1,437.6
+2012,Alberta,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848700,10.5.2,414.3
+2013,Alberta,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848700,10.5.2,422.3
+2014,Alberta,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848700,10.5.2,422.8
+2012,Alberta,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848701,10.5.3,105.6
+2013,Alberta,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848701,10.5.3,108.0
+2014,Alberta,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848701,10.5.3,109.4
+2012,Alberta,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848702,10.5.4,1.0
+2013,Alberta,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848702,10.5.4,2.4
+2014,Alberta,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848702,10.5.4,3.4
+2012,British Columbia,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848703,11.1.1,8577.2
+2013,British Columbia,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848703,11.1.1,9105.2
+2014,British Columbia,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848703,11.1.1,9791.1
+2012,British Columbia,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848704,11.1.2,8329.5
+2013,British Columbia,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848704,11.1.2,8809.9
+2014,British Columbia,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848704,11.1.2,9417.1
+2012,British Columbia,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848705,11.1.3,2866.1
+2013,British Columbia,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848705,11.1.3,2962.5
+2014,British Columbia,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848705,11.1.3,3162.3
+2012,British Columbia,Food services and drinking places,Operating profit margin (percent),v99848706,11.1.4,2.9
+2013,British Columbia,Food services and drinking places,Operating profit margin (percent),v99848706,11.1.4,3.2
+2014,British Columbia,Food services and drinking places,Operating profit margin (percent),v99848706,11.1.4,3.8
+2012,British Columbia,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848707,11.2.1,3828.8
+2013,British Columbia,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848707,11.2.1,4194.1
+2014,British Columbia,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848707,11.2.1,4558.4
+2012,British Columbia,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848708,11.2.2,3814.0
+2013,British Columbia,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848708,11.2.2,4177.8
+2014,British Columbia,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848708,11.2.2,4495.3
+2012,British Columbia,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848709,11.2.3,1407.4
+2013,British Columbia,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848709,11.2.3,1483.6
+2014,British Columbia,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848709,11.2.3,1574.7
+2012,British Columbia,Full-service restaurants,Operating profit margin (percent),v99848710,11.2.4,0.4
+2013,British Columbia,Full-service restaurants,Operating profit margin (percent),v99848710,11.2.4,0.4
+2014,British Columbia,Full-service restaurants,Operating profit margin (percent),v99848710,11.2.4,1.4
+2012,British Columbia,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848711,11.3.1,3291.1
+2013,British Columbia,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848711,11.3.1,3504.5
+2014,British Columbia,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848711,11.3.1,3759.0
+2012,British Columbia,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848712,11.3.2,3105.1
+2013,British Columbia,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848712,11.3.2,3278.3
+2014,British Columbia,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848712,11.3.2,3518.3
+2012,British Columbia,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848713,11.3.3,973.7
+2013,British Columbia,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848713,11.3.3,1003.7
+2014,British Columbia,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848713,11.3.3,1100.2
+2012,British Columbia,Limited-service eating places,Operating profit margin (percent),v99848714,11.3.4,5.7
+2013,British Columbia,Limited-service eating places,Operating profit margin (percent),v99848714,11.3.4,6.5
+2014,British Columbia,Limited-service eating places,Operating profit margin (percent),v99848714,11.3.4,6.4
+2012,British Columbia,Special food services,"Operating revenue (x 1,000,000)",v99848715,11.4.1,732.9
+2013,British Columbia,Special food services,"Operating revenue (x 1,000,000)",v99848715,11.4.1,745.9
+2014,British Columbia,Special food services,"Operating revenue (x 1,000,000)",v99848715,11.4.1,796.4
+2012,British Columbia,Special food services,"Operating expenses (x 1,000,000)",v99848716,11.4.2,704.1
+2013,British Columbia,Special food services,"Operating expenses (x 1,000,000)",v99848716,11.4.2,717.7
+2014,British Columbia,Special food services,"Operating expenses (x 1,000,000)",v99848716,11.4.2,751.0
+2012,British Columbia,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848717,11.4.3,326.3
+2013,British Columbia,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848717,11.4.3,334.6
+2014,British Columbia,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848717,11.4.3,342.5
+2012,British Columbia,Special food services,Operating profit margin (percent),v99848718,11.4.4,3.9
+2013,British Columbia,Special food services,Operating profit margin (percent),v99848718,11.4.4,3.8
+2014,British Columbia,Special food services,Operating profit margin (percent),v99848718,11.4.4,5.7
+2012,British Columbia,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848719,11.5.1,724.3
+2013,British Columbia,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848719,11.5.1,660.7
+2014,British Columbia,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848719,11.5.1,677.4
+2012,British Columbia,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848720,11.5.2,706.3
+2013,British Columbia,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848720,11.5.2,636.1
+2014,British Columbia,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848720,11.5.2,652.5
+2012,British Columbia,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848721,11.5.3,158.8
+2013,British Columbia,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848721,11.5.3,140.6
+2014,British Columbia,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848721,11.5.3,144.9
+2012,British Columbia,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848722,11.5.4,2.5
+2013,British Columbia,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848722,11.5.4,3.7
+2014,British Columbia,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848722,11.5.4,3.7
+2012,Yukon,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848723,12.1.1,60.4
+2013,Yukon,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848723,12.1.1,59.4
+2014,Yukon,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848723,12.1.1,58.9
+2012,Yukon,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848724,12.1.2,56.3
+2013,Yukon,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848724,12.1.2,55.3
+2014,Yukon,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848724,12.1.2,55.5
+2012,Yukon,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848725,12.1.3,19.1
+2013,Yukon,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848725,12.1.3,18.6
+2014,Yukon,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848725,12.1.3,18.5
+2012,Yukon,Food services and drinking places,Operating profit margin (percent),v99848726,12.1.4,6.8
+2013,Yukon,Food services and drinking places,Operating profit margin (percent),v99848726,12.1.4,6.9
+2014,Yukon,Food services and drinking places,Operating profit margin (percent),v99848726,12.1.4,5.7
+2012,Yukon,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848727,12.2.1,25.6
+2013,Yukon,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848727,12.2.1,25.1
+2014,Yukon,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848727,12.2.1,23.6
+2012,Yukon,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848728,12.2.2,23.3
+2013,Yukon,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848728,12.2.2,22.8
+2014,Yukon,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848728,12.2.2,22.1
+2012,Yukon,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848729,12.2.3,x
+2013,Yukon,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848729,12.2.3,x
+2014,Yukon,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848729,12.2.3,7.3
+2012,Yukon,Full-service restaurants,Operating profit margin (percent),v99848730,12.2.4,8.8
+2013,Yukon,Full-service restaurants,Operating profit margin (percent),v99848730,12.2.4,9.0
+2014,Yukon,Full-service restaurants,Operating profit margin (percent),v99848730,12.2.4,6.5
+2012,Yukon,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848731,12.3.1,x
+2013,Yukon,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848731,12.3.1,x
+2014,Yukon,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848731,12.3.1,26.7
+2012,Yukon,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848732,12.3.2,x
+2013,Yukon,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848732,12.3.2,x
+2014,Yukon,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848732,12.3.2,25.3
+2012,Yukon,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848733,12.3.3,x
+2013,Yukon,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848733,12.3.3,x
+2014,Yukon,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848733,12.3.3,8.8
+2012,Yukon,Limited-service eating places,Operating profit margin (percent),v99848734,12.3.4,x
+2013,Yukon,Limited-service eating places,Operating profit margin (percent),v99848734,12.3.4,x
+2014,Yukon,Limited-service eating places,Operating profit margin (percent),v99848734,12.3.4,5.2
+2012,Yukon,Special food services,"Operating revenue (x 1,000,000)",v99848735,12.4.1,4.1
+2013,Yukon,Special food services,"Operating revenue (x 1,000,000)",v99848735,12.4.1,4.1
+2014,Yukon,Special food services,"Operating revenue (x 1,000,000)",v99848735,12.4.1,4.2
+2012,Yukon,Special food services,"Operating expenses (x 1,000,000)",v99848736,12.4.2,x
+2013,Yukon,Special food services,"Operating expenses (x 1,000,000)",v99848736,12.4.2,x
+2014,Yukon,Special food services,"Operating expenses (x 1,000,000)",v99848736,12.4.2,4.0
+2012,Yukon,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848737,12.4.3,1.8
+2013,Yukon,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848737,12.4.3,1.8
+2014,Yukon,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848737,12.4.3,1.9
+2012,Yukon,Special food services,Operating profit margin (percent),v99848738,12.4.4,x
+2013,Yukon,Special food services,Operating profit margin (percent),v99848738,12.4.4,x
+2014,Yukon,Special food services,Operating profit margin (percent),v99848738,12.4.4,5.6
+2012,Yukon,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848739,12.5.1,x
+2013,Yukon,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848739,12.5.1,x
+2014,Yukon,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848739,12.5.1,4.4
+2012,Yukon,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848740,12.5.2,x
+2013,Yukon,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848740,12.5.2,x
+2014,Yukon,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848740,12.5.2,4.1
+2012,Yukon,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848741,12.5.3,x
+2013,Yukon,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848741,12.5.3,x
+2014,Yukon,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848741,12.5.3,0.5
+2012,Yukon,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848742,12.5.4,x
+2013,Yukon,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848742,12.5.4,x
+2014,Yukon,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848742,12.5.4,4.9
+2012,Northwest Territories,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848743,13.1.1,91.0
+2013,Northwest Territories,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848743,13.1.1,92.4
+2014,Northwest Territories,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848743,13.1.1,90.9
+2012,Northwest Territories,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848744,13.1.2,83.6
+2013,Northwest Territories,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848744,13.1.2,84.6
+2014,Northwest Territories,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848744,13.1.2,83.5
+2012,Northwest Territories,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848745,13.1.3,28.6
+2013,Northwest Territories,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848745,13.1.3,29.3
+2014,Northwest Territories,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848745,13.1.3,28.3
+2012,Northwest Territories,Food services and drinking places,Operating profit margin (percent),v99848746,13.1.4,8.1
+2013,Northwest Territories,Food services and drinking places,Operating profit margin (percent),v99848746,13.1.4,8.5
+2014,Northwest Territories,Food services and drinking places,Operating profit margin (percent),v99848746,13.1.4,8.2
+2012,Northwest Territories,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848747,13.2.1,28.8
+2013,Northwest Territories,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848747,13.2.1,28.9
+2014,Northwest Territories,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848747,13.2.1,29.8
+2012,Northwest Territories,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848748,13.2.2,27.8
+2013,Northwest Territories,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848748,13.2.2,28.1
+2014,Northwest Territories,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848748,13.2.2,28.3
+2012,Northwest Territories,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848749,13.2.3,8.6
+2013,Northwest Territories,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848749,13.2.3,8.7
+2014,Northwest Territories,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848749,13.2.3,8.8
+2012,Northwest Territories,Full-service restaurants,Operating profit margin (percent),v99848750,13.2.4,3.5
+2013,Northwest Territories,Full-service restaurants,Operating profit margin (percent),v99848750,13.2.4,2.5
+2014,Northwest Territories,Full-service restaurants,Operating profit margin (percent),v99848750,13.2.4,5.1
+2012,Northwest Territories,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848751,13.3.1,22.2
+2013,Northwest Territories,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848751,13.3.1,22.4
+2014,Northwest Territories,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848751,13.3.1,21.2
+2012,Northwest Territories,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848752,13.3.2,20.5
+2013,Northwest Territories,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848752,13.3.2,20.6
+2014,Northwest Territories,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848752,13.3.2,20.0
+2012,Northwest Territories,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848753,13.3.3,6.2
+2013,Northwest Territories,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848753,13.3.3,6.4
+2014,Northwest Territories,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848753,13.3.3,6.1
+2012,Northwest Territories,Limited-service eating places,Operating profit margin (percent),v99848754,13.3.4,7.7
+2013,Northwest Territories,Limited-service eating places,Operating profit margin (percent),v99848754,13.3.4,8.0
+2014,Northwest Territories,Limited-service eating places,Operating profit margin (percent),v99848754,13.3.4,5.9
+2012,Northwest Territories,Special food services,"Operating revenue (x 1,000,000)",v99848755,13.4.1,29.5
+2013,Northwest Territories,Special food services,"Operating revenue (x 1,000,000)",v99848755,13.4.1,30.1
+2014,Northwest Territories,Special food services,"Operating revenue (x 1,000,000)",v99848755,13.4.1,29.1
+2012,Northwest Territories,Special food services,"Operating expenses (x 1,000,000)",v99848756,13.4.2,25.2
+2013,Northwest Territories,Special food services,"Operating expenses (x 1,000,000)",v99848756,13.4.2,25.6
+2014,Northwest Territories,Special food services,"Operating expenses (x 1,000,000)",v99848756,13.4.2,25.3
+2012,Northwest Territories,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848757,13.4.3,10.6
+2013,Northwest Territories,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848757,13.4.3,10.8
+2014,Northwest Territories,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848757,13.4.3,10.2
+2012,Northwest Territories,Special food services,Operating profit margin (percent),v99848758,13.4.4,14.6
+2013,Northwest Territories,Special food services,Operating profit margin (percent),v99848758,13.4.4,15.2
+2014,Northwest Territories,Special food services,Operating profit margin (percent),v99848758,13.4.4,13.3
+2012,Northwest Territories,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848759,13.5.1,10.5
+2013,Northwest Territories,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848759,13.5.1,11.1
+2014,Northwest Territories,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848759,13.5.1,10.8
+2012,Northwest Territories,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848760,13.5.2,10.1
+2013,Northwest Territories,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848760,13.5.2,10.3
+2014,Northwest Territories,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848760,13.5.2,10.0
+2012,Northwest Territories,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848761,13.5.3,3.1
+2013,Northwest Territories,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848761,13.5.3,3.4
+2014,Northwest Territories,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848761,13.5.3,3.2
+2012,Northwest Territories,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848762,13.5.4,3.5
+2013,Northwest Territories,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848762,13.5.4,6.8
+2014,Northwest Territories,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848762,13.5.4,7.4
+2012,Nunavut,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848763,14.1.1,14.6
+2013,Nunavut,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848763,14.1.1,14.5
+2014,Nunavut,Food services and drinking places,"Operating revenue (x 1,000,000)",v99848763,14.1.1,13.6
+2012,Nunavut,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848764,14.1.2,13.9
+2013,Nunavut,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848764,14.1.2,13.6
+2014,Nunavut,Food services and drinking places,"Operating expenses (x 1,000,000)",v99848764,14.1.2,12.7
+2012,Nunavut,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848765,14.1.3,5.5
+2013,Nunavut,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848765,14.1.3,5.5
+2014,Nunavut,Food services and drinking places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848765,14.1.3,4.9
+2012,Nunavut,Food services and drinking places,Operating profit margin (percent),v99848766,14.1.4,5.1
+2013,Nunavut,Food services and drinking places,Operating profit margin (percent),v99848766,14.1.4,6.1
+2014,Nunavut,Food services and drinking places,Operating profit margin (percent),v99848766,14.1.4,6.8
+2012,Nunavut,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848767,14.2.1,9.6
+2013,Nunavut,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848767,14.2.1,9.6
+2014,Nunavut,Full-service restaurants,"Operating revenue (x 1,000,000)",v99848767,14.2.1,8.5
+2012,Nunavut,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848768,14.2.2,8.9
+2013,Nunavut,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848768,14.2.2,8.8
+2014,Nunavut,Full-service restaurants,"Operating expenses (x 1,000,000)",v99848768,14.2.2,7.7
+2012,Nunavut,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848769,14.2.3,x
+2013,Nunavut,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848769,14.2.3,x
+2014,Nunavut,Full-service restaurants,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848769,14.2.3,2.8
+2012,Nunavut,Full-service restaurants,Operating profit margin (percent),v99848770,14.2.4,6.8
+2013,Nunavut,Full-service restaurants,Operating profit margin (percent),v99848770,14.2.4,8.7
+2014,Nunavut,Full-service restaurants,Operating profit margin (percent),v99848770,14.2.4,8.8
+2012,Nunavut,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848771,14.3.1,x
+2013,Nunavut,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848771,14.3.1,x
+2014,Nunavut,Limited-service eating places,"Operating revenue (x 1,000,000)",v99848771,14.3.1,0.6
+2012,Nunavut,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848772,14.3.2,x
+2013,Nunavut,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848772,14.3.2,x
+2014,Nunavut,Limited-service eating places,"Operating expenses (x 1,000,000)",v99848772,14.3.2,0.5
+2012,Nunavut,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848773,14.3.3,x
+2013,Nunavut,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848773,14.3.3,x
+2014,Nunavut,Limited-service eating places,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848773,14.3.3,0.1
+2012,Nunavut,Limited-service eating places,Operating profit margin (percent),v99848774,14.3.4,x
+2013,Nunavut,Limited-service eating places,Operating profit margin (percent),v99848774,14.3.4,x
+2014,Nunavut,Limited-service eating places,Operating profit margin (percent),v99848774,14.3.4,16.7
+2012,Nunavut,Special food services,"Operating revenue (x 1,000,000)",v99848775,14.4.1,x
+2013,Nunavut,Special food services,"Operating revenue (x 1,000,000)",v99848775,14.4.1,x
+2014,Nunavut,Special food services,"Operating revenue (x 1,000,000)",v99848775,14.4.1,4.5
+2012,Nunavut,Special food services,"Operating expenses (x 1,000,000)",v99848776,14.4.2,x
+2013,Nunavut,Special food services,"Operating expenses (x 1,000,000)",v99848776,14.4.2,x
+2014,Nunavut,Special food services,"Operating expenses (x 1,000,000)",v99848776,14.4.2,4.4
+2012,Nunavut,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848777,14.4.3,x
+2013,Nunavut,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848777,14.4.3,x
+2014,Nunavut,Special food services,"Salaries, wages, commissions and benefits (x 1,000,000)",v99848777,14.4.3,2.0
+2012,Nunavut,Special food services,Operating profit margin (percent),v99848778,14.4.4,x
+2013,Nunavut,Special food services,Operating profit margin (percent),v99848778,14.4.4,x
+2014,Nunavut,Special food services,Operating profit margin (percent),v99848778,14.4.4,1.8
+2012,Nunavut,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848779,14.5.1,..
+2013,Nunavut,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848779,14.5.1,..
+2014,Nunavut,Drinking places (alcoholic beverages),"Operating revenue (x 1,000,000)",v99848779,14.5.1,..
+2012,Nunavut,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848780,14.5.2,..
+2013,Nunavut,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848780,14.5.2,..
+2014,Nunavut,Drinking places (alcoholic beverages),"Operating expenses (x 1,000,000)",v99848780,14.5.2,..
+2012,Nunavut,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848781,14.5.3,..
+2013,Nunavut,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848781,14.5.3,..
+2014,Nunavut,Drinking places (alcoholic beverages),"Salaries, wages, commissions and benefits (x 1,000,000)",v99848781,14.5.3,..
+2012,Nunavut,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848782,14.5.4,..
+2013,Nunavut,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848782,14.5.4,..
+2014,Nunavut,Drinking places (alcoholic beverages),Operating profit margin (percent),v99848782,14.5.4,..
