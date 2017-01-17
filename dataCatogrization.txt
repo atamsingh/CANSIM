@@ -1,0 +1,15 @@
+Data categorization
+
+- Table category
+    - time
+        - Yearly
+        - semi-annually
+        - monthly
+        - weekly
+        - daily
+    - Area
+        - International
+        - National
+        - Provincial
+        - Metropolitan cities
+        - divisions

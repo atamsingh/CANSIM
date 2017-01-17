@@ -12,6 +12,8 @@
     "sync" : "x",
     "async" : "x",
     "unzip" : "x",
-    "hashtable" : "x"
+    "hashtable" : "x",
+    "csvtojson" : "x",
+    "hashmap":"X"
   }
 }
